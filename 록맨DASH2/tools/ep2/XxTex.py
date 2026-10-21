@@ -2,57 +2,93 @@ import ImageHill
 from PIL import Image
 import numpy as np
 
-def nearest(clut, rgb):
-    # 거리가 같은 색이 여럿이면 앞 번호를 고른다 (scipy KDTree 는 버전마다 달라짐)
-    best = min(range(len(clut)), key=lambda i: (sum((int(a) - int(b)) ** 2 for a, b in zip(rgb, clut[i][:3])), i))
-    return best
-
 def getColorCount(pxl_mode):
     return {4: 16, 8: 256}.get(pxl_mode, 0)
 
-def closest(pixel, clut, color_dict, threshold=128):
+def nearest(clut, rgb, use_near_black=False):
+    if use_near_black and rgb == (0, 0, 0):
+        candidates = [
+            i for i, c in enumerate(clut)
+            if c[:3] != (0, 0, 0)
+        ]
+
+        if candidates:
+            return min(
+                candidates,
+                key=lambda i: (
+                    sum(
+                        (int(a) - int(b)) ** 2
+                        for a, b in zip(rgb, clut[i][:3])
+                    ),
+                    i
+                )
+            )
+
+    return min(
+        range(len(clut)),
+        key=lambda i: (
+            sum(
+                (int(a) - int(b)) ** 2
+                for a, b in zip(rgb, clut[i][:3])
+            ),
+            i
+        )
+    )
+
+
+def closest(pixel, clut, color_dict, threshold=128,
+            use_near_black=False):
     if pixel in color_dict:
         return color_dict[pixel]
 
     if pixel[3] == 0:
-        ALPHA_INDEX = next((i for i, c in enumerate(clut) if c[3] == 0), 0)
-        color_dict[pixel] = ALPHA_INDEX
-        return ALPHA_INDEX
+        alpha_index = next(
+            (i for i, c in enumerate(clut) if c[3] == 0), 0
+        )
+        color_dict[pixel] = alpha_index
+        return alpha_index
 
-    if pixel in clut:
+    if pixel in clut and not (
+        use_near_black and pixel[:3] == (0, 0, 0)
+    ):
         index = clut.index(pixel)
         color_dict[pixel] = index
         return index
 
     if 0 < pixel[3] < 255:
         if pixel[3] < threshold:
-            ALPHA_INDEX = next((i for i, c in enumerate(clut) if c[3] == 0), 0)
-            color_dict[pixel] = ALPHA_INDEX
-            return ALPHA_INDEX
-        else:
-            r, g, b, _ = pixel
-            index = nearest(clut, (r, g, b))
-            color_dict[pixel] = index
-            return index
+            alpha_index = next(
+                (i for i, c in enumerate(clut) if c[3] == 0), 0
+            )
+            color_dict[pixel] = alpha_index
+            return alpha_index
 
-    index = nearest(clut, pixel[:3])
-
+    index = nearest(clut, pixel[:3], use_near_black)
     color_dict[pixel] = index
     return index
 
-def convertBITMAP(png_path, offset, pxl_mode, clut_definition, output_path):
+
+def convertBITMAP(
+    png_path, offset, pxl_mode, clut_definition, output_path,
+    use_near_black=False
+):
     image = Image.open(png_path)
     if image.mode != "RGBA":
         image = image.convert("RGBA")
-        
+
     png_width, png_height = image.size
 
     if clut_definition["CLUT_MODE"] != -1:
         with open(clut_definition["CLUT_FILE"], "rb") as clut_file:
             n_clut_entries = getColorCount(pxl_mode)
-            clut = ImageHill.readCLUT(clut_file, clut_definition["CLUT_OFFSET"], n_clut_entries, clut_definition["CLUT_MODE"])
+            clut = ImageHill.readCLUT(
+                clut_file,
+                clut_definition["CLUT_OFFSET"],
+                n_clut_entries,
+                clut_definition["CLUT_MODE"]
+            )
 
-    color_dict = {}  # 색상 매핑 캐시
+    color_dict = {}
     bitmap_data = bytearray()
 
     if pxl_mode == 4:
@@ -60,17 +96,25 @@ def convertBITMAP(png_path, offset, pxl_mode, clut_definition, output_path):
             for x in range(png_width // 2):
                 x1, y1 = x * 2, y
                 x2, y2 = x * 2 + 1, y
-                
-                val1 = closest(image.getpixel((x1, y1)), clut, color_dict)
-                val2 = closest(image.getpixel((x2, y2)), clut, color_dict)
 
-                new_byte = val1 | (val2 << 4)
-                bitmap_data.append(new_byte)
+                val1 = closest(
+                    image.getpixel((x1, y1)), clut, color_dict,
+                    use_near_black=use_near_black
+                )
+                val2 = closest(
+                    image.getpixel((x2, y2)), clut, color_dict,
+                    use_near_black=use_near_black
+                )
+
+                bitmap_data.append(val1 | (val2 << 4))
 
     elif pxl_mode == 8:
         for y in range(png_height):
             for x in range(png_width):
-                val = closest(image.getpixel((x, y)), clut, color_dict)
+                val = closest(
+                    image.getpixel((x, y)), clut, color_dict,
+                    use_near_black=use_near_black
+                )
                 bitmap_data.append(val)
 
     with open(output_path, "rb+") as bitmap_file:
@@ -210,10 +254,10 @@ convertBITMAP("BMP/0003_SUBSCN.PNG", 0, 4, STATUS_C, "ORG/0003_SUBSCN.PIX")
 convertBITMAP("BMP/0008_SUBSCN.PNG", 0, 4, STATUS_C, "ORG/0008_SUBSCN.PIX")
 with open("ORG/TITLE01_LOGO.CLT", "rb") as clut_file, open("ORG/0001_TITLE.PIX", "rb+") as pix_file:
     pix_file.write(clut_file.read())
-convertBITMAP("BMP/0001_TITLE.PNG", 0x200, 8, TITLE_C, "ORG/0001_TITLE.PIX")
-convertBITMAP("BMP/0002_TITLE.PNG", 0, 8, TITLE_C, "ORG/0002_TITLE.PIX")
-convertBITMAP("BMP/0003_TITLE.PNG", 0, 8, TITLE_C, "ORG/0003_TITLE.PIX")
-convertBITMAP("BMP/0004_TITLE.PNG", 0, 8, TITLE_C, "ORG/0004_TITLE.PIX")
+convertBITMAP("BMP/0001_TITLE.PNG", 0x200, 8, TITLE_C, "ORG/0001_TITLE.PIX", use_near_black=True)
+convertBITMAP("BMP/0002_TITLE.PNG", 0, 8, TITLE_C, "ORG/0002_TITLE.PIX", use_near_black=True)
+convertBITMAP("BMP/0003_TITLE.PNG", 0, 8, TITLE_C, "ORG/0003_TITLE.PIX", use_near_black=True)
+convertBITMAP("BMP/0004_TITLE.PNG", 0, 8, TITLE_C, "ORG/0004_TITLE.PIX", use_near_black=True)
 convertBITMAP("BMP/0005_TITLE.PNG", 0x60, 4, TITLE5_C, "ORG/0005_TITLE.PIX")
 convertBITMAP("BMP/0006_TITLE.PNG", 0x40, 4, TITLE6_C, "ORG/0006_TITLE.PIX")
 convertBITMAP("BMP/0007_TITLE.PNG", 0xC0, 4, TITLE7_C, "ORG/0007_TITLE.PIX")
