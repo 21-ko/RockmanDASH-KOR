@@ -1,0 +1,945 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<FB07 0401>
+<FB12 0401>
+<FB16 110B0BFF>
+<FB16 0E0A0AFF>
+<FB16 0B0909FF>
+<FB16 080808FF>
+<FB16 050707FF>
+<FB16 02060605>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>
+<VWAIT 00>
+<POS 007600230811>
+<FB05 0108>
+뭐가 궁금해？
+<FB07 0100>
+<END>
+
+[BLOCK: 0002]
+
+
+[BLOCK: 0003]
+
+
+[BLOCK: 0004]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0000>
+<VWAIT 00>
+<POS 006400970B04>
+<FB05 0108>
+<SEL 00>
+이제 어떡할까<LINE>
+
+<SEL 01>
+세이브에 관하여<LINE>
+
+<SEL 02>
+장비에 관하여<LINE>
+
+<SEL 03>
+그만둔다
+<FB39 040000000100020003>
+<FB11 05FFFFFF0202>
+<FB13 02051E0F12FFFF>
+<FB0C>
+<FB07 0200>
+<FB0C>
+<FB0E 00>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0000>
+<VWAIT 00>
+<POS 005800970D04>
+<FB05 0108>
+<SEL 00>
+이제 어떡할까<LINE>
+
+<SEL 01>
+록 버스터에 관하여<LINE>
+
+<SEL 02>
+테크닉에 관하여<LINE>
+
+<SEL 03>
+그만둔다
+<FB39 040000000100020003>
+<FB11 05FFFFFF0202>
+<FB13 02051E1017FFFF>
+<FB0C>
+<FB07 0200>
+<FB0C>
+<FB0E 00>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0000>
+<VWAIT 00>
+<POS 005800970D04>
+<FB05 0108>
+<SEL 00>
+이제 어떡할까<LINE>
+
+<SEL 01>
+들어올리기에 관하여<LINE>
+
+<SEL 02>
+마을 사람들에 관하여<LINE>
+
+<SEL 03>
+그만둔다
+<FB39 040000000100020003>
+<FB11 05FFFFFF0202>
+<FB13 02051E1416FFFF>
+<FB0C>
+<FB07 0200>
+<FB0C>
+<FB0E 00>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0000>
+<VWAIT 00>
+<POS 005200970E04>
+<FB05 0108>
+<SEL 00>
+이제 어떡할까<LINE>
+
+<SEL 01>
+일기에 관하여<LINE>
+
+<SEL 02>
+오토 내비게이션에 관하여<LINE>
+
+<SEL 03>
+그만둔다
+<FB39 040000000100020003>
+<FB11 05FFFFFF0202>
+<FB13 02051E181BFFFF>
+<FB0C>
+<FB07 0200>
+<FB0C>
+<FB0E 00>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0000>
+<VWAIT 00>
+<POS 005E00970C04>
+<FB05 0108>
+<SEL 00>
+이제 어떡할까<LINE>
+
+<SEL 01>
+개발 메모에 관하여<LINE>
+
+<SEL 02>
+특수 대미지에 관하여<LINE>
+
+<SEL 03>
+그만둔다
+<FB39 040000000100020003>
+<FB11 05FFFFFF0202>
+<FB13 02051E191CFFFF>
+<FB0C>
+<FB07 0200>
+<FB0C>
+<FB0E 00>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0000>
+<VWAIT 00>
+<POS 006400970B04>
+<FB05 0108>
+<SEL 00>
+이제 어떡할까<LINE>
+
+<SEL 01>
+록온에 관하여<LINE>
+
+<SEL 02>
+제어 패널에 관하여<LINE>
+
+<SEL 03>
+그만둔다
+<FB39 040000000100020003>
+<FB11 05FFFFFF0202>
+<FB13 02051E131AFFFF>
+<FB0C>
+<FB07 0200>
+<FB0C>
+<FB0E 00>
+<END>
+
+[BLOCK: 000B]
+
+
+[BLOCK: 000C]
+
+
+[BLOCK: 000D]
+
+
+[BLOCK: 000E]
+<FUNC 0000>
+<VWAIT 00>
+<POS 005800970D04>
+<FB05 0108>
+<SEL 00>
+이제 어떡할까<LINE>
+
+<SEL 01>
+적을 못 쓰러뜨리겠는걸<LINE>
+
+<SEL 02>
+롤 쨩에 관하여<LINE>
+
+<SEL 03>
+그만둔다
+<FB39 040000000100020003>
+<FB11 05FFFFFF0202>
+<FB13 02051E1115FFFF>
+<FB0C>
+<FB07 0200>
+<FB0C>
+<FB0E 00>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0300>
+<POS 004000901123>
+<FB05 0108>
+세이브하고 싶을 때는<LINE>
+나를 찾아 말을 걸면 돼～.
+<PAGEKEY>
+<NEXTPAGE 020400>
+하지만,<LINE>
+『메모리 스틱 듀오』<LINE>
+가 필요해.
+<PAGEKEY>
+<NEXTPAGE 020600>
+하나의 데이터를 세이브하려면<LINE>
+３６０ＫＢ 이상의 빈 용량이<LINE>
+필요하지만 말이야～.
+<PAGEKEY>
+<NEXTPAGE 020400>
+게임 오버가 되면<LINE>
+세이브한 곳부터<LINE>
+다시 해야 하니까 잘 기억해 둬～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0100>
+<POS 004600881034>
+<FB05 0108>
+록의 왼팔에 장착된 록 버스터는<LINE>
+버스터 파츠를 끼우면<LINE>
+파워 업 할 수 있어～.
+<PAGEKEY>
+<NEXTPAGE 020E00>
+버스터 파츠는 ２개까지<LINE>
+끼울 수 있지만, 롤 쨩이<LINE>
+아이템을 개발해 준다면<LINE>
+３개까지도 끼울 수 있어～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0200>
+<POS 003A00881224>
+<FB05 0108>
+못 말리겠네～ 록도～.<LINE>
+그럴 때는<LINE>
+일단 제니를 모으면 어떨까～？
+<PAGEKEY>
+<NEXTPAGE 020600>
+제니만 있으면<LINE>
+고물상에서 아이템도 살 수 있고～.<LINE>
+롤 쨩에게 특수무기 강화도<LINE>
+부탁할 수 있거든～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0700>
+<POS 003A00901233>
+<FB05 0108>
+역시 고물상에서 파는<LINE>
+물건만으로는～<LINE>
+한계가 있기는 해～.
+<PAGEKEY>
+<NEXTPAGE 020700>
+거기는 특수무기도 안 파니까～.<LINE>
+여러 가지 재료를 모아서 롤 쨩에게<LINE>
+특수무기를 만들어 달라고 하자～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0700>
+<POS 001000901933>
+<FB05 0108>
+적의 공격도 거세졌네.<LINE>
+록온 기능은 제대로 쓰고 있어？<LINE>
+걱정되니까 한 번 더 설명할게.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<BUTTON 08>
+을 누르면<LINE>
+자동으로 가장 가까이 있는 적을 조준하며<LINE>
+그 적 쪽을 보게 돼～！
+<PAGEKEY>
+<NEXTPAGE 020700>
+<BUTTON 08>
+을 누르고 있는 동안엔<LINE>
+적을 계속 조준하니까, 버튼을 누른 상태에서<SPACE 26><LINE>
+공격하면 편해！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0100>
+<POS 003A00981222>
+<FB05 0108>
+적에 따라서는 들어올린 다음<LINE>
+던질 수 있는 적도 있어～.
+<PAGEKEY>
+<NEXTPAGE 020300>
+눈으로 보기에 크기가 작은 적은<LINE>
+대부분 들어올릴 수 있으니까 해봐.
+<PAGEKEY>
+<NEXTPAGE 020100>
+참고로 나는 못 들어올려～.<LINE>
+아쉽게도 말이야～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0F00>
+<POS 004600881044>
+<FB05 0108>
+록～！ 남자는 말이야, 여자에게<LINE>
+잘해줘야 해！！！<LINE>
+여자에게 잘해주지 않으면<LINE>
+후환이 두려울 거야～～～.
+<PAGEKEY>
+<NEXTPAGE 020100>
+그리고, 나에게도<LINE>
+잘해줘야 해～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0600>
+<POS 004000901123>
+<FB05 0108>
+록～！<LINE>
+세상의 시선은 참 무섭더라.<LINE>
+누가 보고 있을지 모른다고～.
+<PAGEKEY>
+<NEXTPAGE 020100>
+마을 사람들에게 잘해주면<LINE>
+반드시 좋은 일이 생길 거야！！！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0017]
+<FUNC 0F00>
+<POS 001000881944>
+<FB05 0108>
+<BUTTON 07>
+＋
+<BUTTON 02>
+으로<LINE>
+옆돌기할 수 있다는 거 알고 있었어？<LINE>
+옆돌기 도중에는 대미지를 입지 않으니까<LINE>
+위험해지면 써 봐.
+<PAGEKEY>
+<NEXTPAGE 020100>
+타이밍을 잘 맞추어 쓰면 <LINE>
+엄청 멋있어.
+<PAGEKEY>
+<NEXTPAGE 020600>
+그리고 또<LINE>
+
+<BUTTON 03>
+을 누르면서<LINE>
+
+<BUTTON 04>
+를 누르면 천천히 움직일 수 있어～.
+<PAGEKEY>
+<NEXTPAGE 020200>
+딱히 멋있지는 않지만<LINE>
+생각나면 한 번 써봐.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0018]
+<FUNC 0700>
+<POS 005200900E33>
+<FB05 0108>
+우리끼리만 하는 말인데<LINE>
+롤 쨩이 일기를 쓰나 봐～.<LINE>
+과연 어떤 내용을 썼을까？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0019]
+<FUNC 0700>
+<POS 002E00901433>
+<FB05 0108>
+가끔 보물 상자에서 개발 메모라는 것이<LINE>
+나오는데, 뭔가 엄청나게<LINE>
+어려운 것이 적혀 있다고 하더라.
+<PAGEKEY>
+<NEXTPAGE 020500>
+그래도 롤 쨩이라면 뭐라고 쓰여 있는지<LINE>
+알 테니까, 혹시 디그 아웃 하면<LINE>
+롤 쨩에게 보여줘 봐～！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001A]
+<FUNC 0100>
+<POS 003A00881224>
+<FB05 0108>
+커다란 유적 안에는 있지～<LINE>
+맵 제어 패널과 아이템 제어 패널이<LINE>
+있어～.
+<PAGEKEY>
+<NEXTPAGE 020A00>
+맵 제어 패널에서는 말이야<LINE>
+전체 맵을 볼 수 있어～.<LINE>
+아이템 제어 패널에서는 말이야<LINE>
+보물 상자의 위치를 볼 수 있어～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001B]
+<FUNC 0700>
+<POS 002E00901433>
+<FB05 0108>
+길을 잃어 곤란했던 적 없어？<LINE>
+그럴 때는 말이야, 스테이터스 화면에서<LINE>
+맵 화면을 열어봐！
+<PAGEKEY>
+<NEXTPAGE 020500>
+오토 내비게이션이라는 기능을 쓰면<LINE>
+목적지까지 록을 안내해 줄 거야.<LINE>
+이제 길을 잃을 걱정은 없을 거야～.
+<PAGEKEY>
+<NEXTPAGE 020200>
+맞아 맞아, 단지 오토 내비게이션으로<LINE>
+갈 수 있는 곳은 한번 갔던 곳만 가능해.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001C]
+
+
+[BLOCK: 001D]
+<FUNC 0B00>
+<POS 002800881534>
+<FB05 0108>
+적 중에는 대미지 말고도<LINE>
+불태우거나, 마비시키거나 <LINE>
+버스터의 파워를 빼앗아 가는<LINE>
+적들도 있다더라…….
+<PAGEKEY>
+<NEXTPAGE 020600>
+무섭겠다～～.<LINE>
+하지만, 그런 특수한 대미지를 막아주는<LINE>
+파츠나 아이템도 있으니까 안심해도 돼～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0000>
+<FB16 00FF1FFF>
+<FB16 01FF20FF>
+<FB16 02FF21FF>
+<FB16 03FF3BFF>
+<FB16 04FF22FF>
+<FB16 05FF3EFF>
+<FB16 06FF23FF>
+<FB16 07FF24FF>
+<FB16 08FF25FF>
+<FB16 09FF26FF>
+<FB16 0AFF27FF>
+<FB16 0BFF4CFF>
+<FB16 0CFF28FF>
+<FB16 0DFF29FF>
+<FB16 0EFF51FF>
+<FB16 0FFF52FF>
+<FB16 10FF2AFF>
+<FB16 11FF55FF>
+<FB0C>
+<FB0E 55>
+<END>
+
+[BLOCK: 001F]
+<FUNC 0000>
+<FB28 058135FF>
+<FB28 05C334FF>
+<FB28 05C13332>
+<END>
+
+[BLOCK: 0020]
+<FUNC 0000>
+<FB28 059338FF>
+<FB28 05B03736>
+<END>
+
+[BLOCK: 0021]
+<FUNC 0000>
+<FB28 05A03A39>
+<END>
+
+[BLOCK: 0022]
+<FUNC 0000>
+<FB28 05B53D3C>
+<END>
+
+[BLOCK: 0023]
+<FUNC 0000>
+<FB28 002941FF>
+<FB28 0025403F>
+<END>
+
+[BLOCK: 0024]
+<FUNC 0000>
+<FB28 05824342>
+<END>
+
+[BLOCK: 0025]
+<FUNC 0000>
+<FB28 058646FF>
+<FB28 05904544>
+<END>
+
+[BLOCK: 0026]
+<FUNC 0000>
+<FB28 002C49FF>
+<FB28 05844847>
+<END>
+
+[BLOCK: 0027]
+<FUNC 0000>
+<FB28 03D14B4A>
+<END>
+
+[BLOCK: 0028]
+<FUNC 0000>
+<FB28 05C04E4D>
+<END>
+
+[BLOCK: 0029]
+<FUNC 0000>
+<FB28 03D2504F>
+<END>
+
+[BLOCK: 002A]
+
+
+[BLOCK: 002B]
+
+
+[BLOCK: 002C]
+
+
+[BLOCK: 002D]
+
+
+[BLOCK: 002E]
+
+
+[BLOCK: 002F]
+
+
+[BLOCK: 0030]
+
+
+[BLOCK: 0031]
+<FUNC 0000>
+<FB28 03D35453>
+<END>
+
+[BLOCK: 0032]
+<FUNC 0200>
+<POS 005200980E12>
+<FB05 0108>
+롤 쨩 데리고<LINE>
+고물상에 가 보면 어떨까～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0033]
+<FUNC 0300>
+<POS 005200980E22>
+<FB05 0108>
+플러터호 가까이에 있는<LINE>
+연구소에 가 보면 어떨까～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0034]
+<FUNC 0200>
+<POS 004C00980F12>
+<FB05 0108>
+죠 아저씨는<LINE>
+던전에 갔다더라～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0035]
+<FUNC 0300>
+<POS 005200980E22>
+<FB05 0108>
+죠 아저씨가 있던 방 안쪽은<LINE>
+조사해 봤어～？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0036]
+<FUNC 0200>
+<POS 004600981012>
+<FB05 0108>
+롤 쨩이<LINE>
+플러터호에서 기다리고 있어～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0037]
+<FUNC 0300>
+<POS 004000981122>
+<FB05 0108>
+플러터호에 실려 있는 드롭십으로<LINE>
+금단의 섬에 갈 수 있대～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0038]
+<FUNC 0300>
+<POS 005200980E22>
+<FB05 0108>
+금단의 땅에서 설퍼보톰호는<LINE>
+찾았어～？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0039]
+<FUNC 0300>
+<POS 005200980E22>
+<FB05 0108>
+구출해 낸<LINE>
+박사님과는 이야기했어～？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003A]
+<FUNC 0300>
+<POS 005200980E22>
+<FB05 0108>
+첫 번째 봉인의 열쇠는<LINE>
+만다섬에 있다고 하더라～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003B]
+<FUNC 0100>
+<POS 003A00A01211>
+<FB05 0108>
+먼저 포쿠테 마을에 가야 할 거야～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003C]
+<FUNC 0300>
+<POS 005800900D23>
+<FB05 0108>
+첫 번째 봉인의 열쇠는<LINE>
+포쿠테 마을의 유적 안에<LINE>
+있을 거야.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003D]
+<FUNC 0300>
+<POS 005E00980C22>
+<FB05 0108>
+열쇠는 폰 뮐러 씨에게<LINE>
+전달해야만 해～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003E]
+<FUNC 0100>
+<POS 004C00980F12>
+<FB05 0108>
+다음 봉인의 열쇠는 니노섬에<LINE>
+있다고 하더라～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003F]
+<FUNC 0100>
+<POS 004000A01111>
+<FB05 0108>
+길드마스터가 만나고 싶다더라～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0040]
+<FUNC 0300>
+<POS 003A00981222>
+<FB05 0108>
+빨간색 램프가 빛나는 문 건너편에서<LINE>
+적들이 몰려오고 있는 것 같아～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0041]
+<FUNC 0100>
+<POS 002800A01511>
+<FB05 0108>
+옥상에는 엘리베이터를 타고 갈 수 있어～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0042]
+<FUNC 0300>
+<POS 004000981122>
+<FB05 0108>
+길드마스터에게 유적을 열어달라고<LINE>
+부탁하면 어떨까～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0043]
+<FUNC 0100>
+<POS 005200A00E11>
+<FB05 0108>
+칼바니아섬으로 가야 해～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0044]
+<FUNC 0300>
+<POS 004600981022>
+<FB05 0108>
+칼바니아섬에는 마을이 있나 봐.<LINE>
+가 보면 어떨까～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0045]
+<FUNC 0100>
+<POS 005800A00D11>
+<FB05 0108>
+쌍둥이와 협력해야 해～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0046]
+<FUNC 0300>
+<POS 004000981122>
+<FB05 0108>
+어딘가 탑에 들어갈 수 있는 곳이<LINE>
+있을 거야. 힘내서 나아가 보자.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0047]
+<FUNC 0100>
+<POS 005E00A00C11>
+<FB05 0108>
+니노섬으로 돌아갈까～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0048]
+<FUNC 0100>
+<POS 004000A01111>
+<FB05 0108>
+밖에 길드마스터 일행이 있더라～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0049]
+<FUNC 0700>
+<POS 003A00901233>
+<FB05 0108>
+롤 쨩이 고치려고 하는 비밀 무기는<LINE>
+니노섬 방어시설의 엘리베이터를<LINE>
+타고 올라간 곳에 있어～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 004A]
+<FUNC 0300>
+<POS 004600981022>
+<FB05 0108>
+다음 봉인의 열쇠는 루미노아의<LINE>
+유적 안에 있을 거야.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 004B]
+<FUNC 0300>
+<POS 005E00980C22>
+<FB05 0108>
+열쇠는 폰 뮐러 씨에게<LINE>
+전달해야만 해～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 004C]
+<FUNC 0300>
+<POS 003400981322>
+<FB05 0108>
+사울카다섬에<LINE>
+다음 봉인의 열쇠가 있다고 하더라～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 004D]
+<FUNC 0700>
+<POS 004C00900F33>
+<FB05 0108>
+키모토마시는 본 일가가<LINE>
+점령했다고 하더라.<LINE>
+어서 도시를 해방해야겠어～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 004E]
+<FUNC 0100>
+<POS 004C00A00F11>
+<FB05 0108>
+먼저 본 일가를 물리쳐야지～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 004F]
+<FUNC 0300>
+<POS 004600981022>
+<FB05 0108>
+다음 봉인의 열쇠는 키모토마의<LINE>
+유적 안에 있을 거야～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0050]
+<FUNC 0300>
+<POS 005E00980C22>
+<FB05 0108>
+열쇠는 폰 뮐러 씨에게<LINE>
+전달해야만 해～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0051]
+<FUNC 0300>
+<POS 004600981022>
+<FB05 0108>
+마지막 봉인의 열쇠는<LINE>
+칼린카 대륙에 있다고 하더라～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0052]
+<FUNC 0300>
+<POS 002200981622>
+<FB05 0108>
+마을 밖에 있는 기동열차를 움직이기<LINE>
+위한 열쇠는 죠 아저씨가 갖고 있을 거야～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0053]
+<FUNC 0300>
+<POS 004C00980F22>
+<FB05 0108>
+다음 봉인의 열쇠는 요숀카의<LINE>
+유적 안에 있을 거야～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0054]
+<FUNC 0300>
+<POS 005E00980C22>
+<FB05 0108>
+열쇠는 폰 뮐러 씨에게<LINE>
+전달해야만 해～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0055]
+<FUNC 0600>
+<POS 006400900B23>
+<FB05 0108>
+셔틀 포드는<LINE>
+칼바니아섬에 있다고<LINE>
+그랬지～.
+<ENDKEY>
+<FB31>
+<END>
+

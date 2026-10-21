@@ -1,0 +1,434 @@
+[Block 00, String: 0000-002E]
+<WIN 6E00A0000801>
+<DECOR 0008>
+가짜 메세지라고 할 셈？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 002E-0100]
+<MSG_IF 360005FF>
+<CAM 010018010000100080FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머，귀엽네，너<NEXT>
+
+<CLEAR 0400>
+　록이라고 부르는구나<LINE>
+　누나 취향이네…<NEXT>
+
+<CLEAR 0400>
+　여자애 옷에는<LINE>
+　관심없을지도 모르지만<LINE>
+　언제든지 오렴！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 0100-0190]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 드레스 귀엽지，<LINE>
+　나한테 어울릴 것 같아？<NEXT>
+
+<CLEAR 0400>
+<CAM 0100180100008000A0FF>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 00030400>
+<END><CLOSE 0000>
+
+
+[Block 03, String: 0190-0234]
+<WIN 4000A2001003>
+<DECOR 0008>
+「앗，정말？<LINE>
+　그럼 사줄래？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 00FFFF00>
+<CLEAR 0000>
+<WIN 4000A2001003>
+<DECOR 0008>
+「라고 할 뻔～<LINE>
+　농담이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 0234-0286]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭐야 이 사람은<LINE>
+　무례한 사람이네！<LINE>
+　흥흥！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 0286-0384]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머，록！<LINE>
+　뭐라도 찾고있어？<NEXT>
+
+<CLEAR 0400>
+　빨간 물감？<LINE>
+　록，그림 그리니…？<NEXT>
+
+<CLEAR 0400>
+　물감은 없지만<LINE>
+　빨간 립스틱이라면 갖고있어…<NEXT>
+
+<CLEAR 0400>
+　이거라도 줄까？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 00070600>
+<END><CLOSE 0000>
+
+
+[Block 06, String: 0384-03B6]
+<WIN 4000A2001003>
+<DECOR 0008>
+　그래～？<LINE>
+　아쉽네…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 03B6-04A2]
+<GIVE 3600><WIN 4000A2001003>
+<DECOR 0008>
+　정말！？ 이걸로 괜찮아？<LINE>
+　그럼，누나가<LINE>
+　쓰던거지만… 줄게！<NEXT>
+
+<CLEAR 0400>
+　우후후，돈은 됐어<LINE>
+　록의 도움이 될 수 있다니<LINE>
+　기뻐，그럼 안녕<NEXT>
+
+<CLEAR 0400>
+<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 4900><COLOR 0000><GET 4905>을 손에 넣었다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 04A2-0570]
+<MSG_IF 360005FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「다행이다… 드디어 손님이<LINE>
+　돌아왔어…<NEXT>
+
+<CLEAR 0400>
+　기쁘니까 바겐세일이라도<LINE>
+　해버릴까？<NEXT>
+
+<CLEAR 0400>
+　록도 뭐라도 사갈래？<LINE>
+　그녀에게 줄 선물이라든가<LINE>
+　어때？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 0570-05CA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나는 수수하지만<LINE>
+　가끔은 이런 귀여운 옷도<LINE>
+　입고 싶어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 05CA-0630]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어떤 옷을 살까？<NEXT>
+
+<CLEAR 0400>
+　나는 뭐든지 어울리니까<LINE>
+　고민되는걸<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0630-0682]
+<MSG_IF 360005FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「록…<LINE>
+　가끔은 그녀도<LINE>
+　데리고 와<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 0682-06E4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「정했어！<NEXT>
+
+<CLEAR 0400>
+　역시 이 옷을 사겠어！<LINE>
+　이미지 체인지를 해야지！<LINE>
+　그치！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 06E4-0732]
+<WIN 4000A2001003>
+<DECOR 0008>
+「결국<LINE>
+　뭘 사야할지 못 고르겠어・・<NEXT>
+
+<CLEAR 0400>
+　돌아갈까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 0732-07F2]
+<MSG_IF 360005FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「록은 말야<LINE>
+　근래 들어서 계속<LINE>
+　공적을 해치우고있네！？<NEXT>
+
+<CLEAR 0400>
+　대단해…<LINE>
+　이 누나가 사람보는<LINE>
+　안목은 타고났거든…<NEXT>
+
+<CLEAR 0400>
+　막 이래，후후후<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 07F2-0868]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 옷 말야，<LINE>
+　어느샌가<LINE>
+　디스플레이만 남았어・・<NEXT>
+
+<CLEAR 0400>
+　으～음<LINE>
+　전시하던거라，조금・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0868-08D0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여자친구 선물을<LINE>
+　사러 왔는데요<NEXT>
+
+<CLEAR 0400>
+　이 가게는 여자 뿐이라<LINE>
+　부끄럽네요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 08D0-093E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「손님이<LINE>
+　그다지 오지 않네…<NEXT>
+
+<CLEAR 0400>
+　가게를 열기에는<LINE>
+　너무 이른 시간이었을까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 093E-0940]
+
+
+[Block 13, String: 0940-0942]
+
+
+[Block 14, String: 0942-09B8]
+<WIN 4000A2001003>
+<DECOR 0008>
+부시럭부시럭・・・<NEXT>
+
+<CLEAR 0400>
+누군가 안에 있는 것 같다<NEXT>
+
+<CLEAR 0400>
+여성의 목소리<LINE>
+「음～ 조금<LINE>
+　허리가 끼는데<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 09B8-09FE]
+<WIN 4000A2001003>
+<DECOR 0008>
+・　<PAUSE 0800>・　<PAUSE 0800>・　<PAUSE 0800><LINE>
+아무도 없는 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 09FE-0A72]
+<WIN 4000A2001003>
+<DECOR 0008>
+거울에 내가 비치고 있다<NEXT>
+
+<CLEAR 0400>
+미형은 아니지만，<LINE>
+반듯한 얼굴이다<NEXT>
+
+<CLEAR 0400>
+조금이지만 자신감을 되찾았다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 0A72-0AE0]
+<MSG_IF 360005FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「록 힘내<LINE>
+　모두 록의 팬이<LINE>
+　되어버렸으니까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 0AE0-0B24]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여자친구에게 줄 선물을<LINE>
+　아직 고르지 못했어요…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 0B24-0BA4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「음～，<LINE>
+　이 섬은 괜찮은 걸까？<NEXT>
+
+<CLEAR 0400>
+　난 말야，스트레스가 쌓이면<LINE>
+　양복을 사고 싶어져<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1A, String: 0BA4-0C44]
+<MSG_IF 360005FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「록，<LINE>
+　메인게이트 안으로<LINE>
+　들어갔다면서<NEXT>
+
+<CLEAR 0400>
+　정말 대단해…<LINE>
+　누나의 손이 닿지않는<LINE>
+　곳으로 가버렸네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1B, String: 0C44-0CCE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그에게<LINE>
+　선물을 받았는데<NEXT>
+
+<CLEAR 0400>
+　딱히 마음에 들지 않아서<LINE>
+　교환하러 왔어<NEXT>
+
+<CLEAR 0400>
+　비밀로 해줘…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1C, String: 0CCE-0D7A]
+<MSG_IF 360005FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「록，<LINE>
+　나 불안해…<LINE>
+　곁에 있어줘…<NEXT>
+
+<CLEAR 0400>
+　…사실，알고있어<LINE>
+　록에게는 더 막중한<LINE>
+　사명이 있겠지，분명히…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1D, String: 0D7A-0DEE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「역시，<LINE>
+　옷 교환은 그만둘래<NEXT>
+
+<CLEAR 0400>
+　그야，마음이 담긴<LINE>
+　선물이니까 말이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1E, String: 0DEE-0E46]
+<WIN 4000A2001003>
+<DECOR 0008>
+「채소 가게 사람말야<LINE>
+　항상 건강했는데・・<NEXT>
+
+<CLEAR 0400>
+　무슨 일이라도 있는걸까・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 0E46-0EAA]
+<MSG_IF 2E0220FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「채소 가게네 와이프，<LINE>
+　아직 돌아오지 않은거야？<NEXT>
+
+<CLEAR 0400>
+　걱정이네・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0EAA-0F04]
+<WIN 4000A2001003>
+<DECOR 0008>
+「채소 가게네<LINE>
+　건강한 아이가 태어난 것 같아<LINE>
+　잘 됐다・・<NEXT>
+
+<END><CLOSE 0400>
+
+

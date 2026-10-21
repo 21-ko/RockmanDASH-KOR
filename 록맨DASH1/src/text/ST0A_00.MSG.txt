@@ -1,0 +1,493 @@
+[Block 00, String: 0000-0026]
+<WIN 70003C000801>
+<DECOR 0008>
+가짜 메세지．<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 0026-0080]
+<WIN 8C0030000E02>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 00000A00>
+Ｔ・본<LINE>
+「소용없다，<CLEAR 1400>
+이 녀석의 장갑을<LINE>
+만만하게 보지마라！！<END><CLOSE 2800>
+
+
+[Block 02, String: 0080-00D0]
+<WIN 8C0030000E03>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 01000A00>
+Ｔ・본<LINE>
+「그러니까，<LINE>
+　소용없다고 말 했잖아？<END><CLOSE 2800>
+
+
+[Block 03, String: 00D0-0114]
+<WIN 8C0030000E02>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 02000A00>
+Ｔ・본<LINE>
+「헛수고야，헛수고，헛수고！<END><CLOSE 1400>
+
+
+[Block 04, String: 0114-0168]
+<WIN 8C0030000E03>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 03000A00>
+Ｔ・본<LINE>
+「뭐하는 거야！<LINE>
+　빨리 해치를 닫아！！<END><CLOSE 3C00>
+
+
+[Block 05, String: 0168-01AC]
+<WIN 8C0030000E02>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 04000A00>
+Ｔ・본<LINE>
+「그러니까，닫으라고 했잖아<END><CLOSE 1E00>
+
+
+[Block 06, String: 01AC-01EE]
+<WIN 8C0030000E02>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 05000A00>
+Ｔ・본<LINE>
+「닫으라고！ 빨리！！<END><CLOSE 1E00>
+
+
+[Block 07, String: 01EE-023A]
+<WIN 8C0030000E03>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 06000A00>
+Ｔ・본<LINE>
+「저 자식！！<LINE>
+　깔보기나하고！<END><CLOSE 2D00>
+
+
+[Block 08, String: 023A-02C4]
+<WIN 8C0030000E03>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 07000A00>
+Ｔ・본<LINE>
+「우와ー！얼타고 있지마라<LINE>
+　불꺼！불！<CLEAR 5A00>
+<AUDIO 08000A00>
+꼬붕<LINE>
+「긴급소화장치，<LINE>
+　작동이 안～돼요<PAUSE 5000><JUMP 0009>
+
+[Block 09, String: 02C4-0330]
+<WIN 8C0030000E02>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 09000A00>
+Ｔ・본<LINE>
+「뭐라～！！<CLEAR 1E00>
+<AUDIO 0A000A00>
+어떻게，이 몸께서<LINE>
+저런 시퍼런 놈한테～<END><CLOSE 5A00>
+
+
+[Block 0A, String: 0330-0452]
+<0395 0000000000000200><PAUSE 0F00><WIN 340018001210>
+<DECOR 0108>
+<NO_CHAR_SFX><COLOR 0400><LINE>
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+<COLOR 0200><SPACE 3F00>Ｔ・본과의 대결<LINE>
+<PAUSE 0F00><LINE>
+<SPACE 1B00>중기동 토목메카，마올볼프를<LINE>
+<SPACE 4E00>무찔러라！<LINE>
+<PAUSE 0F00><LINE>
+<SPACE 1B00>적의 장갑은 매우 단단하지만<LINE>
+<SPACE 3000>해치 안은 무방비하다<LINE>
+<PAUSE 0A00><LINE>
+<SPACE 0300>캐터필러를 공격해 움직임을 둔화시켜<LINE>
+<SPACE 2400>암벽에서 뛰어 올라타자！<NEXT>
+
+<0396>
+<AUDIO 07000500>
+<PAUSE 3C00><0395 0100FFFF00000200><END><CLOSE 0000>
+
+
+[Block 0B, String: 0452-0520]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 0E000A00>
+롤<LINE>
+「록！ 들려？<WAIT 2000>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 0F000A00>
+　시장님이 록한테<LINE>
+　중요한 할 말이 있는 것 같은데<LINE>
+　바로 돌아오지 않을래？<WAIT 9F00>
+<NEXT>
+
+<CLEAR 0000>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0385 000C0D00>
+<END><CLOSE 0000>
+
+
+[Block 0C, String: 0520-0576]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 12000A00>
+록<LINE>
+「알았어！<LINE>
+　시장님한테 가볼게<WAIT 4100>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 0D, String: 0576-0658]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 19000A00>
+롤<LINE>
+「무선 상태가，안 좋은 걸까？<WAIT 4100>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 1A000A00>
+　방금，가지 않는다고<LINE>
+　말한 것처럼 들렸는데…<WAIT 4900>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 1B000A00>
+　록！<LINE>
+　바로 가줄 수 있지？<WAIT 3900>
+<NEXT>
+
+<CLEAR 0000>
+<JUMP 000C><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0385 000C0D00>
+<END><CLOSE 0000>
+
+
+[Block 0E, String: 0658-06CC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 앞은，<LINE>
+　위험하니까 들어가지 않도록！<NEXT>
+
+<CLEAR 0400>
+　이라고，말하고 있는데，<LINE>
+　구경꾼들이 있단말이지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 06CC-0754]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어디를 어떻게 타더라도，<LINE>
+　유적의 입구에는 갈 수 없어<NEXT>
+
+<CLEAR 0400>
+　비록，너의 점프력이<LINE>
+　대단하다고 하더라도 말야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0754-07C0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기를 원 상태로 돌리는 일은<LINE>
+　꽤나 큰일이야<NEXT>
+
+<CLEAR 0400>
+　차라리，<LINE>
+　관광명소로 만들면 어떨까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 07C0-0808]
+<WIN 3400A2001203>
+<DECOR 0008>
+「내가 까마귀라면・・<LINE>
+　저기로 날아갈 수 있었을 텐데 말야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 0808-0884]
+<WIN 4000A2001003>
+<DECOR 0008>
+「후우・・후우・・<LINE>
+　단차를 오르는 일도<LINE>
+　고생이 이만저만이 아니군<NEXT>
+
+<CLEAR 0400>
+　좀 더<LINE>
+　다이어트 해야겠어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 0884-08C0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「안 돼・・<LINE>
+　여기서 막다른 길이라니・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 08C0-094A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「잠깐，당신<LINE>
+　유적 입구를 배경으로<LINE>
+　사진 찍어주라<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0385 80151600>
+<END><CLOSE 0000>
+
+
+[Block 15, String: 094A-09C4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「고마워<NEXT>
+
+<CLEAR 0400>
+　・・・<NEXT>
+
+<CLEAR 0400>
+　어라，<LINE>
+　필름 넣어오는 걸<LINE>
+　잊어버렸네<NEXT>
+
+<CLEAR 0400>
+　어라라・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 09C4-0A14]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그런가・・<LINE>
+　그럼，셀프타이머로<LINE>
+　찍을테니까 됐어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 0A14-0AA4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「들어가면 안돼！！<NEXT>
+
+<CLEAR 0400>
+　라고，말하고 있는데<LINE>
+　아무도 말을 안들어서，<LINE>
+　포기하기로 했어<NEXT>
+
+<CLEAR 0400>
+　좋을 대로 해<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 0AA4-0B46]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신 아까 배 타고 와서는<LINE>
+　이 안에 들어갔었지？<NEXT>
+
+<CLEAR 0400>
+　그 때<LINE>
+　굉장한 땅 울림이 일어나서<NEXT>
+
+<CLEAR 0400>
+　벼랑이 무너지지 않을까<LINE>
+　조마조마했다고<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 0B46-0B88]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아까의 공중전 보고있었어<LINE>
+　대단했었어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1A, String: 0B88-0BFE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어떻게<LINE>
+　이런 곳을 온 거지？<NEXT>
+
+<CLEAR 0400>
+　위로 오를 수도 없고<LINE>
+　뛰어내리는 건 무섭고・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1B, String: 0BFE-0C70]
+<WIN 4000A2001003>
+<DECOR 0008>
+「난 타운사의 편집자야<LINE>
+　「캐틀옥스의 명소 특집」<LINE>
+　으로 할까 생각 중이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1C, String: 0C70-0CCA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「서브게이트가 나타났어？<NEXT>
+
+<CLEAR 0400>
+　아니，이 쪽에는<LINE>
+　아무 일도 일어나지 않았어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1D, String: 0CCA-0D10]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기저기서 이변이 일어나니까<LINE>
+　바빠져버렸어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1E, String: 0D10-0DCA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 집사람이<LINE>
+　없어졌다 생각했더니<LINE>
+　이런 곳에 있었어<NEXT>
+
+<CLEAR 0400>
+　성가셔 죽겠네～ 진짜<NEXT>
+
+<CLEAR 0400>
+　・・그래서，<LINE>
+　우리들은 무슨 수로<LINE>
+　여기서 내려가야하지？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 0DCA-0E50]
+<WIN 4000A2001003>
+<DECOR 0008>
+「남편이 와줘서<LINE>
+　살았어・・<NEXT>
+
+<CLEAR 0400>
+　역시<LINE>
+　여차할 때 의지할 사람은<LINE>
+　남편 뿐이네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0E50-0EBC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「새로운 서브게이트가<LINE>
+　나타났다면서<NEXT>
+
+<CLEAR 0400>
+　이번에는，<LINE>
+　그곳의 특집편을 구석구석・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 0EBC-0F3A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아아<LINE>
+　들렸지，<LINE>
+　굉장한 소리가 이쪽에도！<NEXT>
+
+<CLEAR 0400>
+　난，무슨 일이 일어나서<LINE>
+　여기에서 떨어지는건 사양이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 0F3A-0FDE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「막，흔들흔들하고 왔어！<LINE>
+　흔들흔들하고！！<NEXT>
+
+<CLEAR 0400>
+　여기，<LINE>
+　무너지진 않을까？<NEXT>
+
+<CLEAR 0400>
+　부탁이야 당신！<LINE>
+　어떻게든 좀 해줘！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 0FDE-1020]
+<WIN 4000A2001003>
+<DECOR 0008>
+「거，걱정하지 마！<LINE>
+　내가 있으면 안심이다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 1020-1072]
+<WIN 4000A2001003>
+<DECOR 0008>
+「방금 그 땅울림！！<LINE>
+　나로서는<LINE>
+　이젠 무리야～！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 25, String: 1072-10DC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「다음 호 특집은<LINE>
+　「캐틀옥스에<LINE>
+　　미래는 있는가！？」<NEXT>
+
+<CLEAR 0400>
+　로 결정이다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 26, String: 10DC-10DE]
+
+
+[Block 27, String: 10DE-10E0]
+
+
+[Block 28, String: 10E0-1100]
+<0395 0000000001000280><PAUSE 5A00><0395 0100FFFF00000200><END><CLOSE 0000>
+
+

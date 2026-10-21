@@ -1,0 +1,554 @@
+[BLOCK: 0000]
+<FUNC 0100>
+<VWAIT 00>
+<POS 005E00B40C11>
+<FB05 0108>
+자물쇠가 걸려있다……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>
+<POS 005800AC0D12>
+<FB05 0108>
+셔틀 베이로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 0303FFFF>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ１Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 0303FFFF>
+<END>
+
+[BLOCK: 0003]
+
+
+[BLOCK: 0004]
+
+
+[BLOCK: 0005]
+
+
+[BLOCK: 0006]
+
+
+[BLOCK: 0007]
+
+
+[BLOCK: 0008]
+
+
+[BLOCK: 0009]
+
+
+[BLOCK: 000A]
+
+
+[BLOCK: 000B]
+
+
+[BLOCK: 000C]
+
+
+[BLOCK: 000D]
+
+
+[BLOCK: 000E]
+
+
+[BLOCK: 000F]
+<FUNC 0000>
+<FB26 0702>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0100>
+<POS 005200B40E11>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+톤 액세스ＳＰ
+<INIT_COLOR>
+를 발견했다.
+<FB26 03B0>
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0100>
+<POS 005200B40E11>
+<FB05 0108>
+<FB19 00EF>
+４００００제니를 발견했다.
+<FB37 0000009C40>
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0100>
+<POS 004C00B40F11>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+톤 블래스터ＳＰ
+<INIT_COLOR>
+를 발견했다.
+<FB26 03AF>
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0F00>
+<POS 007C00880744>
+<FB05 0108>
+<SEL 00>
+가볍게<LINE>
+
+<SEL 01>
+보통<LINE>
+
+<SEL 02>
+무겁게<LINE>
+
+<SEL 03>
+그만둔다
+<FB39 040000000100020003>
+<FB11 05161718FFFF>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0100>
+<FB19 013E>
+<POS 006A00B40A11>
+<FB05 0108>
+<FB19 02C0>
+<FB1D>
+중력이 가벼워졌다.
+<ENDKEY>
+<FB31>
+<FB26 0153>
+<FB27 0154>
+<FB27 0155>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 0017]
+<FUNC 0100>
+<FB19 013E>
+<POS 005E00B40C11>
+<FB05 0108>
+중력이 보통이 되었다.
+<ENDKEY>
+<FB31>
+<FB27 0153>
+<FB26 0154>
+<FB27 0155>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 0018]
+<FUNC 0100>
+<FB19 013E>
+<POS 006A00B40A11>
+<FB05 0108>
+<FB19 02BF>
+<FB1D>
+중력이 무거워졌다.
+<ENDKEY>
+<FB31>
+<FB27 0153>
+<FB27 0154>
+<FB26 0155>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 0019]
+<FUNC 1500>
+<POS 0034007B1335>
+<FB05 0108>
+아무래도, 이 제어 패널로 중력 변경과<LINE>
+데이터 로드를 할 수 있는 것 같다.<LINE>
+
+<SEL 00>
+중력변경<LINE>
+
+<SEL 01>
+데이터 로드<LINE>
+
+<SEL 02>
+조작하지 않는다
+<FB39 03000200030004>
+<FB11 04151AFFFF>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 001A]
+<FUNC 0100>
+<POS 004000901133>
+<FB05 0108>
+셔틀 베이 관리 시스템
+<PAGEKEY>
+<NEXTPAGE 020600>
+셔틀 베이에는, <LINE>
+현재 헤븐 관리 외의 셔틀이<LINE>
+존재하는 것으로 보임.
+<PAGEKEY>
+<NEXTPAGE 020700>
+셔틀 베이 내부와의 연결이<LINE>
+누군가에 의해 끊어진 상태이며, <LINE>
+셔틀의 관리자는 불명.
+<ENDKEY>
+<FB31>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 001B]
+<FUNC 1500>
+<POS 0034007B1335>
+<FB05 0108>
+아무래도, 이 제어 패널로 중력 변경과<LINE>
+데이터 로드를 할 수 있는 것 같다.<LINE>
+
+<SEL 00>
+중력변경<LINE>
+
+<SEL 01>
+데이터 로드<LINE>
+
+<SEL 02>
+조작하지 않는다
+<FB39 03000200030004>
+<FB11 04151CFFFF>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 001C]
+<FUNC 0100>
+<POS 003400901333>
+<FB05 0108>
+헤븐 동력실 제어 시스템
+<PAGEKEY>
+<NEXTPAGE 020300>
+인류 재생 프로그램 발동 후, 에너지의<LINE>
+８０퍼센트를 본 프로그램 실행에<LINE>
+할당할 것.
+<PAGEKEY>
+<NEXTPAGE 020700>
+개별 작업에 문제가 발생할<LINE>
+우려가 있는 경우, <LINE>
+마더의 확인을 받을 것.
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 001D]
+<FUNC 1500>
+<POS 0034007B1335>
+<FB05 0108>
+아무래도, 이 제어 패널로 중력 변경과<LINE>
+데이터 로드를 할 수 있는 것 같다.<LINE>
+
+<SEL 00>
+중력변경<LINE>
+
+<SEL 01>
+데이터 로드<LINE>
+
+<SEL 02>
+조작하지 않는다
+<FB39 03000200030004>
+<FB11 04151EFFFF>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0100>
+<POS 003A00981222>
+<FB05 0108>
+시설 방어용 리버드 제어 시스템
+<PAGEKEY>
+<NEXTPAGE 020100>
+헤븐 시스템에 침입자가 있음.
+<PAGEKEY>
+<NEXTPAGE 020300>
+제거 완료까지, 기존 리버드를 이용.<LINE>
+시설을 방어할 것.
+<ENDKEY>
+<FB31>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 001F]
+<FUNC 1500>
+<POS 0034007B1335>
+<FB05 0108>
+아무래도, 이 제어 패널로 중력 변경과<LINE>
+데이터 로드를 할 수 있는 것 같다.<LINE>
+
+<SEL 00>
+중력변경<LINE>
+
+<SEL 01>
+데이터 로드<LINE>
+
+<SEL 02>
+조작하지 않는다
+<FB39 03000200030004>
+<FB11 041520FFFF>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 0020]
+<FUNC 0100>
+<POS 002800981522>
+<FB05 0108>
+방어벽 제어 장치 관리 시스템
+<PAGEKEY>
+<NEXTPAGE 020100>
+중력 라인에 닿으면, 고중력이 적용됩니다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+유지보수 시를 제외하고,<LINE>
+이 에리어에 출입하지 말 것.
+<ENDKEY>
+<FB31>
+<FB28 0593FF2B>
+<END>
+
+[BLOCK: 0021]
+<FUNC 0000>
+<FB28 015722FF>
+<POS 0052009F0E03>
+<FB05 0108>
+보안 시스템입니다.<LINE>
+아이템 데이터를 받을까요？<LINE>
+　　　　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0204020802>
+<FB11 0323FFFF>
+<END>
+
+[BLOCK: 0022]
+<FUNC 0000>
+<POS 004000AC1102>
+<FB05 0108>
+보안 시스템입니다.<LINE>
+아이템 데이터는 이미 받았습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0023]
+<FUNC 0200>
+<FB19 013E>
+<FB26 0157>
+<POS 0058009F0D13>
+<FB05 0108>
+아이템 데이터를 받아서<LINE>
+보물 상자의 위치가 맵에<LINE>
+표시되기 시작했다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0024]
+<FUNC 0100>
+<VWAIT 00>
+<POS 004600B41011>
+<FB05 0108>
+특수무기로 부서질 것 같아……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0025]
+<FUNC 0100>
+<VWAIT 00>
+<POS 005E00B40C11>
+<FB05 0108>
+자물쇠가 걸려있다……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0026]
+
+
+[BLOCK: 0027]
+<FUNC 0700>
+<VWAIT 00>
+<POS 005E009A0C33>
+<FB05 0108>
+자물쇠가 걸려있다……<LINE>
+아무래도, 중력이<LINE>
+관련 된 것 같다……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0028]
+<FUNC 0100>
+<VOICELOAD 00008000>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 004C00200F12>
+<FB05 0108>
+<VWAIT 03>
+그럼, 여긴 내가 서포트 할게.<LINE>
+
+<WAIT 0019>
+헤븐 관련이라면 내게 맡겨둬.
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0029]
+<FUNC 0300>
+<VOICELOAD 00008001>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 003400201322>
+<FB05 0108>
+<VWAIT 04>
+이 바닥은 부서질 것 같지만, <LINE>
+
+<VWAIT 03>
+<WAIT 000A>
+너 혼자서는 체중이 
+<VWAIT 04>
+살짝 부족할지도.
+<NEXTPAGE 2D0300>
+중력을 무겁게 하면 너도<LINE>
+부술 수 있을 거야.
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 002A]
+<FUNC 0700>
+<VOICELOAD 00008002>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 001000181933>
+<FB05 0108>
+<VWAIT 04>
+눈 앞에 보이는 게 중력 트랩 라인이야.<LINE>
+
+<VWAIT 03>
+<WAIT 001E>
+여길 지나가면, 
+<WAIT 0005>
+중력이 무거워지는 장치가 작동해.<LINE>
+
+<WAIT 0023>
+기억 안나？ 트리거.
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 002B]
+<FUNC 0100>
+<VOICELOAD 00008003>
+<FB26 0593>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 003A00181223>
+<FB05 0108>
+<VWAIT 04>
+중력을 가볍게 하면 더 높게<LINE>
+점프할 수 있어.
+<NEXTPAGE 230100>
+반대로 무겁게하면 점프 높이는<LINE>
+
+<VWAIT 03>
+낮아질거야.<LINE>
+
+<WAIT 0019>
+상식이지.
+<NEXTPAGE 1E0300>
+<FB1B>
+<VOICELOAD 00008004>
+<VWAIT 04>
+아, 그래. 이 제어 패널에는 또 하나<LINE>
+기능이 있는데, 헤븐의 정보를<LINE>
+조회할 수도 있어.
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 002C]
+<FUNC 0300>
+<VOICELOAD 00008005>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 002E00201422>
+<FB05 0108>
+<VWAIT 03>
+이 컴퓨터 ＢＯＸ는 무거워서……<LINE>
+중력을 가볍게 해야지 들 수 있겠네……
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 002D]
+<FUNC 0300>
+<VOICELOAD 00008006>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 003A00181223>
+<FB05 0108>
+<VWAIT 03>
+셔터에는 ２종류가 있는데,<LINE>
+조사하면 열리는 셔터와<LINE>
+적을 처치하면 열리는 셔터가 있어.
+<NEXTPAGE 1E0100>
+<FB1B>
+<VOICELOAD 00008007>
+여긴 적을 처치해야 열리는 셔터네.
+<FB1B>
+<WAIT 001E>
+<END>
+

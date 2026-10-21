@@ -1,0 +1,130 @@
+Source Path,Destination Path,Action
+DAT\ST00_00\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Copied
+DAT\ST00_01\mess\st00_01.msg.txt,Messkor\st00_01.msg.txt,Copied
+DAT\ST00_02\mess\st00_02.msg.txt,Messkor\st00_02.msg.txt,Copied
+DAT\ST00_03\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST00_04\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST02_00\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST02_01\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST02_02\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST03_00\mess\st03_00.msg.txt,Messkor\st03_00.msg.txt,Copied
+DAT\ST03_00B\mess\st03_ff.msg.txt,Messkor\st03_ff.msg.txt,Copied
+DAT\ST03_00C\mess\st03_ff.msg.txt,Messkor\st03_ff.msg.txt,Skipped (Duplicate Content)
+DAT\ST03_00D\mess\st03_00.msg.txt,Messkor\st03_00.msg.txt,Skipped (Duplicate Content)
+DAT\ST03_03\mess\st03_ff.msg.txt,Messkor\st03_ff.msg.txt,Skipped (Duplicate Content)
+DAT\ST03_05\mess\st03_05.msg.txt,Messkor\st03_05.msg.txt,Copied
+DAT\ST03_06\mess\st03_06.msg.txt,Messkor\st03_06.msg.txt,Copied
+DAT\ST03_07\mess\st03_07.msg.txt,Messkor\st03_07.msg.txt,Copied
+DAT\ST03_08\mess\st03_08.msg.txt,Messkor\st03_08.msg.txt,Copied
+DAT\ST04_00\MESS\ST04_00.MSG.txt,Messkor\ST04_00.MSG.txt,Copied
+DAT\ST04_00B\MESS\ST04_00.MSG.txt,Messkor\ST04_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST04_00C\MESS\ST04_FF.MSG.txt,Messkor\ST04_FF.MSG.txt,Copied
+DAT\ST04_00D\MESS\ST04_FF.MSG.txt,Messkor\ST04_FF.MSG.txt,Skipped (Duplicate Content)
+DAT\ST04_00E\MESS\ST04_FF.MSG.txt,Messkor\ST04_FF.MSG.txt,Skipped (Duplicate Content)
+DAT\ST04_00F\MESS\ST04_FF.MSG.txt,Messkor\ST04_FF.MSG.txt,Skipped (Duplicate Content)
+DAT\ST04_01\MESS\STFF_FF.MSG.txt,Messkor\STFF_FF.MSG.txt,Copied
+DAT\ST04_02\MESS\ST04_02.MSG.txt,Messkor\ST04_02.MSG.txt,Copied
+DAT\ST04_03\MESS\ST04_03.MSG.txt,Messkor\ST04_03.MSG.txt,Copied
+DAT\ST04_04\MESS\St04_04.MSG.txt,Messkor\St04_04.MSG.txt,Copied
+DAT\ST04_05\mess\st04_05.msg.txt,Messkor\st04_05.msg.txt,Copied
+DAT\ST05_00\mess\st05_00.msg.txt,Messkor\st05_00.msg.txt,Copied
+DAT\ST05_00B\mess\st05_00.msg.txt,Messkor\st05_00.msg.txt,Skipped (Duplicate Content)
+DAT\ST05_00C\mess\st05_fe.msg.txt,Messkor\st05_fe.msg.txt,Copied
+DAT\ST05_00D\mess\st05_00.msg.txt,Messkor\st05_00.msg.txt,Skipped (Duplicate Content)
+DAT\ST05_00E\mess\st05_ff.msg.txt,Messkor\st05_ff.msg.txt,Copied
+DAT\ST05_00F\mess\st05_ff.msg.txt,Messkor\st05_ff.msg.txt,Skipped (Duplicate Content)
+DAT\ST05_00G\mess\st05_ff.msg.txt,Messkor\st05_ff.msg.txt,Skipped (Duplicate Content)
+DAT\ST05_00H\mess\st05_ff.msg.txt,Messkor\st05_ff.msg.txt,Skipped (Duplicate Content)
+DAT\ST05_00I\mess\st05_ff.msg.txt,Messkor\st05_ff.msg.txt,Skipped (Duplicate Content)
+DAT\ST05_00J\mess\st05_fd.msg.txt,Messkor\st05_fd.msg.txt,Copied
+DAT\ST05_01\mess\st05_01.msg.txt,Messkor\st05_01.msg.txt,Copied
+DAT\ST05_02\mess\st05_02.msg.txt,Messkor\st05_02.msg.txt,Copied
+DAT\ST05_04\mess\st05_04.msg.txt,Messkor\st05_04.msg.txt,Copied
+DAT\ST06_00\mess\st06_00.msg.txt,Messkor\st06_00.msg.txt,Copied
+DAT\ST06_00B\mess\st06_00.msg.txt,Messkor\st06_00.msg.txt,Skipped (Duplicate Content)
+DAT\ST06_00C\mess\st06_00.msg.txt,Messkor\st06_00.msg.txt,Skipped (Duplicate Content)
+DAT\ST06_00D\mess\st06_00.msg.txt,Messkor\st06_00.msg.txt,Skipped (Duplicate Content)
+DAT\ST06_01\mess\st06_01.msg.txt,Messkor\st06_01.msg.txt,Copied
+DAT\ST06_01B\mess\st06_01.msg.txt,Messkor\st06_01.msg.txt,Skipped (Duplicate Content)
+DAT\ST06_02\mess\st06_02.msg.txt,Messkor\st06_02.msg.txt,Copied
+DAT\ST06_02D\mess\st06_02.msg.txt,Messkor\st06_02.msg.txt,Skipped (Duplicate Content)
+DAT\ST06_03\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST06_04\mess\st06_04.msg.txt,Messkor\st06_04.msg.txt,Copied
+DAT\ST07_00\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST07_05\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST07_05B\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST08_00\mess\st08_00.msg.txt,Messkor\st08_00.msg.txt,Copied
+DAT\ST08_00B\mess\st08_00.msg.txt,Messkor\st08_00.msg.txt,Skipped (Duplicate Content)
+DAT\ST08_00C\mess\st08_00.msg.txt,Messkor\st08_00.msg.txt,Skipped (Duplicate Content)
+DAT\ST08_01\MESS\ST08_01.MSG.txt,Messkor\ST08_01.MSG.txt,Copied
+DAT\ST08_02\MESS\ST08_02.MSG.txt,Messkor\ST08_02.MSG.txt,Copied
+DAT\ST08_03\MESS\ST08_03.MSG.txt,Messkor\ST08_03.MSG.txt,Copied
+DAT\ST08_04\MESS\ST08_03.MSG.txt,Messkor\ST08_03.MSG.txt,Skipped (Duplicate Content)
+DAT\ST09_00\mess\st09_00.msg.txt,Messkor\st09_00.msg.txt,Copied
+DAT\ST09_02\mess\dummy.msg.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST09_03\mess\st09_00.msg.txt,Messkor\st09_00.msg.txt,Skipped (Duplicate Content)
+DAT\ST09_05\mess\st09_00.msg.txt,Messkor\st09_00.msg.txt,Skipped (Duplicate Content)
+DAT\ST0A_00\MESS\ST0A_00.MSG.txt,Messkor\ST0A_00.MSG.txt,Copied
+DAT\ST0A_00C\MESS\ST0A_00.MSG.txt,Messkor\ST0A_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0A_00D\MESS\ST0A_00.MSG.txt,Messkor\ST0A_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0B_00\MESS\ST0B_02.MSG.txt,Messkor\ST0B_02.MSG.txt,Copied
+DAT\ST0B_00B\MESS\ST0B_02.MSG.txt,Messkor\ST0B_02.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0B_00C\MESS\ST0B_02.MSG.txt,Messkor\ST0B_02.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0B_01\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0C\MESS\ST0C_00.MSG.txt,Messkor\ST0C_00.MSG.txt,Copied
+DAT\ST0CB\MESS\ST0C_00.MSG.txt,Messkor\ST0C_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0CC\MESS\ST0C_00.MSG.txt,Messkor\ST0C_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0D_00\MESS\ST0D_00.MSG.txt,Messkor\ST0D_00.MSG.txt,Copied
+DAT\ST0D_00C\MESS\ST0D_00.MSG.txt,Messkor\ST0D_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0D_00D\MESS\ST0D_00.MSG.txt,Messkor\ST0D_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0D_01\MESS\ST0D_01.MSG.txt,Messkor\ST0D_01.MSG.txt,Copied
+DAT\ST0D_02\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0D_03\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0E\MESS\ST0E_00.MSG.txt,Messkor\ST0E_00.MSG.txt,Copied
+DAT\ST0F_00\mess\st0f_00.msg.txt,Messkor\st0f_00.msg.txt,Copied
+DAT\ST0F_02\MESS\ST0F_02.MSG.txt,Messkor\ST0F_02.MSG.txt,Copied
+DAT\ST0F_02B\MESS\ST0F_02.MSG.txt,Messkor\ST0F_02.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0F_02C\MESS\ST0F_02.MSG.txt,Messkor\ST0F_02.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0F_02D\MESS\ST0F_02.MSG.txt,Messkor\ST0F_02.MSG.txt,Skipped (Duplicate Content)
+DAT\ST0F_03\MESS\ST0F_03.MSG.txt,Messkor\ST0F_03.MSG.txt,Copied
+DAT\ST10_00\MESS\ST10_00.MSG.txt,Messkor\ST10_00.MSG.txt,Copied
+DAT\ST10_00B\MESS\ST10_00.MSG.txt,Messkor\ST10_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST10_00C\MESS\ST10_00.MSG.txt,Messkor\ST10_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST10_01\mess\st10_01.msg.txt,Messkor\st10_01.msg.txt,Copied
+DAT\ST10_02\mess\st10_01.msg.txt,Messkor\st10_01.msg.txt,Skipped (Duplicate Content)
+DAT\ST10_03\mess\st10_01.msg.txt,Messkor\st10_01.msg.txt,Skipped (Duplicate Content)
+DAT\ST10_04\mess\st10_04.msg.txt,Messkor\st10_04.msg.txt,Copied
+DAT\ST10_05\mess\stff_ff.msg.txt,Messkor\STFF_FF.MSG.txt,Skipped (Duplicate Content)
+DAT\ST11_00\MESS\ST11_00.MSG.txt,Messkor\ST11_00.MSG.txt,Copied
+DAT\ST11_00B\MESS\ST11_00.MSG.txt,Messkor\ST11_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST11_00C\MESS\ST11_00.MSG.txt,Messkor\ST11_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST12_00\MESS\ST12_00.MSG.txt,Messkor\ST12_00.MSG.txt,Copied
+DAT\ST13_00\MESS\ST13_00.MSG.txt,Messkor\ST13_00.MSG.txt,Copied
+DAT\ST13_00B\MESS\ST13_00.MSG.txt,Messkor\ST13_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST14\MESS\ST14_00.MSG.txt,Messkor\ST14_00.MSG.txt,Copied
+DAT\ST14_00\MESS\ST14_00.MSG.txt,Messkor\ST14_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST14_00B\MESS\ST14_00.MSG.txt,Messkor\ST14_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST15_00\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST16_00\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST16_00B\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST17\MESS\ST17_02.MSG.txt,Messkor\ST17_02.MSG.txt,Copied
+DAT\ST18_00\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\ST19\MESS\ST19_00.MSG.txt,Messkor\ST19_00.MSG.txt,Copied
+DAT\ST19_03\MESS\ST19_00.MSG.txt,Messkor\ST19_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST1A_00\MESS\ST1A_00.MSG.txt,Messkor\ST1A_00.MSG.txt,Copied
+DAT\ST1A_01\MESS\ST1A_00.MSG.txt,Messkor\ST1A_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST1A_01B\MESS\ST1A_00.MSG.txt,Messkor\ST1A_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST1A_01C\MESS\ST1A_00.MSG.txt,Messkor\ST1A_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST1A_02\MESS\ST1A_00.MSG.txt,Messkor\ST1A_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST1A_02B\MESS\ST1A_00.MSG.txt,Messkor\ST1A_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST1A_02C\MESS\ST1A_00.MSG.txt,Messkor\ST1A_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST1A_02D\MESS\ST1A_00.MSG.txt,Messkor\ST1A_00.MSG.txt,Skipped (Duplicate Content)
+DAT\ST1B_00\mess\st03_ff.msg.txt,Messkor\st03_ff.msg.txt,Skipped (Duplicate Content)
+DAT\ST1B_00B\mess\st03_ff.msg.txt,Messkor\st03_ff.msg.txt,Skipped (Duplicate Content)
+DAT\ST1C\MESS\ST1C_00.MSG.txt,Messkor\ST1C_00.MSG.txt,Copied
+DAT\ST1D\MESS\ST1D_00.MSG.txt,Messkor\ST1D_00.MSG.txt,Copied
+DAT\ST1E\MESS\DUMMY.MSG.txt,Messkor\DUMMY.MSG.txt,Skipped (Duplicate Content)
+DAT\SUB_KEY\MESS\STFF_FE.MSG.txt,Messkor\STFF_FE.MSG.txt,Copied
+DAT\SUB_WPN\MESS\STFF_FE.MSG.txt,Messkor\STFF_FE.MSG.txt,Skipped (Duplicate Content)
+DAT\SUPPORT\MESS\STFF_FD.MSG.txt,Messkor\STFF_FD.MSG.txt,Copied
+DAT\SUPPORT2\MESS\STFF_FD.MSG.txt,Messkor\STFF_FD.MSG.txt,Skipped (Duplicate Content)

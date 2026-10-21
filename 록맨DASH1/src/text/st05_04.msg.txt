@@ -1,0 +1,595 @@
+[Block 00, String: 0000-0030]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 햄버거 가게야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 0030-00AA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저기，치즈 버거랑<LINE>
+　피쉬 버거랑，<LINE>
+　감자튀김이랑…<NEXT>
+
+<CLEAR 0400>
+　…뭐였지 헷갈려버렸어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 00AA-00E8]
+<WIN 4000A2001003>
+<DECOR 0008>
+점원의 목소리<LINE>
+「바쁘다 바빠<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00E8-015A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이런 곳에<LINE>
+　햄버거 가게가<LINE>
+　생기다니 말야<NEXT>
+
+<CLEAR 0400>
+　깔끔하고 좋은 분위기의 가게네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 015A-01CA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기 점원 분들<LINE>
+　너무 귀여워<NEXT>
+
+<CLEAR 0400>
+　근데，<LINE>
+　어디서 본 적 있는 것 같기도…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 01CA-01FE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「으음～<LINE>
+　뭘 주문하지？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 01FE-026C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「점장님 인가요？<NEXT>
+
+<CLEAR 0400>
+　점장님은 트론 님이야요<LINE>
+　트론 님은 지금 없어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 026C-02BE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 말이야<LINE>
+　돈을 모아서<NEXT>
+
+<CLEAR 0400>
+　다시 시작할거래<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 02BE-02E8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「헥헥 힘들어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 02E8-0344]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금 섬은 많이 힘들어 보이지만<LINE>
+　금강산도 식후경<LINE>
+　이라고 하잖아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 0344-03B8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기 점원은<LINE>
+　뭔가 수상해보이네<NEXT>
+
+<CLEAR 0400>
+　그건 그렇고 진짜，<LINE>
+　어디서 봤었지？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 03B8-0410]
+<WIN 4000A2001003>
+<DECOR 0008>
+「고민 끝에 드디어 결정했어<LINE>
+　평범한 햄버거를<LINE>
+　주문할 거야！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 0410-0412]
+
+
+[Block 0D, String: 0412-0414]
+
+
+[Block 0E, String: 0414-0416]
+
+
+[Block 0F, String: 0416-0418]
+
+
+[Block 10, String: 0418-041A]
+
+
+[Block 11, String: 041A-041C]
+
+
+[Block 12, String: 041C-041E]
+
+
+[Block 13, String: 041E-0420]
+
+
+[Block 14, String: 0420-0466]
+<WIN 4000A2001003>
+<DECOR 0008>
+「트레이는 버리지 말아 주세요！<NEXT>
+
+<CLEAR 0400>
+라고，적혀있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 0466-04A8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「손님은 들어갈 수 없습니다<NEXT>
+
+<CLEAR 0400>
+라고，적혀 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 04A8-04AA]
+
+
+[Block 17, String: 04AA-04AC]
+
+
+[Block 18, String: 04AC-04AE]
+
+
+[Block 19, String: 04AE-04B0]
+
+
+[Block 1A, String: 04B0-04B2]
+
+
+[Block 1B, String: 04B2-04B4]
+
+
+[Block 1C, String: 04B4-04B6]
+
+
+[Block 1D, String: 04B6-04B8]
+
+
+[Block 1E, String: 04B8-04BA]
+
+
+[Block 1F, String: 04BA-04BC]
+
+
+[Block 20, String: 04BC-04BE]
+
+
+[Block 21, String: 04BE-04C0]
+
+
+[Block 22, String: 04C0-04C2]
+
+
+[Block 23, String: 04C2-04C4]
+
+
+[Block 24, String: 04C4-04C6]
+
+
+[Block 25, String: 04C6-04C8]
+
+
+[Block 26, String: 04C8-04CA]
+
+
+[Block 27, String: 04CA-04CC]
+
+
+[Block 28, String: 04CC-04CE]
+
+
+[Block 29, String: 04CE-04D0]
+
+
+[Block 2A, String: 04D0-04D2]
+
+
+[Block 2B, String: 04D2-04D4]
+
+
+[Block 2C, String: 04D4-04D6]
+
+
+[Block 2D, String: 04D6-04D8]
+
+
+[Block 2E, String: 04D8-04DA]
+
+
+[Block 2F, String: 04DA-04DC]
+
+
+[Block 30, String: 04DC-04DE]
+
+
+[Block 31, String: 04DE-04E0]
+
+
+[Block 32, String: 04E0-04E2]
+
+
+[Block 33, String: 04E2-04E4]
+
+
+[Block 34, String: 04E4-04E6]
+
+
+[Block 35, String: 04E6-04E8]
+
+
+[Block 36, String: 04E8-04EA]
+
+
+[Block 37, String: 04EA-04EC]
+
+
+[Block 38, String: 04EC-04EE]
+
+
+[Block 39, String: 04EE-04F0]
+
+
+[Block 3A, String: 04F0-04F2]
+
+
+[Block 3B, String: 04F2-04F4]
+
+
+[Block 3C, String: 04F4-04F6]
+
+
+[Block 3D, String: 04F6-04F8]
+
+
+[Block 3E, String: 04F8-04FA]
+
+
+[Block 3F, String: 04FA-04FC]
+
+
+[Block 40, String: 04FC-04FE]
+
+
+[Block 41, String: 04FE-0500]
+
+
+[Block 42, String: 0500-0502]
+
+
+[Block 43, String: 0502-0504]
+
+
+[Block 44, String: 0504-0506]
+
+
+[Block 45, String: 0506-0508]
+
+
+[Block 46, String: 0508-050A]
+
+
+[Block 47, String: 050A-050C]
+
+
+[Block 48, String: 050C-050E]
+
+
+[Block 49, String: 050E-0510]
+
+
+[Block 4A, String: 0510-0512]
+
+
+[Block 4B, String: 0512-0514]
+
+
+[Block 4C, String: 0514-0516]
+
+
+[Block 4D, String: 0516-0518]
+
+
+[Block 4E, String: 0518-051A]
+
+
+[Block 4F, String: 051A-051C]
+
+
+[Block 50, String: 051C-051E]
+
+
+[Block 51, String: 051E-0520]
+
+
+[Block 52, String: 0520-0522]
+
+
+[Block 53, String: 0522-0524]
+
+
+[Block 54, String: 0524-0526]
+
+
+[Block 55, String: 0526-0528]
+
+
+[Block 56, String: 0528-052A]
+
+
+[Block 57, String: 052A-052C]
+
+
+[Block 58, String: 052C-052E]
+
+
+[Block 59, String: 052E-0530]
+
+
+[Block 5A, String: 0530-0532]
+
+
+[Block 5B, String: 0532-0534]
+
+
+[Block 5C, String: 0534-0536]
+
+
+[Block 5D, String: 0536-0538]
+
+
+[Block 5E, String: 0538-053A]
+
+
+[Block 5F, String: 053A-053C]
+
+
+[Block 60, String: 053C-053E]
+
+
+[Block 61, String: 053E-0540]
+
+
+[Block 62, String: 0540-0542]
+
+
+[Block 63, String: 0542-0544]
+
+
+[Block 64, String: 0544-0546]
+
+
+[Block 65, String: 0546-0548]
+
+
+[Block 66, String: 0548-054A]
+
+
+[Block 67, String: 054A-054C]
+
+
+[Block 68, String: 054C-054E]
+
+
+[Block 69, String: 054E-0550]
+
+
+[Block 6A, String: 0550-0552]
+
+
+[Block 6B, String: 0552-0554]
+
+
+[Block 6C, String: 0554-0556]
+
+
+[Block 6D, String: 0556-0558]
+
+
+[Block 6E, String: 0558-055A]
+
+
+[Block 6F, String: 055A-055C]
+
+
+[Block 70, String: 055C-055E]
+
+
+[Block 71, String: 055E-0560]
+
+
+[Block 72, String: 0560-0562]
+
+
+[Block 73, String: 0562-0564]
+
+
+[Block 74, String: 0564-0566]
+
+
+[Block 75, String: 0566-0568]
+
+
+[Block 76, String: 0568-056A]
+
+
+[Block 77, String: 056A-056C]
+
+
+[Block 78, String: 056C-056E]
+
+
+[Block 79, String: 056E-0570]
+
+
+[Block 7A, String: 0570-0572]
+
+
+[Block 7B, String: 0572-0574]
+
+
+[Block 7C, String: 0574-0576]
+
+
+[Block 7D, String: 0576-0578]
+
+
+[Block 7E, String: 0578-057A]
+
+
+[Block 7F, String: 057A-05CC]
+<WIN 400024001003>
+<DECOR 0008>
+「트론 님으로 부터<LINE>
+　신호를 인식，<LINE>
+　개방 금지입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 80, String: 05CC-060A]
+<WIN 400024001002>
+<DECOR 0008>
+「비상사태로 인해，<LINE>
+　게이트 봉쇄 중 입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 81, String: 060A-0648]
+<WIN 400024001002>
+<DECOR 0008>
+「비상사태로 인해，<LINE>
+　게이트 봉쇄 중 입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 82, String: 0648-0686]
+<WIN 400024001002>
+<DECOR 0008>
+「비상사태로 인해，<LINE>
+　게이트 봉쇄 중 입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 83, String: 0686-06CA]
+<MSG_IF 06007FFF>
+<WIN 400024001002>
+<DECOR 0008>
+「비상사태로 인해，<LINE>
+　게이트 봉쇄 중 입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 84, String: 06CA-070E]
+<MSG_IF 20067FFF>
+<WIN 400024001002>
+<DECOR 0008>
+「본 일가 이외에는<LINE>
+　통과하지 말 것！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 85, String: 070E-0734]
+<WIN 400024001001>
+<DECOR 0008>
+「가로등이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 86, String: 0734-075E]
+<WIN 400024001001>
+<DECOR 0008>
+「소화전이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 87, String: 075E-077E]
+<WIN 400024001001>
+<DECOR 0008>
+「벤치다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 88, String: 077E-07BC]
+<WIN 400024001002>
+<DECOR 0008>
+「버스 정류장이다<LINE>
+　버스도 다니고 있구나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 89, String: 07BC-07DC]
+<WIN 400024001001>
+<DECOR 0008>
+「우체통이다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 8A, String: 07DC-07DE]
+
+
+[Block 8B, String: 07DE-07E0]
+
+

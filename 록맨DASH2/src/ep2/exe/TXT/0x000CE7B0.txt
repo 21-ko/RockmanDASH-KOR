@@ -1,0 +1,861 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<VWAIT 00>
+<POS 002E00540904>
+<FB05 4308>
+<SEL 00>
+아이템 개발<LINE>
+
+<SEL 01>
+특수무기 교환<LINE>
+
+<SEL 02>
+특수무기 강화<LINE>
+
+<SEL 03>
+그만둔다
+<FB39 040000000100020003>
+<FB11 05FFFFFFFFFF>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0300>
+<VWAIT 00>
+<POS 002800B31522>
+<SEL 00>
+공격력　　　
+<SEL 01>
+탄약　　　　
+<SEL 02>
+사정거리　<LINE>
+
+<SEL 03>
+연사력　　　
+<SEL 04>
+특수성　　　
+<SEL 05>
+그만둔다
+<FB39 06000007000E00000107010E01>
+<FB11 07FFFFFFFFFFFFFF>
+<FB2B>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0000>
+<VWAIT 00>
+<POS 0082005E0703>
+<FB05 4308>
+이제 됐어？<LINE>
+　
+<SEL 00>
+응<LINE>
+　
+<SEL 01>
+아니
+<FB39 0201010102>
+<FB11 03FFFFFF>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0500>
+<VWAIT 00>
+<POS 005E004E0C25>
+<FB05 4308>
+강화하려면<LINE>
+
+<FB21 00>
+제니가<LINE>
+필요한데 괜찮아？<LINE>
+　　　
+<SEL 00>
+응<LINE>
+　　　
+<SEL 01>
+아니
+<FB39 0203030304>
+<FB11 03FFFFFF>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 03>
+<POS 001600B41822>
+<FB05 4308>
+　<LINE>
+　
+<FB2B>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0000>
+<VWAIT 00>
+<FB30 01>
+<POS 0017001E0901>
+<FB05 4308>
+<FB21 80>＄
+<FB2B>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0700>
+<VWAIT 00>
+<FB30 01>
+<POS 003A005E1233>
+<FB05 4308>
+<FB19 00EF>
+록, 특수무기 교환이 끝났어.<LINE>
+특수무기를 교환하고 싶다면<LINE>
+언제든지 내게 말해.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0700>
+<VWAIT 00>
+<FB30 01>
+<POS 003A005E1233>
+<FB05 4308>
+<FB19 00EF>
+록, 특수무기 강화가 끝났어.<LINE>
+특수무기를 강화하고 싶다면<LINE>
+언제든지 내게 말해.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 01>
+<POS 004000661112>
+<FB05 4308>
+미안해.<LINE>
+이 이상으로는 강화할 수 없나 봐.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0100>
+<VWAIT 00>
+<FB30 02>
+<POS 0076006E0811>
+<FB05 4308>
+제니가 부족해.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0100>
+<VWAIT 00>
+<FB30 02>
+<POS 0040006E1111>
+<FB05 4308>
+교환할 수 있는 특수무기가 없어.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000B]
+
+
+[BLOCK: 000C]
+
+
+[BLOCK: 000D]
+
+
+[BLOCK: 000E]
+<FUNC 0100>
+<VWAIT 00>
+<FB30 02>
+<POS 0040006E1111>
+<FB05 4308>
+강화할 수 있는 특수무기가 없어.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0700>
+<VWAIT 00>
+<FB30 02>
+<POS 003A00561234>
+<FB05 4308>
+<FB3D>
+와(과) 합치면<LINE>
+새로운 아이템을 개발할 수 있는데<LINE>
+개발할래？<LINE>
+　　　　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0204030803>
+<FB11 03FFFFFF>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0700>
+<VWAIT 00>
+<FB30 02>
+<POS 003A005E1233>
+<FB05 4308>
+<FB3D>
+이(가)<LINE>
+있으면 뭔가 만들 수 있을 것 같은데<LINE>
+어디 구할 데 없을까？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 003A005E1223>
+<FB05 4308>
+<FB3D>
+을(를)<LINE>
+새로 개발할 수 있는데 개발할래？<LINE>
+　　　　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0204020802>
+<FB11 03FFFFFF>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0100>
+<FB30 02>
+<POS 0052006E0F11>
+<FB05 4308>
+이건 
+<FB3D>
+으(로) 보여.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0100>
+<FB30 02>
+<POS 005E006E0C11>
+<FB05 4308>
+건네줄 아이템이 없어.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0400>
+<FB30 02>
+<POS 0040005E1113>
+<FB05 4308>
+미안해.<LINE>
+이 아이템으로는<LINE>
+아무것도 개발할 수 없을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0017]
+<FUNC 0100>
+<FB30 02>
+<POS 005E006E0C11>
+<FB05 4308>
+록, 잠깐만 기다려 줘！
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<FB30 02>
+<POS 003A00661222>
+<FB05 4308>
+<FB19 00F0>
+<FB3D>
+이(가) 완성됐어.<LINE>
+교환하고 싶으면 언제든지 말해.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0018]
+<FUNC 0100>
+<FB30 02>
+<POS 005E006E0C11>
+<FB05 4308>
+록, 잠깐만 기다려 줘！
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<FB30 02>
+<POS 004600661012>
+<FB05 4308>
+<FB19 00F0>
+<FB3D>
+이(가) 완성됐어.<LINE>
+그럼, 힘내！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0019]
+<FUNC 0000>
+<END>
+
+[BLOCK: 001A]
+<FUNC 0300>
+<FB30 02>
+<POS 005E00980C22>
+<FB05 4308>
+록 몰래 새 개발 키트를<LINE>
+샀어.
+<PAGEKEY>
+<NEXTPAGE 020300>
+이제 특수무기 강화를<LINE>
+저렴하게 할 수 있어！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001B]
+<FUNC 0200>
+<FB30 02>
+<POS 005200980E22>
+<FB05 4308>
+미안해 록.<LINE>
+개발 키트가 망가졌어…….
+<PAGEKEY>
+<NEXTPAGE 020300>
+특수무기 강화를 저렴하게<LINE>
+할 수 있었는데 아까워…….
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001C]
+<FUNC 0200>
+<FB30 02>
+<POS 004600981022>
+<FB05 4308>
+휴～<LINE>
+드디어 개발 기계를 다 고쳤어.
+<PAGEKEY>
+<NEXTPAGE 020300>
+이제 예전과 같은 비용으로<LINE>
+특수무기를 강화할 수 있어.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001D]
+<FUNC 0300>
+<FB30 02>
+<POS 004C00900F23>
+<FB05 4308>
+록…… 개발 기계 상태가<LINE>
+왠지 좋지 않아 보여…….
+<PAGEKEY>
+<NEXTPAGE 020300>
+그래서 특수무기 강화 비용이<LINE>
+예전보다 높아질 거야.<LINE>
+미안해ー.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0000>
+<VWAIT 00>
+<POS 006A001C0A01>
+<FB05 4308>
+록, 무슨 일이야？
+<FB2B>
+<END>
+
+[BLOCK: 001F]
+<FUNC 0100>
+<VWAIT 00>
+<POS 005E001C0C11>
+<FB05 4308>
+어떤 무기와 교환할래？
+<FB2B>
+<END>
+
+[BLOCK: 0020]
+<FUNC 0100>
+<VWAIT 00>
+<POS 005E001C0C11>
+<FB05 4308>
+어떤 무기를 강화할래？
+<FB2B>
+<END>
+
+[BLOCK: 0021]
+<FUNC 0100>
+<VWAIT 00>
+<POS 005E001C0C11>
+<FB05 4308>
+어느 부분을 강화할래？
+<FB2B>
+<END>
+
+[BLOCK: 0022]
+<FUNC 0100>
+<VWAIT 00>
+<POS 0046001C1011>
+<FB05 4308>
+어떤 아이템을 써서 개발할래？
+<FB2B>
+<END>
+
+[BLOCK: 0023]
+
+
+[BLOCK: 0024]
+
+
+[BLOCK: 0025]
+
+
+[BLOCK: 0026]
+
+
+[BLOCK: 0027]
+<FUNC 0300>
+<VWAIT 00>
+<POS 005E00660C22>
+<FB05 4308>
+새로운 무기가 필요하면<LINE>
+언제든지 말해 줘.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0028]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+빨아들일 것이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0029]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+강력한 모터가 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002A]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+철제 배럴이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002B]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+머신건 같은 것이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002C]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+드릴 같은 것이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002D]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E22>
+<FB05 4308>
+강력한 기어가 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002E]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 004600661022>
+<FB05 4308>
+무겁고 굴러가는 물건이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002F]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 004000661122>
+<FB05 4308>
+부딪히면 폭발하는 물건이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0030]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+로켓 불꽃 같은 것이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0031]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 003400661322>
+<FB05 4308>
+추적 공격에 관한 전문 지식이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0032]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+통통 튀는 물건이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0033]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 004600661022>
+<FB05 4308>
+소형 포탄에 관한 지식이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0034]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+단단한 파이프가 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0035]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 004000661122>
+<FB05 4308>
+탄을 멀리 쏘는 전문 지식이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0036]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+렌즈 같은 것이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0037]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 004000661112>
+<FB05 4308>
+레이저에 관한 전문 지식이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0038]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 004C00660F12>
+<FB05 4308>
+흩뿌릴 수 있는 물건이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0039]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 003400661322>
+<FB05 4308>
+동시 공격에 관한 전문 지식이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003A]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 004000661112>
+<FB05 4308>
+찌릿찌릿하게 만드는 것이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003B]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 003A00661212>
+<FB05 4308>
+이걸 활용할 수 있는 물건이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003C]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+칼 같은 것이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003D]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 004000661112>
+<FB05 4308>
+반짝봉에 관한 전문 지식이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003E]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+방패 같은 것이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003F]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 004000661112>
+<FB05 4308>
+배리어에 관한 전문 지식이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0040]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E22>
+<FB05 4308>
+멀리 날리는 장치가 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0041]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+통통 튀는 물건이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0042]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 005200660E12>
+<FB05 4308>
+센서 같은 것이 있으면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0043]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 004600661022>
+<FB05 4308>
+자동공격에 관한 지식이 있다면<LINE>
+뭔가 만들 수 있을 것 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0044]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 005E00660C22>
+<FB05 4308>
+<FB19 00EF>
+이건 추적 공격에 관해<LINE>
+쓰여 있는 메모 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0045]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 005800660D22>
+<FB05 4308>
+<FB19 00EF>
+이건 원거리 공격에 관해<LINE>
+쓰여 있는 메모 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0046]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 005800660D22>
+<FB05 4308>
+<FB19 00EF>
+이건 와이드 공격에 관해<LINE>
+쓰여 있는 메모 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0047]
+<FUNC 0200>
+<VWAIT 00>
+<FB30 02>
+<POS 006400660B12>
+<FB05 4308>
+<FB19 00EF>
+이건 빔 소드에 관해<LINE>
+쓰여 있는 메모 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0048]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 006400660B22>
+<FB05 4308>
+<FB19 00EF>
+이건 방어에 관해<LINE>
+쓰여 있는 메모 같아.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0049]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 02>
+<POS 005E00660C22>
+<FB05 4308>
+<FB19 00EF>
+이건 자동 공격에 관해<LINE>
+쓰여 있는 메모 같아.
+<ENDKEY>
+<FB31>
+<END>
+

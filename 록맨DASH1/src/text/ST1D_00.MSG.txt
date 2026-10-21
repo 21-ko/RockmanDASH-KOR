@@ -1,0 +1,81 @@
+[Block 00, String: 0000-0026]
+<WIN 70003C000801>
+<DECOR 0008>
+가짜 메세지．<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 0026-00D4]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 04001D00>
+<WIN 4000A0001002>
+<DECOR 0008>
+이런 지하에 도시가…<LINE>
+휴먼・오리지널・유닛들의<LINE>
+<CLEAR 7400>
+<AUDIO 05001D00>
+거주 에리어…인걸까？<CLEAR 3000>
+<AUDIO 06001D00>
+센트럴 게이트의 열쇠는<LINE>
+어디에 있을까<END><CLOSE 3600>
+
+
+[Block 02, String: 00D4-014E]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 0C001D00>
+<WIN 4C00A0000E02>
+<DECOR 0008>
+뭘까，이 건물은<LINE>
+다른 것들과는 조금 달라…<CLEAR 7300>
+<AUDIO 0D001D00>
+어떻게 해야<LINE>
+안으로 들어갈 수 있을까…<END><CLOSE 2800>
+
+
+[Block 03, String: 014E-01B0]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 0F001D00>
+<WIN 4000A0001002>
+<DECOR 0008>
+음？<LINE>
+어딘가의 문이 열린 것 같아…<LINE>
+<CLEAR 4900>
+<AUDIO 10001D00>
+잠깐 찾아볼까<END><CLOSE 1400>
+
+
+[Block 04, String: 01B0-01EE]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 08001D00>
+<WIN 5800A0000C02>
+<DECOR 0008>
+좋아，열쇠를 찾았어！<LINE>
+돌아갈까<END><CLOSE 5F00>
+
+
+[Block 05, String: 01EE-0230]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 09001D00>
+<WIN 6400A0000A02>
+<DECOR 0008>
+이걸로 열쇠는 ２개…<LINE>
+앞으로 하나 남았나…<END><CLOSE 6100>
+
+
+[Block 06, String: 0230-02B8]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 0A001D00>
+<WIN 3A00A0001102>
+<DECOR 0008>
+이걸로<LINE>
+열쇠는 전부 모았을 거야…<CLEAR 2D00>
+<AUDIO 0B001D00>
+다음은 메인게이트 아래의…<LINE>
+센트럴 게이트를 여는 것뿐… 인가…<END><CLOSE 5500>
+
+
+[Block 07, String: 02B8-0310]
+<WIN 4C0078000E03>
+<DECOR 0008>
+ＯＳ음성<LINE>
+「보안에 문제가 있으므로<LINE>
+　퇴장은 허가할 수 없습니다<NEXT>
+
+<END><CLOSE 0400>
+
+

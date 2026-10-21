@@ -1,0 +1,468 @@
+[Block 00, String: 0000-010C]
+<MSG_IF 2C0516FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「아，혹시<LINE>
+　디그아우터이실까요？<NEXT>
+
+<CLEAR 0400>
+　이 섬의 사람들은<LINE>
+　모두 좋은 사람들 뿐입니다<NEXT>
+
+<CLEAR 0400>
+　아직은，익숙하진 않겠습니다만<LINE>
+　분명 사이좋게 지낼 수 있다고<LINE>
+　생각해요<NEXT>
+
+<CLEAR 0400>
+　아무쪼록<LINE>
+　나쁜 행동은 하지않도록<LINE>
+　부탁드립니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 010C-0152]
+<WIN 4000A2001003>
+<DECOR 0008>
+「피난 수속 등은<LINE>
+　이쪽에서 접수하고 있습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 0152-01A6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적에 대비해서<LINE>
+　대피해 둬야지<LINE>
+　절차는 서둘러야 돼<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 01A6-01EA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「언제 공적이 올까 생각하니<LINE>
+　마음이 진정되지 않네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 01EA-0266]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신，사실은<LINE>
+　굉장한 디그아우터군요<NEXT>
+
+<CLEAR 0400>
+　앞으로도，<LINE>
+　이 섬을 잘 부탁드립니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 0266-02B4]
+<WIN 3400A2001203>
+<DECOR 0008>
+「피난에서 돌아오신 분에 대한 수속은<LINE>
+　이쪽에서 접수하고 있습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 02B4-02F8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「빨리 집에 돌아가야지<LINE>
+　절차는 서둘러야 돼<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 02F8-0366]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이번에는 클로저 숲에<LINE>
+　공적이 나타났다던데・・<NEXT>
+
+<CLEAR 0400>
+　경찰이 감당할 수 있을까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 0366-03C2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「집으로 돌아가는 절차를<LINE>
+　밟고 싶은데・・<LINE>
+　어디로 가면 좋을까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 03C2-044E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「만약，거리의 부흥에<LINE>
+　협력하고자 하신다면<LINE>
+　시장님을 만나봐주세요<NEXT>
+
+<CLEAR 0400>
+　시장님은 계단을 통해서，<LINE>
+　２층에 계십니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 044E-04A2]
+<WIN 3400A2001203>
+<DECOR 0008>
+「피난에서 돌아오신 분에 대한 수속은<LINE>
+　아직，이쪽에서 받고 있습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 04A2-04E6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「수속은 이쪽이었구나<LINE>
+　겨우 알았네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 04E6-053A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적 놈들，이 섬을 습격하는걸<LINE>
+　정말로 포기한걸까・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 053A-05C6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「만약，거리의 부흥에<LINE>
+　협력하고자 하신다면<LINE>
+　시장님을 만나봐주세요<NEXT>
+
+<CLEAR 0400>
+　시장님은 계단을 통해서，<LINE>
+　２층에 계십니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 05C6-061E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「마을 주민들도<LINE>
+　보아하니 대부분 피난처에서<LINE>
+　돌아온 것 같네요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 061E-0666]
+<WIN 4000A2001003>
+<DECOR 0008>
+「수속도 끝났고，<LINE>
+　슬슬 집으로 가야할 것 같아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0666-06C6]
+<WIN 3400A2001203>
+<DECOR 0008>
+「공적들，다음엔<LINE>
+　호수의 유적에 나타나는거 아니야？<LINE>
+　순서로 보자면 그렇지？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 06C6-0744]
+<WIN 4000A2001003>
+<DECOR 0008>
+「근래 사건이 계속되어<LINE>
+　시장님도 피곤해 보이십니다<NEXT>
+
+<CLEAR 0400>
+　록 씨！<LINE>
+　시장님을 도와주세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 0744-077C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「마침내 일상적인 업무로<LINE>
+　돌아왔습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 077C-07CA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「실례합니다～<LINE>
+　혼인 신고서，<LINE>
+　제출하고 싶은데요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 07CA-080C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「시청 말이야，<LINE>
+　뭔가 이상하지 않나・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 080C-0868]
+<WIN 4000A2001003>
+<DECOR 0008>
+「가게를 세우는데<LINE>
+　절차가 필요하대<NEXT>
+
+<CLEAR 0400>
+　트론 님이 그러셨어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 0868-093A]
+<WIN 4000A2001003>
+<DECOR 0008>
+　이 섬의 사람들은<LINE>
+　모두 좋은 사람들 뿐입니다<NEXT>
+
+<CLEAR 0400>
+　아직은，익숙하진 않겠습니다만<LINE>
+　분명 사이좋게 지낼 수 있다고<LINE>
+　생각해요<NEXT>
+
+<CLEAR 0400>
+　아무쪼록<LINE>
+　나쁜 행동은 하지않도록<LINE>
+　부탁드립니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 093A-09C0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「시장님이라면，메인 게이트를<LINE>
+　조금은 알고 계실지도 몰라요<NEXT>
+
+<CLEAR 0400>
+　괜찮다면<LINE>
+　위에서 이야기를 들어보세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 09C0-0A1A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「또 다시，<LINE>
+　피난 수속이 시작되었습니다<NEXT>
+
+<CLEAR 0400>
+　정말 바쁜 일입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 0A1A-0A82]
+<WIN 4000A2001003>
+<DECOR 0008>
+「집에 돌아오자마자<LINE>
+　땅울림과 큰 소리라니！<NEXT>
+
+<CLEAR 0400>
+　이건 또 피난상황이군！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1A, String: 0A82-0B08]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인 게이트에는，<LINE>
+　귀여운 고양이가 있다는<LINE>
+　소문이 있지만，<NEXT>
+
+<CLEAR 0400>
+　고양이들<LINE>
+　괜찮은 걸까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1B, String: 0B08-0B90]
+<WIN 4000A2001003>
+<DECOR 0008>
+「앗<LINE>
+　시장실 출입은 자제해주세요<NEXT>
+
+<CLEAR 0400>
+　・・랄까<LINE>
+　록 씨라면 언제든지<LINE>
+　들어가셔도 괜찮습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1C, String: 0B90-0B92]
+
+
+[Block 1D, String: 0B92-0B94]
+
+
+[Block 1E, String: 0B94-0BF4]
+<WIN 4000A2001003>
+<DECOR 0008>
+푹신푹신한 소파…<NEXT>
+
+<CLEAR 0400>
+가 아닌，<LINE>
+윤기가 나고 탄력있는<LINE>
+가죽 제품이다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 0BF4-0C6A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「서브게이트 입구가<LINE>
+　거리에도 나타난 것 같네요…<NEXT>
+
+<CLEAR 0400>
+　시민들도<LINE>
+　동요하고 있는 것 같아요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0C6A-0CE4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「피난에，피난…<LINE>
+　피난 수속만으로 하루가<LINE>
+　끝나버렸습니다<NEXT>
+
+<CLEAR 0400>
+　나도，<LINE>
+　피난해버릴까…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 0CE4-0D48]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나，피난 할래！<NEXT>
+
+<CLEAR 0400>
+　라고 생각했지만 그만뒀어！<NEXT>
+
+<CLEAR 0400>
+　아니，그래도 역시…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 0D48-0D98]
+<WIN 3400A2001203>
+<DECOR 0008>
+「하지만，어째서 이렇게<LINE>
+　여러가지 일들이 일어나는 걸까요…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 0D98-0E50]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트 쪽에서<LINE>
+　또 무슨일이 있는 것 같아요…<NEXT>
+
+<CLEAR 0400>
+　록 씨，노력하고 있는<LINE>
+　시장님을 위해서라도，<LINE>
+　어떻게든 해주세요<NEXT>
+
+<CLEAR 0400>
+　저도 부탁드립니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 0E50-0EEA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「한때는 저도<LINE>
+　피난을 생각했습니다만，<NEXT>
+
+<CLEAR 0400>
+　섬을 위해 노력 중이신<LINE>
+　시장님의 모습을 보고，<LINE>
+　마음을 바로잡았습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 25, String: 0EEA-0F9E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「역시 피난은 그만두겠어！<NEXT>
+
+<CLEAR 0400>
+　나는 나고 자란 곳이<LINE>
+　이 장소인，순수한<LINE>
+　캐틀옥스 사람이다！<NEXT>
+
+<CLEAR 0400>
+　알겠냐！<LINE>
+　알겠냐고！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 26, String: 0F9E-1020]
+<WIN 4000A2001003>
+<DECOR 0008>
+「무슨 일이 일어날지라도，<LINE>
+　일어난 일을 있는 그대로<LINE>
+　받아들여보려고 합니다<NEXT>
+
+<CLEAR 0400>
+　그것이 제 운명이겠죠<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 27, String: 1020-1096]
+<WIN 4000A2001003>
+<DECOR 0008>
+「록 씨 덕분에，건물은<LINE>
+　모두 원상태로 복구되었습니다<NEXT>
+
+<CLEAR 0400>
+　진심으로 감사드립니다<NEXT>
+
+<END><CLOSE 0400>
+
+

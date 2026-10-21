@@ -1,0 +1,323 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-00FC]
+<GET 3100><GIVE E107><WIN 4000A2001003>
+<DECOR 0008>
+와일리<LINE>
+「아，미안하다만…<LINE>
+　그쪽에도 보트는 없어<NEXT>
+
+<CLEAR 0400>
+　뭐하는 녀석인진 모르지만<LINE>
+　내 보트를 전부<LINE>
+　훔쳐가버렸어…！<NEXT>
+
+<CLEAR 0400>
+　그러니，그쪽에도<LINE>
+　망가진 보트만 있을 뿐이야，<LINE>
+　가봐도 별 의미는 없네…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 00FC-0192]
+<WIN 4000A2001003>
+<DECOR 0008>
+「보트가 필요하신가？<NEXT>
+
+<CLEAR 0400>
+　평소라면，얼마든지<LINE>
+　라고 말했겠지만…<NEXT>
+
+<CLEAR 0400>
+　지금은，보트가 없어<LINE>
+　미안하네…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 0192-024E]
+<GET 3200><GIVE E307><WIN 4000A2001003>
+<DECOR 0008>
+보트 창고의 손님<LINE>
+「거긴，보트 탑승장인데<LINE>
+　가봤자 아무것도 없어…<NEXT>
+
+<CLEAR 0400>
+　누군가가，이 곳의 보트를<LINE>
+　전부 훔쳐가버렸대！<NEXT>
+
+<CLEAR 0400>
+　지독한 짓 하는구만…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 024E-02CE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아무래도，누군가한테<LINE>
+　보트를 도둑맞은 모양이야<NEXT>
+
+<CLEAR 0400>
+　보트 같은걸 훔쳐선<LINE>
+　무슨 짓을 할 생각일까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 02CE-038C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나도 보트를 빌리려고<LINE>
+　할 참이었는데…<NEXT>
+
+<CLEAR 0400>
+　어，유적에 가는거냐고！？<LINE>
+　아니야，낚시야，낚시！<NEXT>
+
+<CLEAR 0400>
+　이 호수에는 좋은 계류가<LINE>
+　잔뜩 있거든…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 038C-0420]
+<WIN 4000A2001003>
+<DECOR 0008>
+「훔친 보트로<LINE>
+　저런 전투 메카를<LINE>
+　만들고 있었나…<NEXT>
+
+<CLEAR 0400>
+　낚시하러 갔었다면<LINE>
+　저 녀석들에게 호되게<LINE>
+　당했을지도…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 0420-048A]
+<WIN 3A00A2001103>
+<DECOR 0008>
+「흠…<LINE>
+　필시 메인게이트겠지<NEXT>
+
+<CLEAR 0400>
+　저곳에서<LINE>
+　무슨 일이 일어나고 있는 것 같아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 048A-050A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나는 어부인데<LINE>
+　저렇게 수면이 거칠어지면，<NEXT>
+
+<CLEAR 0400>
+　당분간 숙소 밖으로<LINE>
+　나오기는 글렀군…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 050A-05AE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나，이래 보여도<LINE>
+　낚시 좋아해！！<LINE>
+　저기 자기야！ 나랑 놀자！！<NEXT>
+
+<CLEAR 0400>
+　랄～까나，<LINE>
+　낚시는 낚시라도…<LINE>
+　이려나！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 05AE-06EC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지하에 도시가 있다는 이야기…<LINE>
+　옛날에 들은 적이 있지<NEXT>
+
+<CLEAR 0400>
+　게다가，거기에 살고 있는 것은<LINE>
+　우리들의 선조가 아니다，<LINE>
+　라는 이야기였지…<NEXT>
+
+<CLEAR 0400>
+　이상한 이야기다만，<LINE>
+　지금까지 깊게 생각해본 적은<LINE>
+　없었지…<NEXT>
+
+<CLEAR 0400>
+　하지만，너랑 이야기하면，<LINE>
+　이런저런 생각을 하게 되는군…<LINE>
+　신기한 소년이구나… 너는<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 06EC-0742]
+<WIN 4000A2001003>
+<DECOR 0008>
+「해일이 있었어<LINE>
+　…장사는 파리만 날리게 생겼어<LINE>
+　이래가지곤…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 0742-07D4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트，<LINE>
+　라고 부를 정도니까<LINE>
+　무언가의 문이겠다만…<NEXT>
+
+<CLEAR 0400>
+　대체 어디와 이어져있다고<LINE>
+　할 수 있는 거지…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 07D4-0846]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이것은，<LINE>
+　호수의 수호신의 노여움인가…<NEXT>
+
+<CLEAR 0400>
+　아니，그게 아니면<LINE>
+　더 대단한 존재의 것인가！？<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 0846-0914]
+<WIN 4000A2001003>
+<DECOR 0008>
+「호수 유적의 디플렉터는<LINE>
+　보통 수단으로는<LINE>
+　손에 넣을 수 없어…<NEXT>
+
+<CLEAR 0400>
+　지금까지도<LINE>
+　많은 디그아우터들이<LINE>
+　저기서…<NEXT>
+
+<CLEAR 0400>
+　어쩌면 당신은…<LINE>
+　이라는 예감도 들지만<LINE>
+　조심하는게 좋아…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 0914-0970]
+<WIN 4000A2001003>
+<DECOR 0008>
+「됐어，<LINE>
+　나한테 신경써주지 않아도<NEXT>
+
+<CLEAR 0400>
+　낚시라면 나중에 갈테니까！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0970-0972]
+
+
+[Block 11, String: 0972-0974]
+
+
+[Block 12, String: 0974-0976]
+
+
+[Block 13, String: 0976-0978]
+
+
+[Block 14, String: 0978-097A]
+
+
+[Block 15, String: 097A-097C]
+
+
+[Block 16, String: 097C-097E]
+
+
+[Block 17, String: 097E-0980]
+
+
+[Block 18, String: 0980-0982]
+
+
+[Block 19, String: 0982-0984]
+
+
+[Block 1A, String: 0984-0986]
+
+
+[Block 1B, String: 0986-0988]
+
+
+[Block 1C, String: 0988-098A]
+
+
+[Block 1D, String: 098A-098C]
+
+
+[Block 1E, String: 098C-09D4]
+<WIN 4000A2001003>
+<DECOR 0008>
+보트의 모형이다<NEXT>
+
+<CLEAR 0400>
+하지만，여기에는 탈 수 없다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 09D4-0A32]
+<WIN 3A00A2001103>
+<DECOR 0008>
+튜브가 놓여있다<NEXT>
+
+<CLEAR 0400>
+하지만 이 몸에는，<LINE>
+튜브를 사용해도 의미없을지도・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0A32-0AC2]
+<WIN 4000A2001003>
+<DECOR 0008>
+서랍을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+낚시 도구 등이 들어있다<NEXT>
+
+<CLEAR 0400>
+하지만 와일리 아저씨는<LINE>
+무서우니까，그냥 이대로<LINE>
+건들지말자<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 0AC2-0AC4]
+
+
+[Block 22, String: 0AC4-0AC6]
+
+

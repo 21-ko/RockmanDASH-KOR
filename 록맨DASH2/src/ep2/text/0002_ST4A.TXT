@@ -1,0 +1,1031 @@
+[BLOCK: 0000]
+<FUNC 0100>
+<FB28 06821AFF>
+<FB28 06831BFF>
+<VWAIT 00>
+<POS 005E00B40C11>
+<FB05 0108>
+자물쇠가 걸려있다……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+지상으로 올라갈까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0100>
+<POS 006400AC0B12>
+<FB05 0108>
+１Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0100>
+<POS 006400AC0B12>
+<FB05 0108>
+２Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0100>
+<POS 006400AC0B12>
+<FB05 0108>
+３Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0100>
+<POS 006400AC0B12>
+<FB05 0108>
+４Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ１Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ２Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ３Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ４Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ５Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 000B]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ６Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 000C]
+<FUNC 0000>
+<END>
+
+[BLOCK: 000D]
+<FUNC 0000>
+<END>
+
+[BLOCK: 000E]
+<FUNC 0000>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0000>
+<FB26 0702>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0000>
+<FB2C 00>
+<FB15 0100000000000000E00084>
+<FB2B>
+<FB28 06812BFF>
+<FB28 06802AFF>
+<FB0E 20>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0200>
+<FB30 01>
+<VWAIT 02>
+<POS 006A00200A12>
+<FB05 0108>
+점프는 
+<COLOR 02>
+<BUTTON 02>
+<COLOR 00>
+<LINE>
+단차를 뛰어넘자！
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00180A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0311FFFF>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0200>
+<FB30 01>
+<VWAIT 02>
+<POS 002E00181433>
+<FB05 0108>
+<COLOR 02>
+『록 버스터』
+<COLOR 00>
+와 
+<COLOR 02>
+『록온』
+<COLOR 00>
+을<LINE>
+가르쳐줄게.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<COLOR 02>
+<BUTTON 01>
+<COLOR 00>
+으로 
+<COLOR 02>
+『록 버스터』
+<COLOR 00>
+를 쏠 수 있어.<LINE>
+버튼을 계속 누르고 있으면,<LINE>
+자동으로 연사도 돼.
+<PAGEKEY>
+<NEXTPAGE 020700>
+그리고 
+<COLOR 02>
+<BUTTON 08>
+<COLOR 00>
+이,<LINE>
+아주 편리한
+<COLOR 02>
+『록온』
+<COLOR 00>
+！<LINE>
+가까운 적을 겨냥하게 돼.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<COLOR 02>
+<BUTTON 08>
+<COLOR 00>
+을<LINE>
+누르고 있으면, <LINE>
+계속 적을 조준해.
+<PAGEKEY>
+<NEXTPAGE 020600>
+<COLOR 02>
+『록온』
+<COLOR 00>
+하면서,<LINE>
+
+<COLOR 02>
+『록 버스터』
+<COLOR 00>
+를 쏘는 것.<LINE>
+이게 기본적인 공격 방법이야.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 007000180913>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0312FFFF>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0100>
+<FB30 01>
+<VWAIT 02>
+<POS 001600181823>
+<FB05 0108>
+적을 쓰러뜨리면,
+<PAGEKEY>
+<NEXTPAGE 020400>
+<COLOR 02>
+『디플렉터』<LINE>
+『에너지 큐브』
+<COLOR 00>
+<LINE>
+<COLOR 02>
+『특수 무기 회복 큐브』
+<COLOR 00>
+가 나올 때가 있어.
+<PAGEKEY>
+<NEXTPAGE 020300>
+세로로 약간 길쭉한 돌이 
+<COLOR 02>
+『디플렉터』
+<COLOR 00>
+<LINE>
+돈 대신 사용할 수 있어.
+<PAGEKEY>
+<NEXTPAGE 020300>
+상자 모양 빨간 돌은 
+<COLOR 02>
+『에너지 큐브』
+<COLOR 00>
+<LINE>
+라이프가 회복 돼.
+<PAGEKEY>
+<NEXTPAGE 020300>
+마름모 모양 파란 돌은 
+<COLOR 02>
+『특수 무기 회복 큐브』
+<COLOR 00>
+<LINE>
+특수 무기 게이지가 회복 돼.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00180A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0313FFFF>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0300>
+<FB30 01>
+<VWAIT 02>
+<POS 001C00181733>
+<FB05 0108>
+그럼 다음은, 
+<COLOR 02>
+『특수 무기』
+<COLOR 00>
+와<LINE>
+
+<COLOR 02>
+『들어올리기』
+<COLOR 00>
+에 대해 설명할게.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<COLOR 02>
+『특수 무기』
+<COLOR 00>
+라는 것은<LINE>
+이름 그대로 특수한 능력을<LINE>
+가진 강력한 무기로, 다양한 타입이 있어.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<COLOR 02>
+<BUTTON 00>
+<COLOR 00>
+으로 사용할 수 있어.<LINE>
+단, 탄환수에 제한이 있고, <LINE>
+한 번에 １개만 장착할 수 있으니까, 
+<PAGEKEY>
+<NEXTPAGE 020300>
+어느 
+<COLOR 02>
+『특수 무기』
+<COLOR 00>
+를 가져갈지,<LINE>
+전투 때 마다 잘 생각하지 않으면 안돼.
+<PAGEKEY>
+<NEXTPAGE 020300>
+특수 무기를 만들거나, 교체, <LINE>
+강화하고 싶을 때는 내게 말해줘！
+<PAGEKEY>
+<NEXTPAGE 020600>
+그런데, 
+<COLOR 02>
+<BUTTON 00>
+<COLOR 00>
+에는<LINE>
+또 하나 중요한 기능이 있는데, <LINE>
+그게 
+<COLOR 02>
+『들어올리기』
+<COLOR 00>
+야.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<COLOR 02>
+『특수 무기』
+<COLOR 00>
+와 전환해서 사용할 수 있어.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<COLOR 02>
+<BUTTON 00>
+<COLOR 00>
+을 누르면 물건을 들어올리고,<LINE>
+한 번 더 누르면 들어올린 물건을<LINE>
+휙 던져버릴 수 있어！
+<PAGEKEY>
+<NEXTPAGE 020300>
+아, 하지만 못 드는 물건도 있으니까<LINE>
+주의해야 돼.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<COLOR 02>
+『특수 무기』
+<COLOR 00>
+와 
+<COLOR 02>
+『들어올리기』
+<COLOR 00>
+의 전환 방법은<LINE>
+매우 간단해.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<COLOR 02>
+ＳＴＡＲＴ를 눌러
+<COLOR 00>
+ 스테이터스 화면에서,<LINE>
+
+<COLOR 02>
+△버튼
+<COLOR 00>
+을 누르면 돼…… 자, 간단하지？
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00180A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0314FFFF>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0300>
+<FB30 01>
+<VWAIT 02>
+<POS 004600201022>
+<FB05 0108>
+저기 있는 건 보물 상자야……<LINE>
+여는 방법은, 그래, 
+<COLOR 02>
+<BUTTON 03>
+<COLOR 00>
+이야.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00180A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0315FFFF>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0700>
+<FB30 01>
+<VWAIT 02>
+<POS 003A00181233>
+<FB05 0108>
+특수 무기를 만들거나, 교환이나, <LINE>
+파워 업을 하고플 때는<LINE>
+내게 말 걸어줘.
+<PAGEKEY>
+<NEXTPAGE 020300>
+특수 무기는 １개만 들고갈 수 있어.<LINE>
+장비 화면에서 장비해 봐.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<COLOR 02>
+<BUTTON 00>
+<COLOR 00>
+을 눌러 사용할 수 있어.<LINE>
+하지만 탄약 수에 제한이 있으니<LINE>
+조심해서 사용해.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00180A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0316FFFF>
+<END>
+
+[BLOCK: 0017]
+<FUNC 0300>
+<FB30 01>
+<VWAIT 02>
+<POS 004600181023>
+<FB05 0108>
+버스터 파츠를 얻었네！<LINE>
+그걸 조합하면<LINE>
+록 버스터가 파워 업！！！
+<PAGEKEY>
+<NEXTPAGE 020300>
+스테이터스 화면에서, <LINE>
+
+<COLOR 02>
+『장비』
+<COLOR 00>
+를 선택하면 장비화면이<LINE>
+나오니까, 
+<PAGEKEY>
+<NEXTPAGE 020200>
+거기서 
+<COLOR 02>
+『버스터』
+<COLOR 00>
+를 선택하면<LINE>
+파츠를 장비할 수 있어.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00180A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0317FFFF>
+<END>
+
+[BLOCK: 0018]
+<FUNC 0100>
+<FB30 01>
+<VWAIT 02>
+<POS 002E00201422>
+<FB05 0108>
+다음은 
+<COLOR 02>
+『카메라 조작』
+<COLOR 00>
+이야.<LINE>
+　　　　　　　　　　　　　　　　　　　
+<PAGEKEY>
+<NEXTPAGE 020300>
+<COLOR 02>
+<BUTTON 09>
+<COLOR 00>
+가<LINE>
+카메라를 위아래로 움직이게 해.
+<PAGEKEY>
+<NEXTPAGE 020100>
+이걸로 천장이나 바닥을 확인해봐.
+<PAGEKEY>
+<NEXTPAGE 020300>
+카메라를 원래대로 할 때는<LINE>
+
+<COLOR 02>
+<BUTTON 08>
+<COLOR 00>
+을 눌러줘.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00180A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0318FFFF>
+<END>
+
+[BLOCK: 0019]
+<FUNC 0100>
+<FB30 01>
+<VWAIT 02>
+<POS 004000201112>
+<FB05 0108>
+그럼, 마지막으로 한번 싸워보자！<LINE>
+괜찮지？ 록온하면서 쏘는거야.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001A]
+<FUNC 0100>
+<FB30 01>
+<VWAIT 02>
+<POS 004600281011>
+<FB05 0108>
+록！ 보물상자는 조사한 거야？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001B]
+<FUNC 0100>
+<FB30 01>
+<VWAIT 02>
+<POS 006400280B11>
+<FB05 0108>
+록！ 제대로 싸웠어？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001C]
+<FUNC 0100>
+<POS 005800B40D11>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+호밍 미사일
+<COLOR 00>
+을 발견했다.
+<FB26 0386>
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001D]
+<FUNC 0100>
+<POS 004600B41011>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+하이 라운더 플러스
+<COLOR 00>
+를 발견했다.
+<FB26 03B2>
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0600>
+<FB30 01>
+<VWAIT 02>
+<POS 002800181533>
+<FB05 0108>
+자, 더 가볼까！<LINE>
+다음은 아주 유용한 기능, <LINE>
+이름하여 
+<COLOR 02>
+『퀵 턴』
+<COLOR 00>
+！
+<PAGEKEY>
+<NEXTPAGE 020300>
+옆이나 뒤를 보는게<LINE>
+느린 걸～ 할 때는 이걸 써.
+<PAGEKEY>
+<NEXTPAGE 020300>
+좌우나 뒤로 이동하면서 
+<COLOR 02>
+<BUTTON 03>
+<COLOR 00>
+이야, <LINE>
+그 방향으로 빠르게 몸을 돌릴 수 있어.
+<PAGEKEY>
+<NEXTPAGE 020700>
+처음엔 좀 어렵겠지만, <LINE>
+익숙해지면 빠르게 도니까, 속이 시원할거야！<LINE>
+꼭 연습해서 익혀두는게 좋아.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 007000180913>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 031EFFFF>
+<END>
+
+[BLOCK: 001F]
+<FUNC 0600>
+<FB30 01>
+<VWAIT 02>
+<POS 003A00181233>
+<FB05 0108>
+자, 록！<LINE>
+지금부터 조작 연습을 시작할 거야.<LINE>
+잘 기억해둬！
+<PAGEKEY>
+<NEXTPAGE 020300>
+우선, 앞뒤 이동은<LINE>
+
+<COLOR 02>
+<BUTTON 05>
+<COLOR 00>
+야.
+<PAGEKEY>
+<NEXTPAGE 020300>
+좌우 이동은<LINE>
+
+<COLOR 02>
+<BUTTON 06>
+<COLOR 00>
+<LINE>
+이야！　　　　　　　　　　　　　　
+<PAGEKEY>
+<NEXTPAGE 020700>
+내 앞까지 이동해서, <LINE>
+
+<COLOR 02>
+<BUTTON 03>
+<COLOR 00>
+을 누르면<LINE>
+말을 걸 수 있으니까 해봐.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00180A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 031FFFFF>
+<END>
+
+[BLOCK: 0020]
+<FUNC 0300>
+<POS 001C00901733>
+<FB05 0108>
+<VWAIT 02>
+<FB33 83>
+<FB26 0680>
+<FB26 0684>
+그럼 다음은, 문을 열고<LINE>
+옆방으로 가보자！
+<PAGEKEY>
+<NEXTPAGE 020700>
+문을 열려면, 문 앞에서 
+<COLOR 02>
+<BUTTON 03>
+<COLOR 00>
+<LINE>
+이런 식으로, 
+<COLOR 02>
+<BUTTON 03>
+<COLOR 00>
+은, 대화 하거나, 문 열기,<LINE>
+조사하는데 사용해.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00900A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0320FFFF>
+<FB2C 01>
+<END>
+
+[BLOCK: 0021]
+<FUNC 0300>
+<FB30 01>
+<VWAIT 02>
+<POS 004000181133>
+<FB05 0108>
+<COLOR 02>
+<BUTTON 07>
+<COLOR 00>
+으로 좌우를<LINE>
+둘러볼 수 있어.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<COLOR 02>
+<BUTTON 04>
+<COLOR 00>
+하고 같이 사용하면,<LINE>
+이동하면서 방향도 바꿀 수 있지.<LINE>
+조금 어렵긴 하지만.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00180A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0321FFFF>
+<END>
+
+[BLOCK: 0022]
+<FUNC 0100>５００제니를 발견했다.
+<END>
+
+[BLOCK: 0023]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0024]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0025]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0026]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0027]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0028]
+<FUNC 0100>
+<POS 001C00901733>
+<FB05 0108>
+<VWAIT 02>
+<FB33 83>
+<FB26 0680>
+<FB26 0684>
+우선 
+<COLOR 02>
+<BUTTON 04>
+<COLOR 00>
+로 앞뒤좌우로 이동해보자.
+<PAGEKEY>
+<NEXTPAGE 020700>
+문을 열려면, 문 앞에서
+<COLOR 02>
+<BUTTON 03>
+<COLOR 00>
+<LINE>
+이런 식으로, 
+<COLOR 02>
+<BUTTON 03>
+<COLOR 00>
+은, 대화 하거나, 문 열기,<LINE>
+조사하는데 사용해.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00900A13>
+<FB05 0108>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0328FFFF>
+<FB2C 01>
+<END>
+
+[BLOCK: 0029]
+<FUNC 0100>
+<POS 002E00901423>
+<FB05 0108>
+<VWAIT 02>
+<FB33 83>
+먼저『이동』과『좌우회전』을 익혀보자.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<COLOR 02>
+<BUTTON 04>
+<COLOR 00>
+로 이동할 수 있어<LINE>
+
+<COLOR 02>
+<BUTTON 07>
+<COLOR 00>
+으로 좌우를 둘러볼 수 있어.
+<PAGEKEY>
+<NEXTPAGE 020100>
+한 번 더 들을래？<LINE>
+
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB10 0200010002>
+<FB11 0229FF>
+<FB2C 01>
+<END>
+
+[BLOCK: 002A]
+<FUNC 0000>
+<POS 006A00900A03>
+<FB05 0108>
+<VWAIT 02>
+<FB33 83>
+록, 왜 그래？<LINE>
+
+<SEL 00>
+그만둔다<LINE>
+
+<SEL 01>
+연습을 그만둔다.
+<FB10 0200010002>
+<FB11 02FF2E>
+<FB2C 01>
+<END>
+
+[BLOCK: 002B]
+<FUNC 0200>
+<POS 006A00980A12>
+<FB05 0108>
+<VWAIT 02>
+<FB33 83>
+수고했어, 록！<LINE>
+이제 괜찮아보이네.
+<PAGEKEY>
+<NEXTPAGE 020500>
+<FB0C>
+<POS 006400900B23>
+<FB05 0108>
+<VWAIT 02>
+<FB33 83>
+다시 도전해볼래？<LINE>
+
+<SEL 00>
+도전한다<LINE>
+
+<SEL 01>
+타이틀로 돌아간다
+<FB10 0200010002>
+<FB11 022C2D>
+<FB2C 01>
+<END>
+
+[BLOCK: 002C]
+<FUNC 0000>
+<FB27 0681>
+<FB27 0680>
+<FB0E 28>
+<END>
+
+[BLOCK: 002D]
+<FUNC 0000>
+<FB26 068E>
+<WAIT 0001>
+<FB0E 2D>
+<END>
+
+[BLOCK: 002E]
+<FUNC 0100>
+<POS 006A00900A13>
+<FB05 0108>
+<VWAIT 02>
+<FB33 83>
+정말 그만둘래？<LINE>
+
+<SEL 00>
+그만둔다<LINE>
+
+<SEL 01>
+그만두지 않는다
+<FB39 0200010002>
+<FB11 032DFFFF>
+<FB2C 01>
+<END>
+

@@ -1,0 +1,1036 @@
+[BLOCK: 0000]
+<FUNC 0100>
+<VWAIT 00>
+<POS 005E00B40C11>
+<FB05 0108>
+자물쇠가 걸려있다……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0000>
+<FB26 0680>
+<END>
+
+[BLOCK: 0002]
+
+
+[BLOCK: 0003]
+
+
+[BLOCK: 0004]
+
+
+[BLOCK: 0005]
+
+
+[BLOCK: 0006]
+
+
+[BLOCK: 0007]
+<FUNC 0100>
+<VWAIT 00>
+<POS 004C00B40F11>
+<FB05 0108>
+봉인의 열쇠가 세트되어 있다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ７Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 0309FFFF>
+<END>
+
+[BLOCK: 0009]
+
+
+[BLOCK: 000A]
+
+
+[BLOCK: 000B]
+
+
+[BLOCK: 000C]
+
+
+[BLOCK: 000D]
+
+
+[BLOCK: 000E]
+
+
+[BLOCK: 000F]
+<FUNC 0000>
+<FB26 0702>
+<END>
+
+[BLOCK: 0010]
+
+
+[BLOCK: 0011]
+
+
+[BLOCK: 0012]
+
+
+[BLOCK: 0013]
+
+
+[BLOCK: 0014]
+
+
+[BLOCK: 0015]
+
+
+[BLOCK: 0016]
+
+
+[BLOCK: 0017]
+
+
+[BLOCK: 0018]
+
+
+[BLOCK: 0019]
+
+
+[BLOCK: 001A]
+
+
+[BLOCK: 001B]
+
+
+[BLOCK: 001C]
+
+
+[BLOCK: 001D]
+
+
+[BLOCK: 001E]
+
+
+[BLOCK: 001F]
+
+
+[BLOCK: 0020]
+
+
+[BLOCK: 0021]
+
+
+[BLOCK: 0022]
+
+
+[BLOCK: 0023]
+
+
+[BLOCK: 0024]
+
+
+[BLOCK: 0025]
+
+
+[BLOCK: 0026]
+
+
+[BLOCK: 0027]
+
+
+[BLOCK: 0028]
+
+
+[BLOCK: 0029]
+
+
+[BLOCK: 002A]
+
+
+[BLOCK: 002B]
+
+
+[BLOCK: 002C]
+
+
+[BLOCK: 002D]
+
+
+[BLOCK: 002E]
+
+
+[BLOCK: 002F]
+
+
+[BLOCK: 0030]
+
+
+[BLOCK: 0031]
+
+
+[BLOCK: 0032]
+
+
+[BLOCK: 0033]
+
+
+[BLOCK: 0034]
+
+
+[BLOCK: 0035]
+
+
+[BLOCK: 0036]
+
+
+[BLOCK: 0037]
+
+
+[BLOCK: 0038]
+
+
+[BLOCK: 0039]
+
+
+[BLOCK: 003A]
+
+
+[BLOCK: 003B]
+
+
+[BLOCK: 003C]
+
+
+[BLOCK: 003D]
+
+
+[BLOCK: 003E]
+
+
+[BLOCK: 003F]
+
+
+[BLOCK: 0040]
+
+
+[BLOCK: 0041]
+
+
+[BLOCK: 0042]
+
+
+[BLOCK: 0043]
+
+
+[BLOCK: 0044]
+
+
+[BLOCK: 0045]
+
+
+[BLOCK: 0046]
+
+
+[BLOCK: 0047]
+
+
+[BLOCK: 0048]
+
+
+[BLOCK: 0049]
+
+
+[BLOCK: 004A]
+
+
+[BLOCK: 004B]
+
+
+[BLOCK: 004C]
+
+
+[BLOCK: 004D]
+
+
+[BLOCK: 004E]
+
+
+[BLOCK: 004F]
+
+
+[BLOCK: 0050]
+
+
+[BLOCK: 0051]
+
+
+[BLOCK: 0052]
+
+
+[BLOCK: 0053]
+
+
+[BLOCK: 0054]
+
+
+[BLOCK: 0055]
+
+
+[BLOCK: 0056]
+
+
+[BLOCK: 0057]
+
+
+[BLOCK: 0058]
+
+
+[BLOCK: 0059]
+
+
+[BLOCK: 005A]
+
+
+[BLOCK: 005B]
+
+
+[BLOCK: 005C]
+
+
+[BLOCK: 005D]
+
+
+[BLOCK: 005E]
+
+
+[BLOCK: 005F]
+
+
+[BLOCK: 0060]
+
+
+[BLOCK: 0061]
+
+
+[BLOCK: 0062]
+
+
+[BLOCK: 0063]
+
+
+[BLOCK: 0064]
+
+
+[BLOCK: 0065]
+
+
+[BLOCK: 0066]
+
+
+[BLOCK: 0067]
+
+
+[BLOCK: 0068]
+
+
+[BLOCK: 0069]
+
+
+[BLOCK: 006A]
+
+
+[BLOCK: 006B]
+
+
+[BLOCK: 006C]
+
+
+[BLOCK: 006D]
+
+
+[BLOCK: 006E]
+
+
+[BLOCK: 006F]
+
+
+[BLOCK: 0070]
+
+
+[BLOCK: 0071]
+
+
+[BLOCK: 0072]
+
+
+[BLOCK: 0073]
+
+
+[BLOCK: 0074]
+
+
+[BLOCK: 0075]
+
+
+[BLOCK: 0076]
+
+
+[BLOCK: 0077]
+
+
+[BLOCK: 0078]
+
+
+[BLOCK: 0079]
+
+
+[BLOCK: 007A]
+
+
+[BLOCK: 007B]
+
+
+[BLOCK: 007C]
+
+
+[BLOCK: 007D]
+
+
+[BLOCK: 007E]
+
+
+[BLOCK: 007F]
+
+
+[BLOCK: 0080]
+
+
+[BLOCK: 0081]
+
+
+[BLOCK: 0082]
+
+
+[BLOCK: 0083]
+
+
+[BLOCK: 0084]
+
+
+[BLOCK: 0085]
+
+
+[BLOCK: 0086]
+
+
+[BLOCK: 0087]
+
+
+[BLOCK: 0088]
+
+
+[BLOCK: 0089]
+
+
+[BLOCK: 008A]
+
+
+[BLOCK: 008B]
+
+
+[BLOCK: 008C]
+
+
+[BLOCK: 008D]
+
+
+[BLOCK: 008E]
+
+
+[BLOCK: 008F]
+
+
+[BLOCK: 0090]
+
+
+[BLOCK: 0091]
+
+
+[BLOCK: 0092]
+
+
+[BLOCK: 0093]
+
+
+[BLOCK: 0094]
+
+
+[BLOCK: 0095]
+
+
+[BLOCK: 0096]
+
+
+[BLOCK: 0097]
+
+
+[BLOCK: 0098]
+
+
+[BLOCK: 0099]
+
+
+[BLOCK: 009A]
+
+
+[BLOCK: 009B]
+
+
+[BLOCK: 009C]
+
+
+[BLOCK: 009D]
+
+
+[BLOCK: 009E]
+
+
+[BLOCK: 009F]
+
+
+[BLOCK: 00A0]
+
+
+[BLOCK: 00A1]
+
+
+[BLOCK: 00A2]
+
+
+[BLOCK: 00A3]
+
+
+[BLOCK: 00A4]
+
+
+[BLOCK: 00A5]
+
+
+[BLOCK: 00A6]
+
+
+[BLOCK: 00A7]
+
+
+[BLOCK: 00A8]
+
+
+[BLOCK: 00A9]
+
+
+[BLOCK: 00AA]
+
+
+[BLOCK: 00AB]
+
+
+[BLOCK: 00AC]
+
+
+[BLOCK: 00AD]
+
+
+[BLOCK: 00AE]
+
+
+[BLOCK: 00AF]
+
+
+[BLOCK: 00B0]
+
+
+[BLOCK: 00B1]
+
+
+[BLOCK: 00B2]
+
+
+[BLOCK: 00B3]
+
+
+[BLOCK: 00B4]
+
+
+[BLOCK: 00B5]
+
+
+[BLOCK: 00B6]
+
+
+[BLOCK: 00B7]
+
+
+[BLOCK: 00B8]
+
+
+[BLOCK: 00B9]
+
+
+[BLOCK: 00BA]
+
+
+[BLOCK: 00BB]
+
+
+[BLOCK: 00BC]
+
+
+[BLOCK: 00BD]
+
+
+[BLOCK: 00BE]
+
+
+[BLOCK: 00BF]
+
+
+[BLOCK: 00C0]
+
+
+[BLOCK: 00C1]
+
+
+[BLOCK: 00C2]
+
+
+[BLOCK: 00C3]
+
+
+[BLOCK: 00C4]
+
+
+[BLOCK: 00C5]
+
+
+[BLOCK: 00C6]
+
+
+[BLOCK: 00C7]
+
+
+[BLOCK: 00C8]
+
+
+[BLOCK: 00C9]
+
+
+[BLOCK: 00CA]
+
+
+[BLOCK: 00CB]
+
+
+[BLOCK: 00CC]
+
+
+[BLOCK: 00CD]
+
+
+[BLOCK: 00CE]
+
+
+[BLOCK: 00CF]
+
+
+[BLOCK: 00D0]
+
+
+[BLOCK: 00D1]
+
+
+[BLOCK: 00D2]
+
+
+[BLOCK: 00D3]
+
+
+[BLOCK: 00D4]
+
+
+[BLOCK: 00D5]
+
+
+[BLOCK: 00D6]
+
+
+[BLOCK: 00D7]
+
+
+[BLOCK: 00D8]
+
+
+[BLOCK: 00D9]
+
+
+[BLOCK: 00DA]
+
+
+[BLOCK: 00DB]
+
+
+[BLOCK: 00DC]
+
+
+[BLOCK: 00DD]
+
+
+[BLOCK: 00DE]
+
+
+[BLOCK: 00DF]
+
+
+[BLOCK: 00E0]
+
+
+[BLOCK: 00E1]
+
+
+[BLOCK: 00E2]
+
+
+[BLOCK: 00E3]
+
+
+[BLOCK: 00E4]
+
+
+[BLOCK: 00E5]
+
+
+[BLOCK: 00E6]
+
+
+[BLOCK: 00E7]
+
+
+[BLOCK: 00E8]
+
+
+[BLOCK: 00E9]
+
+
+[BLOCK: 00EA]
+
+
+[BLOCK: 00EB]
+
+
+[BLOCK: 00EC]
+
+
+[BLOCK: 00ED]
+
+
+[BLOCK: 00EE]
+<FUNC 0000>
+<VOICELOAD 00008012>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 002200181623>
+<FB05 0108>
+<VWAIT 03>
+드디어 도착했네.
+<NEXTPAGE 280300>
+이 앞방이 라이브러리야.<LINE>
+
+<VWAIT 04>
+<WAIT 0028>
+인류 재생 계획을 멈출 수 있는 방이지.
+<FB1B>
+<NEXTPAGE 140300>
+<VOICELOAD 00008013>
+<VWAIT 04>
+시스템을 파괴할지, 지킬지는, <LINE>
+
+<WAIT 000F>
+네게 달렸어…
+<WAIT 0008>
+…
+<WAIT 0008>
+…<LINE>
+
+<WAIT 000F>
+<VWAIT 03>
+모든 걸 당신에게 맡길게.
+<FB1B>
+<NEXTPAGE 140100>
+<VOICELOAD 00008014>
+<VWAIT 03>
+저는 이제부터, 
+<WAIT 000F>
+마더의 사고 회로에<LINE>
+침입 하겠습니다！
+<NEXTPAGE 140300>
+얼마나 할 수 있을진 모르겠습니다만<LINE>
+
+<WAIT 000A>
+마더의 힘을 조금정돈 억제할 수 있을거예요.
+<FB1B>
+<NEXTPAGE 140100>
+<VOICELOAD 00008015>
+조금일지라도, 
+<WAIT 000A>
+도움이 될 수 있도록<LINE>
+해보겠습니다.
+<FB1B>
+<NEXTPAGE 140300>
+<VOICELOAD 00008016>
+<VWAIT 03>
+이 앞 부터는, 
+<WAIT 000A>
+외부에서 접근할 수 없어.<LINE>
+
+<WAIT 0023>
+이제 서포트는 못하겠지만<LINE>
+
+<WAIT 0019>
+힘내줘.
+<NEXTPAGE 2D0000>
+그럼！
+<FB26 0177>
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 00EF]
+<FUNC 0100>
+<FB26 0161>
+<POS 003400981322>
+<FB05 0108>
+이 앞은 세라 님이 있는 라이브러리야.
+<PAGEKEY>
+<NEXTPAGE 020300>
+라이브러리에는 시스템을 만든 인류의<LINE>
+모든 유전자 코드가 보관되어 있어……
+<PAGEKEY>
+<NEXTPAGE 020000>
+모든 건 록에게 달렸어.<LINE>
+부탁할게！
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E F1>
+<END>
+
+[BLOCK: 00F0]
+<FUNC 0000>
+<FB2C 00>
+<FB33 83>
+<FB15 0100000080000001300020>
+<FB2B>
+<FB28 0161FFEF>
+<FB0C>
+<FB0E F1>
+<END>
+
+[BLOCK: 00F1]
+<FUNC 0000>
+<FB07 0301>
+<FB12 03F2>
+<VWAIT 00>
+<POS 006400870B04>
+<FB05 0108>
+<SEL 00>
+에너지 차지<LINE>
+
+<SEL 01>
+조언을 듣는다<LINE>
+
+<SEL 02>
+세이브한다<LINE>
+
+<SEL 03>
+그만둔다
+<FB4C 040000000100020003>
+<FB11 05FFFFFFF3F3>
+<FB13 0105F4F6F5FFFF>
+<FB0C>
+<FB07 0101>
+<FB0C>
+<FB0E F1>
+<END>
+
+[BLOCK: 00F2]
+<FUNC 0000>
+<VWAIT 00>
+<POS 006A00230A01>
+<FB05 0108>
+록, 무슨 일이야？
+<FB07 0000>
+<END>
+
+[BLOCK: 00F3]
+<FUNC 0000>
+<FB2C 01>
+<END>
+
+[BLOCK: 00F4]
+<FUNC 0100>
+<FB29 00>
+<WAIT 0004>
+<FB29 01>
+<POS 005200980E12>
+<FB05 0108>
+<FB19 00F0>
+라이프와 특수무기 에너지를<LINE>
+가득 채워뒀어.
+<FB34 00A0>
+<FB35 7530>
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00F5]
+<FUNC 0000>
+<FB26 06FA>
+<FB2B>
+<END>
+
+[BLOCK: 00F6]
+<FUNC 0000>
+<FB07 0401>
+<FB12 04F8>
+<VWAIT 00>
+<POS 006400970B04>
+<FB05 0108>
+<SEL 00>
+이제 어떡할까<LINE>
+
+<SEL 01>
+옛날 이야기１<LINE>
+
+<SEL 02>
+옛날 이야기２<LINE>
+
+<SEL 03>
+그만둔다
+<FB39 040000000100020003>
+<FB11 05FFFFFFF9F9>
+<FB13 0205FAFBFCFFFF>
+<FB0C>
+<FB07 0200>
+<FB0C>
+<FB0E F6>
+<END>
+
+[BLOCK: 00F7]
+<FUNC 0000>
+<VWAIT 00>
+<POS 005200D60E01>
+<FB05 0108>
+<COLOR 00>
+△버튼：세이브 데이터 삭제
+<FB2B>
+<END>
+
+[BLOCK: 00F8]
+<FUNC 0100>
+<VWAIT 00>
+<POS 007600230811>
+<FB05 0108>
+뭐가 궁금해？
+<FB07 0100>
+<END>
+
+[BLOCK: 00F9]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00FA]
+<FUNC 0100>
+<POS 007000A00911>
+<FB05 0108>
+이 방 너머에……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00FB]
+<FUNC 0300>
+<POS 002800901533>
+<FB05 0108>
+록은 말야, 아주 옛날에<LINE>
+마스터와 함께 지상으로 내려갔었어.
+<PAGEKEY>
+<NEXTPAGE 020300>
+그리고 마스터의 사후, 그의<LINE>
+의지를 이어 필사적으로 싸웠지.
+<PAGEKEY>
+<NEXTPAGE 020700>
+처음엔 유나 님도 록과<LINE>
+대립하고 있었었는데, 점점 마음이<LINE>
+바뀌었던 것 같더니, 결국에는
+<PAGEKEY>
+<NEXTPAGE 020700>
+중립적인 입장을 취했었어.<LINE>
+그걸 보다 못한 세라 님은, 직접 지상으로<LINE>
+내려가서 록과 싸웠는데, 
+<PAGEKEY>
+<NEXTPAGE 020100>
+지상에서는 그녀의 힘이 제대로<LINE>
+발휘되지 않아서 록과<LINE>
+동귀어진 하고 말았어.
+<PAGEKEY>
+<NEXTPAGE 020300>
+그때, 부상을 입은 록과 세라 님을<LINE>
+봉인한 사람이 유나 님이었어.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00FC]
+<FUNC 0300>
+<POS 002E00901433>
+<FB05 0108>
+어째서, 록이 아기의 모습으로<LINE>
+발견 되었는가……
+<PAGEKEY>
+<NEXTPAGE 020100>
+록의 신체는 세라 님과의 싸움으로<LINE>
+너덜너덜해져 있었기 때문에,<LINE>
+리셋을 할 수 밖에 없었어.
+<PAGEKEY>
+<NEXTPAGE 020300>
+리셋을 하면 기억을 잃는 대신<LINE>
+본래의 신체로 돌아가는 것이<LINE>
+가능해……
+<PAGEKEY>
+<NEXTPAGE 020700>
+록은 마스터의 유전자 코드가<LINE>
+있는 곳이 세라 님에게 들키지 않도록<LINE>
+중요한 기억은 나에게 옮겨뒀는데……
+<PAGEKEY>
+<NEXTPAGE 020200>
+덕분에, 리셋을 했음에도 불구하고<LINE>
+모든 기억까진 아니었지만, 되찾는 것은<LINE>
+가능했어.
+<PAGEKEY>
+<NEXTPAGE 020300>
+후후후, 그래도 아기 상태의 록을<LINE>
+발견했을 때 배럴 박사가,<LINE>
+『뭐시라～！』 라면서 놀랐었어～
+<ENDKEY>
+<FB31>
+<END>
+

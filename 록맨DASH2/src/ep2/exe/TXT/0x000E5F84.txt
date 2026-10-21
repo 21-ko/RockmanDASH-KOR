@@ -1,0 +1,66 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 004000D61101>
+<COLOR 00>
+<FB05 6300>
+젠장, 또 이 패턴이냐고～
+<FB2B>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 001C00D61711>
+<COLOR 00>
+<FB05 6300>
+앗뜨, 뜨거워요오～ 트론 님, 불이～
+<FB2B>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 005200D60E11>
+<COLOR 00>
+<FB05 6300>
+오라버니, 어서 탈출을～！
+<FB2B>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 005200D60E11>
+<COLOR 00>
+<FB05 6300>
+알겠냐, 두고보자 퍼런 놈아！
+<FB2B>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 001C00D61711>
+<COLOR 00>
+<FB05 6300>
+우리 본 일가는, 세상 끝까지라도 널……
+<FB2B>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 002E00D61401>
+<COLOR 00>
+<FB05 6300>
+바부～！　우오～！　꺄아～！　히익！
+<FB2B>
+<END>
+

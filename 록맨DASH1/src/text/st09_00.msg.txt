@@ -1,0 +1,432 @@
+[Block 00, String: 0000-0024]
+<WIN 6E00A0000801>
+<DECOR 0008>
+가짜 메세지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 0024-0064]
+<MSG_IF 090602FF>
+<GET 0906><WIN 500040000E02>
+<DECOR 0008>
+남자의 목소리<LINE>
+「누가 좀～！ 살려줘～～！！<END><CLOSE 3C00>
+
+
+[Block 02, String: 0064-009C]
+<MSG_IF 0A0603FF>
+<GET 0A06><WIN 640040000A02>
+<DECOR 0008>
+남자의 목소리<LINE>
+「도와줘～～！！<END><CLOSE 2800>
+
+
+[Block 03, String: 009C-00CE]
+<MSG_IF 0B0604FF>
+<GET 0B06><WIN 720040000702>
+<DECOR 0008>
+남자의 목소리<LINE>
+「히익～～！！<END><CLOSE 2800>
+
+
+[Block 04, String: 00CE-0102]
+<GIVE 0A06><GIVE 0B06><WIN 700040000802>
+<DECOR 0008>
+남자의 목소리<LINE>
+「으악～～！！<END><CLOSE 2800>
+
+
+[Block 05, String: 0102-0148]
+<WIN 400040000F02>
+<DECOR 0008>
+「빨리 저 꿈틀거리는 녀석을<LINE>
+　해치워줘～！<END><CLOSE 3C00>
+
+
+[Block 06, String: 0148-0164]
+<WIN 800040000401>
+<DECOR 0008>
+「아얏！<END><CLOSE 1E00>
+
+
+[Block 07, String: 0164-02B6]
+<WIN 400024001003>
+<DECOR 0008>
+「휴우～～ 죽을 뻔 했네・・<LINE>
+　후우～～～～<NEXT>
+
+<CLEAR 0400>
+　고마워・・ 그러니까，<LINE>
+　・・파란 소년씨<NEXT>
+
+<CLEAR 0400>
+　다음에 우리 정크샵에<LINE>
+　들러줬으면 해<LINE>
+　뭐라도 보답할게<NEXT>
+
+<CLEAR 0400>
+　그나저나，<LINE>
+　이런 곳은 이제 질색이야<LINE>
+　난 이제 돌아갈 거야<NEXT>
+
+<CLEAR 0400>
+　뭐～ 걱정은 안해도 돼<LINE>
+　도망치는 건 자신 있거든<NEXT>
+
+<CLEAR 0400>
+　또 보자，파란 소년<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 02B6-02B8]
+
+
+[Block 09, String: 02B8-02BA]
+
+
+[Block 0A, String: 02BA-0306]
+<WIN 4000A2001003>
+<DECOR 0008>
+벽이 있어서 지나갈 수 없다<NEXT>
+
+<CLEAR 0400>
+뭔가로 부술 수 있지 않을까・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0306-0352]
+<WIN 4000A2001003>
+<DECOR 0008>
+벽이 있어서 지나갈 수 없다<NEXT>
+
+<CLEAR 0400>
+뭔가로 부술 수 있지 않을까・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 0352-038A]
+<WIN 400024001001>
+<DECOR 0008>
+<037C 8600>
+<COLOR 0300><ITEM 1F00><COLOR 0000><GET 1F05>를 발견했다！<NEXT>
+
+<CLEAR 0400>
+<JUMP 000D>
+
+[Block 0D, String: 038A-04FC]
+<WIN 520020000D05>
+<DECOR 0008>
+<COLOR 0400><SPACE 3600>～설명～<LINE>
+<COLOR 0000><SPACE 1E00><COLOR 0300><ITEM 1F00><COLOR 0000>는，<LINE>
+<SPACE 1800>록 버스터 파츠다！<LINE>
+<SPACE 1200>장비하면 록 버스터를<LINE>
+<SPACE 1E00>강화할 수 있어！<NEXT>
+
+<CLEAR 0400>
+<SPACE 1800>록 버스터 파츠는，<LINE>
+<SPACE 0600>ＳＴＡＲＴ 버튼을 눌러서<LINE>
+<SPACE 1200>메뉴 화면에 들어가，<LINE>
+<SPACE 0C00>「파츠 장비」 화면에서<LINE>
+<SPACE 2100>장비가 가능해！<NEXT>
+
+<CLEAR 0400>
+<WIN 520030000D02>
+<DECOR 0008>
+<0378 0000>한번 더 설명을 볼까요？<LINE>
+<SPACE 2400><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 800DFF00>
+<END><CLOSE 0000>
+
+
+[Block 0E, String: 04FC-04FE]
+
+
+[Block 0F, String: 04FE-0500]
+
+
+[Block 10, String: 0500-0502]
+
+
+[Block 11, String: 0502-0504]
+
+
+[Block 12, String: 0504-0506]
+
+
+[Block 13, String: 0506-0508]
+
+
+[Block 14, String: 0508-050A]
+
+
+[Block 15, String: 050A-050C]
+
+
+[Block 16, String: 050C-050E]
+
+
+[Block 17, String: 050E-0510]
+
+
+[Block 18, String: 0510-0512]
+
+
+[Block 19, String: 0512-0514]
+
+
+[Block 1A, String: 0514-0516]
+
+
+[Block 1B, String: 0516-0518]
+
+
+[Block 1C, String: 0518-051A]
+
+
+[Block 1D, String: 051A-051C]
+
+
+[Block 1E, String: 051C-05AC]
+<MSG_IF 33032CFF>
+<GET 3303><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800>벽 안에서<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 7200><COLOR 0000><GET 7205>을 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 05AC-0664]
+<MSG_IF 34032CFF>
+<GET 3403><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F9C><EXE_JUMP 2003><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0664-06F4]
+<MSG_IF 35032CFF>
+<GET 3503><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800>벽 안에서<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 5000><COLOR 0000><GET 5005>을 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 06F4-07AC]
+<MSG_IF 36032CFF>
+<GET 3603><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1FC4><EXE_JUMP 2001><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 07AC-0864]
+<MSG_IF 37032CFF>
+<GET 3703><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F97><EXE_JUMP 2000><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 0864-08F4]
+<MSG_IF 38032CFF>
+<GET 3803><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800>벽 안에서<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 5100><COLOR 0000><GET 5105>을 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 08F4-09AC]
+<MSG_IF 39032CFF>
+<GET 3903><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F04><EXE_JUMP 2001><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 25, String: 09AC-0A64]
+<MSG_IF 3A032CFF>
+<GET 3A03><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F5C><EXE_JUMP 2000><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 26, String: 0A64-0B1C]
+<MSG_IF 3B032CFF>
+<GET 3B03><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F52><EXE_JUMP 2000><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 27, String: 0B1C-0BAC]
+<MSG_IF 3C032CFF>
+<GET 3C03><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800>벽 안에서<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 6A00><COLOR 0000><GET 6A05>를 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 28, String: 0BAC-0C64]
+<MSG_IF 3D032CFF>
+<GET 3D03><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F4E><EXE_JUMP 2000><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 29, String: 0C64-0D1C]
+<MSG_IF 3E032CFF>
+<GET 3E03><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F45><EXE_JUMP 2000><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2A, String: 0D1C-0DD4]
+<MSG_IF 3F032CFF>
+<GET 3F03><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F42><EXE_JUMP 2000><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2B, String: 0DD4-0DD6]
+
+
+[Block 2C, String: 0DD6-0E06]
+<WIN 4200AC000F02>
+<DECOR 0008>
+더 이상 아무것도 없다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2D, String: 0E06-0E32]
+<WIN 4200AC000F02>
+<DECOR 0008>
+아무것도 없다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+

@@ -1,0 +1,115 @@
+[BLOCK: 0000]
+<FUNC 0000>□버튼
+<FB1F>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0000>▽버튼
+<FB1F>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0000>○버튼
+<FB1F>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0000>△버튼
+<FB1F>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0000>Ｒ버튼
+<FB1F>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0000>Ｌ버튼
+<FB1F>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0100>Ｌ버튼을 누른 상태에서 Ｒ버튼
+<FB1F>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0000>Ｌ버튼
+<FB1F>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0000>ＳＥＬＥＣＴ버튼
+<FB1F>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0000>ＳＴＡＲＴ버튼
+<FB1F>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0100>방향 키
+<FB1F>
+<END>
+
+[BLOCK: 000B]
+<FUNC 0000>아날로그 패드
+<FB1F>
+<END>
+
+[BLOCK: 000C]
+<FUNC 0100>방향 키
+<FB1F>
+<END>
+
+[BLOCK: 000D]
+<FUNC 0100>방향 키 위，아래
+<FB1F>
+<END>
+
+[BLOCK: 000E]
+<FUNC 0100>방향 키 왼쪽，오른쪽
+<FB1F>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0000>Ｌ・Ｒ버튼
+<FB1F>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0100>아날로그 패드 위，아래
+<FB1F>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0100>아날로그 패드 왼쪽，오른쪽
+<FB1F>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0100>락온 중에 방향 키 왼쪽，오른쪽
+<FB1F>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0100>락온 중에 아날로그 패드 왼쪽，오른쪽
+<FB1F>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0100>Ｌ버튼＋방향 키
+<FB1F>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0000>아날로그 패드
+<FB1F>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0000>Ｌ버튼＋아날로그 패드
+<FB1F>
+<END>
+

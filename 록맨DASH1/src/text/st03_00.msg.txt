@@ -1,0 +1,2246 @@
+[Block 00, String: 0000-002E]
+<GET 1A00><WIN 70003C000801>
+<DECOR 0008>
+가짜 메세지라요．<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 002E-009E]
+<WIN 4C00B6000E02>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 00000300>
+배럴<LINE>
+「이거 심하구먼<WAIT 3C00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 01000300>
+　당분간은 안으로<LINE>
+　못 들어가겠네<WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 02, String: 009E-0136]
+<WIN 4C00B6000E02>
+<DECOR 0008>
+<NO_CHAR_SFX>롤<LINE>
+「・・・<CLEAR 1400>
+<AUDIO 02000300>
+　이 아이에겐 계속<LINE>
+　무리 시켜왔으니까・・・<WAIT 3C00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 03000300>
+　예전처럼 다시<LINE>
+　활기차게 만들어줘야 해<WAIT 3C00>
+<END><CLOSE 0000>
+
+
+[Block 03, String: 0136-01E2]
+<WIN 4C00B6000E02>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 04000300>
+배럴<LINE>
+「으ーーー음<WAIT 3C00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 05000300>
+　수리에는<LINE>
+　시간이 좀 걸릴 것 같네<WAIT 3C00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 06000300>
+　당분간은 이 섬에서 신세를<LINE>
+　질 수밖에 없겠어<WAIT 4B00>
+<END><CLOSE 0000>
+
+
+[Block 04, String: 01E2-0304]
+<MSG_IF 0A0005FF>
+<GET 0A00><WIN 340030001202>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 07000300>
+「이 섬은，분명・・・<WAIT 1E00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 08000300>
+　캐틀옥스 섬・・이라고，<LINE>
+　했었던가？<WAIT 3C00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 09000300>
+　만약 그렇다면，어딘가에 도시가<LINE>
+　있을 것 같은데・・・<WAIT 5A00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 0A000300>
+　록，잠깐<LINE>
+　살펴보고 와주지않겠나？<WAIT 3C00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 0B000300>
+　부탁하네<WAIT 1E00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 05, String: 0304-039A]
+<CAM 000000028001000080FF>
+<WIN 400024001003>
+<DECOR 0008>
+「여기가<LINE>
+　캐틀옥스 섬이라면・・<LINE>
+　어딘가에 마을이 있을 터<NEXT>
+
+<CLEAR 0400>
+　미안하네만 록<LINE>
+　상황을 보고 와주게<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 039A-041A]
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「불시착했으니까<LINE>
+　내부는 엉망이<LINE>
+　되어버렸을 거야・・<NEXT>
+
+<CLEAR 0400>
+　지금은 들어가지 말자<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 041A-047C]
+<MSG_IF 040026FF>
+<CAM 000044010001480080FF>
+<WIN 400024001003>
+<DECOR 0008>
+「이 아이를 수리할 부품을<LINE>
+　구할 수 있으면 좋겠는데・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 047C-04A8]
+<GET 1400><WIN 70003C000801>
+<DECOR 0008>
+가짜 메세지２．<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 04A8-054A]
+<MSG_IF 08060AFF>
+<GET 0806><MSG_IF 040027FF>
+<WIN 400024001003>
+<DECOR 0008>
+「내 이름은 데이터<LINE>
+　・・라고하는데，<LINE>
+　록과는 오랜 인연이야<NEXT>
+
+<CLEAR 0400>
+　저장이 하고 싶을 때는<LINE>
+　내게 말을 걸어줘<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 0A, String: 054A-05A2]
+<GIVE 0806><MSG_IF 040027FF>
+<WIN 400024001003>
+<DECOR 0008>
+「참고로 나와<LINE>
+　대화가 가능한건 록 뿐이야<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 0B, String: 05A2-05A4]
+
+
+[Block 0C, String: 05A4-05FC]
+<WIN 280030001402>
+<DECOR 0008>
+「록！<NEXT>
+
+<CLEAR 0400>
+　서둘러 롤을<LINE>
+　쫓아가야 해！！<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 0D, String: 05FC-06BA]
+<NO_CHAR_SFX><AUDIO 3E000300>
+<WIN 4000A2001003>
+<DECOR 0008>
+「어땠어，록！？<WAIT 1B00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 3F000300>
+　그래… 플러터 호를 수리할 만한<LINE>
+　부품은 없었구나…<WAIT 7300>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 40000300>
+　디그아웃 하지않으면<LINE>
+　안 되는 걸까…<WAIT 3A00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 0E, String: 06BA-070C]
+<NO_CHAR_SFX><AUDIO 41000300>
+<WIN 4000A8001002>
+<DECOR 0008>
+「응，정크샵의 아저씨도<LINE>
+　그렇게 말했어…<WAIT 5000>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 0F, String: 070C-07AE]
+<NO_CHAR_SFX><AUDIO 43000300>
+<WIN 3A00A2001103>
+<DECOR 0008>
+「그래… 시간이 걸릴지도 모르겠네<LINE>
+　그렇게되면… 어라？<WAIT B200>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 44000300>
+　그런데，록<LINE>
+　그거 혹시<LINE>
+　무기 부품 아니야？<WAIT 7600>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 10, String: 07AE-082C]
+<NO_CHAR_SFX><AUDIO 45000300>
+<WIN 4000A8001002>
+<DECOR 0008>
+「아，응<LINE>
+　정크샵에서 받았어<WAIT 4A00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 46000300>
+　이 차량에，설치해달라고… 말야<WAIT 2D00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 11, String: 082C-089A]
+<NO_CHAR_SFX><AUDIO 47000300>
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 차를 써도 된다는 거지？<LINE>
+　그럼，바로<LINE>
+　설치해볼까！？<WAIT 8B00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 12, String: 089A-08DE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「오，안녕<NEXT>
+
+<CLEAR 0400>
+　비둘기와 놀고 있었어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 08DE-0962]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적이 도시에<LINE>
+　올 것 같다는군…<NEXT>
+
+<CLEAR 0400>
+　이 몸도 마을로 돌아가<LINE>
+　공적에게 맞서싸울<LINE>
+　준비를 해야만 해…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 0962-0964]
+
+
+[Block 15, String: 0964-0966]
+
+
+[Block 16, String: 0966-0968]
+
+
+[Block 17, String: 0968-096A]
+
+
+[Block 18, String: 096A-096C]
+
+
+[Block 19, String: 096C-096E]
+
+
+[Block 1A, String: 096E-0970]
+
+
+[Block 1B, String: 0970-0972]
+
+
+[Block 1C, String: 0972-0974]
+
+
+[Block 1D, String: 0974-0976]
+
+
+[Block 1E, String: 0976-09EA]
+<CAM 000000028001200080FF>
+<WIN 2A0024001103>
+<DECOR 0008>
+「게이트를 통과해도 된다는군<NEXT>
+
+<CLEAR 0400>
+　다른 게이트는 시민카드가 없으면<LINE>
+　통과할 수 없지만<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 09EA-0A1A]
+<WIN 4C0030000E02>
+<DECOR 0008>
+록<LINE>
+「・・・<NEXT>
+
+<CLEAR 0400>
+　？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0A1A-0A54]
+<WIN 4C0030000E02>
+<DECOR 0008>
+록<LINE>
+「・・・<NEXT>
+
+<CLEAR 0400>
+　뭐지？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 0A54-0ABA]
+<MSG_IF 00001EFF>
+<CAM 000000028001200080FF>
+<WIN 400024001003>
+<DECOR 0008>
+「이 게이트는，<LINE>
+　고장으로 잠글 수 없어<LINE>
+　・・곤란하군<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 0ABA-0B26]
+<CAM 00008001800180FF80FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「이건 당신의 배인가요？<NEXT>
+
+<CLEAR 0400>
+　곤란한데요<LINE>
+　이런 곳에 놓여 있으면・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 0B26-0B9A]
+<CAM 0000000280FE4000C0FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・트론 님을 기다려요<NEXT>
+
+<CLEAR 0400>
+　트론 님이 기다리라고<LINE>
+　하셔서・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 0B9A-0B9C]
+
+
+[Block 25, String: 0B9C-0B9E]
+
+
+[Block 26, String: 0B9E-0BFC]
+<MSG_IF 00002BFF>
+<CAM 000000028001400080FF>
+<WIN 3A0024001103>
+<DECOR 0008>
+「경찰 관계자・・<LINE>
+　그래도，걱정하지 않아도 될것같아<LINE>
+　록<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 27, String: 0BFC-0C92]
+<MSG_IF 00002CFF>
+<WIN 400024001003>
+<DECOR 0008>
+「이 섬에도<LINE>
+　사람이 살고 있었구나<LINE>
+　다행이야 잘됐어<NEXT>
+
+<CLEAR 0400>
+　하지만 박사는，<LINE>
+　곤란한 상태로 보이네・・・<LINE>
+　괜찮을까？<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 28, String: 0C92-0CEA]
+<CAM 0000000280FE200080FF>
+<WIN 400024001003>
+<DECOR 0008>
+「사고 발생！！<LINE>
+<PAUSE 1400>　…하지만，무사해서 다행이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 29, String: 0CEA-0CEC]
+
+
+[Block 2A, String: 0CEC-0D74]
+<CAM 0000000280FE200080FF>
+<WIN 400024001003>
+<DECOR 0008>
+경부<LINE>
+「여러분，<LINE>
+　무사해서 천만다행입니다<NEXT>
+
+<CLEAR 0400>
+　엄청난 소리가 나서，<LINE>
+　무슨 일인가 싶었지만・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2B, String: 0D74-0E50]
+<CAM 000044010001480080FF>
+<WIN 400024001003>
+<DECOR 0008>
+「할아버지가 돌아올 때까진<LINE>
+　나는 플러터 호의<LINE>
+　상태를 살펴볼게・・<NEXT>
+
+<CLEAR 0400>
+　록은 수리에 쓸만한 물건을<LINE>
+　찾아와 주겠어？<NEXT>
+
+<CLEAR 0400>
+　아까 말했던 상점가에<LINE>
+　뭔가 없을까・・？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2C, String: 0E50-0EAA]
+<WIN 400024001003>
+<DECOR 0008>
+「박사는 괜찮은 것 같고，<LINE>
+　우선 상점가에<LINE>
+　가보는건 어때？<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 2D, String: 0EAA-0F34]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 32000300>
+「오오 록！<WAIT 1E00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 33000300>
+　우리가 불시착한<LINE>
+　소리를 듣고・・<LINE>
+　경찰 분들이 와주셨다네<WAIT 7800>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 2E, String: 0F34-0FD8]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 34000300>
+경부<LINE>
+「이거・・ 굉장한 소리가 났다만<LINE>
+　모두 무사하셔서 다행입니다<WAIT 7800>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 35000300>
+　어쨌든，캐틀옥스 섬에 오신 걸<LINE>
+　환영합니다！<WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 2F, String: 0FD8-1054]
+<WIN 2A004A001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 36000300>
+경부<LINE>
+<MOVE_FREE>「・・그럼，바로 말씀드리자면<CLEAR 2D00>
+<0386>
+　어느 분이 관공서에<LINE>
+　출두하실 수 있나요？<WAIT 4600>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 30, String: 1054-1162]
+<WIN 2A004A001203>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 3A000300>
+경부<LINE>
+「그동안，뭣하면・・<WAIT 3200>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 3B000300>
+　마을 인근의 상점가에서<LINE>
+　기다려 주세요<WAIT 3C00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 3C000300>
+　그곳이라면，<LINE>
+　카드가 없더라도 들어갈 수 있습니다<WAIT 4600>
+<NEXT>
+
+<CLEAR 0000>
+<WIN 44003C000A04>
+<DECOR 0008>
+<AUDIO 3D000300>
+경관<LINE>
+「그럼<LINE>
+　가실까요，<LINE>
+　배럴 씨<WAIT 1E00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 31, String: 1162-11F4]
+<WIN A8003C000A04>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 37000300>
+경관<LINE>
+「이 섬의 시내로<LINE>
+　들어가시려면・・<WAIT 1900>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 38000300>
+　시민 카드에 대한<LINE>
+　절차가<LINE>
+　필요합니다<LINE>
+<WAIT 2800>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 32, String: 11F4-1308]
+<CAM 000000028001000080FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「이제부터 지하로 내려가・・<NEXT>
+
+<CLEAR 0400>
+　잡동사니를 주워 오려고<LINE>
+　했었는데・・<NEXT>
+
+<CLEAR 0400>
+　리버드 같은 이상한게<LINE>
+　쫓아오고 그러니까<LINE>
+　무서워～<NEXT>
+
+<CLEAR 0400>
+　그래도・・ 뭐라도 가져와야<LINE>
+　장사를 할수 있으니・・<LINE>
+　어떻게 하지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 33, String: 1308-1360]
+<WIN 2A004A001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 39000300>
+경부<LINE>
+「얼추 그렇습니다・・<LINE>
+　걱정마세요．금방 끝날 거예요<WAIT 5A00>
+<JUMP 0030><END><CLOSE 0000>
+
+
+[Block 34, String: 1360-1362]
+
+
+[Block 35, String: 1362-13AE]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 56000300>
+「봐，저거，<LINE>
+　저 비공선인데・・<WAIT 3200>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 36, String: 13AE-1444]
+<PAUSE 2800><WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 57000300>
+「뭐야！ 저 소리・・・<LINE>
+　혹시，마을을・・<WAIT 5000>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 58000300>
+　어떡하지 할아버지가，<LINE>
+　아직 마을에 있잖아！？<WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 37, String: 1444-1488]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 59000300>
+「록，<LINE>
+　나，잠깐 보러가겠어<WAIT 1E00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 38, String: 1488-148A]
+
+
+[Block 39, String: 148A-14B8]
+<WIN 4000A2001003>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 5A000300>
+「롤！<END><CLOSE 1E00>
+
+
+[Block 3A, String: 14B8-14BA]
+
+
+[Block 3B, String: 14BA-14BC]
+
+
+[Block 3C, String: 14BC-151C]
+<CAM 000000028001000180FF>
+<WIN 400024001003>
+<DECOR 0008>
+「빨리 안 하면 우리 배<LINE>
+　위반 딱지 붙을거야～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 3D, String: 151C-15A6]
+<WIN 340024001203>
+<DECOR 0008>
+「롤，걱정하고 있어서<LINE>
+　상태를 보러왔었어<NEXT>
+
+<CLEAR 0400>
+　부품을 팔 것 같은 가게가 있었어？<LINE>
+　어서 찾아와 줘<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 3E, String: 15A6-1650]
+<CAM 000000028001000080FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「나도 젊었을 적엔<LINE>
+　저 차로・・<NEXT>
+
+<CLEAR 0400>
+　여기저기 디그아웃을<LINE>
+　하고 다녔었지만・・<NEXT>
+
+<CLEAR 0400>
+　이 나이가 되니까，아무래도<LINE>
+　겁이 나더라고・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 3F, String: 1650-16AE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「참고로，이 게이트의<LINE>
+　Ｎ이라는 건・・<NEXT>
+
+<CLEAR 0400>
+　북쪽 방향을 의미해<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 40, String: 16AE-1714]
+<WIN 4000A2001003>
+<DECOR 0008>
+「정말，<LINE>
+　언제까지 여기에 둘 셈인가요・・<NEXT>
+
+<CLEAR 0400>
+　당신들，정말 그들과는 다르죠？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 41, String: 1714-1758]
+<CAM 000000028001000180FF>
+<WIN 400024001003>
+<DECOR 0008>
+「아직인가・・・<LINE>
+　트론 님・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 42, String: 1758-179E]
+<CAM 000000028001000180FF>
+<WIN 400024001003>
+<DECOR 0008>
+「경찰 아저씨한테<LINE>
+　들키고 말거야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 43, String: 179E-17F6]
+<CAM 0000800180FEE0FFA8FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭐라도 찾았어，록？<NEXT>
+
+<CLEAR 0400>
+　그래・・ 아직이구나・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 44, String: 17F6-18D6]
+<WIN 400024001003>
+<DECOR 0008>
+「아까 말야，<NEXT>
+
+<CLEAR 0400>
+　저 유적 안으로<LINE>
+　아저씨가 들어갔는데，<LINE>
+　괜찮으려나？<NEXT>
+
+<CLEAR 0400>
+　록도<LINE>
+　상태를 보러 갈 생각이라면<LINE>
+　저장하는게 좋아<NEXT>
+
+<CLEAR 0400>
+　저장하고 싶을 때는<LINE>
+　나한테 말을 걸어줘<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 45, String: 18D6-197A]
+<CAM 0000800180FEE0FFA8FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「어，정크샵<LINE>
+　쉬는거야…？<NEXT>
+
+<CLEAR 0400>
+　・<PAUSE 0800>・<PAUSE 0800>・흠，그렇다면<LINE>
+　그 아저씨를 찾아보는게<LINE>
+　좋을지도 모르겠네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 46, String: 197A-197C]
+
+
+[Block 47, String: 197C-19AE]
+<WIN 4000A2001003>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 51000300>
+「앗，록～！！<END><CLOSE 3200>
+
+
+[Block 48, String: 19AE-19B0]
+
+
+[Block 49, String: 19B0-19EE]
+<WIN 340030001203>
+<DECOR 0008>
+센트럴 타운으로<LINE>
+가야만 돼・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 4A, String: 19EE-19F0]
+
+
+[Block 4B, String: 19F0-19F2]
+
+
+[Block 4C, String: 19F2-19F4]
+
+
+[Block 4D, String: 19F4-19F6]
+
+
+[Block 4E, String: 19F6-19F8]
+
+
+[Block 4F, String: 19F8-19FA]
+
+
+[Block 50, String: 19FA-19FC]
+
+
+[Block 51, String: 19FC-1A5A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「차의 잔해다・・<LINE>
+　이 상태로는<LINE>
+　쓸 수 없어 보인다・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 52, String: 1A5A-1B40]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신，디그아우터야？<NEXT>
+
+<CLEAR 0400>
+　그렇다면 알 거라고 생각하지만<LINE>
+　여기에 들어가려면・・<NEXT>
+
+<CLEAR 0400>
+　이 섬의 디그아웃 면허가<LINE>
+　없으면 안돼<NEXT>
+
+<CLEAR 0400>
+　면허라면 도시에 가서<LINE>
+　행정기관에라도 물어봐<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 53, String: 1B40-1C4E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 터널 너머의 숲에는<LINE>
+　서브게이트라고 불리는<LINE>
+　고대의 유적이 있는데<NEXT>
+
+<CLEAR 0400>
+　뭔가 위험한 것 같아서<LINE>
+　좀처럼 들어갈 수 없다고<LINE>
+　하더라고…<NEXT>
+
+<CLEAR 0400>
+　뭐，나 같이 인근에서<LINE>
+　버섯을 따는 정도라면<LINE>
+　상관없겠지만<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 54, String: 1C4E-1CB2]
+<MSG_IF 2A0513FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「참고로，이 게이트의<LINE>
+　Ｎ이라는건・・<NEXT>
+
+<CLEAR 0400>
+　북쪽 방향이란 의미야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 55, String: 1CB2-1D3C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「역시 네 것이었구나・・<LINE>
+　뭐라고 하든간<LINE>
+　이미 늦었어<NEXT>
+
+<CLEAR 0400>
+　위반 딱지도 끊었고<LINE>
+　슬슬 돌아갈까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 56, String: 1D3C-1DCA]
+<GET 1400><WIN 4000A2001003>
+<DECOR 0008>
+「봐봐，록・・！<NEXT>
+
+<CLEAR 0400>
+　이거 혹시 디그아웃 용<LINE>
+　서포트 카일까・・？<NEXT>
+
+<CLEAR 0400>
+　수리하면 사용할 수 있을까・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 57, String: 1DCA-1E50]
+<MSG_IF 220058FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「정크샵 아저씨를<LINE>
+　도와줬었구나・・<NEXT>
+
+<CLEAR 0400>
+　사례라도 하고싶으니，가게로<LINE>
+　와달라고 말했었어<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 58, String: 1E50-1EF4]
+<MSG_IF 1A005DFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「어서 와<LINE>
+<NEXT>
+
+<CLEAR 0400>
+　롤은<LINE>
+　여전히 변함 없어<NEXT>
+
+<CLEAR 0400>
+　아까부터<LINE>
+　차를 뚫어져라～ 보고있어<NEXT>
+
+<CLEAR 0400>
+　정말로 기계를 좋아하는구나<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 59, String: 1EF4-1EF6]
+
+
+[Block 5A, String: 1EF6-1EF8]
+
+
+[Block 5B, String: 1EF8-1EFA]
+
+
+[Block 5C, String: 1EFA-1F38]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그럼，할아버지 일은<LINE>
+　부탁할게<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 5D, String: 1F38-1FA6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적인가・・・<NEXT>
+
+<CLEAR 0400>
+　록이라면<LINE>
+　걱정할 필요 없다고 생각하지만，<LINE>
+　일단 조심해<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 5E, String: 1FA6-1FE6]
+<WIN 4000A2001003>
+<DECOR 0008>
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 4F000300>
+꼬붕<LINE>
+「가시죠，트론 님！<END><CLOSE 1E00>
+
+
+[Block 5F, String: 1FE6-211A]
+<WIN 3A0024001103>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 50000300>
+「할아버지는！？<WAIT 1E00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 52000300>
+　그래・・<LINE>
+　시청에서 시장님과<LINE>
+　이야기 중이구나・・<WAIT 4600>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 53000300>
+　괜찮을려나<LINE>
+　・・・이런 때에<WAIT 3200>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 54000300>
+　록，그나저나<LINE>
+　방금 이상한 배가 날아간 것 같아<WAIT 4B00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 55000300>
+　본 적 없는<LINE>
+　비공선이었는데・・<LINE>
+　뭘까<WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 60, String: 211A-216A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「록，<LINE>
+　나는 록을 믿고있으니까<LINE>
+　힘내<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 61, String: 216A-21A6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어떻게 봐도<LINE>
+　고철이잖아・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 62, String: 21A6-2256]
+<WIN 4000A2001003>
+<DECOR 0008>
+롤<LINE>
+「록，저번 섬에서 가져온<LINE>
+　디플렉터를 사용해도 되지？<NEXT>
+
+<CLEAR 0400>
+　그걸 사용하면，서포트카를<LINE>
+　완전히 고칠 수 있을 것 같아<LINE>
+　조금만 더 기다려줘<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 63, String: 2256-22C4]
+<WIN 4000A2001003>
+<DECOR 0008>
+롤<LINE>
+「조금만 더 기다려 줘<NEXT>
+
+<CLEAR 0400>
+　나도<LINE>
+　빨리 록을 돕고 싶은<LINE>
+　마음이니까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 64, String: 22C4-2312]
+<WIN 4000A2001003>
+<DECOR 0008>
+데이터<LINE>
+「록！ 빨리<LINE>
+　롤을 쫓아가야 돼！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 65, String: 2312-235E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「박사는 찾았어？<LINE>
+　롤에게 알려줘<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 66, String: 235E-23A6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「록！ 빨리<LINE>
+　롤을 쫓아가야 돼！<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 67, String: 23A6-23DA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「록～！<LINE>
+　잠깐만 기다려～<END><CLOSE 1E00>
+
+
+[Block 68, String: 23DA-2524]
+<WIN 4000A2001003>
+<DECOR 0008>
+「헉，헉… 그러니까<LINE>
+　공적을 잡으러 갔던<LINE>
+　경부님 일행 말입니다만…<NEXT>
+
+<CLEAR 0400>
+　저기，그，압도적인<LINE>
+　적의 화력에… 말이죠…<NEXT>
+
+<CLEAR 0400>
+　저기… 말하기 좀 어렵지만<LINE>
+　산산조각，났거든요<LINE>
+　그렇게 당해 버렸어요<NEXT>
+
+<CLEAR 0400>
+　그래서，제가 드리고픈<LINE>
+　말씀은…<LINE>
+　…………도와주세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 69, String: 2524-25F6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「경관인 제가 말하긴 그렇지만<LINE>
+　공적을 처치하려면…<NEXT>
+
+<CLEAR 0400>
+　디그아우터님의 힘을<LINE>
+　빌려야할 수 밖엔 없습니다…<NEXT>
+
+<CLEAR 0400>
+　시청 에리어 북쪽의<LINE>
+　클로저 숲입니다… 부디！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6A, String: 25F6-2672]
+<WIN 4000A2001003>
+<DECOR 0008>
+「버섯이라도<LINE>
+　자라지 않았을까・・<NEXT>
+
+<CLEAR 0400>
+　자라 있으면<LINE>
+　오늘 밥 반찬으로<LINE>
+　먹고 싶은데 말이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6B, String: 2672-26B2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이거，네 거야？<NEXT>
+
+<CLEAR 0400>
+　・・대단한데<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6C, String: 26B2-2754]
+<WIN 3400A2001203>
+<DECOR 0008>
+「안녕，<LINE>
+　너도 디그아우터야？<NEXT>
+
+<CLEAR 0400>
+　이 근처에 던전이 있다는<LINE>
+　말이 있지만，난 방향 감각이 없어서<LINE>
+　어디인지 모르겠어・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6D, String: 2754-2782]
+<WIN 4000A2001003>
+<DECOR 0008>
+「디그아우터님～！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6E, String: 2782-2784]
+
+
+[Block 6F, String: 2784-2786]
+
+
+[Block 70, String: 2786-2788]
+
+
+[Block 71, String: 2788-278A]
+
+
+[Block 72, String: 278A-279A]
+<GIVE FF01><GET 2D02><END><CLOSE 0000>
+
+
+[Block 73, String: 279A-279C]
+
+
+[Block 74, String: 279C-279E]
+
+
+[Block 75, String: 279E-27A0]
+
+
+[Block 76, String: 27A0-27A2]
+
+
+[Block 77, String: 27A2-27A4]
+
+
+[Block 78, String: 27A4-27A6]
+
+
+[Block 79, String: 27A6-27A8]
+
+
+[Block 7A, String: 27A8-27AA]
+
+
+[Block 7B, String: 27AA-27AC]
+
+
+[Block 7C, String: 27AC-27AE]
+
+
+[Block 7D, String: 27AE-27B0]
+
+
+[Block 7E, String: 27B0-2812]
+<WIN 4000A2001003>
+<DECOR 0008>
+정크샵의 아저씨<LINE>
+「저기 있는 여자애<LINE>
+　네가 아는 사람 아니야？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7F, String: 2812-2814]
+
+
+[Block 80, String: 2814-2816]
+
+
+[Block 81, String: 2816-2818]
+
+
+[Block 82, String: 2818-281A]
+
+
+[Block 83, String: 281A-28E2]
+<MSG_IF 0C007EFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+경관<LINE>
+「너，아까 불시착한 사람？<NEXT>
+
+<CLEAR 0400>
+　・・그렇다면 도시에 들어가는건<LINE>
+　경부님과 이야기한 뒤에<LINE>
+　해줄 수 있을까？<NEXT>
+
+<CLEAR 0400>
+　경부님은 불시착 현장을<LINE>
+　보러 갔을 거야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 84, String: 28E2-28E4]
+
+
+[Block 85, String: 28E4-28E6]
+
+
+[Block 86, String: 28E6-28E8]
+
+
+[Block 87, String: 28E8-28EA]
+
+
+[Block 88, String: 28EA-28EC]
+
+
+[Block 89, String: 28EC-2922]
+<WIN 400024001002>
+<DECOR 0008>
+「도시의 위치…<LINE>
+　이미 알고 있어…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 8A, String: 2922-2958]
+<MSG_IF 0D0089FF>
+<WIN 400024001002>
+<DECOR 0008>
+「역시 있었구나，도시가・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 8B, String: 2958-29B8]
+<WIN 400024001003>
+<DECOR 0008>
+「이 앞에 지하 던전 있음<LINE>
+　위험하므로<LINE>
+　일반 시민 출입 금지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 8C, String: 29B8-2A54]
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「내부는 위험！<LINE>
+　<COLOR 0300>Ｂ급 디그아웃 면허<COLOR 0000>가<LINE>
+　없는 분은 들어갈 수 없습니다<NEXT>
+
+<CLEAR 0400>
+　캐틀옥스 시장<NEXT>
+
+<CLEAR 0400>
+　이라는 팻말이 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 8D, String: 2A54-2A56]
+
+
+[Block 8E, String: 2A56-2A8C]
+<MSG_IF 350249FF>
+<WIN 4000A8001002>
+<DECOR 0008>
+지하로 가는 입구 같은데…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 8F, String: 2A8C-2ABC]
+<WIN 4000A8001002>
+<DECOR 0008>
+지하로 가는 입구 같은데…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 90, String: 2ABC-2ABE]
+
+
+[Block 91, String: 2ABE-2AC0]
+
+
+[Block 92, String: 2AC0-2AC2]
+
+
+[Block 93, String: 2AC2-2AC4]
+
+
+[Block 94, String: 2AC4-2AC6]
+
+
+[Block 95, String: 2AC6-2AC8]
+
+
+[Block 96, String: 2AC8-2ACA]
+
+
+[Block 97, String: 2ACA-2ACC]
+
+
+[Block 98, String: 2ACC-2ACE]
+
+
+[Block 99, String: 2ACE-2AD0]
+
+
+[Block 9A, String: 2AD0-2AD2]
+
+
+[Block 9B, String: 2AD2-2AD4]
+
+
+[Block 9C, String: 2AD4-2AD6]
+
+
+[Block 9D, String: 2AD6-2AD8]
+
+
+[Block 9E, String: 2AD8-2ADA]
+
+
+[Block 9F, String: 2ADA-2ADC]
+
+
+[Block A0, String: 2ADC-2ADE]
+
+
+[Block A1, String: 2ADE-2AE0]
+
+
+[Block A2, String: 2AE0-2AE2]
+
+
+[Block A3, String: 2AE2-2AE4]
+
+
+[Block A4, String: 2AE4-2AE6]
+
+
+[Block A5, String: 2AE6-2AE8]
+
+
+[Block A6, String: 2AE8-2AEA]
+
+
+[Block A7, String: 2AEA-2AEC]
+
+
+[Block A8, String: 2AEC-2AEE]
+
+
+[Block A9, String: 2AEE-2AF0]
+
+
+[Block AA, String: 2AF0-2AF2]
+
+
+[Block AB, String: 2AF2-2AF4]
+
+
+[Block AC, String: 2AF4-2AF6]
+
+
+[Block AD, String: 2AF6-2AF8]
+
+
+[Block AE, String: 2AF8-2AFA]
+
+
+[Block AF, String: 2AFA-2AFC]
+
+
+[Block B0, String: 2AFC-2AFE]
+
+
+[Block B1, String: 2AFE-2BBE]
+<GET 2300><NO_CHAR_SFX><AUDIO 21000300>
+<WIN 4000A2001003>
+<DECOR 0008>
+경관<LINE>
+「아，여기 계셨군요…<WAIT 1E00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 22000300>
+　수속이 완료되었으므로<LINE>
+　이것을 가져왔습니다<WAIT 4600>
+<NEXT>
+
+<CLEAR 0000>
+<WIN 4000A2001003>
+<DECOR 0008>
+<LINE>
+<037C 8600>
+<SPACE 0C00><COLOR 0300><ITEM 2A00><COLOR 0000><GET 2A05>를 손에 넣었다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B2, String: 2BBE-2C5E]
+<NO_CHAR_SFX><AUDIO 23000300>
+<WIN 4000A2001003>
+<DECOR 0008>
+　이제부터는 도시의 게이트를<LINE>
+　지나가실 수 있습니다<WAIT 3200>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 24000300>
+　…만，지금은<LINE>
+　통과할 수 없는 게이트가<LINE>
+　많이 있지만요…<WAIT 5A00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block B3, String: 2C5E-2C90]
+<NO_CHAR_SFX><AUDIO 25000300>
+<WIN 80003E000802>
+<DECOR 0008>
+「왜 그렇죠？<WAIT 1E00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block B4, String: 2C90-2D58]
+<NO_CHAR_SFX><AUDIO 26000300>
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적 때문이에요…<WAIT 1E00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 27000300>
+　녀석들이 이 섬에<LINE>
+　접근하고 있어서요…<WAIT 3C00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 28000300>
+　혹시 모르니<LINE>
+　주민들을 대피시키고<LINE>
+　게이트를 닫아 놓았습니다<WAIT 6400>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block B5, String: 2D58-2DE8]
+<NO_CHAR_SFX><AUDIO 29000300>
+<WIN 220024000D03>
+<DECOR 0008>
+「공적・・！？<WAIT 1400>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 2A000300>
+　저기… 할아버지가<LINE>
+　아직 도시 안에 계신데<LINE>
+　괜찮을까요？<WAIT 6E00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block B6, String: 2DE8-2E96]
+<NO_CHAR_SFX><AUDIO 2B000300>
+<WIN 4000A2001003>
+<DECOR 0008>
+「흠，공적의 소동이야<LINE>
+　눈치채고 계시겠지만…<WAIT 4600>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 2C000300>
+　뭐，저도 발견하거든<LINE>
+　주의해 두겠습니다…<WAIT 5000>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 2D000300>
+　그럼<WAIT 1400>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block B7, String: 2E96-2EFA]
+<NO_CHAR_SFX><AUDIO 2E000300>
+<WIN 280024000A02>
+<DECOR 0008>
+「할아버지<LINE>
+　괜찮을까…<WAIT 1E00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 2F000300>
+　걱정이야…<WAIT 1E00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block B8, String: 2EFA-2F58]
+<NO_CHAR_SFX><AUDIO 30000300>
+<WIN 860024000B03>
+<DECOR 0008>
+「잠깐 가서 보고올테니<LINE>
+　롤은<LINE>
+　여기서 기다려 줘<WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block B9, String: 2F58-2F8C]
+<NO_CHAR_SFX><AUDIO 31000300>
+<WIN 280024000A02>
+<DECOR 0008>
+「록，부탁할게！<WAIT 1E00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block BA, String: 2F8C-3000]
+<WIN 4000A2001003>
+<DECOR 0008>
+「록，벌써 출발하는 거야？<LINE>
+　사냥<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 00BBBC00>
+<END><CLOSE 0000>
+
+
+[Block BB, String: 3000-3002]
+
+
+[Block BC, String: 3002-3068]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그럼，모두에게 잘 전해줘<LINE>
+　출발할 때는 말해줘<LINE>
+　하지만 아직 세팅은 안 됐어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BD, String: 3068-30D2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「록，슬슬 출발할래？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 00BEBF00>
+<END><CLOSE 0000>
+
+
+[Block BE, String: 30D2-30D4]
+
+
+[Block BF, String: 30D4-3164]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그래，아직<LINE>
+　인사가 끝나지 않았구나<LINE>
+　아직 아무도 세팅을 안 했잖아<NEXT>
+
+<CLEAR 0400>
+　알았어<LINE>
+　그럼，출발할 때 말해줘<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C0, String: 3164-319A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「리버드는 더 이상 난동을<LINE>
+　부리지 않고있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C1, String: 319A-31D0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「리버드는 더 이상 난동을<LINE>
+　부리지 않고있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C2, String: 31D0-3214]
+<WIN 4000A2001003>
+<DECOR 0008>
+「출발하려면<LINE>
+　롤에게 말해야 해…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C3, String: 3214-325E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「모두에게 인사를 하려면<LINE>
+　도시 쪽으로 가야 해<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C4, String: 325E-32A2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「은행은 록 씨에게<LINE>
+　정말 많은 도움을 받았습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C5, String: 32A2-32F8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「은행은<LINE>
+　강도에게 공격당하는 일도 없이<LINE>
+　평화로웠습니다…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C6, String: 32F8-3334]
+<WIN 4000A2001003>
+<DECOR 0008>
+「덕분에<LINE>
+　방송이 흥미진진해졌어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C7, String: 3334-337A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「스타가 없어서<LINE>
+　시청률은 형편 없어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C8, String: 337A-339C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「다행이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C9, String: 339C-33C4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「투신 해볼까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CA, String: 33C4-33E6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「다녀와라<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CB, String: 33E6-340E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「슬슬 가는건가<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CC, String: 340E-344A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「모두에게<LINE>
+　인사하고 오세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CD, String: 344A-348A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「가시는 군요<LINE>
+　아쉬운 마음 뿐이랍니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CE, String: 348A-34B2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「다녀와，우낏<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CF, String: 34B2-34D8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「갈까，우낏<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D0, String: 34D8-34FC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「냥냥<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D1, String: 34FC-3520]
+<WIN 4000A2001003>
+<DECOR 0008>
+「야～옹…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D2, String: 3520-3598]
+<NO_CHAR_SFX><0378 0000><WIN 4C00A2000E04>
+<DECOR 0008>
+「아무도 없는 것 같다・・・<LINE>
+<LINES 0800>
+<SPACE 1200><SEL 0001FD00>롤을 부른다<LINE>
+<SPACE 1200><SEL 1101FD00>그만둔다<LINE>
+<0385 80FFFF00>
+<END><CLOSE 0000>
+
+
+[Block D3, String: 3598-359A]
+
+
+[Block D4, String: 359A-359C]
+
+
+[Block D5, String: 359C-359E]
+
+
+[Block D6, String: 359E-35A0]
+
+
+[Block D7, String: 35A0-35A2]
+
+
+[Block D8, String: 35A2-35A4]
+
+
+[Block D9, String: 35A4-35A6]
+
+
+[Block DA, String: 35A6-35A8]
+
+
+[Block DB, String: 35A8-35CC]
+<WIN 5A003A000C01>
+<DECOR 0008>
+「삭제～<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block DC, String: 35CC-3646]
+<NO_CHAR_SFX><0378 0000><CALL 01DD><WIN 5A00A0000C04>
+<DECOR 0008>
+<SEL 0031FD00>에너지 충전<LINE>
+<0391 1102FD00>저장한다<LINE>
+<SEL 2213FD00>정보가 필요하다<LINE>
+<SEL 3320FD00>아무것도 아니다<LINE>
+<0399 80DFDEE4FF00><END><CLOSE 0000>
+
+
+[Block DD, String: 3646-366C]
+<WIN 5A0030000C01>
+<DECOR 0008>
+「뭘 할 거야～？<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block DE, String: 366C-3684]
+<EXE_JUMP 0806><EXE_JUMP 0900><EXE_JUMP 0A00><EXE_JUMP 0B00><0378 0100><0383>
+
+[Block DF, String: 3684-3702]
+<CALL 01E3><03A3 FFE0E1E2>
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<LINE>
+<RESTORE_SP>특수무기 에너지가 가득 찼다<LINE>
+<RESTORE_SHIELD>라이프 실드가 고쳐졌다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E0, String: 3702-3750]
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<LINE>
+<RESTORE_SHIELD>라이프 실드가 고쳐졌다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E1, String: 3750-37A6]
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<LINE>
+<RESTORE_SP>특수무기 에너지가 가득 찼다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E2, String: 37A6-37D6]
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E3, String: 37D6-37DC]
+<CLOSE 0000>
+
+
+[Block E4, String: 37DC-3864]
+<NO_CHAR_SFX><0378 0000><CALL 01E5><WIN 5A00A0000C04>
+<DECOR 0008>
+<SEL 0031FD00>지금부터 어떻게 하지？<LINE>
+<SEL 1102FD00>록 버스터에 대해서<LINE>
+<SEL 2213FD00>세이브에 대해서<LINE>
+<SEL 3320FD00>아무것도 아니다<LINE>
+<0385 80E8E7E6DC00>
+<END><CLOSE 0000>
+
+
+[Block E5, String: 3864-3888]
+<WIN 5A0030000C01>
+<DECOR 0008>
+「뭔데～？<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block E6, String: 3888-39CE]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001003>
+<DECOR 0008>
+「저장하고 싶을 때는<LINE>
+　날 찾아서 말 걸어줘～<NEXT>
+
+<CLEAR 0400>
+　하지만，<LINE>
+　＂메모리스틱 듀오＂<LINE>
+　가 필요해<NEXT>
+
+<CLEAR 0400>
+　１개의 데이터를 저장하는데<LINE>
+　３６０ＫＢ이상의 여유 용량이<LINE>
+　필요하지만～<NEXT>
+
+<CLEAR 0400>
+　게임오버가 되면<LINE>
+　저장한 지점부터<LINE>
+　다시 시작하니까 조심해～<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block E7, String: 39CE-3AA4]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001003>
+<DECOR 0008>
+「록의 왼팔에 있는 록 버스터는<LINE>
+　파츠를 붙이면<LINE>
+　파워업 하는 거야～<NEXT>
+
+<CLEAR 0400>
+　파츠는 ２개까지 장비되니까<LINE>
+　조합을 잘 생각해봐～<LINE>
+　하지만，도시에서는 사용 금지야<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block E8, String: 3AA4-3B3C]
+<CHAR_SFX><0378 0100><CALL 01E3><MSG_IF 0400ECFF>
+<WIN 400024001002>
+<DECOR 0008>
+「어떤 섬일까，<LINE>
+　여기는・・・<NEXT>
+
+<CLEAR 0400>
+　일단 도시로 가보면 어때～？<NEXT>
+
+<CLEAR 0400>
+　어디가 도시인지 알겠어～？<CALL 01E9><037B 0100>
+<END><CLOSE 0000>
+
+
+[Block E9, String: 3B3C-3B92]
+<NO_CHAR_SFX><0378 0000><WIN 7800A0000702>
+<DECOR 0008>
+<SPACE 0600><SEL 0001FD00>물론<LINE>
+<SPACE 0600><SEL 1101FD00>모르겠어<LINE>
+<0385 00FFFF00>
+<IF 000000EB><IF 010000EA><END><CLOSE 0000>
+
+
+[Block EA, String: 3B92-3BEC]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「저쪽에 뭔가 보여<NEXT>
+
+<CLEAR 0400>
+　간판 같은 거～<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block EB, String: 3BEC-3C6E]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「흐～음・・・<LINE>
+　나，여기서 기다릴게・・・<NEXT>
+
+<CLEAR 0400>
+　롤이 걱정되니까<NEXT>
+
+<CLEAR 0400>
+　힘내<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block EC, String: 3C6E-3CA8]
+<MSG_IF 0000EDFF>
+<WIN 400024001002>
+<DECOR 0008>
+「박사는 뭐라고 말했어～？<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block ED, String: 3CA8-3D3C]
+<MSG_IF 0E00EEFF>
+<WIN 400024001002>
+<DECOR 0008>
+「일단 박사는<LINE>
+　신경끄고 도시로 가볼래～？<NEXT>
+
+<CLEAR 0400>
+<LINES 0600>
+　안될까？<NEXT>
+
+<CLEAR 0400>
+<MSG_IF 0D00E4FF>
+　어디가 도시인지 알겠어～？<CALL 01E9><037B 0100>
+<END><CLOSE 0000>
+
+
+[Block EE, String: 3D3C-3E22]
+<MSG_IF 0C00EFFF>
+<WIN 400024001003>
+<DECOR 0008>
+「사람을 돕는 건 기본이야～<LINE>
+　정크샵 아저씨를 찾아주면<LINE>
+　어떨까～？<NEXT>
+
+<CLEAR 0400>
+　정크샵이니까，<LINE>
+　뭔가 줄지도 몰라～<NEXT>
+
+<CLEAR 0400>
+<LINE>
+　・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800><NEXT>
+
+<CLEAR 0400>
+　나，딱히<LINE>
+　원하는 게 있는 건 아냐<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block EF, String: 3E22-3EBC]
+<MSG_IF 2200F0FF>
+<WIN 400024001003>
+<DECOR 0008>
+「정크샵 아저씨，<LINE>
+　뭘 줄까？<LINE>
+　두근두근해～～<NEXT>
+
+<CLEAR 0400>
+　빨리 받으러 갔다와<LINE>
+　나 기다리기 힘들어～<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block F0, String: 3EBC-3F8C]
+<MSG_IF CB04F1FF>
+<WIN 400024001002>
+<DECOR 0008>
+「무기 파츠를 받았구나・・・<NEXT>
+
+<CLEAR 0400>
+　・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800><PAUSE 0800><LINE>
+　음식이 아니었구나・・・<NEXT>
+
+<CLEAR 0400>
+　정크샵이니까～<NEXT>
+
+<CLEAR 0400>
+　우선，롤에게<LINE>
+　붙여달라고 하자～<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block F1, String: 3F8C-3FC2]
+<MSG_IF 0200F7FF>
+<WIN 400024001002>
+<DECOR 0008>
+「배럴 박사를 찾을까～？<CALL 01F2><037B 0100>
+<END><CLOSE 0000>
+
+
+[Block F2, String: 3FC2-4014]
+<NO_CHAR_SFX><0378 0000><WIN 7800A0000702>
+<DECOR 0008>
+<SPACE 0600><SEL 0001FD00>찾아보자<LINE>
+<SPACE 0600><SEL 1101FD00>찾지말자<LINE>
+<0385 00FFFF00>
+<IF 000000F3><IF 010000F4><END><CLOSE 0000>
+
+
+[Block F3, String: 4014-40FC]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001003>
+<DECOR 0008>
+「흐～음・・・<LINE>
+　롤의 부탁이니까～<NEXT>
+
+<CLEAR 0400>
+　역시，록은<LINE>
+　롤을・・・<NEXT>
+
+<CLEAR 0400>
+　어쨌든，경찰이라면<LINE>
+　<COLOR 0200>센트럴 타운<COLOR 0000>을 조금 더<LINE>
+　지나가서 <COLOR 0200>시청 에리어<COLOR 0000>에 있어<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block F4, String: 40FC-41DA]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「그런 말을 하는거야？<NEXT>
+
+<CLEAR 0400>
+　괜찮을까～<LINE>
+　롤의 부탁인데～<NEXT>
+
+<CLEAR 0400>
+　혹시<LINE>
+　롤이・・・<NEXT>
+
+<CLEAR 0400>
+　싫어？<NEXT>
+
+<CLEAR 0400>
+　다른 좋은 애라도 있었던거야？<NEXT>
+
+<CLEAR 0400>
+　누구？<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block F5, String: 41DA-41DC]
+
+
+[Block F6, String: 41DC-41DE]
+
+
+[Block F7, String: 41DE-423A]
+<WIN 400024001003>
+<DECOR 0008>
+「뭔가，분위기가 고조되네<LINE>
+　나，이 섬에 더<LINE>
+　있고 싶을지도<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block F8, String: 423A-423C]
+
+
+[Block F9, String: 423C-423E]
+
+
+[Block FA, String: 423E-4284]
+<NO_CHAR_SFX><0378 0000><WIN 8200DE001801>
+<DECOR 0008>
+<COLOR 0500><TRIANGLE><COLOR 0000>버튼：저장데이터 삭제<NEXT>
+
+<CLEAR 0400>
+<END><CLOSE 0000>
+
+

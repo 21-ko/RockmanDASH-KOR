@@ -1,0 +1,1477 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-0004]
+
+
+[Block 02, String: 0004-0006]
+
+
+[Block 03, String: 0006-0008]
+
+
+[Block 04, String: 0008-000A]
+
+
+[Block 05, String: 000A-000C]
+
+
+[Block 06, String: 000C-000E]
+
+
+[Block 07, String: 000E-0010]
+
+
+[Block 08, String: 0010-0012]
+
+
+[Block 09, String: 0012-0014]
+
+
+[Block 0A, String: 0014-0016]
+
+
+[Block 0B, String: 0016-0018]
+
+
+[Block 0C, String: 0018-00C4]
+<WIN 400030001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 47000600>
+「오오 록！<LINE>
+　데리러 와준건가？<WAIT 6000>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 48000600>
+　소개하겠네<WAIT 1800>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 49000600>
+　이쪽은 이 섬의 시장인<LINE>
+　아멜리아 씨라네<WAIT 5800>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 0D, String: 00C4-0198]
+<WIN 4000B4001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 4A000600>
+「처음 뵙겠습니다<LINE>
+　아멜리아입니다<WAIT 3E00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 4B000600>
+　배럴 박사님과는<LINE>
+　오래 전부터 잘 알던 사이예요<WAIT 6300>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 4C000600>
+　대학에 있을 때<LINE>
+　박사님의 조수로 일한 적도<LINE>
+　있었답니다<WAIT 7000>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 0E, String: 0198-01E2]
+<WIN 70001E001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 4D000600>
+「하하하，<LINE>
+　우연이란 참 무섭지않나<WAIT 7E00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 0F, String: 01E2-0284]
+<WIN 70001E001103>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 4E000600>
+　실은 지금<LINE>
+　이 섬으로 공적이<LINE>
+　오고 있어서・・<WAIT 7000>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 4F000600>
+　그래서，그들이 노리는게 무엇인지<LINE>
+　박사님께 여쭤보고 있었지요<WAIT 7800>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 10, String: 0284-02E0]
+<WIN 70001E001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 50000600>
+「공적 녀석들，이 섬의 비보를<LINE>
+　노리고 있다고 하네・・<WAIT 8500>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 11, String: 02E0-039E]
+<WIN 4000B4001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 51000600>
+「보물은 지하에 있다고 하는데，<LINE>
+　그게 무엇인지<LINE>
+　아는 사람이 없어요<WAIT B600>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 52000600>
+　배럴 박사님이라면，혹시・・<LINE>
+　라고 생각했었습니다만・・<WAIT 5300>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 12, String: 039E-04AA]
+<NO_CHAR_SFX><WIN 400030001003>
+<DECOR 0008>
+<AUDIO 53000600>
+「나도 오랫동안<LINE>
+　보물을 조사하고 있네만・・<WAIT 6400>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 54000600>
+　이 섬의 비보에 대해서는<LINE>
+　알 수 없는 일이 많아서 말이네<WAIT 6300>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 55000600>
+　조금 더，이 일에 대해서<LINE>
+　아멜리아와 이야기 해볼테니<LINE>
+<WAIT 7700>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 56000600>
+　롤에게는 걱정 말라고<LINE>
+　전해주게・・<WAIT 3D00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 13, String: 04AA-0536]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나는 아멜리아와<LINE>
+　여기서 이야기하고 있겠네…<NEXT>
+
+<CLEAR 0400>
+　그보다，록<LINE>
+　공적이 나타나거든<LINE>
+　롤을 부탁하네！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 0536-061C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지하의 보물에 대해서<LINE>
+　아는 것이라곤…<NEXT>
+
+<CLEAR 0400>
+　그 봉인이 풀리면<LINE>
+　재앙이 일어난다는<LINE>
+　전설 뿐입니다…<NEXT>
+
+<CLEAR 0400>
+　섬을 책임지는 시장으로써<LINE>
+　전설이라 할지라도<LINE>
+　위험을 무시할 수는 없어요…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 061C-0650]
+<WIN 520052000D01>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 70000600>
+「아，기다려 록<WAIT 2400>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 16, String: 0650-067E]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 71000600>
+「나도 갈게…<WAIT 1400>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 17, String: 067E-0680]
+
+
+[Block 18, String: 0680-0682]
+
+
+[Block 19, String: 0682-0684]
+
+
+[Block 1A, String: 0684-0686]
+
+
+[Block 1B, String: 0686-0688]
+
+
+[Block 1C, String: 0688-068A]
+
+
+[Block 1D, String: 068A-068C]
+
+
+[Block 1E, String: 068C-068E]
+
+
+[Block 1F, String: 068E-0690]
+
+
+[Block 20, String: 0690-06BE]
+<WIN 4000A2001003>
+<DECOR 0008>
+큰 그림이 걸려있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 06BE-070A]
+<WIN 4000A2001003>
+<DECOR 0008>
+독특한 그림이네・・・<LINE>
+추상화라는 건가？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 070A-0740]
+<WIN 4000A2001003>
+<DECOR 0008>
+조각상이다<LINE>
+형태는 간단하지만<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 0740-078A]
+<WIN 4000A2001003>
+<DECOR 0008>
+모든 섬 주민의 파일이나 지하의<LINE>
+조사 데이터가 나열되어 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 078A-07B8]
+<WIN 4000A2001003>
+<DECOR 0008>
+예쁜 돌이 장식되어 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 25, String: 07B8-07BA]
+
+
+[Block 26, String: 07BA-07BC]
+
+
+[Block 27, String: 07BC-07BE]
+
+
+[Block 28, String: 07BE-07C0]
+
+
+[Block 29, String: 07C0-0836]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 57000600>
+「오오，록！<LINE>
+　또 공적들을 처치했구나・・<LINE>
+　꽤 하지않는가，대장！<WAIT A000>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2A, String: 0836-08AE]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 58000600>
+「정말 어떻게 감사를 드려야할지<LINE>
+　몇번이고 위험한 때마다<LINE>
+　구해주셔서<WAIT 9600>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2B, String: 08AE-0962]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 59000600>
+「건드리면，<LINE>
+　재앙이 일어난다는<LINE>
+　이 섬의 보물을・・<WAIT 3200>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 5A000600>
+　공적들이<LINE>
+　이걸로 포기해준다면<LINE>
+　좋겠지만요・・<WAIT 4B00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2C, String: 0962-0996]
+<NO_CHAR_SFX><AUDIO 5B000600>
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・후우<WAIT 1900>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2D, String: 0996-0A16]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 5C000600>
+「그렇지 않아도，최근<LINE>
+　지하의 리버드들의 움직임이<LINE>
+　급격이 격해지고 있어서…<WAIT 7800>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 2E, String: 0A16-0AAC]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 5D000600>
+　전설에 따르면，<LINE>
+　거대한 재앙이<WAIT 3200>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 5E000600>
+　정말로 있을지도 모른다는<LINE>
+　걱정을 하고 있습니다<WAIT 5000>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2F, String: 0AAC-0B80]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 5F000600>
+「혹시 괜찮으시다면，<LINE>
+　록 씨・・<WAIT 3700>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 60000600>
+　두 번이나<LINE>
+　공적을 무찌른 당신에게<WAIT 3C00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 61000600>
+　이 섬의 지하를 조사를<LINE>
+　부탁드려도 괜찮을까요・・？<WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 30, String: 0B80-0BBC]
+<WIN 4000A2001003>
+<DECOR 0008>
+　<SEL 0100FD00>협력한다　<SEL 0111FD00>하지 않는다<0385 00FFFF00>
+<END><CLOSE 0000>
+
+
+[Block 31, String: 0BBC-0C28]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 62000600>
+「록！ 맡지 않으면<LINE>
+　디그아우터로써의<LINE>
+　명예가 떨어질거야！<WAIT 7800>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 32, String: 0C28-0CB2]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 63000600>
+「정말인가요！？<LINE>
+　감사합니다！<WAIT 4600>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 64000600>
+　・・그러면，<LINE>
+　우선 이걸 가져가세요<WAIT 5000>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 33, String: 0CB2-0D5A]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 65000600>
+「비보가 잠들어 있다고하는<LINE>
+　지하에는・・<WAIT 2D00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 66000600>
+　우수한 디그아우터로<LINE>
+　인정받은 사람만이<LINE>
+　들어갈 수 있습니다<WAIT 6400>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 34, String: 0D5A-0E0E]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 67000600>
+「그 면허를 가지고 계시면<LINE>
+　봉인된 지하로 가는 문을<LINE>
+　열 수 있습니다・・<WAIT 7800>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 68000600>
+　공적들이 노리고 있던<LINE>
+　지하로 향하는 열쇠죠<WAIT 3200>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 35, String: 0E0E-0EDA]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 69000600>
+「이제 이 섬의 서브게이트는<LINE>
+　모두 자유롭게<LINE>
+　디그아웃하실 수 있습니다<WAIT 5A00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 6A000600>
+　그 후에 거대한 재앙의<LINE>
+　단서를 찾으신다면<LINE>
+　알려주세요<WAIT 7800>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 36, String: 0EDA-1002]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 6B000600>
+「・・그리고<LINE>
+　염치없는 부탁입니다만<WAIT 4600>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 6C000600>
+　디그아웃한 것들 중<LINE>
+　일부라도 좋으니・・<WAIT 3700>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 6D000600>
+　복구를 위한 기금으로써<LINE>
+　지원을 해주신다면<WAIT 2D00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 6E000600>
+　더할 나위<LINE>
+　없겠습니다만…<WAIT 2800>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 6F000600>
+　어쨌든，조심히 가세요<WAIT 4100>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 37, String: 1002-10C2]
+<GET 2C05><WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 81000600>
+「오오，<PAUSE 0F00>록！<PAUSE 1E00><LINE>
+　거기에 롤까지<WAIT 2D00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 82000600>
+　걱정 끼쳐서 미안했네<PAUSE 3200><LINE>
+　안심해，<PAUSE 2300><LINE>
+　나는 이렇게 팔팔하다네<WAIT 4100>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 38, String: 10C2-111E]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 83000600>
+「다행이다・・<PAUSE 2D00><LINE>
+　걱정했었어，할아버지！<WAIT 4B00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 39, String: 111E-1194]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 84000600>
+「덕분에，<PAUSE 0F00><LINE>
+　비보의 열쇠를 지킬 수 있었어요<PAUSE 4600><LINE>
+　감사합니다<WAIT 3700>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 3A, String: 1194-1256]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 85000600>
+「아멜리아는 <PAUSE 1E00>답례로<PAUSE 0C00><LINE>
+　이 섬의<PAUSE 1400> 디그아웃 면허를<LINE>
+　줄 생각이네<WAIT 3000>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 86000600>
+　이걸로，<PAUSE 0500>플러터 호의 부품도<PAUSE 1900><LINE>
+　찾을 수 있을걸세<WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 3B, String: 1256-12D6]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 87000600>
+「답례라고 할만한 물건은<PAUSE 1100><LINE>
+　아닙니다만・・<WAIT 5A00>
+<NEXT>
+
+<CLEAR 0000>
+<WIN 4000A2001003>
+<DECOR 0008>
+<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 2C00><COLOR 0000><GET 2C05>를 손에 넣었다<END><CLOSE 1E00>
+
+
+[Block 3C, String: 12D6-1310]
+<MOVE_FREE><WIN 700024000801>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 88000600>
+「들어갑니다！<WAIT 3200>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 3D, String: 1310-139C]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 89000600>
+「시장님，<PAUSE 0A00>큰일입니다！<WAIT 2800>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 8A000600>
+　공적 놈들，<PAUSE 1400>이번에는 북쪽 숲을<PAUSE 1E00><LINE>
+　파내고 있습니다<WAIT 3200>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 3E, String: 139C-1438]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 8B000600>
+「대체 무슨 짓을・・<WAIT 3C00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 8C000600>
+　열쇠를 손에 넣을 수 없으니，<PAUSE 1E00><LINE>
+　직접 비보를<PAUSE 1100><LINE>
+　노릴 셈 이군요・・！<WAIT 4900>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 3F, String: 1438-14C4]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 8D000600>
+「음・・<PAUSE 3000> 그렇게까지 해서<PAUSE 1200><LINE>
+　보물을 손에 넣으려 하다니<PAUSE 3200><LINE>
+　적이지만，대단한 녀석들이군！<WAIT 4A00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 40, String: 14C4-158E]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 8E000600>
+「비보에 손을 대면，<PAUSE 1E00><LINE>
+　무슨 일이 일어날지 모릅니다・・<WAIT 2D00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 8F000600>
+　경부，<PAUSE 1400><LINE>
+　즉시 공적을 잡아야 합니다<WAIT 1E00>
+<NEXT>
+
+<CLEAR 0000>
+<NO_CHAR_SFX><AUDIO 90000600>
+<0378 0000>　경부<LINE>
+「알겠습니다！<0378 0100><WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 41, String: 158E-1604]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 84000600>
+「덕분에，<PAUSE 0F00><LINE>
+　비보의 열쇠를 지켜냈어요<PAUSE 4600><LINE>
+　정말 감사드립니다<WAIT 3700>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 42, String: 1604-16BE]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 94000600>
+「조금<LINE>
+　건물은 무너져버렸지만～<WAIT 6400>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 95000600>
+　위험했네，록<PAUSE 3400><LINE>
+　간발의 차로 나와 아멜리아가<PAUSE 3000><LINE>
+　빈대떡이 될뻔했구만<WAIT 4600>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 43, String: 16BE-1726]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 96000600>
+「하지만<PAUSE 1200><LINE>
+　저도<PAUSE 0A00> 박사님도<PAUSE 1900> 이렇게<PAUSE 3700><LINE>
+　멀쩡하니까 안심을<WAIT 3400>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 44, String: 1726-17D0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「Ｂ급 디그아웃 면허로<LINE>
+　디그아웃이 가능한<LINE>
+　유적은…<NEXT>
+
+<CLEAR 0400>
+　남쪽의 카돈 숲과<LINE>
+　나머지는，현재 공적이 있는<LINE>
+　북쪽의 클로저 숲입니다…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 45, String: 17D0-184C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 섬에서 디그아웃을<LINE>
+　할 수 있게 되더라도…<NEXT>
+
+<CLEAR 0400>
+　공적들이 다 망쳐놓으면<LINE>
+　이도저도 못하게 되니까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 46, String: 184C-188E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「경부님들 만으로<LINE>
+　괜찮을지…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 47, String: 188E-1890]
+
+
+[Block 48, String: 1890-190C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아，혹시，바로<LINE>
+　기부해주실 수 있나요？<NEXT>
+
+<CLEAR 0400>
+<LINE>
+<0378 0000><SPACE 3000><SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 80FFFF00>
+<END><CLOSE 0000>
+
+
+[Block 49, String: 190C-1AA2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「내가 들은 바로는<LINE>
+　이 섬의 지하에는…<NEXT>
+
+<CLEAR 0400>
+　우리가 불시착한<LINE>
+　<COLOR 0400>카돈 숲 깊은 곳<COLOR 0000>…<NEXT>
+
+<CLEAR 0400>
+　시가지 서쪽에 있는<LINE>
+　<COLOR 0400>레이크사이드 파크의 호수<COLOR 0000>…<NEXT>
+
+<CLEAR 0400>
+　그리고，방금까지<LINE>
+　공적이 파헤치고 있던<LINE>
+　북쪽의 <COLOR 0400>클로저 숲<COLOR 0000>…<NEXT>
+
+<CLEAR 0400>
+　이 ３개의 서브게이트라<LINE>
+　불리는 유적에서<LINE>
+　통로가 이어져 있는 것 같다네<NEXT>
+
+<CLEAR 0400>
+　자，어디부터<LINE>
+　조사를 해볼까…？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 4A, String: 1AA2-1B2A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「록！<LINE>
+　잠깐 봐줬으면 하는게 있어<NEXT>
+
+<CLEAR 0400>
+　나는<LINE>
+　먼저 밖에서 준비하고 있을게<LINE>
+　천천히 나와～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 4B, String: 1B2A-1B2C]
+
+
+[Block 4C, String: 1B2C-1B2E]
+
+
+[Block 4D, String: 1B2E-1B30]
+
+
+[Block 4E, String: 1B30-1B32]
+
+
+[Block 4F, String: 1B32-1B34]
+
+
+[Block 50, String: 1B34-1B36]
+
+
+[Block 51, String: 1B36-1B38]
+
+
+[Block 52, String: 1B38-1B3A]
+
+
+[Block 53, String: 1B3A-1B3C]
+
+
+[Block 54, String: 1B3C-1B3E]
+
+
+[Block 55, String: 1B3E-1B40]
+
+
+[Block 56, String: 1B40-1B42]
+
+
+[Block 57, String: 1B42-1B6A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그런가요・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 58, String: 1B6A-1BD0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「정말인가요？<LINE>
+　감사드립니다！<LINE>
+　어디부터 고치는게 좋을까요<NEXT>
+
+<CLEAR 0400>
+<03D4 5A00><END><CLOSE 0000>
+
+
+[Block 59, String: 1BD0-1C0A]
+<WIN 4000A2001003>
+<DECOR 0008>
+<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 2B00><COLOR 0000><GET 2B05>를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 5A, String: 1C0A-1CE8]
+<NO_CHAR_SFX><0378 0000><WIN 400024001007>
+<DECOR 0008>
+<SEL 0061FD00><03D5 0000>　　　　　　　＄<LINE>
+<SEL 1102FD00><03D5 0100>　　　　　　　＄<LINE>
+<SEL 2213FD00><03D5 0200>　　　　　　　＄<LINE>
+<SEL 3324FD00><03D5 0300>　　　　　　　＄<LINE>
+<SEL 4435FD00><03D5 0400>　　　　　　　＄<LINE>
+<SEL 5546FD00><03D5 0500>　　　　　　　＄<LINE>
+<SEL 6650FD00>역시 그만둔다<03D6 80FFFFFFFFFFFFFF>
+<END><CLOSE 0000>
+
+
+[Block 5B, String: 1CE8-1DAA]
+<NO_CHAR_SFX><0378 0000><WIN 400024001006>
+<DECOR 0008>
+<SEL 0051FD00><03D5 0000>　　　　　　　＄<LINE>
+<SEL 1102FD00><03D5 0100>　　　　　　　＄<LINE>
+<SEL 2213FD00><03D5 0200>　　　　　　　＄<LINE>
+<SEL 3324FD00><03D5 0300>　　　　　　　＄<LINE>
+<SEL 4435FD00><03D5 0400>　　　　　　　＄<LINE>
+<SEL 5540FD00>역시 그만둔다<03D6 80FFFFFFFFFFFF00>
+<END><CLOSE 0000>
+
+
+[Block 5C, String: 1DAA-1E4E]
+<NO_CHAR_SFX><0378 0000><WIN 400024001005>
+<DECOR 0008>
+<SEL 0041FD00><03D5 0000>　　　　　　　＄<LINE>
+<SEL 1102FD00><03D5 0100>　　　　　　　＄<LINE>
+<SEL 2213FD00><03D5 0200>　　　　　　　＄<LINE>
+<SEL 3324FD00><03D5 0300>　　　　　　　＄<LINE>
+<SEL 4430FD00>역시 그만둔다<03D6 80FFFFFFFFFF>
+<END><CLOSE 0000>
+
+
+[Block 5D, String: 1E4E-1ED6]
+<NO_CHAR_SFX><0378 0000><WIN 400024001004>
+<DECOR 0008>
+<SEL 0031FD00><03D5 0000>　　　　　　　＄<LINE>
+<SEL 1102FD00><03D5 0100>　　　　　　　＄<LINE>
+<SEL 2213FD00><03D5 0200>　　　　　　　＄<LINE>
+<SEL 3320FD00>역시 그만둔다<03D6 80FFFFFFFF00>
+<END><CLOSE 0000>
+
+
+[Block 5E, String: 1ED6-1F40]
+<NO_CHAR_SFX><0378 0000><WIN 400024001003>
+<DECOR 0008>
+<SEL 0021FD00><03D5 0000>　　　　　　　＄<LINE>
+<SEL 1102FD00><03D5 0100>　　　　　　　＄<LINE>
+<SEL 2210FD00>역시 그만둔다<03D6 80FFFFFF>
+<END><CLOSE 0000>
+
+
+[Block 5F, String: 1F40-1F8E]
+<NO_CHAR_SFX><0378 0000><WIN 400024001002>
+<DECOR 0008>
+<SEL 0001FD00><03D5 0000>　　　　　　　＄<LINE>
+<SEL 1101FD00>역시 그만둔다<03D6 80FFFF00>
+<END><CLOSE 0000>
+
+
+[Block 60, String: 1F8E-200E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머，록 씨，안녕하세요，<NEXT>
+
+<CLEAR 0400>
+<SEL 0001FD00>언제 봐도 아름다우시네요<LINE>
+<SEL 1101FD00>지하 조사에 관해서인데요…<LINE>
+<0385 00FFFF00>
+<END><CLOSE 0000>
+
+
+[Block 61, String: 200E-20AA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머，록 씨，안녕하세요，<NEXT>
+
+<CLEAR 0400>
+<SEL 0001FD00>언제 봐도 아름다우시네요<LINE>
+<SEL 1102FD00>지하 조사에 관해서인데요…<LINE>
+<SEL 2212FD00>병원에 설비 투자를！<LINE>
+<0385 00FFFFFF>
+<END><CLOSE 0000>
+
+
+[Block 62, String: 20AA-20F6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어… 어머，록 씨도 참…<LINE>
+　안 돼요… 그런… 정말…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 63, String: 20F6-2288]
+<MSG_IF 3705FF7B>
+<MSG_IF 3805FF7B>
+<MSG_IF 3905FF7B>
+<WIN 4000A2001003>
+<DECOR 0008>
+「아무래도，남은 지하는<LINE>
+　메인게이트 깊은 부분<LINE>
+　뿐인 것 같네요…<NEXT>
+
+<CLEAR 0400>
+　거기에는 무엇이 있을까요？<LINE>
+　게다가，거기서 조사를 하면<LINE>
+　무슨 일이 일어날까요？<NEXT>
+
+<CLEAR 0400>
+　…당신이 없었다면，이 섬은<LINE>
+　공적의 공격으로 큰 희생을<LINE>
+　입었을 게 분명해요<NEXT>
+
+<CLEAR 0400>
+　록 씨，<LINE>
+　모든 것을 당신에게<LINE>
+　맡기겠습니다！<NEXT>
+
+<CLEAR 0400>
+　이 섬의 운명은<LINE>
+　당신과 함께하고 있습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 64, String: 2288-2294]
+<03D4 5A00><END><CLOSE 0000>
+
+
+[Block 65, String: 2294-2312]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머，록 씨，안녕하세요，<NEXT>
+
+<CLEAR 0400>
+<SEL 0001FD00>기부를 하고 싶은데요…<LINE>
+<SEL 1101FD00>지하 조사에 관해서인데요…<LINE>
+<0385 00FFFF00>
+<END><CLOSE 0000>
+
+
+[Block 66, String: 2312-23AC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머，록 씨，안녕하세요，<NEXT>
+
+<CLEAR 0400>
+<SEL 0001FD00>기부를 하고 싶은데요…<LINE>
+<SEL 1102FD00>지하 조사에 관해서인데요…<LINE>
+<SEL 2212FD00>병원에 설비 투자를！<LINE>
+<0385 00FFFFFF>
+<END><CLOSE 0000>
+
+
+[Block 67, String: 23AC-2474]
+<WIN 4000A2001003>
+<DECOR 0008>
+「네，병원의 설비인가요？<LINE>
+　최신 설비를 갖추려면…<NEXT>
+
+<CLEAR 0400>
+<PRICE_ZENNY>　　　　　　　제니가 필요합니다<LINE>
+<SEL 0001FD00>물론，제가 돈을 내겠습니다<LINE>
+<SEL 1101FD00>헉，그건 좀 무리…<LINE>
+<0385 80FFFF00>
+<END><CLOSE 0000>
+
+
+[Block 68, String: 2474-24B4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「돈이 부족하세요，<LINE>
+　록 씨・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 69, String: 24B4-24F6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머… 정말 감사합니다，<LINE>
+　록 씨<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6A, String: 24F6-2528]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머… 유감이네요・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6B, String: 2528-255A]
+<NO_CHAR_SFX><MOVE_FREE><0378 0000><WIN 1C0020000801>
+<DECOR 0308>
+<COST>　　　　　　　＄<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block 6C, String: 255A-25B4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「시청을 재건하려면，앞으로<LINE>
+　<PRICE_ZENNY>　　　　　　　제니가<LINE>
+　필요해요<NEXT>
+
+<CLEAR 0400>
+<JUMP 0072>
+
+[Block 6D, String: 25B4-260C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「은행을 재건하려면，앞으로<LINE>
+　<PRICE_ZENNY>　　　　　　　제니가<LINE>
+　필요해요<NEXT>
+
+<CLEAR 0400>
+<JUMP 0072>
+
+[Block 6E, String: 260C-2668]
+<WIN 4000A2001003>
+<DECOR 0008>
+「경찰서를 재건하려면，앞으로<LINE>
+　<PRICE_ZENNY>　　　　　　　제니가<LINE>
+　필요해요<NEXT>
+
+<CLEAR 0400>
+<JUMP 0072>
+
+[Block 6F, String: 2668-26C2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「도서관을 재건하려면，앞으로<LINE>
+　<PRICE_ZENNY>　　　　　　　제니가<LINE>
+　필요해요<NEXT>
+
+<CLEAR 0400>
+<JUMP 0072>
+
+[Block 70, String: 26C2-2720]
+<WIN 4000A2001003>
+<DECOR 0008>
+「고급 주택을 재건하려면，앞으로<LINE>
+　<PRICE_ZENNY>　　　　　　　제니가<LINE>
+　필요해요<NEXT>
+
+<CLEAR 0400>
+<JUMP 0072>
+
+[Block 71, String: 2720-2778]
+<WIN 4000A2001003>
+<DECOR 0008>
+「민가를 재건하려면，앞으로<LINE>
+　<PRICE_ZENNY>　　　　　　　제니가<LINE>
+　필요해요<NEXT>
+
+<CLEAR 0400>
+<JUMP 0072>
+
+[Block 72, String: 2778-28A4]
+<CALL 016B><WIN 28004000140A>
+<DECOR 0008>
+「얼마나 기부해 주실 수 있나요？<LINE>
+<LINE>
+<NO_CHAR_SFX><MOVE_FREE><0378 0000>　앞으로　<PRICE_ZENNY>　　　　　　　제니 남았습니다<LINE>
+<LINE>
+　기부금을 입력해주세요<LINE>
+（방향키 또는 아날로그 패드로<LINE>
+　선택하고，<COLOR 0500><CIRCLE><COLOR 0000>버튼으로 결정，<LINE>
+　<COLOR 0500><CROSS><COLOR 0000>버튼으로 취소）<LINES 1400>
+　<COLOR 0400>금액<COLOR 0000>：<039E 8000>
+ー<039E 8000>
+ー<039E 8000>
+ー<039E 8000>
+ー<039E 8000>
+ー<039E 8000>
+ー<03D7 0006><END><CLOSE 0F00>
+
+
+[Block 73, String: 28A4-28FC]
+<CHAR_SFX><0386>
+<0378 0100><WIN 4000A2001003>
+<DECOR 0008>
+「감사드립니다，<LINE>
+　록 씨，<LINE>
+　큰 도움이 되었어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 74, String: 28FC-292C]
+<WIN 4000A2001003>
+<DECOR 0008>
+롤<LINE>
+「아，기다려 록<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 75, String: 292C-2958]
+<WIN 4000A2001003>
+<DECOR 0008>
+롤<LINE>
+「나도 갈게・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 76, String: 2958-297C]
+<WIN 4000A2001003>
+<DECOR 0008>
+경부<LINE>
+「네！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 77, String: 297C-2A70]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그렇습니까…<LINE>
+　카돈 숲의 서브게이트에도<LINE>
+　리버드가 활성화되었군요…<NEXT>
+
+<CLEAR 0400>
+　그렇게 되면<LINE>
+　호수와 클로저 숲의<LINE>
+　서브게이트가 걱정 되네요…<NEXT>
+
+<CLEAR 0400>
+　괜찮으시다면，<LINE>
+　그쪽의 조사도<LINE>
+　잘 부탁드립니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 78, String: 2A70-2C30]
+<WIN 4000A2001003>
+<DECOR 0008>
+「역시，그렇게 됐군요…<LINE>
+　호수의 서브게이트에도<LINE>
+　리버드가 활성화를…<NEXT>
+
+<CLEAR 0400>
+　아마도，클로저 숲의<LINE>
+　서브게이트도 같은<LINE>
+　상황일 거예요…<NEXT>
+
+<CLEAR 0400>
+　…하지만，상당히<LINE>
+　큰 재앙에 관한 일이니，<NEXT>
+
+<CLEAR 0400>
+　그리고，록 씨가<LINE>
+　찾고있는 보물의 수수께끼에는<LINE>
+　다가갈 수 없겠네요…<NEXT>
+
+<CLEAR 0400>
+　게다가，가는 곳마다<LINE>
+　공적이 기다리고 있다는 점도<LINE>
+　걱정됩니다…<NEXT>
+
+<CLEAR 0400>
+　록 씨，부디 조심하세요…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 79, String: 2C30-2DD6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「놀랐습니다… 메인게이트가<LINE>
+　열리다니，지금까지 생각해본 적<LINE>
+　없었던 일이라서…<NEXT>
+
+<CLEAR 0400>
+　거대한 재앙의 비밀이<LINE>
+　서브게이트에 없었다 한다면，<LINE>
+　혹시 메인게이트에…<NEXT>
+
+<CLEAR 0400>
+　겨우 공적을<LINE>
+　처리했다고 생각했는데，<LINE>
+　이런 일이 생기다니…<NEXT>
+
+<CLEAR 0400>
+　시민들이 이 이상 더 크게<LINE>
+　동요하는 일이 없도록，<NEXT>
+
+<CLEAR 0400>
+　록 씨，<LINE>
+　메인게이트를 조사해주세요<LINE>
+　잘 부탁드립니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7A, String: 2DD6-2ED8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이번에는，도심에 유적의 입구가<LINE>
+　나타났다고 합니다<NEXT>
+
+<CLEAR 0400>
+　조사를 진행하면 할 수록<LINE>
+　이상 현상은 점점 커져가네요…<NEXT>
+
+<CLEAR 0400>
+　이제，조사를<LINE>
+　이 이상 계속하지 않는 편이<LINE>
+　좋은 걸까요…<NEXT>
+
+<CLEAR 0400>
+　시민들을 위해서도，그리고，<LINE>
+　록 씨를 위해서도…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7B, String: 2ED8-2FCA]
+<MSG_IF 56007AFF>
+<MSG_IF 440079FF>
+<MSG_IF 270078FF>
+<MSG_IF 1E0077FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「록 씨，<LINE>
+　지하 조사는 꼭<LINE>
+　조심해서 부탁드립니다<NEXT>
+
+<CLEAR 0400>
+　그렇잖아도，공적들의 칼 끝도<LINE>
+　완전히 록 씨 쪽으로<LINE>
+　향하고 있는 것 같아요…<NEXT>
+
+<CLEAR 0400>
+　무리하지 않길 부탁드립니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7C, String: 2FCA-3060]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머 나도 참… 잘 생각해보니<LINE>
+　록 씨 덕분에<LINE>
+　도시가 무사 했네요<NEXT>
+
+<CLEAR 0400>
+　기부를 해주실 필요는<LINE>
+　없겠는걸요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7D, String: 3060-30C6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「곧，도시는 원래의 모습으로<LINE>
+　되돌아가겠죠…<NEXT>
+
+<CLEAR 0400>
+　정말 감사드립니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7E, String: 30C6-30C8]
+
+
+[Block 7F, String: 30C8-30CA]
+
+
+[Block 80, String: 30CA-30CC]
+
+
+[Block 81, String: 30CC-30CE]
+
+
+[Block 82, String: 30CE-30D0]
+
+
+[Block 83, String: 30D0-30D2]
+
+
+[Block 84, String: 30D2-30D4]
+
+
+[Block 85, String: 30D4-30FA]
+<WIN 400024001001>
+<DECOR 0008>
+「가로등이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 86, String: 30FA-3124]
+<WIN 400024001001>
+<DECOR 0008>
+「소화전이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 87, String: 3124-3144]
+<WIN 400024001001>
+<DECOR 0008>
+「벤치다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 88, String: 3144-3146]
+
+
+[Block 89, String: 3146-3148]
+
+
+[Block 8A, String: 3148-314A]
+
+
+[Block 8B, String: 314A-314C]
+
+

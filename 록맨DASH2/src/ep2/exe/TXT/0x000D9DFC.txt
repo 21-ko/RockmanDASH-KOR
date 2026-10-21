@@ -1,0 +1,20 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 006A00D60A01>
+<COLOR 00>
+안녕, 또 왔다고～
+<FB2B>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 003400D61311>
+<COLOR 00>
+미안하지만, 또 어울려주셔야겠어.
+<FB2B>
+<END>
+

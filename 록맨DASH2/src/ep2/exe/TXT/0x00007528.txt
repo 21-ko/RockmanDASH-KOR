@@ -1,0 +1,1310 @@
+[BLOCK: 0000]
+들어올리기
+<FB1F>
+<END>
+
+[BLOCK: 0001]
+킥
+<FB1F>
+<END>
+
+[BLOCK: 0002]
+록 버스터ー
+<FB1F>
+<END>
+
+[BLOCK: 0003]
+크래시 봄
+<FB1F>
+<END>
+
+[BLOCK: 0004]
+버스터 캐논
+<FB1F>
+<END>
+
+[BLOCK: 0005]
+하이퍼 셸
+<FB1F>
+<END>
+
+[BLOCK: 0006]
+호밍 미사일
+<FB1F>
+<END>
+
+[BLOCK: 0007]
+어스 크리퍼
+<FB1F>
+<END>
+
+[BLOCK: 0008]
+바큠 암
+<FB1F>
+<END>
+
+[BLOCK: 0009]
+리플렉트 암
+<FB1F>
+<END>
+
+[BLOCK: 000A]
+실드 암
+<FB1F>
+<END>
+
+[BLOCK: 000B]
+블레이드 암
+<FB1F>
+<END>
+
+[BLOCK: 000C]
+샤이닝 레이저
+<FB1F>
+<END>
+
+[BLOCK: 000D]
+머신건 암
+<FB1F>
+<END>
+
+[BLOCK: 000E]
+스프레드 버스터
+<FB1F>
+<END>
+
+[BLOCK: 000F]
+아쿠아 블래스터
+<FB1F>
+<END>
+
+[BLOCK: 0010]
+리모트 차지
+<FB1F>
+<END>
+
+[BLOCK: 0011]
+드릴 암
+<FB1F>
+<END>
+
+[BLOCK: 0012]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0013]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0014]
+장비하지 않는다
+<FB1F>
+<END>
+
+[BLOCK: 0015]
+파워 라이저
+<FB1F>
+<END>
+
+[BLOCK: 0016]
+파워 라이저 플러스
+<FB1F>
+<END>
+
+[BLOCK: 0017]
+파워 라이저 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 0018]
+터보 차지
+<FB1F>
+<END>
+
+[BLOCK: 0019]
+터보 차지 플러스
+<FB1F>
+<END>
+
+[BLOCK: 001A]
+터보 차지 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 001B]
+레인지 업
+<FB1F>
+<END>
+
+[BLOCK: 001C]
+레인지 업 플러스
+<FB1F>
+<END>
+
+[BLOCK: 001D]
+레인지 업 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 001E]
+래피드 업
+<FB1F>
+<END>
+
+[BLOCK: 001F]
+래피드 업 플러스
+<FB1F>
+<END>
+
+[BLOCK: 0020]
+래피드 업 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 0021]
+블래스트 유닛
+<FB1F>
+<END>
+
+[BLOCK: 0022]
+버스터 유닛
+<FB1F>
+<END>
+
+[BLOCK: 0023]
+파워 블래스터
+<FB1F>
+<END>
+
+[BLOCK: 0024]
+스나이프 유닛
+<FB1F>
+<END>
+
+[BLOCK: 0025]
+로트 유닛
+<FB1F>
+<END>
+
+[BLOCK: 0026]
+블래스트 유닛 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 0027]
+버스터 유닛 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 0028]
+파워 블래스터 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 0029]
+스나이프 유닛 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 002A]
+로트 유닛 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 002B]
+톤 스트라이크
+<FB1F>
+<END>
+
+[BLOCK: 002C]
+톤 블래스터
+<FB1F>
+<END>
+
+[BLOCK: 002D]
+톤 액세스
+<FB1F>
+<END>
+
+[BLOCK: 002E]
+톤 스트라이크 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 002F]
+톤 블래스터ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 0030]
+톤 액세스ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 0031]
+하이 라운더
+<FB1F>
+<END>
+
+[BLOCK: 0032]
+하이 라운더 플러스
+<FB1F>
+<END>
+
+[BLOCK: 0033]
+맥시멈 버스터
+<FB1F>
+<END>
+
+[BLOCK: 0034]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0035]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0036]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0037]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0038]
+장비하지 않는다
+<FB1F>
+<END>
+
+[BLOCK: 0039]
+노멀 헬멧
+<FB1F>
+<END>
+
+[BLOCK: 003A]
+가드 헬멧
+<FB1F>
+<END>
+
+[BLOCK: 003B]
+　
+<FB1F>
+<END>
+
+[BLOCK: 003C]
+장비하지 않는다
+<FB1F>
+<END>
+
+[BLOCK: 003D]
+노멀 아머
+<FB1F>
+<END>
+
+[BLOCK: 003E]
+퍼스트 아머
+<FB1F>
+<END>
+
+[BLOCK: 003F]
+퍼스트 아머 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 0040]
+세컨드 아머
+<FB1F>
+<END>
+
+[BLOCK: 0041]
+세컨드 아머 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 0042]
+서드 아머
+<FB1F>
+<END>
+
+[BLOCK: 0043]
+서드 아머 ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 0044]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0045]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0046]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0047]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0048]
+장비하지 않는다
+<FB1F>
+<END>
+
+[BLOCK: 0049]
+대시 슈즈
+<FB1F>
+<END>
+
+[BLOCK: 004A]
+아쿠아 슈즈
+<FB1F>
+<END>
+
+[BLOCK: 004B]
+레지스트 슈즈
+<FB1F>
+<END>
+
+[BLOCK: 004C]
+스파이크 슈즈
+<FB1F>
+<END>
+
+[BLOCK: 004D]
+라이트 슈즈
+<FB1F>
+<END>
+
+[BLOCK: 004E]
+　
+<FB1F>
+<END>
+
+[BLOCK: 004F]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0050]
+１번째 봉인의 열쇠
+<FB1F>
+<END>
+
+[BLOCK: 0051]
+２번째 봉인의 열쇠
+<FB1F>
+<END>
+
+[BLOCK: 0052]
+３번째 봉인의 열쇠
+<FB1F>
+<END>
+
+[BLOCK: 0053]
+４번째 봉인의 열쇠
+<FB1F>
+<END>
+
+[BLOCK: 0054]
+ＳＳ급 라이센스
+<FB1F>
+<END>
+
+[BLOCK: 0055]
+Ｓ급 라이센스
+<FB1F>
+<END>
+
+[BLOCK: 0056]
+Ａ급 라이센스
+<FB1F>
+<END>
+
+[BLOCK: 0057]
+Ｂ급 라이센스
+<FB1F>
+<END>
+
+[BLOCK: 0058]
+Ｃ급 라이센스
+<FB1F>
+<END>
+
+[BLOCK: 0059]
+어댑터 플러그
+<FB1F>
+<END>
+
+[BLOCK: 005A]
+브레스 유닛
+<FB1F>
+<END>
+
+[BLOCK: 005B]
+　
+<FB1F>
+<END>
+
+[BLOCK: 005C]
+　
+<FB1F>
+<END>
+
+[BLOCK: 005D]
+　
+<FB1F>
+<END>
+
+[BLOCK: 005E]
+　
+<FB1F>
+<END>
+
+[BLOCK: 005F]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0060]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0061]
+디플렉터
+<FB1F>
+<END>
+
+[BLOCK: 0062]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0063]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0064]
+파란색 카드 키
+<FB1F>
+<END>
+
+[BLOCK: 0065]
+문 카드 키 １
+<FB1F>
+<END>
+
+[BLOCK: 0066]
+문 카드 키 ２
+<FB1F>
+<END>
+
+[BLOCK: 0067]
+문 카드 키 ３
+<FB1F>
+<END>
+
+[BLOCK: 0068]
+문 카드 키 ４
+<FB1F>
+<END>
+
+[BLOCK: 0069]
+물의 열쇠 １
+<FB1F>
+<END>
+
+[BLOCK: 006A]
+물의 열쇠 ２
+<FB1F>
+<END>
+
+[BLOCK: 006B]
+블루 본 키
+<FB1F>
+<END>
+
+[BLOCK: 006C]
+레드 본 키
+<FB1F>
+<END>
+
+[BLOCK: 006D]
+Ｂ１Ｆ 문 열쇠
+<FB1F>
+<END>
+
+[BLOCK: 006E]
+열차 열쇠
+<FB1F>
+<END>
+
+[BLOCK: 006F]
+블루 배리어 해제 키
+<FB1F>
+<END>
+
+[BLOCK: 0070]
+레드 배리어 해제 키
+<FB1F>
+<END>
+
+[BLOCK: 0071]
+라스트 룸 키１
+<FB1F>
+<END>
+
+[BLOCK: 0072]
+라스트 룸 키２
+<FB1F>
+<END>
+
+[BLOCK: 0073]
+라스트 룸 키３
+<FB1F>
+<END>
+
+[BLOCK: 0074]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0075]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0076]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0077]
+꼬붕의 편지 １
+<FB1F>
+<END>
+
+[BLOCK: 0078]
+꼬붕의 편지 ２
+<FB1F>
+<END>
+
+[BLOCK: 0079]
+쌍둥이의 편지 １
+<FB1F>
+<END>
+
+[BLOCK: 007A]
+쌍둥이의 편지 ２
+<FB1F>
+<END>
+
+[BLOCK: 007B]
+쌍둥이의 편지 ３
+<FB1F>
+<END>
+
+[BLOCK: 007C]
+　
+<FB1F>
+<END>
+
+[BLOCK: 007D]
+　
+<FB1F>
+<END>
+
+[BLOCK: 007E]
+　
+<FB1F>
+<END>
+
+[BLOCK: 007F]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0080]
+에너지 보틀
+<FB1F>
+<END>
+
+[BLOCK: 0081]
+메디슨 보틀
+<FB1F>
+<END>
+
+[BLOCK: 0082]
+하이퍼 카트리지
+<FB1F>
+<END>
+
+[BLOCK: 0083]
+프레임 배리어
+<FB1F>
+<END>
+
+[BLOCK: 0084]
+라이트 배리어
+<FB1F>
+<END>
+
+[BLOCK: 0085]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0086]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0087]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0088]
+조인트 플러그
+<FB1F>
+<END>
+
+[BLOCK: 0089]
+롤러 보드
+<FB1F>
+<END>
+
+[BLOCK: 008A]
+낡은 호버 제트
+<FB1F>
+<END>
+
+[BLOCK: 008B]
+아쿠아 칩
+<FB1F>
+<END>
+
+[BLOCK: 008C]
+레지스트 칩
+<FB1F>
+<END>
+
+[BLOCK: 008D]
+스파이크 칩
+<FB1F>
+<END>
+
+[BLOCK: 008E]
+라이트 칩
+<FB1F>
+<END>
+
+[BLOCK: 008F]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0090]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0091]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0092]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0093]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0094]
+망가진 청소기
+<FB1F>
+<END>
+
+[BLOCK: 0095]
+강력 모터
+<FB1F>
+<END>
+
+[BLOCK: 0096]
+롱 배럴
+<FB1F>
+<END>
+
+[BLOCK: 0097]
+망가진 모델건
+<FB1F>
+<END>
+
+[BLOCK: 0098]
+망가진 전기 드릴
+<FB1F>
+<END>
+
+[BLOCK: 0099]
+강화 기어
+<FB1F>
+<END>
+
+[BLOCK: 009A]
+볼링공
+<FB1F>
+<END>
+
+[BLOCK: 009B]
+녹슨 지뢰
+<FB1F>
+<END>
+
+[BLOCK: 009C]
+로켓 불꽃
+<FB1F>
+<END>
+
+[BLOCK: 009D]
+개발 메모 １
+<FB1F>
+<END>
+
+[BLOCK: 009E]
+추적 공격 메모
+<FB1F>
+<END>
+
+[BLOCK: 009F]
+슈퍼볼
+<FB1F>
+<END>
+
+[BLOCK: 00A0]
+소형 폭탄 설계도
+<FB1F>
+<END>
+
+[BLOCK: 00A1]
+굵은 파이프
+<FB1F>
+<END>
+
+[BLOCK: 00A2]
+개발 메모 ２
+<FB1F>
+<END>
+
+[BLOCK: 00A3]
+원거리 공격 메모
+<FB1F>
+<END>
+
+[BLOCK: 00A4]
+그린 아이
+<FB1F>
+<END>
+
+[BLOCK: 00A5]
+레이저 건 설명서
+<FB1F>
+<END>
+
+[BLOCK: 00A6]
+파종기
+<FB1F>
+<END>
+
+[BLOCK: 00A7]
+개발 메모 ３
+<FB1F>
+<END>
+
+[BLOCK: 00A8]
+와이드 공격 메모
+<FB1F>
+<END>
+
+[BLOCK: 00A9]
+전기충격기
+<FB1F>
+<END>
+
+[BLOCK: 00AA]
+말랑말랑공
+<FB1F>
+<END>
+
+[BLOCK: 00AB]
+전설의 반짝반짝 봉
+<FB1F>
+<END>
+
+[BLOCK: 00AC]
+개발 메모 ４
+<FB1F>
+<END>
+
+[BLOCK: 00AD]
+빔 소드 메모
+<FB1F>
+<END>
+
+[BLOCK: 00AE]
+실드 제네레이터
+<FB1F>
+<END>
+
+[BLOCK: 00AF]
+개발 메모 ５
+<FB1F>
+<END>
+
+[BLOCK: 00B0]
+방어 메모
+<FB1F>
+<END>
+
+[BLOCK: 00B1]
+녹슨 바주카
+<FB1F>
+<END>
+
+[BLOCK: 00B2]
+콩알탄
+<FB1F>
+<END>
+
+[BLOCK: 00B3]
+센서
+<FB1F>
+<END>
+
+[BLOCK: 00B4]
+개발 메모 ６
+<FB1F>
+<END>
+
+[BLOCK: 00B5]
+자동 공격 메모
+<FB1F>
+<END>
+
+[BLOCK: 00B6]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00B7]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00B8]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00B9]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00BA]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00BB]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00BC]
+어른의 책
+<FB1F>
+<END>
+
+[BLOCK: 00BD]
+엄청난 어른의 책
+<FB1F>
+<END>
+
+[BLOCK: 00BE]
+인형
+<FB1F>
+<END>
+
+[BLOCK: 00BF]
+쿠션
+<FB1F>
+<END>
+
+[BLOCK: 00C0]
+설퍼보톰 모형
+<FB1F>
+<END>
+
+[BLOCK: 00C1]
+롤이 만든 도시락
+<FB1F>
+<END>
+
+[BLOCK: 00C2]
+존맛탱 치킨
+<FB1F>
+<END>
+
+[BLOCK: 00C3]
+귀여운 돼지
+<FB1F>
+<END>
+
+[BLOCK: 00C4]
+노트
+<FB1F>
+<END>
+
+[BLOCK: 00C5]
+연필
+<FB1F>
+<END>
+
+[BLOCK: 00C6]
+교과서
+<FB1F>
+<END>
+
+[BLOCK: 00C7]
+포쿠테 차
+<FB1F>
+<END>
+
+[BLOCK: 00C8]
+찻잔
+<FB1F>
+<END>
+
+[BLOCK: 00C9]
+포쿠테 만쥬
+<FB1F>
+<END>
+
+[BLOCK: 00CA]
+고구마 말랭이
+<FB1F>
+<END>
+
+[BLOCK: 00CB]
+먹다 남은 초콜릿
+<FB1F>
+<END>
+
+[BLOCK: 00CC]
+이상한 쥬스
+<FB1F>
+<END>
+
+[BLOCK: 00CD]
+디플렉터Ｂ
+<FB1F>
+<END>
+
+[BLOCK: 00CE]
+디플렉터Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00CF]
+디플렉터Ｓ
+<FB1F>
+<END>
+
+[BLOCK: 00D0]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00D1]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00D2]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00D3]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00D4]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00D5]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00D6]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00D7]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00D8]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00D9]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00DA]
+화장실 세정제
+<FB1F>
+<END>
+
+[BLOCK: 00DB]
+관엽식물
+<FB1F>
+<END>
+
+[BLOCK: 00DC]
+만화책
+<FB1F>
+<END>
+
+[BLOCK: 00DD]
+항아리
+<FB1F>
+<END>
+
+[BLOCK: 00DE]
+벽지
+<FB1F>
+<END>
+
+[BLOCK: 00DF]
+수묵화
+<FB1F>
+<END>
+
+[BLOCK: 00E0]
+게임기
+<FB1F>
+<END>
+
+[BLOCK: 00E1]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00E2]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00E3]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00E4]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00E5]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00E6]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00E7]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00E8]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00E9]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00EA]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00EB]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00EC]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00ED]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00EE]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00EF]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00F0]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00F1]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00F2]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00F3]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00F4]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00F5]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00F6]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00F7]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00F8]
+라이프 파츠
+<FB1F>
+<END>
+
+[BLOCK: 00F9]
+엑스트라 팩
+<FB1F>
+<END>
+
+[BLOCK: 00FA]
+메디슨 팩
+<FB1F>
+<END>
+
+[BLOCK: 00FB]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00FC]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00FD]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00FE]
+　
+<FB1F>
+<END>
+
+[BLOCK: 00FF]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0100]
+장비 없음
+<FB1F>
+<END>
+
+[BLOCK: 0101]
+장비 없음
+<FB1F>
+<END>
+
+[BLOCK: 0102]
+장비 없음
+<FB1F>
+<END>
+
+[BLOCK: 0103]
+장비 없음
+<FB1F>
+<END>
+
+[BLOCK: 0104]
+장비 없음
+<FB1F>
+<END>
+
+[BLOCK: 0105]
+취소
+<FB1F>
+<END>
+

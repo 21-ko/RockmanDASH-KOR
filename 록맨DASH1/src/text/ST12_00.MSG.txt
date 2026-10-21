@@ -1,0 +1,277 @@
+[Block 00, String: 0000-0072]
+<WIN 4000A2001003>
+<DECOR 0008>
+고양이<LINE>
+「야옹～？<NEXT>
+
+<CLEAR 0400>
+<0378 0A00>・・・<LINE>
+<0378 0000><LINE>
+<SPACE 1800><SEL 0100FD00>데려간다　<SEL 0111FD00>내버려둔다<LINE>
+<0378 0100><0385 00010200>
+<END><CLOSE 0000>
+
+
+[Block 01, String: 0072-00A2]
+<WIN 4000A2001003>
+<DECOR 0008>
+고양이<LINE>
+「야옹야옹야옹！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 00A2-00CE]
+<WIN 4000A2001003>
+<DECOR 0008>
+고양이<LINE>
+「이야옹・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00CE-01AE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그나저나 메인게이트는<LINE>
+　정말 거대한<LINE>
+　유적이네…！<NEXT>
+
+<CLEAR 0400>
+　당신도 디그아우터라면<LINE>
+　이런 유적에서 보물을<LINE>
+　찾아보고 싶어지지？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 800C0D00>
+<END><CLOSE 0000>
+
+
+[Block 04, String: 01AE-0286]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신，서브게이트를<LINE>
+　조사하는 사람이잖아…<NEXT>
+
+<CLEAR 0400>
+　서브게이트는<LINE>
+　어떤 느낌이야…？<NEXT>
+
+<CLEAR 0400>
+　메인게이트랑 관계가<LINE>
+　있는 걸까…？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 800E0F00>
+<END><CLOSE 0000>
+
+
+[Block 05, String: 0286-02AA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「냐아～냐～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 02AA-02D0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「냥냥！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 02D0-02F2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「푸르륵！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 02F2-0316]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그릉！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 0316-039C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이，이거 좀 봐…<NEXT>
+
+<CLEAR 0400>
+　메，메인게이트에<LINE>
+　입구가 생겨버렸어！<NEXT>
+
+<CLEAR 0400>
+　아，안으로 들어갈거야？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 039C-043A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「또，또 무슨<LINE>
+　대단한 소리가 났어…<NEXT>
+
+<CLEAR 0400>
+　이번에는 어느 입구가<LINE>
+　열린 걸까…<NEXT>
+
+<CLEAR 0400>
+　나，나는 여기 있어도<LINE>
+　괜찮은 걸까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 043A-04B8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「잘은 모르겠지만…<NEXT>
+
+<CLEAR 0400>
+　메인게이트에서 더 깊숙한 곳에<LINE>
+　가려는 거구나？<NEXT>
+
+<CLEAR 0400>
+　당신 정말 용기있네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 04B8-0566]
+<WIN 4000A2001003>
+<DECOR 0008>
+「…그렇겠지，역시<NEXT>
+
+<CLEAR 0400>
+　거대한 유적에는 그만큼<LINE>
+　큼직한 보물이 있는 법이지<NEXT>
+
+<CLEAR 0400>
+　하지만，입구가<LINE>
+　어디에도 없으니<LINE>
+　어쩔 수 없겠지…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 0566-0606]
+<WIN 4000A2001003>
+<DECOR 0008>
+「…그런가<NEXT>
+
+<CLEAR 0400>
+　거대한 유적은 보물도<LINE>
+　큼직하겠지만…<LINE>
+　위험도 그만큼 크겠지<NEXT>
+
+<CLEAR 0400>
+　하지만，어차피<LINE>
+　입구가 없어서야…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 0606-0682]
+<WIN 4000A2001003>
+<DECOR 0008>
+「흐응… 역시<LINE>
+　이름이 비슷하긴 하네…<NEXT>
+
+<CLEAR 0400>
+　그렇다고 해서，뭘 알아채고<LINE>
+　그런건 아니지만…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 0682-0716]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그러려나… 하지만…<LINE>
+　이름이 비슷하잖아…？<NEXT>
+
+<CLEAR 0400>
+　메인게이트란…<LINE>
+　서브게이트의 부모 같은<LINE>
+　물건이 아닐까나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0716-0796]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트에 입구가<LINE>
+　생겨버렸어…<NEXT>
+
+<CLEAR 0400>
+　뭔가 나올까 봐 무서우니까<LINE>
+　떨어져있는 쪽이 좋겠지？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 0796-0814]
+<WIN 3A00A2001103>
+<DECOR 0008>
+「방금 흔들림은 진짜 대단했어<LINE>
+　섬 전체가 흔들리는 느낌이었지…<NEXT>
+
+<CLEAR 0400>
+　도시 쪽은 아무 일 없으면<LINE>
+　좋겠는데…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 0814-0888]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지하에… 도시가？<NEXT>
+
+<CLEAR 0400>
+　어쩐지 불길한데…<LINE>
+　뭔가 비보보다는<LINE>
+　재앙이 있을 것만 같아…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 0888-0904]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트를 보러 온 거야？<NEXT>
+
+<CLEAR 0400>
+　뭔지는 잘 모르겠지만<LINE>
+　옛날부터 있었던 거대한<LINE>
+　유적이야…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 0904-0980]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트를 보러 온 거야？<NEXT>
+
+<CLEAR 0400>
+　뭔지는 잘 모르겠지만<LINE>
+　옛날부터 있었던 거대한<LINE>
+　유적이야…<NEXT>
+
+<END><CLOSE 0400>
+
+

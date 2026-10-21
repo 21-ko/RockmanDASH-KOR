@@ -1,0 +1,274 @@
+[Block 00, String: 0000-0054]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저기 손님은<LINE>
+　거울만 계속 보고<LINE>
+　아무것도 안 사려나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 0054-0096]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나란 사람은 언제봐도<LINE>
+　멋있다니까！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 0096-00E6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저 사람은<LINE>
+　아직도 거울만 보고 있어<NEXT>
+
+<CLEAR 0400>
+　난감하네・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00E6-0134]
+<WIN 4000A2001003>
+<DECOR 0008>
+「하지만・・<NEXT>
+
+<CLEAR 0400>
+　진짜 미치도록<LINE>
+　나란 인간은 멋있다니까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 0134-018C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아직 늙어보이기엔<LINE>
+　이르니까<NEXT>
+
+<CLEAR 0400>
+　멋 좀 부려야겠어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 018C-01E4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이런・・<LINE>
+　저 사람 아직도 거울만 쳐다보네<NEXT>
+
+<CLEAR 0400>
+　니 맘대로 하세요・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 01E4-0236]
+<WIN 4000A2001003>
+<DECOR 0008>
+「틀렸어・・<NEXT>
+
+<CLEAR 0400>
+　내가 너무 살인적으로 멋있어서<LINE>
+　움직일 수가 없어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 0236-02A0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「딸이 말이야<NEXT>
+
+<CLEAR 0400>
+　아빠，가끔은 멋있는<LINE>
+　양복이라도 입어봐<NEXT>
+
+<CLEAR 0400>
+　라고 했단 말이지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 02A0-032A]
+<WIN 3A00A2001103>
+<DECOR 0008>
+「본점은 매우 평범하게<LINE>
+　영업하고 있습니다<NEXT>
+
+<CLEAR 0400>
+　얼추 １명은<LINE>
+　유별난 분이 있을지도 모릅니다만<LINE>
+　신경 쓰지 마시길<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 032A-0390]
+<WIN 4000A2001003>
+<DECOR 0008>
+「역시 지치는군・・<NEXT>
+
+<CLEAR 0400>
+　이런 수준까지 멋있을 줄이야<LINE>
+　나 자신도 놀랐어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 0390-03E8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「남자친구에게 줄<LINE>
+　선물을 사러 왔어<LINE>
+　서로 선물을 교환할거거든<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 03E8-043C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「경부님<LINE>
+　이런 때에 이런 곳에 있어도<LINE>
+　괜찮은거죠？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 043C-049E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「정말，멋있어 죽겠군<NEXT>
+
+<CLEAR 0400>
+　큰 소리？<LINE>
+　저는 듣지 못했어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 049E-050E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「농땡이 피우는 게 아니야<NEXT>
+
+<CLEAR 0400>
+　낡고 헤진 옷을 입고 있으면<LINE>
+　부하에게 본보기가 안되잖나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 050E-05AA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「경부님이라면，<LINE>
+　경찰서로 <LINE>
+　돌아가신 듯 합니다<NEXT>
+
+<CLEAR 0400>
+　아무래도 지하도시가<LINE>
+　나타났다고 하더군요…<NEXT>
+
+<CLEAR 0400>
+　괜찮을까요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 05AA-0612]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나 사실은 별로인가<NEXT>
+
+<CLEAR 0400>
+　라든가 말야，맘에도 없는 소릴<LINE>
+　하고 그러면 안 되겠지～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0612-0694]
+<WIN 4000A2001003>
+<DECOR 0008>
+「요즘 젊은 애들이<LINE>
+　하는 생각은 영 모르겠다！<NEXT>
+
+<CLEAR 0400>
+　…하지만，나도 젊었을 땐<LINE>
+　분명히 그랬었겠지～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 0694-06E6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「피난하고 싶은데，<LINE>
+　남자친구가 있어서<LINE>
+　피난할 수 없어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 06E6-0748]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나는요，이 미모로<LINE>
+　도시를 구할 수 있다고 봅니다<NEXT>
+
+<CLEAR 0400>
+　그렇게 믿고 있어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 0748-078A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이봐，정신 차려！<LINE>
+　스스로를 소중히 하라고！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 078A-07CE]
+<WIN 4000A2001003>
+<DECOR 0008>
+・　<PAUSE 0800>・　<PAUSE 0800>・<PAUSE 0800><LINE>
+아무도 없는 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 07CE-084C]
+<WIN 4000A2001003>
+<DECOR 0008>
+부시럭부시럭・・・<NEXT>
+
+<CLEAR 0400>
+안에 누군가가 있는 것 같다<NEXT>
+
+<CLEAR 0400>
+남성의 목소리<LINE>
+「으으～<LINE>
+　바지가 안빠져<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 084C-0896]
+<WIN 4000A2001003>
+<DECOR 0008>
+거울이다<NEXT>
+
+<CLEAR 0400>
+하지만 이 사람 때문에<LINE>
+볼 수 없다<NEXT>
+
+<END><CLOSE 0400>
+
+

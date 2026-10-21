@@ -1,0 +1,1017 @@
+[Block 00, String: 0000-00B6]
+<WIN 340030001203>
+<DECOR 0008>
+아나운서<LINE>
+「자，다음 도전자는<LINE>
+　록・볼넛 씨입니다<NEXT>
+
+<CLEAR 0400>
+　규칙 설명을 들으시겠습니까？<LINE>
+<0378 0000><LINE>
+　　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 8001FF00>
+<END><CLOSE 0000>
+
+
+[Block 01, String: 00B6-038E]
+<WIN 340030001203>
+<DECOR 0008>
+이 게임은 제한 시간 내에 공을 차서<LINE>
+아저씨를 쫓아가는 개에게 몇 번이나<LINE>
+맞추는지 측정하는 게임입니다<NEXT>
+
+<CLEAR 0400>
+목표 수 이상 적중시키면<LINE>
+클리어 입니다<NEXT>
+
+<CLEAR 0400>
+총 ４단계까지 있으며<LINE>
+처음에는 랭크Ｄ에서 시작합니다<NEXT>
+
+<CLEAR 0400>
+클리어할수록 랭크가 올라가며，<LINE>
+목표 수 또한 증가합니다<NEXT>
+
+<CLEAR 0400>
+랭크Ａ를 클리어했을 시<LINE>
+상품을 드리고 있으니<LINE>
+힘내서 열심히 해주세요！<NEXT>
+
+<CLEAR 0400>
+<WIN 340030001209>
+<DECOR 0008>
+<0378 0000><SPACE 5100>조작 방법<LINE>
+<LINE>
+　　<COLOR 0500><TRIANGLE><COLOR 0000>버튼　　　　　오른발 킥<LINE>
+　　<COLOR 0500><SQUARE><COLOR 0000>버튼　　　　　왼발 킥<LINE>
+<LINE>
+　　<COLOR 0500><CIRCLE><COLOR 0000>버튼을 누르면서 좌우 이동하며<LINE>
+　　걸을 수 있습니다<LINE>
+　　공의 가장자리를 차면，방향을<LINE>
+　　좌우로 바꿀 수 있습니다<NEXT>
+
+<CLEAR 0400>
+<WIN 340030001203>
+<DECOR 0008>
+다시 한번 설명을 볼까요？<LINE>
+<LINE>
+　　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0000><0385 8101FF00>
+<END><CLOSE 0500>
+
+
+[Block 02, String: 038E-043A]
+<WIN 340030001204>
+<DECOR 0008>
+　　　　　　　<COLOR 0000>랭크Ｄ<LINE>
+　　　　목표 ＨＩＴ 수<03BB 0300>？：？？：？？<LINE>
+<LINE>
+아나운서「그럼，시작하겠습니다！<NEXT>
+
+<CLEAR 0400>
+<WIN 800074000501>
+<DECOR 0008>
+ＲＥＡＤＹ<CLEAR 1E00>
+　ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<END><CLOSE 0000>
+
+
+[Block 03, String: 043A-0494]
+<WIN 340050001203>
+<DECOR 0008>
+기록은　<03BB 0300>？：？？：？？ＨＩＴ입니다．<LINE>
+록 씨，아쉽습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 0494-0542]
+<WIN 340050001203>
+<DECOR 0008>
+기록은　<03BB 0300>？：？？：？？ＨＩＴ！<LINE>
+록 씨，멋지게 클리어하셨네요！<NEXT>
+
+<CLEAR 0400>
+<CALL 011B>축하드립니다<LINE>
+상금은<LINE>
+<COLOR 0200><ZENNY_AMOUNT>　　　　　　　제니<COLOR 0000>입니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 0542-05EA]
+<WIN 340050001203>
+<DECOR 0008>
+기록은　<03BB 0300>？：？？：？？ＨＩＴ！<LINE>
+록 씨，랭크Ａ도<LINE>
+훌륭하게 클리어하셨습니다！<NEXT>
+
+<CLEAR 0400>
+축하드립니다<LINE>
+상품은<LINE>
+<COLOR 0300>＂<GIFT>＂<COLOR 0000>입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 05EA-069C]
+<WIN 340050001203>
+<DECOR 0008>
+기록은・・・<SPACE 0200>이럴<SPACE 0200>수가 <03BB 0300>？：？？：？？ＨＩＴ！<LINE>
+대단해요！ 기록 갱신입니다！<NEXT>
+
+<CLEAR 0400>
+<CALL 011B>상금은<LINE>
+<COLOR 0200><ZENNY_AMOUNT>　　　　　　　제니<COLOR 0000>！<LINE>
+축하합니다～！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 069C-0778]
+<WIN 340050001203>
+<DECOR 0008>
+기록은・・・<SPACE 0200>이럴<SPACE 0200>수가 <03BB 0300>？：？？：？？ＨＩＴ！<NEXT>
+
+<CLEAR 0400>
+대단합니다！<LINE>
+랭크Ａ를 클리어함과 동시에<LINE>
+기록까지 갱신해버렸습니다！<NEXT>
+
+<CLEAR 0400>
+축하합니다～！<LINE>
+상품은<LINE>
+<COLOR 0300>＂<GIFT>＂<COLOR 0000>입니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 0778-07C6]
+<WIN 340050001203>
+<DECOR 0008>
+「록・볼넛 씨！<LINE>
+　감사합니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 07C6-086E]
+<WIN 340030001204>
+<DECOR 0008>
+<0378 0000>　　　　　　　<COLOR 0200>랭크Ｄ<LINE>
+　　　　목표ＨＩＴ수　１０<LINE>
+<LINE>
+아나운서「그럼，시작하겠습니다！<NEXT>
+
+<CLEAR 0400>
+<WIN 800074000501>
+<DECOR 0008>
+ＲＥＡＤＹ<CLEAR 1E00>
+　ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<0378 0100><END><CLOSE 0000>
+
+
+[Block 0A, String: 086E-0916]
+<WIN 340030001204>
+<DECOR 0008>
+<0378 0000>　　　　　　　<COLOR 0200>랭크Ｃ<LINE>
+　　　　목표ＨＩＴ수　１２<LINE>
+<LINE>
+아나운서「그럼，시작하겠습니다！<NEXT>
+
+<CLEAR 0400>
+<WIN 800074000501>
+<DECOR 0008>
+ＲＥＡＤＹ<CLEAR 1E00>
+　ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<0378 0100><END><CLOSE 0000>
+
+
+[Block 0B, String: 0916-09BE]
+<WIN 340030001204>
+<DECOR 0008>
+<0378 0000>　　　　　　　<COLOR 0200>랭크Ｂ<LINE>
+　　　　목표ＨＩＴ수　１４<LINE>
+<LINE>
+아나운서「그럼，시작하겠습니다！<NEXT>
+
+<CLEAR 0400>
+<WIN 800074000501>
+<DECOR 0008>
+ＲＥＡＤＹ<CLEAR 1E00>
+　ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<0378 0100><END><CLOSE 0000>
+
+
+[Block 0C, String: 09BE-0A66]
+<WIN 340030001204>
+<DECOR 0008>
+<0378 0000>　　　　　　　<COLOR 0200>랭크Ａ<LINE>
+　　　　목표ＨＩＴ수　１６<LINE>
+<LINE>
+아나운서「그럼，시작하겠습니다！<NEXT>
+
+<CLEAR 0400>
+<WIN 800074000501>
+<DECOR 0008>
+ＲＥＡＤＹ<CLEAR 1E00>
+　ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<0378 0100><END><CLOSE 0000>
+
+
+[Block 0D, String: 0A66-0B1A]
+<WIN 340030001203>
+<DECOR 0008>
+아나운서<LINE>
+「자，다음 도전자는<LINE>
+　록・볼넛 씨입니다<NEXT>
+
+<CLEAR 0400>
+　규칙 설명을 들으시겠습니까？<LINE>
+<LINE>
+<0378 0000>　　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 800EFF00>
+<END><CLOSE 0500>
+
+
+[Block 0E, String: 0B1A-0D30]
+<WIN 340030001203>
+<DECOR 0008>
+이 방에는 풍선이 잔뜩<LINE>
+떠있습니다<NEXT>
+
+<CLEAR 0400>
+얼마나 빨리 빨간 풍선만을<LINE>
+모두 터뜨리는지 재는 게임입니다<NEXT>
+
+<CLEAR 0400>
+다만 파란 풍선을 터뜨리면<LINE>
+시간이 차감되니까<LINE>
+주의하세요<NEXT>
+
+<CLEAR 0400>
+목표 시간 내에 빨간 풍선을<LINE>
+모두 터뜨리면 클리어입니다<NEXT>
+
+<CLEAR 0400>
+랭크는 ４단계가 있으며<LINE>
+처음은 랭크Ｄ입니다<NEXT>
+
+<CLEAR 0400>
+클리어할수록 랭크가 올라가며，<LINE>
+목표 수 또한 증가합니다<NEXT>
+
+<CLEAR 0400>
+랭크Ａ를 클리어했을 시<LINE>
+상품을 드리고 있으니<LINE>
+힘내서 열심히 해주세요！<NEXT>
+
+<CLEAR 0400>
+다시 한번 설명을 들을래요？<LINE>
+<LINE>
+<0378 0000>　　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0385 810EFF00>
+<0378 0100><END><CLOSE 0500>
+
+
+[Block 0F, String: 0D30-0DD4]
+<WIN 340030001204>
+<DECOR 0008>
+<SPACE 5A00>랭크？<LINE>
+　　　　 목표 시간　<03BB 0000>？：？？：？？<LINE>
+<LINE>
+아나운서「그럼，준비 되셨나요？<NEXT>
+
+<CLEAR 0400>
+<WIN 800074000501>
+<DECOR 0008>
+ＲＥＡＤＹ<CLEAR 1E00>
+　ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<END><CLOSE 0000>
+
+
+[Block 10, String: 0DD4-0E04]
+<WIN 340050001203>
+<DECOR 0008>
+아앗，시간 초과입니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 0E04-0E9E]
+<WIN 340050001203>
+<DECOR 0008>
+시간은　<03BB 0000>？：？？：？？！<LINE>
+록 군，멋지게 클리어！<NEXT>
+
+<CLEAR 0400>
+<CALL 011B>축하합니다<LINE>
+상금은<LINE>
+<COLOR 0200><ZENNY_AMOUNT>　　　　　　　제니<COLOR 0000>입니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 0E9E-0F32]
+<WIN 340050001203>
+<DECOR 0008>
+시간은　<03BB 0000>？：？？：？？！<LINE>
+록 군，랭크Ａ도<LINE>
+훌륭하게 클리어！<NEXT>
+
+<CLEAR 0400>
+축하합니다<LINE>
+상품은<LINE>
+<COLOR 0300>＂<GIFT>＂<COLOR 0000>입니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 0F32-0FD6]
+<WIN 340050001203>
+<DECOR 0008>
+시간은・・・ 이럴 수가<LINE>
+<03BB 0000>？：？？：？？！<LINE>
+대단해！ 기록 갱신입니다！<NEXT>
+
+<CLEAR 0400>
+<CALL 011B>상금은　<COLOR 0200><ZENNY_AMOUNT>　　　　　　　제니<COLOR 0000>！<NEXT>
+
+<CLEAR 0400>
+축하해요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 0FD6-109E]
+<WIN 340050001203>
+<DECOR 0008>
+시간은・・・ 이럴 수가<LINE>
+<03BB 0000>？：？？：？？！<NEXT>
+
+<CLEAR 0400>
+굉장해！<LINE>
+랭크Ａ를 클리어와 동시에<LINE>
+기록까지 갱신했습니다！<NEXT>
+
+<CLEAR 0400>
+축하합니다！<LINE>
+상품은<LINE>
+<COLOR 0300>＂<GIFT>＂<COLOR 0000>입니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 109E-10E6]
+<WIN 340050001203>
+<DECOR 0008>
+「록・볼넛 군！<LINE>
+　정말 감사합니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 10E6-118E]
+<WIN 340030001204>
+<DECOR 0008>
+<0378 0000><SPACE 5A00><COLOR 0200>랭크Ｄ<LINE>
+　　　　 목표 시간　２２：００<LINE>
+<LINE>
+아나운서「그럼，준비 되셨나요？<NEXT>
+
+<CLEAR 0400>
+<WIN 800074000501>
+<DECOR 0008>
+ＲＥＡＤＹ<CLEAR 1E00>
+　ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<0378 0100><END><CLOSE 0000>
+
+
+[Block 17, String: 118E-1236]
+<WIN 340030001204>
+<DECOR 0008>
+<0378 0000><SPACE 5A00><COLOR 0200>랭크Ｃ<LINE>
+　　　　 목표 시간　１８：００<LINE>
+<LINE>
+아나운서「그럼，준비 되셨나요？<NEXT>
+
+<CLEAR 0400>
+<WIN 800074000501>
+<DECOR 0008>
+ＲＥＡＤＹ<CLEAR 1E00>
+　ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<0378 0100><END><CLOSE 0000>
+
+
+[Block 18, String: 1236-12DE]
+<WIN 340030001204>
+<DECOR 0008>
+<0378 0000><SPACE 5A00><COLOR 0200>랭크Ｂ<LINE>
+　　　　 목표 시간　１６：００<LINE>
+<LINE>
+아나운서「그럼，준비 되셨나요？<NEXT>
+
+<CLEAR 0400>
+<WIN 800074000501>
+<DECOR 0008>
+ＲＥＡＤＹ<CLEAR 1E00>
+　ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<0378 0100><END><CLOSE 0000>
+
+
+[Block 19, String: 12DE-1386]
+<WIN 340030001204>
+<DECOR 0008>
+<0378 0000><SPACE 5A00><COLOR 0200>랭크Ａ<LINE>
+　　　　 목표 시간　１２：００<LINE>
+<LINE>
+아나운서「그럼，준비 되셨나요？<NEXT>
+
+<CLEAR 0400>
+<WIN 800074000501>
+<DECOR 0008>
+ＲＥＡＤＹ<CLEAR 1E00>
+　ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<0378 0100><END><CLOSE 0000>
+
+
+[Block 1A, String: 1386-13B2]
+<0378 0000><MOVE_FREE><WIN D20018000701>
+<DECOR 0308>
+<03BB 0000>？：？？：？？<0378 0100><0383>
+
+[Block 1B, String: 13B2-13E4]
+<NO_CHAR_SFX><MOVE_FREE><0378 0000><WIN 1C0020000801>
+<DECOR 0308>
+<COST>　　　　　　　＄<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block 1C, String: 13E4-151C]
+<CALL 011E><NO_CHAR_SFX><MOVE_FREE><0378 0000><WIN 40003C001007>
+<DECOR 0008>
+이름을 입력해 주세요<LINE>
+（방향키 위，아래로 선택<LINE>
+　우측 방향키와 <COLOR 0500><CIRCLE><COLOR 0000>버튼으로 결정<LINE>
+　좌측 방향키와 <COLOR 0500><CROSS><COLOR 0000>버튼으로 <LINE>
+　취소）<LINES 1400>
+　<COLOR 0400>이름<COLOR 0000>：<039E 8000>
+ー<039E 8000>
+ー<039E 8000>
+ー<03BC 0003><CLEAR 0F00>
+<WIN 3A003C001103>
+<DECOR 0008>
+이름：<COLOR 0400><03BA 0000>　　　<COLOR 0000> 씨로 괜찮으십니까？<LINES 1400>
+<SPACE 3000><SEL 0100FD00>네　<SEL 0111FD00>아니오<0385 80211C00>
+<END><CLOSE 0000>
+
+
+[Block 1D, String: 151C-1580]
+<WIN 340050001203>
+<DECOR 0008>
+한번 더 도전할까요？<LINE>
+<LINE>
+<0378 0000>　　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 00FFFF00>
+<END><CLOSE 0000>
+
+
+[Block 1E, String: 1580-1588]
+<END><CLOSE 0000>
+
+
+[Block 1F, String: 1588-15A8]
+<WIN 340050001203>
+<DECOR 0008>
+그만！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 15A8-15CE]
+<WIN 340050001203>
+<DECOR 0008>
+ＴＩＭＥ　ＵＰ！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 15CE-16AC]
+<WIN 3A0074001105>
+<DECOR 0008>
+<0378 0000><SPACE 2A00><COLOR 0400>～비스트 헌터～<COLOR 0000><LINE>
+<LINE>
+<SPACE 1800>１ｓｔ　<03BB 0209>？：？？：？？ＨＩＴ　<EXE_JUMP 1A09><03BA 0000>　　　<LINE>
+<SPACE 1800>２ｎｄ　<03BB 020A>？：？？：？？ＨＩＴ　<EXE_JUMP 1A0A><03BA 0000>　　　<LINE>
+<SPACE 1800>３ｒｄ　<03BB 020B>？：？？：？？ＨＩＴ　<EXE_JUMP 1A0B><03BA 0000>　　　<LINE>
+<NEXT>
+
+<JUMP 001D>
+
+[Block 22, String: 16AC-16AE]
+
+
+[Block 23, String: 16AE-16E2]
+<0378 0000><MOVE_FREE><WIN D20038000701>
+<DECOR 0308>
+ＨＩＴ　<03BB 0300>？：？？：？？<0378 0100><0383>
+
+[Block 24, String: 16E2-181A]
+<CALL 011E><NO_CHAR_SFX><MOVE_FREE><0378 0000><WIN 46003C000F07>
+<DECOR 0008>
+이름을 입력해 주세요<LINE>
+（방향키 위，아래로 선택<LINE>
+　우측 방향키와<COLOR 0500><CIRCLE><COLOR 0000>버튼으로 결정<LINE>
+　좌측 방향키와<COLOR 0500><CROSS><COLOR 0000>버튼으로 <LINE>
+　취소）<LINES 1400>
+　<COLOR 0400>이름<COLOR 0000>：<039E 8000>
+ー<039E 8000>
+ー<039E 8000>
+ー<03BC 0003><CLEAR 0F00>
+<WIN 3A003C001103>
+<DECOR 0008>
+이름：<COLOR 0400><03BA 0000>　　　<COLOR 0000> 씨로 괜찮으십니까？<LINES 1400>
+<SPACE 3000><SEL 0100FD00>네　<SEL 0111FD00>아니오<0385 80252400>
+<END><CLOSE 0000>
+
+
+[Block 25, String: 181A-18EA]
+<WIN 3A0074001105>
+<DECOR 0008>
+<0378 0000><SPACE 1E00><COLOR 0400>～벌룬 판타지～<COLOR 0000><LINE>
+<LINE>
+<SPACE 0C00>１ｓｔ　<03BB 010C>？：？？：？？　<EXE_JUMP 1A0C><03BA 0000>　　　<LINE>
+<SPACE 0C00>２ｎｄ　<03BB 010D>？：？？：？？　<EXE_JUMP 1A0D><03BA 0000>　　　<LINE>
+<SPACE 0C00>３ｒｄ　<03BB 010E>？：？？：？？　<EXE_JUMP 1A0E><03BA 0000>　　　<LINE>
+<NEXT>
+
+<JUMP 001D>
+
+[Block 26, String: 18EA-18EC]
+
+
+[Block 27, String: 18EC-18EE]
+
+
+[Block 28, String: 18EE-192E]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｄ<LINE>
+목표 시간<LINE>
+　　２２：００<0378 0100><0383>
+
+[Block 29, String: 192E-196E]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｃ<LINE>
+목표 시간<LINE>
+　　１８：００<0378 0100><0383>
+
+[Block 2A, String: 196E-19AE]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｂ<LINE>
+목표 시간<LINE>
+　　１６：００<0378 0100><0383>
+
+[Block 2B, String: 19AE-19EE]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ａ<LINE>
+목표 시간<LINE>
+　　１２：００<0378 0100><0383>
+
+[Block 2C, String: 19EE-1A14]
+<WIN 820054000501>
+<DECOR 0008>
+<0378 0000><COLOR 0200>＋１ｓｅｃ<END><CLOSE 0F00>
+
+
+[Block 2D, String: 1A14-1A4E]
+<WIN 18001C000A02>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｄ<LINE>
+목표ＨＩＴ수　１０<0378 0100><0383>
+
+[Block 2E, String: 1A4E-1A88]
+<WIN 18001C000A02>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｃ<LINE>
+목표ＨＩＴ수　１２<0378 0100><0383>
+
+[Block 2F, String: 1A88-1AC2]
+<WIN 18001C000A02>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｂ<LINE>
+목표ＨＩＴ수　１４<0378 0100><0383>
+
+[Block 30, String: 1AC2-1AFC]
+<WIN 18001C000A02>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ａ<LINE>
+목표ＨＩＴ수　１６<0378 0100><0383>
+
+[Block 31, String: 1AFC-1AFE]
+
+
+[Block 32, String: 1AFE-1B00]
+
+
+[Block 33, String: 1B00-1B02]
+
+
+[Block 34, String: 1B02-1B04]
+
+
+[Block 35, String: 1B04-1B06]
+
+
+[Block 36, String: 1B06-1B08]
+
+
+[Block 37, String: 1B08-1B0A]
+
+
+[Block 38, String: 1B0A-1B0C]
+
+
+[Block 39, String: 1B0C-1B0E]
+
+
+[Block 3A, String: 1B0E-1B10]
+
+
+[Block 3B, String: 1B10-1B12]
+
+
+[Block 3C, String: 1B12-1B14]
+
+
+[Block 3D, String: 1B14-1B16]
+
+
+[Block 3E, String: 1B16-1B18]
+
+
+[Block 3F, String: 1B18-1B1A]
+
+
+[Block 40, String: 1B1A-1B1C]
+
+
+[Block 41, String: 1B1C-1B1E]
+
+
+[Block 42, String: 1B1E-1B20]
+
+
+[Block 43, String: 1B20-1B22]
+
+
+[Block 44, String: 1B22-1B24]
+
+
+[Block 45, String: 1B24-1B26]
+
+
+[Block 46, String: 1B26-1B28]
+
+
+[Block 47, String: 1B28-1B2A]
+
+
+[Block 48, String: 1B2A-1B2C]
+
+
+[Block 49, String: 1B2C-1B2E]
+
+
+[Block 4A, String: 1B2E-1B30]
+
+
+[Block 4B, String: 1B30-1B32]
+
+
+[Block 4C, String: 1B32-1B34]
+
+
+[Block 4D, String: 1B34-1B36]
+
+
+[Block 4E, String: 1B36-1B38]
+
+
+[Block 4F, String: 1B38-1B3A]
+
+
+[Block 50, String: 1B3A-1B3C]
+
+
+[Block 51, String: 1B3C-1B3E]
+
+
+[Block 52, String: 1B3E-1B40]
+
+
+[Block 53, String: 1B40-1B42]
+
+
+[Block 54, String: 1B42-1B44]
+
+
+[Block 55, String: 1B44-1B46]
+
+
+[Block 56, String: 1B46-1B48]
+
+
+[Block 57, String: 1B48-1B4A]
+
+
+[Block 58, String: 1B4A-1B4C]
+
+
+[Block 59, String: 1B4C-1B4E]
+
+
+[Block 5A, String: 1B4E-1B50]
+
+
+[Block 5B, String: 1B50-1B52]
+
+
+[Block 5C, String: 1B52-1B54]
+
+
+[Block 5D, String: 1B54-1B56]
+
+
+[Block 5E, String: 1B56-1B58]
+
+
+[Block 5F, String: 1B58-1B5A]
+
+
+[Block 60, String: 1B5A-1B5C]
+
+
+[Block 61, String: 1B5C-1B5E]
+
+
+[Block 62, String: 1B5E-1B60]
+
+
+[Block 63, String: 1B60-1B62]
+
+
+[Block 64, String: 1B62-1BE8]
+<WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800>벽 안에서<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 0000><COLOR 0000><GET 0005>를 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 65, String: 1BE8-1C14]
+<WIN 4200AC000F02>
+<DECOR 0008>
+아무것도 보이지 않는다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 66, String: 1C14-1C88]
+<WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800><LINE>
+하지만 아무것도 없었다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 67, String: 1C88-1D36]
+<WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1FD2><EXE_JUMP 2004><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 68, String: 1D36-1DA2]
+<WIN 4000A2001003>
+<DECOR 0008>
+보물상자 같은 것이 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8600>
+<COLOR 0300><ITEM 0100><COLOR 0000><GET 0105>를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 69, String: 1DA2-1DD2]
+<WIN 4200AC000F02>
+<DECOR 0008>
+더 이상 아무것도 없다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6A, String: 1DD2-1DD4]
+
+
+[Block 6B, String: 1DD4-1DD6]
+
+
+[Block 6C, String: 1DD6-1DD8]
+
+
+[Block 6D, String: 1DD8-1DDA]
+
+
+[Block 6E, String: 1DDA-1DDC]
+
+
+[Block 6F, String: 1DDC-1DDE]
+
+
+[Block 70, String: 1DDE-1DE0]
+
+
+[Block 71, String: 1DE0-1DE2]
+
+
+[Block 72, String: 1DE2-1DE4]
+
+
+[Block 73, String: 1DE4-1DE6]
+
+
+[Block 74, String: 1DE6-1DE8]
+
+
+[Block 75, String: 1DE8-1DEA]
+
+
+[Block 76, String: 1DEA-1DEC]
+
+
+[Block 77, String: 1DEC-1DEE]
+
+
+[Block 78, String: 1DEE-1DF0]
+
+
+[Block 79, String: 1DF0-1DF2]
+
+
+[Block 7A, String: 1DF2-1DF4]
+
+
+[Block 7B, String: 1DF4-1DF6]
+
+
+[Block 7C, String: 1DF6-1DF8]
+
+
+[Block 7D, String: 1DF8-1DFA]
+
+
+[Block 7E, String: 1DFA-1DFC]
+
+
+[Block 7F, String: 1DFC-1DFE]
+
+
+[Block 80, String: 1DFE-1E00]
+
+
+[Block 81, String: 1E00-1E02]
+
+
+[Block 82, String: 1E02-1E04]
+
+
+[Block 83, String: 1E04-1E06]
+
+
+[Block 84, String: 1E06-1E08]
+
+
+[Block 85, String: 1E08-1E2E]
+<WIN 400024001001>
+<DECOR 0008>
+「가로등이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 86, String: 1E2E-1E58]
+<WIN 400024001001>
+<DECOR 0008>
+「소화전이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 87, String: 1E58-1E78]
+<WIN 400024001001>
+<DECOR 0008>
+「벤치다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 88, String: 1E78-1E7A]
+
+
+[Block 89, String: 1E7A-1E7C]
+
+
+[Block 8A, String: 1E7C-1E7E]
+
+
+[Block 8B, String: 1E7E-1E80]
+
+
+[Block 8C, String: 1E80-1E82]
+
+
+[Block 8D, String: 1E82-1E84]
+
+
+[Block 8E, String: 1E84-1E86]
+
+
+[Block 8F, String: 1E86-1E88]
+
+
+[Block 90, String: 1E88-1E8A]
+
+
+[Block 91, String: 1E8A-1E8C]
+
+
+[Block 92, String: 1E8C-1E8E]
+
+
+[Block 93, String: 1E8E-1E90]
+
+
+[Block 94, String: 1E90-1E92]
+
+
+[Block 95, String: 1E92-1E94]
+
+
+[Block 96, String: 1E94-1E96]
+
+
+[Block 97, String: 1E96-1E98]
+
+
+[Block 98, String: 1E98-1ECA]
+<MSG_IF 2B0011FF>
+<MSG_IF 2A0010FF>
+<MSG_IF 1D000FFF>
+<MSG_IF 1E000EFF>
+<MSG_IF 19000DFF>
+<CALL 008C><END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 99, String: 1ECA-1F1C]
+<MSG_IF E00213FF>
+<MSG_IF E10214FF>
+<MSG_IF E20215FF>
+<MSG_IF E30216FF>
+<MSG_IF E40217FF>
+<MSG_IF E50218FF>
+<MSG_IF E60219FF>
+<MSG_IF E7021AFF>
+<MSG_IF E8021BFF>
+<MSG_IF E9021CFF>
+<MSG_IF EA021DFF>
+<MSG_IF EB021EFF>
+<NEXT>
+
+<END><CLOSE 0400>
+
+

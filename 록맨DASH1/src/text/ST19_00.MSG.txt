@@ -1,0 +1,848 @@
+[Block 00, String: 0000-003E]
+<WIN 4000A2001003>
+<DECOR 0008>
+봉쇄 되어있어서，<LINE>
+안으로 들어갈 수 없다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 003E-007C]
+<WIN 4000A2001003>
+<DECOR 0008>
+봉쇄 되어있어서，<LINE>
+안으로 들어갈 수 없다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 007C-00BA]
+<WIN 4000A2001003>
+<DECOR 0008>
+봉쇄 되어있어서，<LINE>
+안으로 들어갈 수 없다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00BA-01B6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 구시가지 에리어라고<LINE>
+　불리는 곳이야<NEXT>
+
+<CLEAR 0400>
+　옛날에는 사람이 살았었는데<LINE>
+　지금은 보는대로<LINE>
+　들개들의 보금자리지…<NEXT>
+
+<CLEAR 0400>
+　뭐，<COLOR 0200>메인게이트<COLOR 0000>를<LINE>
+　구경하려거든，남쪽…<NEXT>
+
+<CLEAR 0400>
+　발전소에 용무가 있다면<LINE>
+　북쪽이야…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 01B6-02A0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트를 보러왔어…<LINE>
+　그런데，너 혹시<LINE>
+　디그아우터야？<NEXT>
+
+<CLEAR 0400>
+　저 정도로 큰 유적이면<LINE>
+　디그아웃을 크게 한건<LINE>
+　할 수 있을지도 모르지만…<NEXT>
+
+<CLEAR 0400>
+　입구가 어디에도<LINE>
+　없으니…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 02A0-039C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 구시가지 에리어라고<LINE>
+　불리는 곳이야<NEXT>
+
+<CLEAR 0400>
+　옛날에는 사람이 살았었는데<LINE>
+　지금은 보는대로<LINE>
+　들개들의 보금자리지…<NEXT>
+
+<CLEAR 0400>
+　뭐，<COLOR 0200>메인게이트<COLOR 0000>를<LINE>
+　구경하려거든，남쪽…<NEXT>
+
+<CLEAR 0400>
+　발전소에 용무가 있다면<LINE>
+　북쪽이야…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 039C-0486]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트를 보러왔어…<LINE>
+　그런데，너 혹시<LINE>
+　디그아우터야？<NEXT>
+
+<CLEAR 0400>
+　저 정도로 큰 유적이면<LINE>
+　디그아웃을 크게 한건<LINE>
+　할 수 있을지도 모르지만…<NEXT>
+
+<CLEAR 0400>
+　입구가 어디에도<LINE>
+　없으니…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 0486-04DA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「또 엄청난 지진이 났어<LINE>
+　이거 괜찮을까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 04DA-0530]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트에서<LINE>
+　뭔가 있었나봐 이거<LINE>
+　당신，조심해<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 0530-05BE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「남쪽의… 메인게이트가<LINE>
+　큰일 났어！！<NEXT>
+
+<CLEAR 0400>
+　모양이 변해버리고<LINE>
+　거기에다가…<LINE>
+　입구까지 생겨버렸어！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 05BE-0632]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트의 입구가<LINE>
+　생겨버렸어！<NEXT>
+
+<CLEAR 0400>
+　큰 소리가 났던 것은<LINE>
+　그거 때문이었구나…！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0632-070A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금 그 커다란 거나<LINE>
+　도시에 나타났다는<LINE>
+　유적 같은 거라든가…<NEXT>
+
+<CLEAR 0400>
+　뭔가 큰 일이<LINE>
+　되어버린 것 같아…<NEXT>
+
+<CLEAR 0400>
+　어，유적 같은 거 말이야…？<NEXT>
+
+<CLEAR 0400>
+　시가지 에리어에 나타났대<LINE>
+　이상한 무언가가…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 070A-0776]
+<WIN 4000A2001003>
+<DECOR 0008>
+「방금 그 큰 거는 뭐지！？<NEXT>
+
+<CLEAR 0400>
+　메인 게이트가 열린 거하고<LINE>
+　관계가 있는건가！？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 0776-07C4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「우，우리들，창고 안에서<LINE>
+　아무것도 안했어요～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 07C4-07F6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리들<LINE>
+　망 보고 있어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 07F6-0854]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기서<LINE>
+　창고의 지붕 위로는<LINE>
+　올라갈 수 없어<NEXT>
+
+<CLEAR 0400>
+　아쉬운데…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0854-0894]
+<WIN 4000A2001003>
+<DECOR 0008>
+「내려갈 수 없게 되어버렸어…<LINE>
+　트론 님～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 0894-0896]
+
+
+[Block 12, String: 0896-0898]
+
+
+[Block 13, String: 0898-089A]
+
+
+[Block 14, String: 089A-089C]
+
+
+[Block 15, String: 089C-089E]
+
+
+[Block 16, String: 089E-08A0]
+
+
+[Block 17, String: 08A0-08A2]
+
+
+[Block 18, String: 08A2-08A4]
+
+
+[Block 19, String: 08A4-08A6]
+
+
+[Block 1A, String: 08A6-08A8]
+
+
+[Block 1B, String: 08A8-08AA]
+
+
+[Block 1C, String: 08AA-08AC]
+
+
+[Block 1D, String: 08AC-08AE]
+
+
+[Block 1E, String: 08AE-08B0]
+
+
+[Block 1F, String: 08B0-08B2]
+
+
+[Block 20, String: 08B2-08B4]
+
+
+[Block 21, String: 08B4-08B6]
+
+
+[Block 22, String: 08B6-08B8]
+
+
+[Block 23, String: 08B8-08BA]
+
+
+[Block 24, String: 08BA-08BC]
+
+
+[Block 25, String: 08BC-08BE]
+
+
+[Block 26, String: 08BE-08C0]
+
+
+[Block 27, String: 08C0-08C2]
+
+
+[Block 28, String: 08C2-08C4]
+
+
+[Block 29, String: 08C4-08C6]
+
+
+[Block 2A, String: 08C6-08C8]
+
+
+[Block 2B, String: 08C8-08CA]
+
+
+[Block 2C, String: 08CA-08CC]
+
+
+[Block 2D, String: 08CC-08CE]
+
+
+[Block 2E, String: 08CE-08D0]
+
+
+[Block 2F, String: 08D0-08D2]
+
+
+[Block 30, String: 08D2-08D4]
+
+
+[Block 31, String: 08D4-08D6]
+
+
+[Block 32, String: 08D6-08D8]
+
+
+[Block 33, String: 08D8-08DA]
+
+
+[Block 34, String: 08DA-08DC]
+
+
+[Block 35, String: 08DC-08DE]
+
+
+[Block 36, String: 08DE-08E0]
+
+
+[Block 37, String: 08E0-08E2]
+
+
+[Block 38, String: 08E2-08E4]
+
+
+[Block 39, String: 08E4-08E6]
+
+
+[Block 3A, String: 08E6-08E8]
+
+
+[Block 3B, String: 08E8-08EA]
+
+
+[Block 3C, String: 08EA-08EC]
+
+
+[Block 3D, String: 08EC-08EE]
+
+
+[Block 3E, String: 08EE-08F0]
+
+
+[Block 3F, String: 08F0-08F2]
+
+
+[Block 40, String: 08F2-08F4]
+
+
+[Block 41, String: 08F4-08F6]
+
+
+[Block 42, String: 08F6-08F8]
+
+
+[Block 43, String: 08F8-08FA]
+
+
+[Block 44, String: 08FA-08FC]
+
+
+[Block 45, String: 08FC-08FE]
+
+
+[Block 46, String: 08FE-0900]
+
+
+[Block 47, String: 0900-0902]
+
+
+[Block 48, String: 0902-0904]
+
+
+[Block 49, String: 0904-0906]
+
+
+[Block 4A, String: 0906-0908]
+
+
+[Block 4B, String: 0908-090A]
+
+
+[Block 4C, String: 090A-090C]
+
+
+[Block 4D, String: 090C-090E]
+
+
+[Block 4E, String: 090E-0910]
+
+
+[Block 4F, String: 0910-0912]
+
+
+[Block 50, String: 0912-0914]
+
+
+[Block 51, String: 0914-0916]
+
+
+[Block 52, String: 0916-0918]
+
+
+[Block 53, String: 0918-091A]
+
+
+[Block 54, String: 091A-091C]
+
+
+[Block 55, String: 091C-091E]
+
+
+[Block 56, String: 091E-0920]
+
+
+[Block 57, String: 0920-0922]
+
+
+[Block 58, String: 0922-0924]
+
+
+[Block 59, String: 0924-0926]
+
+
+[Block 5A, String: 0926-0928]
+
+
+[Block 5B, String: 0928-092A]
+
+
+[Block 5C, String: 092A-092C]
+
+
+[Block 5D, String: 092C-092E]
+
+
+[Block 5E, String: 092E-0930]
+
+
+[Block 5F, String: 0930-0932]
+
+
+[Block 60, String: 0932-0934]
+
+
+[Block 61, String: 0934-0936]
+
+
+[Block 62, String: 0936-0938]
+
+
+[Block 63, String: 0938-093A]
+
+
+[Block 64, String: 093A-0A24]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 구시가지에<LINE>
+　사람이 많았던 시절에<LINE>
+　지어진 발전소야…<NEXT>
+
+<CLEAR 0400>
+　물론 동력의 핵심은<LINE>
+　디플렉터지…<NEXT>
+
+<CLEAR 0400>
+　정말이지… 디플렉터가<LINE>
+　세상에 없었다면…<LINE>
+　전기도 못 만들었을 거야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 65, String: 0A24-0B14]
+<WIN 4000A2001003>
+<DECOR 0008>
+「구시가지에서 들개한테<LINE>
+　습격당하지는 않았어？<NEXT>
+
+<CLEAR 0400>
+　…그 녀석들，요즘 들어서<LINE>
+　갑자기 이상해졌어…<NEXT>
+
+<CLEAR 0400>
+　아무래도 지하 쪽에서<LINE>
+　리버드 같은 게<LINE>
+　날뛰고 있다나 봐…<NEXT>
+
+<CLEAR 0400>
+　세상이 어떻게 되어 가는 걸까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 66, String: 0B14-0BC6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「별 일이네…<LINE>
+　이런 곳에 사람이 오다니<NEXT>
+
+<CLEAR 0400>
+　<COLOR 0200>메인게이트<COLOR 0000>라도<LINE>
+　구경하러 온 건가…？<NEXT>
+
+<CLEAR 0400>
+　그렇다면 반대 방향이야<LINE>
+　구시가지의 남쪽이야！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 67, String: 0BC6-0CB0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 구시가지에<LINE>
+　사람이 많았던 시절에<LINE>
+　지어진 발전소야…<NEXT>
+
+<CLEAR 0400>
+　물론 동력의 핵심은<LINE>
+　디플렉터지…<NEXT>
+
+<CLEAR 0400>
+　정말이지… 디플렉터가<LINE>
+　세상에 없었다면…<LINE>
+　전기도 못 만들었을 거야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 68, String: 0CB0-0DA0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「구시가지에서 들개한테<LINE>
+　습격당하지는 않았어？<NEXT>
+
+<CLEAR 0400>
+　…그 녀석들，요즘 들어서<LINE>
+　갑자기 이상해졌어…<NEXT>
+
+<CLEAR 0400>
+　아무래도 지하 쪽에서<LINE>
+　리버드 같은 게<LINE>
+　날뛰고 있다나 봐…<NEXT>
+
+<CLEAR 0400>
+　세상이 어떻게 되어 가는 걸까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 69, String: 0DA0-0E52]
+<WIN 4000A2001003>
+<DECOR 0008>
+「별 일이네…<LINE>
+　이런 곳에 사람이 오다니<NEXT>
+
+<CLEAR 0400>
+　<COLOR 0200>메인게이트<COLOR 0000>라도<LINE>
+　구경하러 온 건가…？<NEXT>
+
+<CLEAR 0400>
+　그렇다면 반대 방향이야<LINE>
+　구시가지의 남쪽이야！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6A, String: 0E52-0EC8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭔가 이상해…<NEXT>
+
+<CLEAR 0400>
+　아무도 없을 구시가지에서<LINE>
+　누군가가<LINE>
+　전기를 쓰고 있는 것 같아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6B, String: 0EC8-0F4C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나，<LINE>
+　구시가지에서 유령을 봤어<NEXT>
+
+<CLEAR 0400>
+　작은 아이 모습의<LINE>
+　유령이었어…<LINE>
+　소름 끼쳐…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6C, String: 0F4C-0FAA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「최근엔 쓸 일이 없었을텐데<LINE>
+　전기가 너무 빨리 없어져<LINE>
+　이상한데？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6D, String: 0FAA-1042]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나 뭔가，<LINE>
+　유령 목소리 같은거 들었어<NEXT>
+
+<CLEAR 0400>
+　구시가지를 걷고 있는데，<LINE>
+　아무도 없을 공장에서<LINE>
+　아이 목소리가 들려왔어…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6E, String: 1042-10CE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그런가，공적이<LINE>
+　구시가지에서 메카를<LINE>
+　만들고 있었던건가…<NEXT>
+
+<CLEAR 0400>
+　어쩐지，전기 사용량이<LINE>
+　급격히 늘었다 싶었더니…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6F, String: 10CE-1126]
+<WIN 4000A2001003>
+<DECOR 0008>
+「방금 구시가지 쪽에서<LINE>
+　엄청난 소리가 났었는데，<LINE>
+　무슨 일 일어난건가？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 70, String: 1126-11B4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아무도 없는 공장에서<LINE>
+　메카를 만들고 있었구나…<NEXT>
+
+<CLEAR 0400>
+　완전히 유령인 줄<LINE>
+　알았어…<NEXT>
+
+<CLEAR 0400>
+　공적들이었구나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 71, String: 11B4-1240]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그런가，공적이<LINE>
+　구시가지에서 메카를<LINE>
+　만들고 있었던건가…<NEXT>
+
+<CLEAR 0400>
+　어쩐지，전기 사용량이<LINE>
+　급격히 늘었다 싶었더니…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 72, String: 1240-12DA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「계속 여기 있었어서<LINE>
+　모르겠지만…<NEXT>
+
+<CLEAR 0400>
+　메인게이트가 열리고<LINE>
+　도시에 유적이 나타났다는<LINE>
+　이야기가 진짜야？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 73, String: 12DA-1324]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그래서… 공적은 이제<LINE>
+　포기한거라고 봐도 될까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 74, String: 1324-1326]
+
+
+[Block 75, String: 1326-1328]
+
+
+[Block 76, String: 1328-132A]
+
+
+[Block 77, String: 132A-132C]
+
+
+[Block 78, String: 132C-132E]
+
+
+[Block 79, String: 132E-1330]
+
+
+[Block 7A, String: 1330-1332]
+
+
+[Block 7B, String: 1332-1334]
+
+
+[Block 7C, String: 1334-1336]
+
+
+[Block 7D, String: 1336-1338]
+
+
+[Block 7E, String: 1338-133A]
+
+
+[Block 7F, String: 133A-133C]
+
+
+[Block 80, String: 133C-1382]
+<WIN 4000A2001003>
+<DECOR 0008>
+「비상사태 발생！！<LINE>
+　게이트를 봉쇄합니다！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 81, String: 1382-1384]
+
+
+[Block 82, String: 1384-13CA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「비상사태 발생！！<LINE>
+　게이트를 봉쇄합니다！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 83, String: 13CA-1410]
+<WIN 4000A2001003>
+<DECOR 0008>
+「비상사태 발생！！<LINE>
+　게이트를 봉쇄합니다！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 84, String: 1410-1412]
+
+
+[Block 85, String: 1412-1414]
+
+
+[Block 86, String: 1414-1416]
+
+
+[Block 87, String: 1416-1418]
+
+
+[Block 88, String: 1418-141A]
+
+
+[Block 89, String: 141A-141C]
+
+
+[Block 8A, String: 141C-141E]
+
+
+[Block 8B, String: 141E-1420]
+
+
+[Block 8C, String: 1420-1422]
+
+
+[Block 8D, String: 1422-1424]
+
+
+[Block 8E, String: 1424-1426]
+
+
+[Block 8F, String: 1426-1428]
+
+
+[Block 90, String: 1428-142A]
+
+
+[Block 91, String: 142A-142C]
+
+
+[Block 92, String: 142C-1468]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금은<LINE>
+　적을 쓰러트리는 게 먼저다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 93, String: 1468-146A]
+
+
+[Block 94, String: 146A-146C]
+
+
+[Block 95, String: 146C-146E]
+
+
+[Block 96, String: 146E-1470]
+
+

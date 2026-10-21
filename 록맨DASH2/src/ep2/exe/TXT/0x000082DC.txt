@@ -1,0 +1,1156 @@
+[BLOCK: 0000]
+<FUNC 0100>다양한 것들을 들어올릴 수 있다.
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>킥 공격을 한다.
+<END>
+
+[BLOCK: 0002]
+<FUNC 0100>록의 주무기.
+<END>
+
+[BLOCK: 0003]
+<FUNC 0100>파괴력이 높아 악마의 무기라고도 불린다.<LINE>
+
+<END>
+
+[BLOCK: 0004]
+<FUNC 0300>사거리가 길고 파괴력이 높다.<LINE>
+공격 중에는 록이 움직일 수 없다.
+<END>
+
+[BLOCK: 0005]
+<FUNC 0300>넓은 범위에 피해를 준다.<LINE>
+공격 중에는 록이 움직일 수 없다.
+<END>
+
+[BLOCK: 0006]
+<FUNC 0100>유도탄을 쏠 수 있다.
+<END>
+
+[BLOCK: 0007]
+<FUNC 0300>땅을 구르다 적과 만나면 터진다.<LINE>
+땅으로 다니는 적에게 효과적.
+<END>
+
+[BLOCK: 0008]
+<FUNC 0000>디플렉터나 에너지 큐브를<LINE>
+빨아들인다.
+<END>
+
+[BLOCK: 0009]
+<FUNC 0100>벽에 부딪히면 튕긴다.
+<END>
+
+[BLOCK: 000A]
+<FUNC 0100>실드를 꺼내 막는다.
+<END>
+
+[BLOCK: 000B]
+<FUNC 0300>에너지 블레이드로 적을 가른다.<LINE>
+연속 베기도 된다.
+<END>
+
+[BLOCK: 000C]
+<FUNC 0300>레이저 탄을 쏜다.<LINE>
+파워업하면 최강의 무기가 된다.
+<END>
+
+[BLOCK: 000D]
+<FUNC 0100>연사능력이 높다.
+<END>
+
+[BLOCK: 000E]
+<FUNC 0100>여러 버스터를 동시에 쏠 수 있다.
+<END>
+
+[BLOCK: 000F]
+<FUNC 0300>불을 끌 수 있다<LINE>
+공격용으로는 쓸 수 없다
+<END>
+
+[BLOCK: 0010]
+<FUNC 0100>목표를 향해 일정 시간 공격한다.
+<END>
+
+[BLOCK: 0011]
+<FUNC 0100>일부 벽을 부술 수 있다.<LINE>
+
+<END>
+
+[BLOCK: 0012]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0013]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0014]
+<FUNC 0000>버스터 파츠를 푼다.
+<END>
+
+[BLOCK: 0015]
+<FUNC 0300>버스터의 공격력을 올린다.<LINE>
+공격＋２
+<END>
+
+[BLOCK: 0016]
+<FUNC 0300>버스터의 공격력을 올린다.<LINE>
+공격＋４
+<END>
+
+[BLOCK: 0017]
+<FUNC 0300>버스터의 공격력을 올린다.<LINE>
+공격 ＭＡＸ
+<END>
+
+[BLOCK: 0018]
+<FUNC 0300>버스터의 탄약량을 올린다.<LINE>
+탄약＋２
+<END>
+
+[BLOCK: 0019]
+<FUNC 0300>버스터의 탄약량을 올린다.<LINE>
+탄약＋４
+<END>
+
+[BLOCK: 001A]
+<FUNC 0300>버스터의 탄약량을 올린다.<LINE>
+탄약 ＭＡＸ
+<END>
+
+[BLOCK: 001B]
+<FUNC 0300>버스터의 사거리를 올린다.<LINE>
+사거리＋２
+<END>
+
+[BLOCK: 001C]
+<FUNC 0300>버스터의 사거리를 올린다.<LINE>
+사거리＋４
+<END>
+
+[BLOCK: 001D]
+<FUNC 0300>버스터의 사거리를 올린다.<LINE>
+사거리 ＭＡＸ
+<END>
+
+[BLOCK: 001E]
+<FUNC 0300>버스터의 연사력을 올린다.<LINE>
+연사＋２
+<END>
+
+[BLOCK: 001F]
+<FUNC 0300>버스터의 연사력을 올린다.<LINE>
+연사＋４
+<END>
+
+[BLOCK: 0020]
+<FUNC 0300>버스터의 연사력을 올린다.<LINE>
+연사 ＭＡＸ
+<END>
+
+[BLOCK: 0021]
+<FUNC 0300>버스터의 공격력과 탄약량을 올린다.<LINE>
+공격＋１　탄약＋２
+<END>
+
+[BLOCK: 0022]
+<FUNC 0300>버스터의 공격력과 사거리를 올린다.<LINE>
+공격＋１　사거리＋２
+<END>
+
+[BLOCK: 0023]
+<FUNC 0300>버스터의 공격력과 연사력을 올린다.<LINE>
+공격＋２　연사＋１
+<END>
+
+[BLOCK: 0024]
+<FUNC 0300>버스터의 탄약량과 사거리를 늘린다.<LINE>
+탄약＋１　사거리＋２
+<END>
+
+[BLOCK: 0025]
+<FUNC 0300>버스터의 탄약량과 연사력을 올린다.<LINE>
+탄약＋２　연사＋１
+<END>
+
+[BLOCK: 0026]
+<FUNC 0300>버스터의 공격력과 탄약량을 올린다.<LINE>
+공격＋２　탄약＋３
+<END>
+
+[BLOCK: 0027]
+<FUNC 0300>버스터의 공격력과 사거리를 올린다.<LINE>
+공격＋２　사거리＋３
+<END>
+
+[BLOCK: 0028]
+<FUNC 0300>버스터의 공격력과 연사력을 올린다.<LINE>
+공격＋３　연사＋２
+<END>
+
+[BLOCK: 0029]
+<FUNC 0300>버스터의 탄약량과 사거리를 늘린다.<LINE>
+탄약＋２　사거리＋３
+<END>
+
+[BLOCK: 002A]
+<FUNC 0300>버스터의 탄약량과 연사력을 올린다.<LINE>
+탄약＋３　연사＋２
+<END>
+
+[BLOCK: 002B]
+<FUNC 0300>버스터의 공격력과 탄약량과 사거리를 늘린다.<LINE>
+공격＋１　탄약＋１　사거리＋１
+<END>
+
+[BLOCK: 002C]
+<FUNC 0300>버스터의 공격력과 탄약량과 연사력을 올린다.<LINE>
+공격＋１　탄약＋１　연사＋１
+<END>
+
+[BLOCK: 002D]
+<FUNC 0300>버스터의 탄약량과 사거리와 연사력을 올린다.<LINE>
+탄약＋１　사거리＋１　연사＋１
+<END>
+
+[BLOCK: 002E]
+<FUNC 0300>버스터의 공격력과 탄약령과 사거리를 늘린다.<LINE>
+공격＋１　탄약＋３　사거리＋３
+<END>
+
+[BLOCK: 002F]
+<FUNC 0300>버스터의 공격력과 탄약량과 연사력을 올린다.<LINE>
+공격＋３　탄약＋３　연사＋１
+<END>
+
+[BLOCK: 0030]
+<FUNC 0300>버스터의 탄약량과 사거리와 연사력을 올린다.<LINE>
+탄약＋３　사거리＋１　연사＋３
+<END>
+
+[BLOCK: 0031]
+<FUNC 0300>버스터의 모든 능력을 올린다.<LINE>
+공격＋１　탄약＋１　사거리＋１　연사＋１
+<END>
+
+[BLOCK: 0032]
+<FUNC 0300>버스터의 모든 능력을 올린다.<LINE>
+공격＋２　탄약＋２　사거리＋２　연사＋１
+<END>
+
+[BLOCK: 0033]
+<FUNC 0000>모든 능력이 ＭＡＸ가 되는 버스터.
+<END>
+
+[BLOCK: 0034]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0035]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0036]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0037]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0038]
+<FUNC 0000>헬멧을 벗는다.
+<END>
+
+[BLOCK: 0039]
+<FUNC 0100>머리를 보호하고, 잘 다운되지 않게 해준다.
+<END>
+
+[BLOCK: 003A]
+<FUNC 0100>연속 대미지를 구르기로 피한다.
+<END>
+
+[BLOCK: 003B]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 003C]
+<FUNC 0000>보디 파츠를 벗는다.
+<END>
+
+[BLOCK: 003D]
+<FUNC 0100>장갑이 올라가고, 잘 다운되지 않게 해준다.
+<END>
+
+[BLOCK: 003E]
+<FUNC 0100>적에게 받는 대미지가 ３／４이 된다.
+<END>
+
+[BLOCK: 003F]
+<FUNC 0300>적에게 받는 대미지가 ３／４이 된다.<LINE>
+장갑이 올라가고, 잘 다운되지 않게 해준다.
+<END>
+
+[BLOCK: 0040]
+<FUNC 0100>적에게 받는 대미지가 １／２이 된다.
+<END>
+
+[BLOCK: 0041]
+<FUNC 0300>적에게 받는 대미지가 １／２이 된다.<LINE>
+장갑이 올라가고, 잘 다운되지 않게 해준다.
+<END>
+
+[BLOCK: 0042]
+<FUNC 0100>적에게 받는 대미지가 １／４이 된다.
+<END>
+
+[BLOCK: 0043]
+<FUNC 0300>적에게 받는 대미지가 １／４이 된다.<LINE>
+장갑이 올라가고, 잘 다운되지 않게 해준다.
+<END>
+
+[BLOCK: 0044]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0045]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0046]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0047]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0048]
+<FUNC 0000>슈즈를 벗는다.
+<END>
+
+[BLOCK: 0049]
+<FUNC 0100>
+<BUTTON 03>
+을 누르고 있으면<LINE>
+롤러 대시가 가능하다.
+<END>
+
+[BLOCK: 004A]
+<FUNC 0100>물 속에서 롤러 대시를 할 수 있게 된다.
+<END>
+
+[BLOCK: 004B]
+<FUNC 0100>지면에서 올라오는 불꽃이나 냉기 대미지를<LINE>
+줄여준다.
+<END>
+
+[BLOCK: 004C]
+<FUNC 0100>얼음 위에서 이동해도 미끄러지지 않는다.
+<END>
+
+[BLOCK: 004D]
+<FUNC 0100>감전되는 바닥 위에서 이동해도 감전되지<LINE>
+않는다.
+<END>
+
+[BLOCK: 004E]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 004F]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0050]
+<FUNC 0300>만다섬에서 획득한<LINE>
+봉인을 푸는 열쇠.
+<END>
+
+[BLOCK: 0051]
+<FUNC 0300>니노섬에서 획득한<LINE>
+봉인을 푸는 열쇠.
+<END>
+
+[BLOCK: 0052]
+<FUNC 0300>사울카다섬에서 획득한<LINE>
+봉인을 푸는 열쇠.
+<END>
+
+[BLOCK: 0053]
+<FUNC 0300>칼린카 대륙에서 획득한<LINE>
+봉인을 푸는 열쇠.
+<END>
+
+[BLOCK: 0054]
+<FUNC 0100>ＳＳ급 디그 아우터가 가지고 있는 면허.
+<END>
+
+[BLOCK: 0055]
+<FUNC 0300>Ｓ급 던전을 디그 아웃하기 위해<LINE>
+필요한 면허.
+<END>
+
+[BLOCK: 0056]
+<FUNC 0300>Ａ급 던전을 디그 아웃하기 위해<LINE>
+필요한 면허.
+<END>
+
+[BLOCK: 0057]
+<FUNC 0300>Ｂ급 던전을 디그 아웃하기 위해<LINE>
+필요한 면허.
+<END>
+
+[BLOCK: 0058]
+<FUNC 0100>Ｃ급 디그 아우터가 가지고 있는 면허.
+<END>
+
+[BLOCK: 0059]
+<FUNC 0100>버스터 파츠를 ３개까지 장착 할 수 있다.
+<END>
+
+[BLOCK: 005A]
+<FUNC 0100>이게 있으면 물속에서도 숨을 쉴 수 있다.
+<END>
+
+[BLOCK: 005B]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 005C]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 005D]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 005E]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 005F]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0060]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0061]
+<FUNC 0300>거대한 디플렉터<LINE>
+뭔가를 움직일 때 쓰는 것 같다.
+<END>
+
+[BLOCK: 0062]
+<FUNC 0000>키 아이템에 대한 설명이 표시됩니다.
+<END>
+
+[BLOCK: 0063]
+<FUNC 0000>키 아이템에 대한 설명이 표시됩니다.
+<END>
+
+[BLOCK: 0064]
+<FUNC 0300>파란색 카드 키<LINE>
+어딘가에 꽂는 것 같다.
+<END>
+
+[BLOCK: 0065]
+<FUNC 0300>글라이드의 요새 안에 있던<LINE>
+잠긴 문을 열 수 있다.
+<END>
+
+[BLOCK: 0066]
+<FUNC 0300>글라이드의 요새 안에 있던<LINE>
+잠긴 문을 열 수 있다.
+<END>
+
+[BLOCK: 0067]
+<FUNC 0300>글라이드의 요새 안에 있던<LINE>
+잠긴 문을 열 수 있다.
+<END>
+
+[BLOCK: 0068]
+<FUNC 0300>글라이드의 요새 안에 있던<LINE>
+잠긴 문을 열 수 있다.
+<END>
+
+[BLOCK: 0069]
+<FUNC 0100>문 열쇠.
+<END>
+
+[BLOCK: 006A]
+<FUNC 0100>문 열쇠.
+<END>
+
+[BLOCK: 006B]
+<FUNC 0100>본 마크 디자인 파란색 열쇠.
+<END>
+
+[BLOCK: 006C]
+<FUNC 0100>본 마크 디자인 빨간색 열쇠.
+<END>
+
+[BLOCK: 006D]
+<FUNC 0300>거대 리버드가 가지고 있던 문 열쇠.<LINE>
+Ｂ１Ｆ에 있던 잠긴 문을 열 수 있다.
+<END>
+
+[BLOCK: 006E]
+<FUNC 0100>기동열차의 열쇠.
+<END>
+
+[BLOCK: 006F]
+<FUNC 0100>배리어를 해제하기 위한 파란색 열쇠.
+<END>
+
+[BLOCK: 0070]
+<FUNC 0100>배리어를 해제하기 위한 빨간색 열쇠.
+<END>
+
+[BLOCK: 0071]
+<FUNC 0100>마지막 방에 들어가기 위한 열쇠.
+<END>
+
+[BLOCK: 0072]
+<FUNC 0100>마지막 방에 들어가기 위한 열쇠.
+<END>
+
+[BLOCK: 0073]
+<FUNC 0100>마지막 방에 들어가기 위한 열쇠.
+<END>
+
+[BLOCK: 0074]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0075]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0076]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0077]
+<FUNC 0100>꼬붕이 보낸 첫 번째 편지.
+<END>
+
+[BLOCK: 0078]
+<FUNC 0100>꼬붕이 보낸 두 번째 편지.
+<END>
+
+[BLOCK: 0079]
+<FUNC 0100>앗포와 다가 보낸 첫 번째 편지.
+<END>
+
+[BLOCK: 007A]
+<FUNC 0100>앗포와 다가 보낸 두 번째 편지.
+<END>
+
+[BLOCK: 007B]
+<FUNC 0100>앗포와 다가 보낸 세 번째 편지.
+<END>
+
+[BLOCK: 007C]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 007D]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 007E]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 007F]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0080]
+<FUNC 0300>라이프를 회복<LINE>
+가게에서 보급할 수 있다.
+<END>
+
+[BLOCK: 0081]
+<FUNC 0300>특수 대미지를 회복한다<LINE>
+가게에서 보급할 수 있다.
+<END>
+
+[BLOCK: 0082]
+<FUNC 0100>특수무기 에너지를 회복할 수 있다.
+<END>
+
+[BLOCK: 0083]
+<FUNC 0100>적에게서 불 대미지를 받지 않게 된다.
+<END>
+
+[BLOCK: 0084]
+<FUNC 0100>적에게서 감전 대미지를 받지 않게 된다.
+<END>
+
+[BLOCK: 0085]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0086]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0087]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0088]
+<FUNC 0100>엄청나게 좋은 아이템을 만들 수 있을지도…….
+<END>
+
+[BLOCK: 0089]
+<FUNC 0100>롤러 보드 최신 모델.
+<END>
+
+[BLOCK: 008A]
+<FUNC 0300>던전에서 손에 넣은 호버 제트.<LINE>
+너무 낡아서 그냥은 쓸 수 없다.
+<END>
+
+[BLOCK: 008B]
+<FUNC 0100>물 속에서 이동하는 정보가 담긴 칩.
+<END>
+
+[BLOCK: 008C]
+<FUNC 0100>불꽃이나 냉기를 회피하는 정보가 담긴 칩.
+<END>
+
+[BLOCK: 008D]
+<FUNC 0100>미끄러지지 않게 하는 정보가 담긴 칩.
+<END>
+
+[BLOCK: 008E]
+<FUNC 0100>감전당하지 않게 하는 정보가 담긴 칩.
+<END>
+
+[BLOCK: 008F]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0090]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0091]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0092]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0093]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0094]
+<FUNC 0100>서랍장 안에 넣어둔 망가진 청소기.<LINE>
+먼지가 잔뜩 쌓여 있다.
+<END>
+
+[BLOCK: 0095]
+<FUNC 0300>플러터호 안에서 발견한<LINE>
+강력한 모터.
+<END>
+
+[BLOCK: 0096]
+<FUNC 0300>튼튼하게 만들어진 총신.<LINE>
+상당히 묵직하다.
+<END>
+
+[BLOCK: 0097]
+<FUNC 0300>최초의 유적에서 손에 넣은 모델건.<LINE>
+하지만 망가졌다…….
+<END>
+
+[BLOCK: 0098]
+<FUNC 0300>항아리 안에 들어있던 전기 드릴.<LINE>
+하지만 망가졌다…….
+<END>
+
+[BLOCK: 0099]
+<FUNC 0300>설퍼보톰호 안에서 손에 넣은 강력한 기어.<LINE>
+이걸로 뭔가를 움직일 수 있을 것 같다.
+<END>
+
+[BLOCK: 009A]
+<FUNC 0300>누군가가 쓰레기통에 버린 볼링공.<LINE>
+상당히 무거워 보인다…….
+<END>
+
+[BLOCK: 009B]
+<FUNC 0300>유적 안에서 손에 넣은 지뢰.<LINE>
+녹슬어서 터지진 않을 것 같다.
+<END>
+
+[BLOCK: 009C]
+<FUNC 0300>꽤 멀리 날아갈 것 같은 로켓 불꽃.<LINE>
+조심해서 다루어야 한다…….
+<END>
+
+[BLOCK: 009D]
+<FUNC 0100>뭐라고 쓰여 있는 걸까？<LINE>
+롤 쨩이라면 알아볼까？
+<END>
+
+[BLOCK: 009E]
+<FUNC 0300>추적 공격에 대한 전문 지식이<LINE>
+쓰여 있는 것 같다.
+<END>
+
+[BLOCK: 009F]
+<FUNC 0300>아이들에게 인기 있는 장난감 공.<LINE>
+탄성이 상당히 좋다.
+<END>
+
+[BLOCK: 00A0]
+<FUNC 0300>유적 안에서 손에 넣은 소형 폭탄 설계도다.<LINE>
+폭탄 만드는 방법이 자세하게 쓰여 있다.
+<END>
+
+[BLOCK: 00A1]
+<FUNC 0100>유적에서 손에 넣은 원통형의 파이프.<LINE>
+상당히 튼튼하다.
+<END>
+
+[BLOCK: 00A2]
+<FUNC 0100>뭐라고 쓰여 있는 걸까？<LINE>
+롤 쨩이라면 알아볼까？
+<END>
+
+[BLOCK: 00A3]
+<FUNC 0300>탄을 멀리 쏠 수 있는 전문 지식이<LINE>
+쓰여 있는 것 같다.
+<END>
+
+[BLOCK: 00A4]
+<FUNC 0100>유적 안에서 손에 넣은 렌즈.
+<END>
+
+[BLOCK: 00A5]
+<FUNC 0300>유적 안에서 손에 넣은 레이저 건의 설명서.<LINE>
+레이저 건에 대해 자세히 쓰여 있다.
+<END>
+
+[BLOCK: 00A6]
+<FUNC 0100>유적 안에서 손에 넣은 파종기.<LINE>
+이런 물건이 왜 있었을까…….
+<END>
+
+[BLOCK: 00A7]
+<FUNC 0100>뭐라고 쓰여 있는 걸까？<LINE>
+롤 쨩이라면 알아볼까？
+<END>
+
+[BLOCK: 00A8]
+<FUNC 0300>동시 공격에 대한 전문 지식이<LINE>
+쓰여 있는 것 같다.
+<END>
+
+[BLOCK: 00A9]
+<FUNC 0100>상인에게 산 전기충격기.<LINE>
+상당한 대미지를 줄 것 같다.
+<END>
+
+[BLOCK: 00AA]
+<FUNC 0300>유적 안에서 손에 넣은 말랑말랑공<LINE>
+말랑말랑해서 기분이 좋아진다.
+<END>
+
+[BLOCK: 00AB]
+<FUNC 0100>퀴즈 특훈으로 손에 넣은 전설의 칼.<LINE>
+눈부실 정도로 번쩍번쩍 빛난다.
+<END>
+
+[BLOCK: 00AC]
+<FUNC 0100>뭐라고 쓰여 있는 걸까？<LINE>
+롤 쨩이라면 알아볼까？
+<END>
+
+[BLOCK: 00AD]
+<FUNC 0300>최신형 칼에 대한 전문 지식이<LINE>
+쓰여 있는 것 같다.
+<END>
+
+[BLOCK: 00AE]
+<FUNC 0100>유적 안에서 손에 넣은 단단한 방패.<LINE>
+이것만 있으면 안전하다.
+<END>
+
+[BLOCK: 00AF]
+<FUNC 0100>뭐라고 쓰여 있는 걸까？<LINE>
+롤 쨩이라면 알아볼까？
+<END>
+
+[BLOCK: 00B0]
+<FUNC 0200>배리어에 대한 전문 지식이<LINE>
+쓰여 있는 것 같다.
+<END>
+
+[BLOCK: 00B1]
+<FUNC 0300>유적 안에서 손에 넣은 바주카.<LINE>
+녹슬어서 그냥은 못 쓴다.
+<END>
+
+[BLOCK: 00B2]
+<FUNC 0100>마을 사람에게 받은 콩알탄.
+<END>
+
+[BLOCK: 00B3]
+<FUNC 0100>유적 안에서 손에 넣은 최신형 센서.
+<END>
+
+[BLOCK: 00B4]
+<FUNC 0100>뭐라고 쓰여 있는 걸까？<LINE>
+롤 쨩이라면 알아볼까？
+<END>
+
+[BLOCK: 00B5]
+<FUNC 0300>자동 공격에 대한 전문 지식이<LINE>
+쓰여 있는 것 같다.
+<END>
+
+[BLOCK: 00B6]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00B7]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00B8]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00B9]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00BA]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00BB]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00BC]
+<FUNC 0300>고물상 아저씨에게 받은 과격한 책.<LINE>
+원하는 사람에게 비싸게 팔 수 있을 듯.
+<END>
+
+[BLOCK: 00BD]
+<FUNC 0300>수상한 상인에게 산 완전 과격한 책.<LINE>
+원하는 사람에게 비싸게 팔 수 있을 듯.
+<END>
+
+[BLOCK: 00BE]
+<FUNC 0000>귀여운 인형.<LINE>
+롤 쨩이 좋아할 것 같다.
+<END>
+
+[BLOCK: 00BF]
+<FUNC 0000>푹신푹신한 쿠션.
+<END>
+
+[BLOCK: 00C0]
+<FUNC 0100>설퍼보톰호의 모형.<LINE>
+１／２００ 스케일.
+<END>
+
+[BLOCK: 00C1]
+<FUNC 0300>롤 쨩이 직접 만든 도시락.<LINE>
+먹으면 라이프 완전 회복.
+<END>
+
+[BLOCK: 00C2]
+<FUNC 0300>딱 봐도 맛있게 생긴 치킨.<LINE>
+먹으면 라이프 완전 회복.
+<END>
+
+[BLOCK: 00C3]
+<FUNC 0100>칼바니아섬에서 여자아이에게 받은 귀여운 돼지.
+<END>
+
+[BLOCK: 00C4]
+<FUNC 0100>퀴즈 특훈으로 받은 노트.
+<END>
+
+[BLOCK: 00C5]
+<FUNC 0100>퀴즈 특훈으로 받은 연필.
+<END>
+
+[BLOCK: 00C6]
+<FUNC 0100>퀴즈 특훈으로 받은 교과서.
+<END>
+
+[BLOCK: 00C7]
+<FUNC 0300>퀴즈 특훈으로 받은 차.<LINE>
+포쿠테 마을의 특산품.
+<END>
+
+[BLOCK: 00C8]
+<FUNC 0300>퀴즈 특훈으로 받은 찻잔.<LINE>
+포쿠테 마을의 특산품.
+<END>
+
+[BLOCK: 00C9]
+<FUNC 0300>퀴즈 특훈으로 받은 만쥬.<LINE>
+포쿠테 마을의 기념품.
+<END>
+
+[BLOCK: 00CA]
+<FUNC 0100>퀴즈 특훈으로 받은 말린 고구마.
+<END>
+
+[BLOCK: 00CB]
+<FUNC 0100>퀴즈 특훈으로 받은 초콜릿.
+<END>
+
+[BLOCK: 00CC]
+<FUNC 0100>퀴즈 특훈으로 받은 이상한 맛이 나는 쥬스.
+<END>
+
+[BLOCK: 00CD]
+<FUNC 0300>이 디플렉터를 가게에 가지고 가면<LINE>
+상당히 많은 제니에 매입해 줄 듯.
+<END>
+
+[BLOCK: 00CE]
+<FUNC 0300>이 디플렉터를 가게에 가지고 가면<LINE>
+상당히 많은 제니에 매입해 줄 듯.
+<END>
+
+[BLOCK: 00CF]
+<FUNC 0300>이 디플렉터를 가게에 가지고 가면<LINE>
+상당히 많은 제니에 매입해 줄 듯.
+<END>
+
+[BLOCK: 00D0]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00D1]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00D2]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00D3]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00D4]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00D5]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00D6]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00D7]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00D8]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00D9]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00DA]
+<FUNC 0100>잡화점에서 파는<LINE>
+화장실 세정제.
+<END>
+
+[BLOCK: 00DB]
+<FUNC 0000>인테리어에 딱 어울리는 관엽식물.
+<END>
+
+[BLOCK: 00DC]
+<FUNC 0100>젊은이들에게 인기 있는 만화책.
+<END>
+
+[BLOCK: 00DD]
+<FUNC 0000>비싼 항아리.
+<END>
+
+[BLOCK: 00DE]
+<FUNC 0100>화려한 벽지.
+<END>
+
+[BLOCK: 00DF]
+<FUNC 0000>비싼 수묵화.
+<END>
+
+[BLOCK: 00E0]
+<FUNC 0100>아이들에게 인기 있는 게임기.
+<END>
+
+[BLOCK: 00E1]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00E2]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00E3]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00E4]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00E5]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00E6]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00E7]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00E8]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00E9]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00EA]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00EB]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00EC]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00ED]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00EE]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00EF]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00F0]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00F1]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00F2]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00F3]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00F4]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00F5]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00F6]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00F7]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00F8]
+<FUNC 0100>록의 라이프 최대치를 늘릴 수 있다.
+<END>
+
+[BLOCK: 00F9]
+<FUNC 0100>에너지 보틀의 용량을 늘릴 수 있다.
+<END>
+
+[BLOCK: 00FA]
+<FUNC 0100>메디슨 보틀의 용량을 늘릴 수 있다.
+<END>
+
+[BLOCK: 00FB]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00FC]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00FD]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00FE]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 00FF]
+<FUNC 0000>　
+<END>
+
+[BLOCK: 0100]
+<FUNC 0100>특수무기를 장비하고 있지 않습니다
+<END>
+
+[BLOCK: 0101]
+<FUNC 0100>버스터 파츠를 장비할 수 있습니다
+<END>
+
+[BLOCK: 0102]
+<FUNC 0100>헬멧을 장비할 수 있습니다
+<END>
+
+[BLOCK: 0103]
+<FUNC 0100>아머를 장비할 수 있습니다
+<END>
+
+[BLOCK: 0104]
+<FUNC 0100>슈즈를 장비할 수 있습니다
+<END>
+
+[BLOCK: 0105]
+<FUNC 0000>취소합니다
+<END>
+

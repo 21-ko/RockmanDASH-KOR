@@ -1,0 +1,147 @@
+[BLOCK: 0000]
+미설정
+<FB1F>
+<END>
+
+[BLOCK: 0001]
+에덴
+<FB1F>
+<END>
+
+[BLOCK: 0002]
+디그아우터　섬
+<FB1F>
+<END>
+
+[BLOCK: 0003]
+처음　섬
+<FB1F>
+<END>
+
+[BLOCK: 0004]
+던전
+<FB1F>
+<END>
+
+[BLOCK: 0005]
+비공정　정박장
+<FB1F>
+<END>
+
+[BLOCK: 0006]
+센터　에어리어
+<FB1F>
+<END>
+
+[BLOCK: 0007]
+쇼핑　에어리어
+<FB1F>
+<END>
+
+[BLOCK: 0008]
+거주　에어리어
+<FB1F>
+<END>
+
+[BLOCK: 0009]
+비공정　포트
+<FB1F>
+<END>
+
+[BLOCK: 000A]
+길드　던전
+<FB1F>
+<END>
+
+[BLOCK: 000B]
+평원
+<FB1F>
+<END>
+
+[BLOCK: 000C]
+폐허　마을
+<FB1F>
+<END>
+
+[BLOCK: 000D]
+프리　던전
+<FB1F>
+<END>
+
+[BLOCK: 000E]
+전투　필드
+<FB1F>
+<END>
+
+[BLOCK: 000F]
+산길
+<FB1F>
+<END>
+
+[BLOCK: 0010]
+공터
+<FB1F>
+<END>
+
+[BLOCK: 0011]
+<FB1F>
+<END>
+
+[BLOCK: 0012]
+<FB1F>
+<END>
+
+[BLOCK: 0013]
+<FB1F>
+<END>
+
+[BLOCK: 0014]
+키토　마을
+<FB1F>
+<END>
+
+[BLOCK: 0015]
+키토　초원
+<FB1F>
+<END>
+
+[BLOCK: 0016]
+포쿠테　초원
+<FB1F>
+<END>
+
+[BLOCK: 0017]
+포쿠테　마을
+<FB1F>
+<END>
+
+[BLOCK: 0018]
+포쿠테　고지대
+<FB1F>
+<END>
+
+[BLOCK: 0019]
+포쿠테　산길
+<FB1F>
+<END>
+
+[BLOCK: 001A]
+포쿠테　광장
+<FB1F>
+<END>
+
+[BLOCK: 001B]
+리도　유적
+<FB1F>
+<END>
+
+[BLOCK: 001C]
+루로　마을
+<FB1F>
+<END>
+
+[BLOCK: 001D]
+루로　유적
+<FB1F>
+<END>
+

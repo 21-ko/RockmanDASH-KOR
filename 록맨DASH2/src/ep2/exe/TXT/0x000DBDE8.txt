@@ -1,0 +1,22 @@
+[BLOCK: 0000]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 002200D61611>
+<COLOR 00>
+<FB05 6300>
+록, 드롭십의 수용준비가 끝났어.
+<FB2B>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 005200D60E11>
+<COLOR 00>
+<FB05 6300>
+벌룬 전개, 이륙 개시！
+<FB2B>
+<END>
+

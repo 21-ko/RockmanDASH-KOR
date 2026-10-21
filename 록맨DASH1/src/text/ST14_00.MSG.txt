@@ -1,0 +1,373 @@
+[Block 00, String: 0000-0024]
+<WIN 70003C000801>
+<DECOR 0008>
+<SPACE 0C00>열리지 않아！！<END><CLOSE 1E00>
+
+
+[Block 01, String: 0024-003A]
+반응이 없다…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 003A-00A4]
+<GET 0406><MSG_IF 270015FF>
+<WIN 4000B6001002>
+<DECOR 0008>
+<MSG_IF 080604FF>
+<MSG_IF 070603FF>
+<MSG_IF 0606FF01>
+스타터를 １개 끼웠다<NEXT>
+
+<CLEAR 0400>
+앞으로 ２개 더 필요한 것 같다…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00A4-00E6]
+스타터를 ２개 끼웠다<NEXT>
+
+<CLEAR 0400>
+앞으로 １개 더 필요한 것 같다…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 00E6-0166]
+스타터를 ３개 끼웠다<LINE>
+<0378 0A00><SPACE 1600>・<SPACE 2C00>・<SPACE 2C00>・<NEXT>
+
+<CLEAR 0400>
+<0378 0100>어떻게 할까…<LINE>
+<0378 0000><SEL 0100FD00>실드 해제<SPACE 0C00><SEL 0111FD00>그만둔다<0385 8014FF00>
+<END><CLOSE 0000>
+
+
+[Block 05, String: 0166-0168]
+
+
+[Block 06, String: 0168-016A]
+
+
+[Block 07, String: 016A-0268]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 8A003100>
+<WIN 4C0028000E03>
+<DECOR 0008>
+자，시작할까，록<CLEAR 2200>
+<AUDIO 8B003100>
+놀랐어？<LINE>
+이 배에도 서포트 장치가<LINE>
+달려 있었어<CLEAR 7C00>
+<AUDIO 8C003100>
+이걸로 이번에도<LINE>
+록을 도울 수 있을 것 같아…<LINE>
+<CLEAR 3700>
+<AUDIO 8D003100>
+저기，록！<LINE>
+그 할아버지도 옛날에<LINE>
+디그아우터였던 걸까？<LINE>
+<END><CLOSE 6D00>
+
+
+[Block 08, String: 0268-0312]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 4E003100>
+<WIN 520028000D03>
+<DECOR 0008>
+무언가 찾았어？<CLEAR 1400>
+<AUDIO 4F003100>
+이 반응은 스타터지？<CLEAR 3700>
+<AUDIO 50003100>
+그럼… 아마 여기에도<LINE>
+대형 리플렉터가<LINE>
+있을거라 생각해<CLEAR 8200>
+<AUDIO 51003100>
+힘내<END><CLOSE 1E00>
+
+
+[Block 09, String: 0312-03C2]
+<MSG_IF 270015FF>
+<MSG_IF 060602FF>
+<MSG_IF 040602FF>
+<NO_CHAR_SFX><AUDIO 57003100>
+<GET 0406><WIN 460028000F03>
+<DECOR 0008>
+또 실드네<LINE>
+아마 스타터가 또<LINE>
+필요할 것 같아…<WAIT 5000>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 58003100>
+저기가 제일 깊은 곳 같으니까…<LINE>
+도중에 놓친 부분이 있을지도<WAIT 8C00>
+<END><CLOSE 0000>
+
+
+[Block 0A, String: 03C2-0422]
+<NO_CHAR_SFX><AUDIO 0F003100>
+<WIN 520028000D03>
+<DECOR 0008>
+거기에 무언가 있지않아？<LINE>
+레이더에는 아무것도<LINE>
+잡히지 않고 있어<WAIT 9600>
+<END><CLOSE 0000>
+
+
+[Block 0B, String: 0422-04A2]
+<NO_CHAR_SFX><AUDIO 55003100>
+<WIN 4C0028000E03>
+<DECOR 0008>
+이 반사 패턴은<LINE>
+디플렉터야<WAIT 3200>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 56003100>
+커다란 거야，아마도，이걸로<LINE>
+플러터 호를 고칠 수 있을거야<WAIT 9600>
+<END><CLOSE 0000>
+
+
+[Block 0C, String: 04A2-0520]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 52003100>
+<WIN 400028001003>
+<DECOR 0008>
+록<LINE>
+그 앞은 어떻게 되어 있어？<CLEAR 4600>
+<AUDIO 53003100>
+모니터에는 아무것도 비치지 않아<CLEAR 2800>
+<AUDIO 54003100>
+안 좋은 느낌이 들어…<END><CLOSE 1E00>
+
+
+[Block 0D, String: 0520-059C]
+<NO_CHAR_SFX><AUDIO 59003100>
+<WIN 520028000D03>
+<DECOR 0008>
+이번에도 경보 장치가<LINE>
+작동하지 않았네<WAIT 5A00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 5A003100>
+뭔가 수상해<LINE>
+조심해<WAIT 8200>
+<END><CLOSE 0000>
+
+
+[Block 0E, String: 059C-062A]
+<AUDIO 5B003100>
+<WIN 520028000D03>
+<DECOR 0008>
+갑자기 리버드의 형체가！<CLEAR 2800>
+<AUDIO 5C003100>
+어디에 있었던 거지…<LINE>
+점점 형체가 커지고 있어<CLEAR 3C00>
+<AUDIO 5D003100>
+꽤 전투력이 강해보여，<LINE>
+록！<END><CLOSE 2800>
+
+
+[Block 0F, String: 062A-066A]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 14003100>
+<WIN 520028000D03>
+<DECOR 0008>
+효과가 있는 것 같아！<LINE>
+록，그대로 계속 해<END><CLOSE 4600>
+
+
+[Block 10, String: 066A-06D4]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 5E003100>
+<WIN 520028000D03>
+<DECOR 0008>
+리버드의 형체가<LINE>
+완전히 없어졌어<LINE>
+다행이다…<CLEAR 6400>
+<AUDIO 5F003100>
+한시름 놓았다는 느낌이야<END><CLOSE 2800>
+
+
+[Block 11, String: 06D4-076A]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 60003100>
+<WIN 520028000D03>
+<DECOR 0008>
+록，배고프지 않아？<LINE>
+<CLEAR 2800>
+<AUDIO 61003100>
+냉장고에 살구 파이를<LINE>
+만들어 놓았으니까<CLEAR 2D00>
+<AUDIO 62003100>
+나중에 같이 먹자<END><CLOSE 1E00>
+
+
+[Block 12, String: 076A-07DC]
+<MOVE_FREE><NO_CHAR_SFX><WIN 400028001003>
+<DECOR 0008>
+그 단차는 꽤 높네<CLEAR 2800>
+록이 지금 가진 장비로는<LINE>
+오를 수 없을지도…<CLEAR 2800>
+나중에 다시 오는게 좋을 것 같아<END><CLOSE 1E00>
+
+
+[Block 13, String: 07DC-082E]
+<WIN 4C00B6000E02>
+<DECOR 0008>
+지상으로 나가볼까…<LINE>
+<0378 0000><SPACE 1800><SEL 0100FD00>나간다　<SEL 0111FD00>그만둔다<0385 00FFFF00>
+<END><CLOSE 0000>
+
+
+[Block 14, String: 082E-083A]
+<GET 0506><END><CLOSE 0000>
+
+
+[Block 15, String: 083A-0842]
+<END><CLOSE 0000>
+
+
+[Block 16, String: 0842-0844]
+
+
+[Block 17, String: 0844-0846]
+
+
+[Block 18, String: 0846-0848]
+
+
+[Block 19, String: 0848-084A]
+
+
+[Block 1A, String: 084A-084C]
+
+
+[Block 1B, String: 084C-084E]
+
+
+[Block 1C, String: 084E-0850]
+
+
+[Block 1D, String: 0850-0852]
+
+
+[Block 1E, String: 0852-08E2]
+<MSG_IF 240323FF>
+<GET 2403><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800>벽 안에서<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 7700><COLOR 0000><GET 7705>을 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 08E2-0972]
+<MSG_IF 250323FF>
+<GET 2503><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800>벽 안에서<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 5600><COLOR 0000><GET 5605>를 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0972-0A2A]
+<MSG_IF 260323FF>
+<GET 2603><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F7C><EXE_JUMP 2000><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 0A2A-0AE2]
+<MSG_IF 270323FF>
+<GET 2703><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F01><EXE_JUMP 2002><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 0AE2-0B9A]
+<MSG_IF 280323FF>
+<GET 2803><WIN 4200AC000F02>
+<DECOR 0008>
+벽에 구멍이 나 있다<LINE>
+안을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+디플렉터 조각이<LINE>
+빛나고 있다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8500>
+<EXE_JUMP 1F16><EXE_JUMP 2000><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 0B9A-0BCA]
+<WIN 4200AC000F02>
+<DECOR 0008>
+더 이상 아무것도 없다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 0BCA-0BF6]
+<WIN 4200AC000F02>
+<DECOR 0008>
+아무것도 없다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 25, String: 0BF6-0BF8]
+
+
+[Block 26, String: 0BF8-0BFA]
+
+
+[Block 27, String: 0BFA-0BFC]
+
+
+[Block 28, String: 0BFC-0BFE]
+
+
+[Block 29, String: 0BFE-0C00]
+
+
+[Block 2A, String: 0C00-0C02]
+
+
+[Block 2B, String: 0C02-0C04]
+
+

@@ -1,0 +1,2123 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<FB26 0680>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0000>
+<FB26 0681>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0100>
+<FB2C 00>
+<FB15 0100000000000000D0008C>
+<FB2B>
+<FB33 83>
+<POS 004000A01111>
+<FB05 0108>
+할아버지 쪽에서 부르는 것 같아.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 005800A00D11>
+<FB05 0108>
+서둘러 가보는게 좋겠어.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0100>
+<POS 006A00AA0A11>
+<FB05 0108>
+나중에 다시 읽자.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0000>
+<FB28 06850CFF>
+<FB28 068408FF>
+<POS 006400AA0B01>
+<FB05 0108>
+훌륭한 관엽식물이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0100>
+<FB28 06850DFF>
+<FB28 068409FF>
+<POS 007600AA0811>
+<FB05 0108>
+멋진 그림이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0100>
+<FB28 06850EFF>
+<FB28 06840AFF>
+<POS 007600AA0811>
+<FB05 0108>
+멋진 그림이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0600>
+<FB28 06850FFF>
+<FB28 06840BFF>
+<POS 0046009A1023>
+<FB05 0108>
+『자, 가거라. 디그 아우터여』<LINE>
+　배럴 캐스켓 지음<LINE>
+초보자용 입문서다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0100>
+<POS 005200AA0E11>
+<FB05 0108>
+뿌리 쪽에서 뭔가 움직인다.
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB0C>
+<POS 006400AA0B01>
+<FB05 0108>
+우왓！ 송충이다！！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0100>
+<POS 007600AA0811>
+<FB05 0108>
+멋진 그림이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0100>
+<POS 007600AA0811>
+<FB05 0108>
+멋진 그림이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000B]
+<FUNC 0200>
+<FB28 068603FF>
+<POS 007000A20912>
+<FB05 0108>
+！！<LINE>
+이, 이 책은！？
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 003A00AA1211>
+<FB05 0108>
+아무도 안보고 있으니까, 조금만……
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB0C>
+<POS 007C00AA0701>
+<FB05 0108>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB0C>
+<POS 007600AA0801>
+<FB05 0108>
+굉, 굉장해……
+<ENDKEY>
+<FB31>
+<FB26 0686>
+<END>
+
+[BLOCK: 000C]
+<FUNC 0000>
+<POS 006400AA0B01>
+<FB05 0108>
+훌륭한 관엽식물이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000D]
+<FUNC 0100>
+<POS 007600AA0811>
+<FB05 0108>
+멋진 그림이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000E]
+<FUNC 0100>
+<POS 007600AA0811>
+<FB05 0108>
+멋진 그림이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0700>
+<POS 0058009A0D33>
+<FB05 0108>
+『디그 아웃과 나』<LINE>
+　베르너 폰 뮐러 지음<LINE>
+손에 땀을 쥐는 내용이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0100>
+<POS 004C009A0F13>
+<FB05 0108>
+꽤 큰 금고다.<LINE>
+아마도 엄청 많은 디플렉터가<LINE>
+보관되어 있겠지.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0300>
+<POS 004600A21022>
+<FB05 0108>
+여기서 바깥 상황을 볼 수 있다.<LINE>
+특별한 문제는 없는 것 같다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0200>
+<POS 004C00A20F12>
+<FB05 0108>
+뮐러 씨의 책상이다.<LINE>
+거물의 책상답게 확실히 크다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0300>
+<POS 004C00A20F22>
+<FB05 0108>
+선내의 상황을 알 수 있다.<LINE>
+특별한 문제는 없는 것 같다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0100>
+<FB28 00F115FF>
+<POS 005E00AA0C11>
+<FB05 0108>
+뿌리 근처에 뭔가 있다.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 005800AA0D11>
+<FB05 0108>
+<FB19 00EF>
+２０００제니를 발견했다.
+<ENDKEY>
+<FB31>
+<FB26 00F1>
+<FB37 00000007D0>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0000>
+<POS 006400AA0B01>
+<FB05 0108>
+훌륭한 관엽식물이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0017]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0018]
+<FUNC 0300>
+<FB16 111C1CFF>
+<FB16 05FFFF1B>
+<POS 006A00A20A22>
+<FB05 0108>
+만다섬의 유적에서<LINE>
+손에 넣은 열쇠다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0019]
+<FUNC 0300>
+<FB16 111C1CFF>
+<FB16 0BFFFF1B>
+<POS 006A00A20A22>
+<FB05 0108>
+니노섬의 유적에서<LINE>
+손에 넣은 열쇠다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001A]
+<FUNC 0300>
+<FB16 111C1CFF>
+<FB16 0EFFFF1B>
+<POS 005E00A20C22>
+<FB05 0108>
+사울 카다섬의 유적에서<LINE>
+손에 넣은 열쇠다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001B]
+<FUNC 0100>
+<FB16 111C1CFF>
+<POS 004000AA1111>
+<FB05 0108>
+봉인의 열쇠를 보관하는 케이스다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001C]
+<FUNC 0100>
+<POS 004000AA1111>
+<FB05 0108>
+봉인의 열쇠를 빼앗겨 버렸다……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001D]
+<FUNC 0000>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0000>
+<END>
+
+[BLOCK: 001F]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0020]
+<FUNC 0200>
+<FB2C 00>
+<FB15 0100000040000001400068>
+<FB2B>
+<FB16 112525FF>
+<FB33 83>
+<POS 007000A20912>
+<FB05 0108>
+뭔가？<LINE>
+뭐든지 물어보게.
+<ENDKEY>
+<FB31>
+<FB16 0E2424FF>
+<FB16 0B2323FF>
+<FB16 05222221>
+<END>
+
+[BLOCK: 0021]
+<FUNC 0000>
+<FB33 84>
+<VWAIT 00>
+<POS 006400880B04>
+<FB05 0108>
+<SEL 00>
+봉인의 열쇠에 대해<LINE>
+
+<SEL 01>
+고대인에 대해<LINE>
+
+<SEL 02>
+롤의 부모님에 대해<LINE>
+
+<SEL 03>
+특별히 없다
+<FB39 040000000100020003>
+<FB11 05282726FFFF>
+<FB2C 01>
+<END>
+
+[BLOCK: 0022]
+<FUNC 0000>
+<FB33 84>
+<VWAIT 00>
+<POS 006400760B05>
+<FB05 0108>
+<SEL 00>
+포쿠테 마을에 대해<LINE>
+
+<SEL 01>
+봉인의 열쇠에 대해<LINE>
+
+<SEL 02>
+고대인에 대해<LINE>
+
+<SEL 03>
+롤의 부모님에 대해<LINE>
+
+<SEL 04>
+특별히 없다
+<FB39 0500000001000200030004>
+<FB11 0629282726FFFF>
+<FB2C 01>
+<END>
+
+[BLOCK: 0023]
+<FUNC 0000>
+<FB33 84>
+<VWAIT 00>
+<POS 006400640B06>
+<FB05 0108>
+<SEL 00>
+대불에 대해<LINE>
+
+<SEL 01>
+포쿠테 마을에 대해<LINE>
+
+<SEL 02>
+봉인의 열쇠에 대해<LINE>
+
+<SEL 03>
+고대인에 대해<LINE>
+
+<SEL 04>
+롤의 부모님에 대해<LINE>
+
+<SEL 05>
+특별히 없다
+<FB39 06000000010002000300040005>
+<FB11 072A29282726FFFF>
+<FB2C 01>
+<END>
+
+[BLOCK: 0024]
+<FUNC 0000>
+<FB33 84>
+<VWAIT 00>
+<POS 006400620B07>
+<FB05 0108>
+<SEL 00>
+신부님에 대해<LINE>
+
+<SEL 01>
+대불에 대해<LINE>
+
+<SEL 02>
+포쿠테 마을에 대해<LINE>
+
+<SEL 03>
+봉인의 열쇠에 대해<LINE>
+
+<SEL 04>
+고대인에 대해<LINE>
+
+<SEL 05>
+롤의 부모님에 대해<LINE>
+
+<SEL 06>
+특별히 없다
+<FB39 070000000100020003000400050006>
+<FB11 082B2A29282726FFFF>
+<FB2C 01>
+<END>
+
+[BLOCK: 0025]
+<FUNC 0100>
+<FB33 83>
+<POS 005200A20E12>
+<FB05 0108>
+모든건 자네에게 달렸다네.<LINE>
+힘내거라, 록！
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0026]
+<FUNC 0100>
+<FB33 83>
+<POS 004C009A0F13>
+<FB05 0108>
+롤의 부모님……<LINE>
+딸인 마틸다와 사위인 배너도<LINE>
+디그 아우터였지.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB33 84>
+<FB0C>
+<POS 0052009A0E13>
+<FB05 0108>
+세계 곳곳의 위험한 장소를<LINE>
+디그 아웃하면서<LINE>
+돌아다녔었네만……
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+<FB0C>
+<POS 0040009A1133>
+<FB05 0108>
+내가 말려도 듣지 않고<LINE>
+그 금단의 땅으로 떠나고는<LINE>
+행방불명이 되었다네.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 005E00A20C22>
+<FB05 0108>
+틀림없이 죽었을거라고<LINE>
+여기고 있었네만……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 004C009A0F23>
+<FB05 0108>
+롤의 어머니인……<LINE>
+마틸다와 똑같이 생긴 사람이<LINE>
+나타났었잖나？
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB33 84>
+<FB0C>
+<POS 004600AA1011>
+<FB05 0108>
+그 사람은 대체 누구인건지……
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 2C>
+<END>
+
+[BLOCK: 0027]
+<FUNC 0300>
+<FB33 83>
+<POS 0040009A1123>
+<FB05 0108>
+그 사람들이 왜 그런곳에 있었는지<LINE>
+물어봤다만<LINE>
+교묘히 얼버무리더구먼～
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 002E009A1423>
+<FB05 0108>
+아무래도 그들과 적대하는 무리가 있어서<LINE>
+그 자들에 의해 감금당했던<LINE>
+모양이네만……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 003A00A21222>
+<FB05 0108>
+아마도, 설퍼보톰호를 습격한<LINE>
+녀석들이 한 짓일걸세.
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB0C>
+<FB0E 2C>
+<END>
+
+[BLOCK: 0028]
+<FUNC 0300>
+<FB33 83>
+<POS 0034009A1323>
+<FB05 0108>
+이 세계에는<LINE>
+손대서는 안될 것들이 잠든 유적이란게<LINE>
+몇 군데 있어서 말일세.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB33 84>
+<FB0C>
+<POS 002E00A21412>
+<FB05 0108>
+그런 곳들은 예로부터 신이 깃든 땅으로<LINE>
+받들어져 왔다네.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 004C00A20F22>
+<FB05 0108>
+그래서, 지금까지 그런 유적은<LINE>
+아무도 손대지 않았네만……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 004000A21122>
+<FB05 0108>
+위대한 유산의 봉인을 풀 열쇠는<LINE>
+바로 그곳에 숨겨져 있던 것 같네.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 2C>
+<END>
+
+[BLOCK: 0029]
+<FUNC 0300>
+<FB33 83>
+<POS 007000A20922>
+<FB05 0108>
+퀴즈 특훈으로<LINE>
+유명한 마을일세.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 005200A20E22>
+<FB05 0108>
+나도 젊었을 때 그 마을에서<LINE>
+지식을 쌓았었다네.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 2C>
+<END>
+
+[BLOCK: 002A]
+<FUNC 0700>
+<FB33 83>
+<POS 0052009A0E33>
+<FB05 0108>
+저건 학술적으로도<LINE>
+아주 귀중한 물건이라네.<LINE>
+마을 사람들도 소중히하지.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB33 84>
+<FB0C>
+<POS 005E00A20C12>
+<FB05 0108>
+공적들이 부수지 않으면<LINE>
+좋겠는데 말이야.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 2C>
+<END>
+
+[BLOCK: 002B]
+<FUNC 0300>
+<FB33 83>
+<POS 006A00A20A22>
+<FB05 0108>
+요숀카시 안쪽에<LINE>
+큰 교회가 있다네.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB33 84>
+<FB0C>
+<POS 005200AA0E11>
+<FB05 0108>
+신부님은 그곳에 있을걸세.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 2C>
+<END>
+
+[BLOCK: 002C]
+<FUNC 0000>
+<FB16 0E2424FF>
+<FB16 0B2323FF>
+<FB16 05222221>
+<END>
+
+[BLOCK: 002D]
+<FUNC 0000>
+<END>
+
+[BLOCK: 002E]
+<FUNC 0000>
+<END>
+
+[BLOCK: 002F]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0030]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0031]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0032]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0033]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0034]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0035]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0036]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0037]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0038]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0039]
+<FUNC 0000>
+<END>
+
+[BLOCK: 003A]
+<FUNC 0000>
+<END>
+
+[BLOCK: 003B]
+<FUNC 0000>
+<END>
+
+[BLOCK: 003C]
+<FUNC 0000>
+<END>
+
+[BLOCK: 003D]
+<FUNC 0000>
+<END>
+
+[BLOCK: 003E]
+<FUNC 0000>
+<END>
+
+[BLOCK: 003F]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0040]
+<FUNC 0300>
+<FB2C 00>
+<FB15 0100000000000001080098>
+<FB2B>
+<FB16 114545FF>
+<FB33 83>
+<POS 004C00A20F22>
+<FB05 0108>
+록 군.<LINE>
+큰일을 맡기게 되어 미안하네.
+<PAGEKEY>
+<NEXTPAGE 020300>
+내가 아는 거라면<LINE>
+뭐든지 대답해주겠네.
+<ENDKEY>
+<FB31>
+<FB16 0E4444FF>
+<FB16 0B4343FF>
+<FB16 05424241>
+<END>
+
+[BLOCK: 0041]
+<FUNC 0000>
+<FB33 84>
+<VWAIT 00>
+<POS 004C00840F04>
+<FB05 0108>
+<SEL 00>
+봉인의 열쇠에 대해<LINE>
+
+<SEL 01>
+이런 중요한 일을 왜 제게？<LINE>
+
+<SEL 02>
+３０년 전에 본 것이란？<LINE>
+
+<SEL 03>
+특별히 없다
+<FB39 040000000100020003>
+<FB11 05484746FFFF>
+<FB2C 01>
+<END>
+
+[BLOCK: 0042]
+<FUNC 0000>
+<FB33 84>
+<VWAIT 00>
+<POS 004C006A0F06>
+<FB05 0108>
+<SEL 00>
+니노섬에 대해<LINE>
+
+<SEL 01>
+회수한 봉인의 열쇠는？<LINE>
+
+<SEL 02>
+봉인의 열쇠에 대해<LINE>
+
+<SEL 03>
+이런 중요한 일을 왜 제게？<LINE>
+
+<SEL 04>
+３０년 전에 본 것이란？<LINE>
+
+<SEL 05>
+특별히 없다
+<FB39 06000000010002000300040005>
+<FB11 074A49484746FFFF>
+<FB2C 01>
+<END>
+
+[BLOCK: 0043]
+<FUNC 0000>
+<FB33 84>
+<VWAIT 00>
+<POS 004C00580F07>
+<FB05 0108>
+<SEL 00>
+고대인에 대해<LINE>
+
+<SEL 01>
+니노섬에 대해<LINE>
+
+<SEL 02>
+회수한 봉인의 열쇠는？<LINE>
+
+<SEL 03>
+봉인의 열쇠에 대해<LINE>
+
+<SEL 04>
+이런 중요한 일을 왜 제게？<LINE>
+
+<SEL 05>
+３０년 전에 본 것이란？<LINE>
+
+<SEL 06>
+특별히 없다
+<FB39 070000000100020003000400050006>
+<FB11 084B4A49484746FFFF>
+<FB2C 01>
+<END>
+
+[BLOCK: 0044]
+<FUNC 0000>
+<FB33 84>
+<VWAIT 00>
+<POS 004C00560F08>
+<FB05 0108>
+<SEL 00>
+뮐러의 걱정거리<LINE>
+
+<SEL 01>
+고대인에 대해<LINE>
+
+<SEL 02>
+니노섬에 대해<LINE>
+
+<SEL 03>
+회수한 봉인의 열쇠는？<LINE>
+
+<SEL 04>
+봉인의 열쇠에 대해<LINE>
+
+<SEL 05>
+이런 중요한 일을 왜 제게？<LINE>
+
+<SEL 06>
+３０년 전에 본 것이란？<LINE>
+
+<SEL 07>
+특별히 없다
+<FB39 0800000001000200030004000500060007>
+<FB11 094C4B4A49484746FFFF>
+<FB2C 01>
+<END>
+
+[BLOCK: 0045]
+<FUNC 0300>
+<FB33 83>
+<POS 004000A21122>
+<FB05 0108>
+나도 조금만 더 젊었더라면<LINE>
+같이 가고 싶은 마음이네만
+<PAGEKEY>
+<NEXTPAGE 020000>
+뭐, 서두르지 말고 천천히 하게나.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0046]
+<FUNC 0700>
+<FB33 83>
+<POS 004C009A0F33>
+<FB05 0108>
+그 고대인들이 갇혀 있었다는<LINE>
+그 수수께끼의 마름모와……<LINE>
+수수께끼의 소녀 말이야.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+<FB0C>
+<POS 0040009A1133>
+<FB05 0108>
+하지만, 그 수수께끼의 마름모까지<LINE>
+접근했던 순간<LINE>
+둘 다 쓰러져버렸거든……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 004600A21022>
+<FB05 0108>
+그때, 쓰러진 우리를 내려다보던<LINE>
+양갈래 머리의 여자아이를 봤지.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+<FB0C>
+<POS 0040009A1133>
+<FB05 0108>
+그리고 곧바로 의식을 잃었고<LINE>
+정신을 차렸을 땐, 요숀카시 앞에<LINE>
+쓰러져 있었어.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 004600A21022>
+<FB05 0108>
+그땐 전부 환상이었나 싶었지만<LINE>
+진짜 였었던거군.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 4D>
+<END>
+
+[BLOCK: 0047]
+<FUNC 0100>
+<FB33 83>
+<POS 005E00A20C12>
+<FB05 0108>
+우리도 직접 나서고픈<LINE>
+마음은 굴뚝 같지만……
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+<FB0C>
+<POS 002E009A1433>
+<FB05 0108>
+고대인들의 보호……라고할까, 감시도<LINE>
+하지않으면 안되고, 디그 아웃한 열쇠의<LINE>
+관리도 해야만 하잖나？
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+<FB0C>
+<POS 0040009A1133>
+<FB05 0108>
+다른 디그 아우터에게 맡긴다 해도<LINE>
+일이 일인지라, 가급적 정보를<LINE>
+밖으로 흘리고 싶진 않고……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 003A009A1223>
+<FB05 0108>
+록 군이라면, 이미 다 알고있는데다<LINE>
+금단의 땅을 정복할 정도의<LINE>
+베타랑 디그 아우터 아니겠나.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 005E00A20C22>
+<FB05 0108>
+이 이상의 적임자가<LINE>
+없다고 생각하지 않나？
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 4D>
+<END>
+
+[BLOCK: 0048]
+<FUNC 0100>
+<FB33 83>
+<POS 006A00AA0A11>
+<FB05 0108>
+전부 ４개 라는군.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 004C00A20F22>
+<FB05 0108>
+한 번에 전부 디그 아웃하기엔<LINE>
+사람이 부족하지.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+<FB0C>
+<POS 004C009A0F33>
+<FB05 0108>
+그래서, 공적이 노릴 가능성이<LINE>
+높은 것 부터 록 군이<LINE>
+도는 것으로 했다네.
+<PAGEKEY>
+<NEXTPAGE 020600>
+<FB33 84>
+<FB0C>
+<POS 0028009A1523>
+<FB05 0108>
+뭐, ４개가 다 모이지 않으면 의미가 없네.<LINE>
+１개 쯤은 공적에게 빼앗기더라도<LINE>
+어떻게든 되겠지.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB33 84>
+<FB0C>
+<POS 005200AA0E11>
+<FB05 0108>
+그러니, 부담 갖지 말게나.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB33 84>
+<FB0C>
+<POS 005E00A20C12>
+<FB05 0108>
+뭐, 빼앗기지 않는 쪽이<LINE>
+가장 좋겠지만 말이네～
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB33 84>
+<FB0C>
+<POS 008800AA0501>
+<FB05 0108>
+하하핫.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 4D>
+<END>
+
+[BLOCK: 0049]
+<FUNC 0300>
+<FB33 83>
+<POS 005E00A20C22>
+<FB05 0108>
+안쪽 방은 보관실이다.<LINE>
+열쇠는 거기에 있다.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 4D>
+<END>
+
+[BLOCK: 004A]
+<FUNC 0600>
+<FB33 83>
+<POS 0046009A1023>
+<FB05 0108>
+디그 아우터 길드의<LINE>
+본부가 있는 섬으로 라이센스를<LINE>
+발급하거나 갱신하는 곳이지.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 4D>
+<END>
+
+[BLOCK: 004B]
+<FUNC 0300>
+<FB26 00E0>
+<FB33 83>
+<POS 006A00A20A22>
+<FB05 0108>
+별실에서 보호 중인<LINE>
+고대인들이지만……
+<PAGEKEY>
+<NEXTPAGE 020500>
+<FB33 84>
+<FB0C>
+<POS 003A009A1223>
+<FB05 0108>
+그 후로 아무런 움직임 없이<LINE>
+조용히 지내고 있어.<LINE>
+공적도 여길 노리는 것 같지않고……
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+<FB0C>
+<POS 002E009A1433>
+<FB05 0108>
+괜찮다면 그들과 대화해보는건 어떤가？<LINE>
+뭔가 도움이 될만한 이야기를<LINE>
+들을 수 있을지도 모르지.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 4D>
+<END>
+
+[BLOCK: 004C]
+<FUNC 0300>
+<FB33 83>
+<POS 005200A20E22>
+<FB05 0108>
+드디어 열쇠가 ４개 전부 다<LINE>
+모일지도 모르네만……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 005200A20E22>
+<FB05 0108>
+고대인들이 어떻게 움직일지<LINE>
+그 부분은 걱정이군……
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB33 84>
+<FB0C>
+<POS 003A00AA1211>
+<FB05 0108>
+만일에 대비에 손은 써두었다만……
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 4D>
+<END>
+
+[BLOCK: 004D]
+<FUNC 0000>
+<FB16 0E4444FF>
+<FB16 0B4343FF>
+<FB16 05424241>
+<END>
+
+[BLOCK: 004E]
+<FUNC 0000>
+<END>
+
+[BLOCK: 004F]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0050]
+<FUNC 0000>
+<FB2C 00>
+<FB15 0100000020000001380054>
+<FB2B>
+<POS 008200320601>
+<FB05 0108>
+흠흠
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 0058002A0D22>
+<FB05 0108>
+역시 돈을 많이 들인 만큼<LINE>
+좋은 배네요～
+<PAGEKEY>
+<NEXTPAGE 020200>
+<FB0C>
+<POS 0058002A0D12>
+<FB05 0108>
+융단은 푹신하지,<LINE>
+천장도 높고, 최고예요～
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0051]
+<FUNC 0000>
+<FB2C 00>
+<FB15 0100000020000001380054>
+<FB2B>
+<POS 006A002A0A02>
+<FB05 0108>
+여기 침대는<LINE>
+전부 물침대랍니다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 0052002A0E22>
+<FB05 0108>
+그 편안함은 정말이지
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+<LINE>
+잠이 솔솔 올 정도죠.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 0040002A1122>
+<FB05 0108>
+너무나도 기분이 좋은 나머지<LINE>
+정신을 차려보니 아무도 없었어요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0052]
+<FUNC 0200>
+<FB2C 00>
+<FB15 0100000020000001380054>
+<FB2B>
+<POS 003A002A1212>
+<FB05 0108>
+이야～<LINE>
+세상에는 대단한 책들이 다 있네요～
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 005200320E11>
+<FB05 0108>
+트론 님께 보고해야겠어요！
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0053]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0054]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0055]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0056]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0057]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0058]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0059]
+<FUNC 0000>
+<END>
+
+[BLOCK: 005A]
+<FUNC 0000>
+<END>
+
+[BLOCK: 005B]
+<FUNC 0000>
+<END>
+
+[BLOCK: 005C]
+<FUNC 0000>
+<END>
+
+[BLOCK: 005D]
+<FUNC 0000>
+<END>
+
+[BLOCK: 005E]
+<FUNC 0000>
+<END>
+
+[BLOCK: 005F]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0060]
+<FUNC 0000>
+<FB2C 00>
+<FB15 01000000000000014000A0>
+<FB2B>
+<FB33 83>
+<FB16 116565FF>
+<FB16 0E6464FF>
+<FB16 0B6363FF>
+<FB16 05626261>
+<END>
+
+[BLOCK: 0061]
+<FUNC 0700>
+<POS 0052009A0E33>
+<FB05 0108>
+뮐러 씨가 ３０년이 걸려도<LINE>
+이루지 못했던 일을<LINE>
+여러분들이 해내시다니……
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB33 84>
+<FB0C>
+<POS 004C00A20F02>
+<FB05 0108>
+존경합니다.<LINE>
+……사인 해주실 수 있나요？
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0062]
+<FUNC 0300>
+<POS 006400A20B22>
+<FB05 0108>
+맡기신 봉인의 열쇠는<LINE>
+옆방에 있습니다.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0063]
+<FUNC 0300>
+<POS 004600A21022>
+<FB05 0108>
+고대인의 방을 경비하고 있는 건<LINE>
+제 남동생입니다.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0064]
+<FUNC 0100>
+<POS 004600AA1011>
+<FB05 0108>
+드디어 열쇠가 전부 모이겠네요.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+<FB0C>
+<POS 006A009A0A23>
+<FB05 0108>
+기대 되네요～<LINE>
+위대한 유산이란<LINE>
+대체 어떤 걸까요？
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0065]
+<FUNC 0600>
+<POS 0052009A0E23>
+<FB05 0108>
+설마<LINE>
+이 배를 빼앗기게 되리라곤<LINE>
+생각 못했습니다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+<FB0C>
+<POS 0052009A0E33>
+<FB05 0108>
+제 동생들은 크게 다쳤다만<LINE>
+어떤게든 목숨은 건졌어요.<LINE>
+그 여성분 덕분입니다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+<FB0C>
+<POS 005E009A0C33>
+<FB05 0108>
+그렇게 무서운 자들을<LINE>
+생대하게 되는 겁니다.<LINE>
+부디 조심하세요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0066]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0067]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0068]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0069]
+<FUNC 0000>
+<END>
+
+[BLOCK: 006A]
+<FUNC 0000>
+<END>
+
+[BLOCK: 006B]
+<FUNC 0000>
+<END>
+
+[BLOCK: 006C]
+<FUNC 0000>
+<END>
+
+[BLOCK: 006D]
+<FUNC 0000>
+<END>
+
+[BLOCK: 006E]
+<FUNC 0000>
+<END>
+
+[BLOCK: 006F]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0070]
+<FUNC 0100>
+<POS 001400B00C11>
+<FB05 0108>
+불러내서 미안하구먼～
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB0C>
+<POS 0014009E0F33>
+<FB05 0108>
+뮐러가 자네에게<LINE>
+할 얘기가 있나보더구나.<LINE>
+미안하지만 좀 들어봐주겠나？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0071]
+<FUNC 0100>
+<POS 007D00AB0D11>
+<FB05 0108>
+오, 자네가 록 군인가……
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 0042009A1413>
+<FB05 0108>
+아직 젊은데도 겨우 둘이서 금단의 땅을<LINE>
+디그 아웃하는데 성공하다니, <LINE>
+대단하군.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 007200961023>
+<FB05 0108>
+나는 전 재산을 배에<LINE>
+쏟아부었는데도, 이 모양이라네.<LINE>
+핫핫핫핫.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0072]
+<FUNC 0300>
+<POS 002800A21522>
+<FB05 0108>
+자, 서론은 여기까지하고<LINE>
+록에게…… 부탁하고픈 일이 있는거겠지？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0073]
+<FUNC 0000>
+<POS 007C00A20702>
+<FB05 0108>
+어흠, 그게～<LINE>
+그렇다네.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00AA0A11>
+<FB05 0108>
+실은 자네에게……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 005200A20E22>
+<FB05 0108>
+봉인의 열쇠의 디그 아웃을<LINE>
+부탁할 생각이네만……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0074]
+<FUNC 0200>
+<POS 004C00A20F12>
+<FB05 0108>
+이런 일에 휘말리게 해버려서<LINE>
+미안하게 생각하고 있네.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB0C>
+<POS 0052009A0E33>
+<FB05 0108>
+허나, 공적들이 본격적으로<LINE>
+움직이기 전에<LINE>
+먼저 손을 써두고 싶네.
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB0C>
+<POS 0064009A0B03>
+<FB05 0108>
+어떤가, 도와주겠나？<LINE>
+　
+<SEL 00>
+네　<LINE>
+　
+<SEL 01>
+아니오
+<FB39 0201010102>
+<FB11 03000101>
+<END>
+
+[BLOCK: 0075]
+<FUNC 0000>
+<POS 007000AA0901>
+<FB05 0108>
+그러지 말고……
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 0058009A0D13>
+<FB05 0108>
+부탁이네, 맡아 주겠나？<LINE>
+　
+<SEL 00>
+네　<LINE>
+　
+<SEL 01>
+아니오
+<FB39 0201010102>
+<FB11 03000101>
+<END>
+
+[BLOCK: 0076]
+<FUNC 0200>
+<POS 006400A20B12>
+<FB05 0108>
+그럼, 바로 부탁해서<LINE>
+미안하네만……
+<PAGEKEY>
+<NEXTPAGE 020600>
+<FB0C>
+<POS 0058009A0D23>
+<FB05 0108>
+우선, 여기서 남쪽에 있는<LINE>
+만다섬의 포쿠테 마을에<LINE>
+가보도록 하게나.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 003400A21322>
+<FB05 0108>
+봉인의 열쇠가 잠든 유적이 있으면서<LINE>
+포쿠테 마을이 제일 작은 마을이니까.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 005200A20E12>
+<FB05 0108>
+공적이 가장 먼저 노린다면<LINE>
+아마도 그곳일 걸세.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0077]
+<FUNC 0700>
+<POS 0052009A0E33>
+<FB05 0108>
+열쇠를 손에 넣거든<LINE>
+미안하지만 내가 있는 곳에<LINE>
+가져와주지 않겠나.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB0C>
+<POS 0058009A0D33>
+<FB05 0108>
+공적들도 노리는 열쇠니<LINE>
+이 배에 보관해두는 쪽이<LINE>
+가장 안전할 것 같아.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 006A00AA0A11>
+<FB05 0108>
+그럼, 부탁하겠네.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0078]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0079]
+<FUNC 0000>
+<END>
+
+[BLOCK: 007A]
+<FUNC 0000>
+<END>
+
+[BLOCK: 007B]
+<FUNC 0000>
+<END>
+
+[BLOCK: 007C]
+<FUNC 0300>
+<POS 005200A20E22>
+<FB05 0108>
+후후, 록이 돌아오는 걸<LINE>
+기다릴 수가 없어서 말이야.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 005E00A20C22>
+<FB05 0108>
+미안하다고 생각하지만<LINE>
+몰래 들어버렸어.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB0C>
+<POS 0040009A1133>
+<FB05 0108>
+우선은 만다섬의 포쿠테 마을이네.<LINE>
+지도를 봐둘테니까, 준비가 되면<LINE>
+바로 플러터호로 돌아와！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 007D]
+<FUNC 0100>
+<POS 001000960C11>
+<FB05 0108>
+그럼, 먼저 가 있을게.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 007E]
+<FUNC 0000>
+<END>
+
+[BLOCK: 007F]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0080]
+<FUNC 0100>
+<POS 001800960A13>
+<FB05 0108>
+벌써 봉인의 열쇠를<LINE>
+디그 아웃했구먼～<LINE>
+역시 대단하군～
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0081]
+<FUNC 0100>
+<POS 0070009A0913>
+<FB05 0108>
+이 기세로<LINE>
+계속 디그 아웃을<LINE>
+부탁하네.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 004600A21022>
+<FB05 0108>
+갑작스럽지만, 다음은 니노섬에<LINE>
+가주었으면 하네.
+<PAGEKEY>
+<NEXTPAGE 020F00>
+<FB0C>
+<POS 0052008F0E44>
+<FB05 0108>
+내 친우인 길드마스터가<LINE>
+관리하는 섬이네만<LINE>
+지금 글라이드라는 공적에게<LINE>
+습격당하고 있는 모양이네.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0082]
+<FUNC 0700>
+<POS 003A009A1233>
+<FB05 0108>
+니노섬은<LINE>
+디그 아웃의 발상지이기도 하고<LINE>
+디그 아우터의 성지라고도 불리지만
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 004600A21022>
+<FB05 0108>
+본래는 금단의 유적을<LINE>
+봉인하기 위해 만들어진 섬이지.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 004C00A20F22>
+<FB05 0108>
+아무래도 지하의 유적에<LINE>
+봉인의 열쇠가 있는 것 같네.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0083]
+<FUNC 0700>
+<POS 006F00901033>
+<FB05 0108>
+그 섬은 방어시설이<LINE>
+잘 갖춰져 있어서 가장 안전하다<LINE>
+생각했건만……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 006300981122>
+<FB05 0108>
+아무래도, 잠입한 공적들이<LINE>
+방어시설을 일부 파괴한 모양이야.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 008100980D22>
+<FB05 0108>
+서둘러 구조하러 가서<LINE>
+안전을 확보한 다음에……
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 008100980C12>
+<FB05 0108>
+유적에서 봉인의 열쇠를<LINE>
+디그 아웃했으면 하네.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 009900A00911>
+<FB05 0108>
+그럼, 부탁하네.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0084]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0085]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0086]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0087]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0088]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0089]
+<FUNC 0000>
+<END>
+
+[BLOCK: 008A]
+<FUNC 0000>
+<END>
+
+[BLOCK: 008B]
+<FUNC 0000>
+<END>
+
+[BLOCK: 008C]
+<FUNC 0000>
+<END>
+
+[BLOCK: 008D]
+<FUNC 0000>
+<END>
+
+[BLOCK: 008E]
+<FUNC 0000>
+<END>
+
+[BLOCK: 008F]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0090]
+<FUNC 0100>
+<POS 002000900B13>
+<FB05 0108>
+２번째 봉인의 열쇠도<LINE>
+디그 아웃한건가～！<LINE>
+꽤 하잖나～！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0091]
+<FUNC 0200>
+<POS 0036009B0812>
+<FB05 0108>
+길드마스터는<LINE>
+잘 지내던가？
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 002A009B0C22>
+<FB05 0108>
+그 사람은 나와 배럴의<LINE>
+오랜 친구라서 말이지.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 002A009B0C22>
+<FB05 0108>
+이번 사건이 정리되거든<LINE>
+한 번 만나고 싶다네.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB0C>
+<POS 001400931333>
+<FB05 0108>
+그럼, 또 열쇠의 디그 아웃을<LINE>
+계속 부탁해서 미안하네만<LINE>
+다음엔 사울 카다섬에 가주었음 하네.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0092]
+<FUNC 0300>
+<POS 005800A20D22>
+<FB05 0108>
+이 섬에는 대불로 유명한<LINE>
+키모토마시가 있는데……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 005200A20E22>
+<FB05 0108>
+아무래도 그 본 일가가<LINE>
+이 곳을 습격하는 모양이군.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0093]
+<FUNC 0300>
+<POS 008000A20D22>
+<FB05 0108>
+이미 유적의 디그 아웃을<LINE>
+시작했다는 정보도 있네.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 008000A20C22>
+<FB05 0108>
+이번에도, 먼저 마을을<LINE>
+공적에게서 지키고……
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 008000A20D12>
+<FB05 0108>
+그 후에, 유적에서 열쇠를<LINE>
+디그 아웃 했으면 하네.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 00A400AA0911>
+<FB05 0108>
+그럼, 부탁하네.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0094]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0095]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0096]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0097]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0098]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0099]
+<FUNC 0000>
+<END>
+
+[BLOCK: 009A]
+<FUNC 0000>
+<END>
+
+[BLOCK: 009B]
+<FUNC 0000>
+<END>
+
+[BLOCK: 009C]
+<FUNC 0000>
+<END>
+
+[BLOCK: 009D]
+<FUNC 0000>
+<END>
+
+[BLOCK: 009E]
+<FUNC 0000>
+<END>
+
+[BLOCK: 009F]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00A0]
+<FUNC 0300>
+<POS 004600A00D22>
+<FB05 0108>
+드디어, ３번째 열쇠까지<LINE>
+모았군.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 002200A00F12>
+<FB05 0108>
+여기까지 혼자서 해내다니……<LINE>
+정말 대단하네～
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00A1]
+<FUNC 0300>
+<POS 003400A21322>
+<FB05 0108>
+남은 봉인의 열쇠는 이제 １개뿐이군.<LINE>
+마지막 열쇠는 요숀카시에 있는데……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 003A009A1223>
+<FB05 0108>
+정보에 의하면, 공적들이 손을 잡고<LINE>
+공적 연합으로서 요숀카시를<LINE>
+공격하려 하고 있는 모양이야.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00A2]
+<FUNC 0300>
+<POS 005200A20E22>
+<FB05 0108>
+그래도 직접 점령을 할만한<LINE>
+전력은 없는 것 같네만……
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 003A00AA1211>
+<FB05 0108>
+강력한 무장 열차를 준비한 것 같네.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 004600A21022>
+<FB05 0108>
+열쇠를 내놓지 않으면<LINE>
+마을을 파괴하겠다 협박중이지.
+<PAGEKEY>
+<NEXTPAGE 020400>
+<FB0C>
+<POS 006A009A0A13>
+<FB05 0108>
+녀석들도 자존심이<LINE>
+있을 터이니 이번엔<LINE>
+필사적으로 오겠지.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 005200AA0E11>
+<FB05 0108>
+아무쪼록, 방심은 금물이네.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00A3]
+<FUNC 0300>
+<POS 008800A30D22>
+<FB05 0108>
+우선은, 공적 연합에게서<LINE>
+마을을 지켜줬으면 하네.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 008800A30D12>
+<FB05 0108>
+그들을 잘 몰아내는 것을<LINE>
+성공한다면……
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB0C>
+<POS 008200A30F22>
+<FB05 0108>
+교회 신부님이 마지막 유적의<LINE>
+입구를 열어줄 걸세.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 00AC00AB0911>
+<FB05 0108>
+그럼, 부탁하네.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00A4]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00A5]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00A6]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00A7]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00A8]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00A9]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00AA]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00AB]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00AC]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00AD]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00AE]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00AF]
+<FUNC 0000>
+<END>
+

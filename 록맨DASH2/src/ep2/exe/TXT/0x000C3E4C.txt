@@ -1,0 +1,11 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<VWAIT 00>
+<POS 004E003E1205>
+전후이동　　　　록 버스터<SPACE 36><LINE>
+좌우이동　　　　특수공격　　　　　<LINE>
+좌우회전　　　　점프　　　　　　　<LINE>
+시점이동　　　　특수행동　　　　　<LINE>
+록온
+<END>
+

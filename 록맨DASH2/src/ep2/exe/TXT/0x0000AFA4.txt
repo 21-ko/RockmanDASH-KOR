@@ -1,0 +1,567 @@
+[BLOCK: 0000]
+？？？？？？？？？？？
+<FB1F>
+<END>
+
+[BLOCK: 0001]
+？？데모용 스테이지？？
+<FB1F>
+<END>
+
+[BLOCK: 0002]
+플러터호
+<FB1F>
+<END>
+
+[BLOCK: 0003]
+칼린카 대륙
+<FB1F>
+<END>
+
+[BLOCK: 0004]
+금단의 땅
+<FB1F>
+<END>
+
+[BLOCK: 0005]
+설퍼보톰호
+<FB1F>
+<END>
+
+[BLOCK: 0006]
+만다섬
+<FB1F>
+<END>
+
+[BLOCK: 0007]
+니노섬
+<FB1F>
+<END>
+
+[BLOCK: 0008]
+칼바니아섬
+<FB1F>
+<END>
+
+[BLOCK: 0009]
+사울카다섬
+<FB1F>
+<END>
+
+[BLOCK: 000A]
+헤븐
+<FB1F>
+<END>
+
+[BLOCK: 000B]
+요숀카시
+<FB1F>
+<END>
+
+[BLOCK: 000C]
+포쿠테 마을
+<FB1F>
+<END>
+
+[BLOCK: 000D]
+루미노아시
+<FB1F>
+<END>
+
+[BLOCK: 000E]
+키토 마을
+<FB1F>
+<END>
+
+[BLOCK: 000F]
+키모토마시
+<FB1F>
+<END>
+
+[BLOCK: 0010]
+만다섬의 유적
+<FB1F>
+<END>
+
+[BLOCK: 0011]
+니노섬의 유적
+<FB1F>
+<END>
+
+[BLOCK: 0012]
+사울카다섬의 유적
+<FB1F>
+<END>
+
+[BLOCK: 0013]
+칼린카 대륙의 유적
+<FB1F>
+<END>
+
+[BLOCK: 0014]
+요숀카 폐광
+<FB1F>
+<END>
+
+[BLOCK: 0015]
+포쿠테 던전
+<FB1F>
+<END>
+
+[BLOCK: 0016]
+키토 던전
+<FB1F>
+<END>
+
+[BLOCK: 0017]
+키모토마 던전
+<FB1F>
+<END>
+
+[BLOCK: 0018]
+길드 던전
+<FB1F>
+<END>
+
+[BLOCK: 0019]
+디펜스 에리어
+<FB1F>
+<END>
+
+[BLOCK: 001A]
+마더 에리어
+<FB1F>
+<END>
+
+[BLOCK: 001B]
+튜토리얼
+<FB1F>
+<END>
+
+[BLOCK: 001C]
+<FB1F>
+<END>
+
+[BLOCK: 001D]
+<FB1F>
+<END>
+
+[BLOCK: 001E]
+<FB1F>
+<END>
+
+[BLOCK: 001F]
+내비게이션을 해제
+<FB1F>
+<END>
+
+[BLOCK: 0020]
+？？？？？？？？？？？
+<FB1F>
+<END>
+
+[BLOCK: 0021]
+브릿지
+<FB1F>
+<END>
+
+[BLOCK: 0022]
+제１ 갑판
+<FB1F>
+<END>
+
+[BLOCK: 0023]
+연구소
+<FB1F>
+<END>
+
+[BLOCK: 0024]
+록의 방
+<FB1F>
+<END>
+
+[BLOCK: 0025]
+롤의 방
+<FB1F>
+<END>
+
+[BLOCK: 0026]
+배럴의 방
+<FB1F>
+<END>
+
+[BLOCK: 0027]
+제２ 갑판
+<FB1F>
+<END>
+
+[BLOCK: 0028]
+화장실
+<FB1F>
+<END>
+
+[BLOCK: 0029]
+창고
+<FB1F>
+<END>
+
+[BLOCK: 002A]
+거실
+<FB1F>
+<END>
+
+[BLOCK: 002B]
+부엌
+<FB1F>
+<END>
+
+[BLOCK: 002C]
+욕실
+<FB1F>
+<END>
+
+[BLOCK: 002D]
+제３ 갑판
+<FB1F>
+<END>
+
+[BLOCK: 002E]
+격납고
+<FB1F>
+<END>
+
+[BLOCK: 002F]
+기관실
+<FB1F>
+<END>
+
+[BLOCK: 0030]
+요숀카시
+<FB1F>
+<END>
+
+[BLOCK: 0031]
+포쿠테 마을
+<FB1F>
+<END>
+
+[BLOCK: 0032]
+루미노아시
+<FB1F>
+<END>
+
+[BLOCK: 0033]
+키토 마을
+<FB1F>
+<END>
+
+[BLOCK: 0034]
+키모토마시
+<FB1F>
+<END>
+
+[BLOCK: 0035]
+<FB1F>
+<END>
+
+[BLOCK: 0036]
+<FB1F>
+<END>
+
+[BLOCK: 0037]
+<FB1F>
+<END>
+
+[BLOCK: 0038]
+칼린카 설원
+<FB1F>
+<END>
+
+[BLOCK: 0039]
+빙원
+<FB1F>
+<END>
+
+[BLOCK: 003A]
+포쿠테 평원
+<FB1F>
+<END>
+
+[BLOCK: 003B]
+칼바니아 초원
+<FB1F>
+<END>
+
+[BLOCK: 003C]
+사울 카다 사막
+<FB1F>
+<END>
+
+[BLOCK: 003D]
+<FB1F>
+<END>
+
+[BLOCK: 003E]
+<FB1F>
+<END>
+
+[BLOCK: 003F]
+<FB1F>
+<END>
+
+[BLOCK: 0040]
+고물상
+<FB1F>
+<END>
+
+[BLOCK: 0041]
+잡화점
+<FB1F>
+<END>
+
+[BLOCK: 0042]
+선착장
+<FB1F>
+<END>
+
+[BLOCK: 0043]
+실내
+<FB1F>
+<END>
+
+[BLOCK: 0044]
+죠의 연구소
+<FB1F>
+<END>
+
+[BLOCK: 0045]
+우체국
+<FB1F>
+<END>
+
+[BLOCK: 0046]
+교회
+<FB1F>
+<END>
+
+[BLOCK: 0047]
+비행선 선착장
+<FB1F>
+<END>
+
+[BLOCK: 0048]
+옥상
+<FB1F>
+<END>
+
+[BLOCK: 0049]
+방어 시설
+<FB1F>
+<END>
+
+[BLOCK: 004A]
+레스토랑
+<FB1F>
+<END>
+
+[BLOCK: 004B]
+길드 본부
+<FB1F>
+<END>
+
+[BLOCK: 004C]
+길드마스터의 방
+<FB1F>
+<END>
+
+[BLOCK: 004D]
+길드마스터의 개인실
+<FB1F>
+<END>
+
+[BLOCK: 004E]
+글라이드 요새 앞
+<FB1F>
+<END>
+
+[BLOCK: 004F]
+유적 돔
+<FB1F>
+<END>
+
+[BLOCK: 0050]
+글라이드 요새
+<FB1F>
+<END>
+
+[BLOCK: 0051]
+촌장의 집
+<FB1F>
+<END>
+
+[BLOCK: 0052]
+중앙광장
+<FB1F>
+<END>
+
+[BLOCK: 0053]
+게스트 갑판
+<FB1F>
+<END>
+
+[BLOCK: 0054]
+선실
+<FB1F>
+<END>
+
+[BLOCK: 0055]
+선원 갑판
+<FB1F>
+<END>
+
+[BLOCK: 0056]
+뮐러의 방
+<FB1F>
+<END>
+
+[BLOCK: 0057]
+보관실
+<FB1F>
+<END>
+
+[BLOCK: 0058]
+센터 에리어
+<FB1F>
+<END>
+
+[BLOCK: 0059]
+셔틀 베이
+<FB1F>
+<END>
+
+[BLOCK: 005A]
+사이드 에리어
+<FB1F>
+<END>
+
+[BLOCK: 005B]
+맨션
+<FB1F>
+<END>
+
+[BLOCK: 005C]
+죠의 방
+<FB1F>
+<END>
+
+[BLOCK: 005D]
+오아시스
+<FB1F>
+<END>
+
+[BLOCK: 005E]
+갑판
+<FB1F>
+<END>
+
+[BLOCK: 005F]
+마스터 룸
+<FB1F>
+<END>
+
+[BLOCK: 0060]
+바
+<FB1F>
+<END>
+
+[BLOCK: 0061]
+유적게이트
+<FB1F>
+<END>
+
+[BLOCK: 0062]
+라이브러리
+<FB1F>
+<END>
+
+[BLOCK: 0063]
+<FB1F>
+<END>
+
+[BLOCK: 0064]
+１층
+<FB1F>
+<END>
+
+[BLOCK: 0065]
+２층
+<FB1F>
+<END>
+
+[BLOCK: 0066]
+３층
+<FB1F>
+<END>
+
+[BLOCK: 0067]
+４층
+<FB1F>
+<END>
+
+[BLOCK: 0068]
+지하１층
+<FB1F>
+<END>
+
+[BLOCK: 0069]
+지하２층
+<FB1F>
+<END>
+
+[BLOCK: 006A]
+지하３층
+<FB1F>
+<END>
+
+[BLOCK: 006B]
+지하４층
+<FB1F>
+<END>
+
+[BLOCK: 006C]
+지하５층
+<FB1F>
+<END>
+
+[BLOCK: 006D]
+지하６층
+<FB1F>
+<END>
+
+[BLOCK: 006E]
+지하７층
+<FB1F>
+<END>
+
+[BLOCK: 006F]
+지하８층
+<FB1F>
+<END>
+
+[BLOCK: 0070]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0071]
+<FB1F>
+<END>
+
+[BLOCK: 0072]
+<FB1F>
+<END>
+
+[BLOCK: 0073]
+<FB1F>
+<END>
+

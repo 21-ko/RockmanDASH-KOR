@@ -1,0 +1,131 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-0064]
+<WIN 4000A2001003>
+<DECOR 0008>
+내 침대다，<LINE>
+잠깐 쉬고 싶지만・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800><LINE>
+힘내야지！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 0064-00F4]
+<WIN 4000A2001003>
+<DECOR 0008>
+앤티크한 시계다・・・<NEXT>
+
+<CLEAR 0400>
+롤이<LINE>
+내 생일 선물로<LINE>
+준 물건이다<NEXT>
+
+<CLEAR 0400>
+나도 뭔가 보답을 해야겠다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00F4-0172]
+<WIN 4000A2001003>
+<DECOR 0008>
+선인장이다<LINE>
+내 것은 아니지만，<NEXT>
+
+<CLEAR 0400>
+데이터가 가져온 것으로，<LINE>
+꽤 말이 통하는 선인장이라 한다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 0172-01F2]
+<WIN 4000A2001003>
+<DECOR 0008>
+부상에 대비한<LINE>
+구급 상자다，<NEXT>
+
+<CLEAR 0400>
+하지만 데이터가 있으면<LINE>
+라이프도 회복시켜 주니까<LINE>
+필요 없나・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 01F2-01F4]
+
+
+[Block 06, String: 01F4-0214]
+<WIN 4000A2001003>
+<DECOR 0008>
+「냐～아옹<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 0214-0238]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뒹구르냥<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 0238-0262]
+<WIN 4000A2001003>
+<DECOR 0008>
+「배고프다냥～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 0262-0290]
+<WIN 4000A2001003>
+<DECOR 0008>
+「꽤 좋은 집이다냥<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 0290-02B2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「냐암코！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 02B2-02D8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「냥냥！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 02D8-02FC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「냐ー무코！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 02FC-0324]
+<WIN 4000A2001003>
+<DECOR 0008>
+「따분하다냥～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 0324-034A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「후냥～・・・<NEXT>
+
+<END><CLOSE 0400>
+
+

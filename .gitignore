@@ -1,0 +1,31 @@
+# 원본 게임 ISO (각자 준비해서 원본/UMD9660.ISO 로 넣는다)
+/록맨DASH1/원본/*
+/록맨DASH2/원본/*
+!/록맨DASH1/원본/.gitkeep
+!/록맨DASH2/원본/.gitkeep
+
+# ISO 이미지 (어느 폴더에 있든)
+*.iso
+*.ISO
+
+# 빌드에 안 쓰는 작업 자료 (그래픽 원본, 일본어 원문, 원본 DAT 등)
+/록맨DASH1/자료/
+/록맨DASH2/자료/
+
+# 빌드 중간 파일과 결과물 (Build.bat 이 만든다)
+/록맨DASH1/build/
+/록맨DASH2/build/
+/록맨DASH1/결과물/
+/록맨DASH2/결과물/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# tools/ep1/filesys.py 를 import 하면 현재 폴더에 만들어진다
+unpack/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,1188 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>
+<FB28 01301CFF>
+<POS 006A00B40A11>
+<FB05 0108>
+특별한 것은 없다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0100>
+<FB28 01201DFF>
+<POS 005800B40D11>
+<FB05 0108>
+<FB19 00EF>
+１０００제니를 발견했다.
+<ENDKEY>
+<FB31>
+<FB37 00000003E8>
+<FB26 0120>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0300>
+<POS 005E00AC0C22>
+<FB05 0108>
+그러고 보니, 요즘 책을<LINE>
+전혀 읽지 않았어.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0300>
+<POS 005800AC0D22>
+<FB05 0108>
+마음이 치유된다.<LINE>
+바야흐로 힐링의 시대다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0100>
+<FB28 012D1EFF>
+<POS 004600B41011>
+<FB05 0108>
+잘 시간도 없을 정도로 바쁘다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0300>
+<POS 001600AC1822>
+<FB05 0108>
+이 그림은 상당히 마음에 든다.<LINE>
+어느 부분이 좋은지는 한마디로 말하기 어렵지만.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0300>
+<POS 004600AC1022>
+<FB05 0108>
+오래된 시계다.<LINE>
+고장 나서 소리는 나지 않는다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0300>
+<POS 001C00AC1722>
+<FB05 0108>
+바닥에 오일을 두는 것은 좋은 생각이 아니야.<LINE>
+미끄러져 넘어지겠어.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0100>
+<POS 0040009F1113>
+<FB05 0108>
+무슨 그림일까……？<LINE>
+롤 쨩의 취미는<LINE>
+가끔 이해하기 어려울 때가 있다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0100>
+<POS 004000AC1112>
+<FB05 0108>
+열어서 뭐가 들었는지 보고 싶지만<LINE>
+혼날 것 같으니 하지 말자.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000B]
+<FUNC 0000>
+<FB2C 00>
+<FB29 00>
+<FB15 0100000220000000C00060>
+<FB2B>
+<WAIT 0008>
+<FB26 0690>
+<FB2B>
+<FB2C 01>
+<END>
+
+[BLOCK: 000C]
+<FUNC 0100>
+<POS 003A00B41211>
+<FB05 0108>
+롤 쨩은 빨간색 옷을 아주 좋아한다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000D]
+<FUNC 0300>
+<POS 007000AC0922>
+<FB05 0108>
+여자의 필수품인<LINE>
+화장대다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000E]
+<FUNC 0700>
+<POS 0064009F0B33>
+<FB05 0108>
+롤 쨩은 자기 전에<LINE>
+이 스탠드의 불빛으로<LINE>
+책을 읽는다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0200>
+<FB28 012732FF>
+<POS 0064009F0B13>
+<FB05 0108>
+푹신푹신한 침대다.<LINE>
+무심코 누워보고 싶은<LINE>
+충동에 사로잡힌다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0600>
+<FB28 00D8FF28>
+<POS 0046009F1023>
+<FB05 0108>
+아무래도 이 인형이<LINE>
+마음에 들었나 보다.<LINE>
+몇 번이고 안아준 흔적이 있다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0700>
+<FB28 00D9FF28>
+<POS 004C009F0F33>
+<FB05 0108>
+여자에게 준 선물이<LINE>
+제대로 놓여 있는 모습을 보면<LINE>
+역시 기분이 좋다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0300>
+<FB28 012CFF28>
+<POS 004600AC1022>
+<FB05 0108>
+녹색이 있으면 마음이 편해진다.<LINE>
+사길 잘했다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0400>
+<POS 005E009F0C13>
+<FB05 0108>
+박사님은 종종 여기에<LINE>
+『디그 아우터 이론』<LINE>
+이라는 것을 쓰고 있다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0100>
+<POS 005200B40E11>
+<FB05 0108>
+연구 파일이 잔뜩 있다…….
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB0C>
+<FB0E 21>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0700>
+<POS 0052009F0E33>
+<FB05 0108>
+책상 위에 일기가 있다…….<LINE>
+비교적 새것인 걸 보니<LINE>
+최근에 쓴 것 같다.
+<PAGEKEY>
+<NEXTPAGE 020100>
+읽어봅니까？<LINE>
+
+<VWAIT 00>
+<SEL 00>
+응<LINE>
+
+<SEL 01>
+아니
+<FB39 0200010002>
+<FB11 0364FFFF>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0400>
+<POS 005E009F0C13>
+<FB05 0108>
+박사님은 언제나<LINE>
+이걸 들여다보고 있다.<LINE>
+밤낮을 가리지 않고.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0017]
+<FUNC 0100>
+<FB28 01211FFF>
+<POS 005800B40D11>
+<FB05 0108>
+<FB19 00EF>
+５０００제니를 발견했다.
+<PAGEKEY>
+<NEXTPAGE 020000>
+박사님의 비상금이다.
+<ENDKEY>
+<FB31>
+<FB37 0000001388>
+<FB26 0121>
+<END>
+
+[BLOCK: 0018]
+<FUNC 0300>
+<POS 0040009F1123>
+<FB05 0108>
+서랍 안에 낡은 편지가 있다…….<LINE>
+읽겠습니까？<LINE>
+
+<VWAIT 00>
+　　　　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0204020802>
+<FB11 0365FFFF>
+<END>
+
+[BLOCK: 0019]
+<FUNC 0300>
+<FB28 012220FF>
+<POS 005800AC0D22>
+<FB05 0108>
+<FB19 00EF>
+저금통 안에서 <LINE>
+１０００제니를 발견했다.
+<ENDKEY>
+<FB31>
+<FB37 00000003E8>
+<FB26 0122>
+<END>
+
+[BLOCK: 001A]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+박사님은 저렇게 보여도<LINE>
+꽤 멋쟁이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001B]
+<FUNC 0300>
+<FB28 012BFF28>
+<POS 005800AC0D22>
+<FB05 0108>
+가게에서 산 항아리다.<LINE>
+이 방에 꽤 잘 어울린다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001C]
+<FUNC 0700>
+<POS 0022009F1633>
+<FB05 0108>
+가게에서 산 게임이다.<LINE>
+탄막 피하는 재미가 대단해서<LINE>
+슈팅 게임 팬이라면 놓칠 수 없는 완성도다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001D]
+<FUNC 0100>
+<POS 005200B40E11>
+<FB05 0108>
+이제 아무것도 없는 듯하다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0100>
+<POS 0058009F0D13>
+<FB05 0108>
+가게에서 산 만화책이다.<LINE>
+꽤 재미도 있는 데다가<LINE>
+뭉클한 감동도 준다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001F]
+<FUNC 0000>
+<POS 005200B40E01>
+<FB05 0108>
+비상금은 이제 없는 듯하다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0020]
+<FUNC 0300>
+<POS 005E00AC0C22>
+<FB05 0108>
+이제 안에는<LINE>
+한 푼도 남아있지 않다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0021]
+
+
+[BLOCK: 0022]
+
+
+[BLOCK: 0023]
+
+
+[BLOCK: 0024]
+
+
+[BLOCK: 0025]
+
+
+[BLOCK: 0026]
+
+
+[BLOCK: 0027]
+<FUNC 0100>
+<POS 002E00381419>
+<FB05 0108>
+<VWAIT 00>
+어떤 것부터 읽겠습니까？<LINE>
+
+<SEL 00>
+파일０１ 『금단의 땅・상』<LINE>
+
+<SEL 01>
+파일０２ 『금단의 땅・하』<LINE>
+
+<SEL 02>
+파일０３ 『록 발견・상』<LINE>
+
+<SEL 03>
+파일０４ 『록 발견・하』<LINE>
+
+<SEL 04>
+파일０５ 『캐틀옥스섬・상』<LINE>
+
+<SEL 05>
+파일０６ 『캐틀옥스섬・하』<LINE>
+
+<SEL 06>
+디그 아우터즈 매뉴얼<LINE>
+
+<SEL 07>
+아무것도 읽지 않는다
+<FB39 0800010002000300040005000600070008>
+<FB11 093C3D3E3F404142FFFF>
+<END>
+
+[BLOCK: 0028]
+
+
+[BLOCK: 0029]
+
+
+[BLOCK: 002A]
+
+
+[BLOCK: 002B]
+
+
+[BLOCK: 002C]
+
+
+[BLOCK: 002D]
+
+
+[BLOCK: 002E]
+
+
+[BLOCK: 002F]
+
+
+[BLOCK: 0030]
+
+
+[BLOCK: 0031]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0032]
+<FUNC 0100>
+<FB28 012435FF>
+<FB28 012536FF>
+<POS 001C009F1723>
+<FB05 0108>
+록 자꾸 나쁜 짓만 하잖아.<LINE>
+롤은 조금 실망했어…….
+<PAGEKEY>
+<NEXTPAGE 020300>
+록 변했네.<LINE>
+예전에는 이렇지 않았는데.
+<PAGEKEY>
+<NEXTPAGE 020200>
+그야 뭐<LINE>
+고생 많이 한다는 점은 알고 있지만<LINE>
+그치만…….
+<PAGEKEY>
+<NEXTPAGE 020000>
+조금 더 성실하게 하면 안 될까？<LINE>
+
+<VWAIT 00>
+<SEL 00>
+응 성실하게 할게. 미안.<LINE>
+
+<SEL 01>
+웃기는 소리 하지 마. 그런 건 딱 질색이야.
+<FB10 0200010002>
+<FB11 023334>
+<END>
+
+[BLOCK: 0033]
+<FUNC 0400>
+<POS 006A009F0A13>
+<FB05 0108>
+이해해 줄 거야？<LINE>
+응. 성실하게 하자.<LINE>
+그게 최고야！
+<ENDKEY>
+<FB31>
+<FB26 0124>
+<FB26 0128>
+<FB40 2710>
+<END>
+
+[BLOCK: 0034]
+<FUNC 0000>
+<POS 006A00AC0A02>
+<FB05 0108>
+！
+<PAGEKEY>
+<NEXTPAGE 020000>
+너무해！<LINE>
+록 너무했어・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<ENDKEY>
+<FB31>
+<FB26 0125>
+<FB26 0128>
+<FB40 EC78>
+<END>
+
+[BLOCK: 0035]
+<FUNC 0000>
+<POS 0052009F0E03>
+<FB05 0108>
+괜찮아 록.<LINE>
+성실하게 차근차근하면 돼.<LINE>
+힘내자！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0036]
+
+
+[BLOCK: 0037]
+
+
+[BLOCK: 0038]
+
+
+[BLOCK: 0039]
+
+
+[BLOCK: 003A]
+
+
+[BLOCK: 003B]
+<FUNC 0200>
+<POS 005200AC0E12>
+<FB05 0108>
+아～.<LINE>
+할아버지가 슬퍼하시겠다～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003C]
+<FUNC 0100>
+<POS 001C009A1733>
+<FB05 0108>
+금단의 땅・상
+<PAGEKEY>
+<NEXTPAGE 020300>
+뮐러와 둘이 갔던<LINE>
+금단의 땅, 디그 아웃 보고서・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<PAGEKEY>
+<NEXTPAGE 020300>
+일단 가장 큰 문제는, 금단의 땅에<LINE>
+가까이 갈 수가 없다는 점이었다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+평범한 배로는 바람에 휩쓸려<LINE>
+자칫하면 배가 부서지고 만다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+최악의 상황에는 폭풍에 휘말려<LINE>
+다시는 빠져나올 수 없게 된다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+우리들은 섬 중심의 상공이라면<LINE>
+비교적 쉽게 진입할 수 있다는 사실을 발견하여<LINE>
+장갑을 강화한 배로 진입을 감행했다.
+<PAGEKEY>
+<NEXTPAGE 020000>
+그러나, 허무하게도 실패.
+<PAGEKEY>
+<NEXTPAGE 020700>
+금단의 땅에 내려설 수는 있었으나<LINE>
+배는 부서지고<LINE>
+더 이상 돌아갈 수 없게 되었다…….
+<PAGEKEY>
+<NEXTPAGE 020100>
+금단의 땅・하편으로 계속
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 21>
+<END>
+
+[BLOCK: 003D]
+<FUNC 0100>
+<POS 001C009A1733>
+<FB05 0108>
+금단의 땅・하
+<PAGEKEY>
+<NEXTPAGE 020700>
+금단의 땅에 내렸으나<LINE>
+돌아갈 수 없게 된 우리는<LINE>
+어쩔 수 없이 앞으로 나아가기로 했다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+놀랍게도, 이 땅에는<LINE>
+리버드가 지상에서도<LINE>
+활동하고 있었고・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<PAGEKEY>
+<NEXTPAGE 020300>
+대부분의 장비를 잃은 우리는<LINE>
+엄청난 고전을 강요당했다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+그러나, 수많은 어려움을 극복하고,<LINE>
+드디어 고대의 유물을 발견했다・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<PAGEKEY>
+<NEXTPAGE 020100>
+공중에 떠 있는, 정체불명의 마름모꼴 물체다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+그러나, 우리의 능력은 거기까지가<LINE>
+한계였다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+의식이 급격하게 흐려지는 가운데<LINE>
+한 소녀의 그림자가 다가왔다・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<PAGEKEY>
+<NEXTPAGE 020100>
+그렇게, 느꼈다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+다시 의식을 되찾았을 때는<LINE>
+요숀카시의 교외에<LINE>
+쓰러져 있었다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+배를 잃은 우리가<LINE>
+그 땅에서 돌아올 수 있을 리가 없을 터・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<PAGEKEY>
+<NEXTPAGE 020100>
+어째서 우리가 살아남았는지는<LINE>
+지금까지도 알 수 없다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+그 후, 금단의 땅에서<LINE>
+조난한 자가<LINE>
+돌아온 적은 없다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+어째서 그때 우리만이 구조됐는가<LINE>
+수수께끼일 따름이다.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 21>
+<END>
+
+[BLOCK: 003E]
+<FUNC 0300>
+<POS 002E009A1433>
+<FB05 0108>
+록 발견・상<LINE>
+니노섬에 봉인된 유적…….
+<PAGEKEY>
+<NEXTPAGE 020300>
+그 누구도 발 들일 수 없는<LINE>
+봉인된 유적에서・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<PAGEKEY>
+<NEXTPAGE 020700>
+고대문명을 연구하기 위해<LINE>
+길드마스터의 허가도 받지 않고<LINE>
+조사하던 때・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<PAGEKEY>
+<NEXTPAGE 020300>
+들어가자마자<LINE>
+작고 신기한 마름모꼴 물체를 발견했다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+손을 대자, 마름모꼴 물체는<LINE>
+순식간에 형태가 무너지며 그 안에서<LINE>
+한 아기와 원숭이가 나타났다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+발견한 장소가 장소인 만큼<LINE>
+공공연하게 발표할 수도<LINE>
+없는 일이었기에・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<PAGEKEY>
+<NEXTPAGE 020100>
+이 남자 아기를<LINE>
+손주와 함께 키우기로 했다.
+<PAGEKEY>
+<NEXTPAGE 020100>
+록 발견・하편으로 계속
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 21>
+<END>
+
+[BLOCK: 003F]
+<FUNC 0100>
+<POS 0028009A1533>
+<FB05 0108>
+록 발견・하
+<PAGEKEY>
+<NEXTPAGE 020300>
+발견한 남자 아기에게는<LINE>
+록이라는 이름을 붙여주었다.
+<PAGEKEY>
+<NEXTPAGE 020000>
+손주인 롤과 합치면<LINE>
+록과 롤
+<PAGEKEY>
+<NEXTPAGE 020000>
+록큰롤
+<PAGEKEY>
+<NEXTPAGE 020000>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+<PAGEKEY>
+<NEXTPAGE 020000>
+살짝 말장난처럼 해봤다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+어쨌든 남자아이에게 록이라는 이름을 붙여<LINE>
+키워봤더니, 평범한 아이들과<LINE>
+전혀 다를 바가 없었다.
+<PAGEKEY>
+<NEXTPAGE 020100>
+지금은 완전히 우리 가족이 되었다.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 21>
+<END>
+
+[BLOCK: 0040]
+<FUNC 0100>
+<POS 0022009A1633>
+<FB05 0108>
+캐틀옥스섬・상
+<PAGEKEY>
+<NEXTPAGE 020700>
+지난 여행에서 우연히 찾은<LINE>
+캐틀옥스섬은 풍부한<LINE>
+지하자원으로 번영한 섬이었다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+섬에 있는 마을 지하에는<LINE>
+거대한 유적이 있었고 그 속 깊은 곳에는<LINE>
+전설로 내려오는 보물이 잠들어 있다고 한다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+거기서 우리는 섬의 보물을<LINE>
+노리고 온 공적 본 일가와<LINE>
+마주치게 되었다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+본 일가는 몇 번이나 당하면서도<LINE>
+질리지도 않고 록을 덮쳤지만<LINE>
+예외 없이 박살이 났다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+지금 생각해 보면<LINE>
+꽤 재미있는 녀석들이었다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+우리가 이렇게 여행을 계속하는 이상<LINE>
+어딘가에서 또 마주치는 일도 있겠지.
+<PAGEKEY>
+<NEXTPAGE 020100>
+캐틀옥스섬・하편으로 계속
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 21>
+<END>
+
+[BLOCK: 0041]
+<FUNC 0100>
+<POS 002E009A1433>
+<FB05 0108>
+캐틀옥스섬・하
+<PAGEKEY>
+<NEXTPAGE 020600>
+캐틀옥스 시장 아멜리아의 의뢰를 받아<LINE>
+록이 섬의 메인 던전에<LINE>
+잠입했을 때의 일이었다・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<PAGEKEY>
+<NEXTPAGE 020100>
+거기서 나의 눈에 들어온 것은
+<PAGEKEY>
+<NEXTPAGE 020700>
+먼 하늘에서 내려온<LINE>
+거대한 기둥과도 같은 건축물이었다.<LINE>
+그것은 도대체 무엇이었을까.
+<PAGEKEY>
+<NEXTPAGE 020700>
+그 무렵, 유적 안에서도<LINE>
+무언가가 일어나고 있었던 듯하지만<LINE>
+모든 것은 록의 가슴 속에 있겠지・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<PAGEKEY>
+<NEXTPAGE 020300>
+어쩌면 록의 출생의 비밀과<LINE>
+관련된 일이었을지도 모른다.
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB0C>
+<FB0E 21>
+<END>
+
+[BLOCK: 0042]
+<FUNC 0200>
+<POS 005E009A0C13>
+<FB05 0108>
+배럴 박사의 연구 파일<LINE>
+
+<VWAIT 00>
+<SEL 00>
+배럴의 짧은 메모<LINE>
+
+<SEL 01>
+그만둔다
+<FB39 0200010002>
+<FB11 03432121>
+<END>
+
+[BLOCK: 0043]
+<FUNC 0000>
+<VWAIT 00>
+<POS 004600851005>
+<FB05 0108>
+<SEL 00>
+디그 아웃이란！？<LINE>
+
+<SEL 01>
+던전에 관하여<LINE>
+
+<SEL 02>
+디플렉터란 무엇인가！？<LINE>
+
+<SEL 03>
+리버드란！？<LINE>
+
+<SEL 04>
+그만둔다
+<FB39 0500000001000200030004>
+<FB11 06444546474242>
+<END>
+
+[BLOCK: 0044]
+<FUNC 0300>
+<POS 002E009A1433>
+<FB05 0108>
+고대 유적에 잠들어 있는 보물이나<LINE>
+지하자원을 채굴하는 행위.
+<PAGEKEY>
+<NEXTPAGE 020700>
+유적으로 잠입하는 메인 다이버와<LINE>
+지상에서 지원하는 오퍼레이터의<LINE>
+신뢰 관계가 디그 아웃에는 필수적이다.
+<ENDKEY>
+<FB31>
+<FB26 0680>
+<FB0C>
+<FB0E 43>
+<END>
+
+[BLOCK: 0045]
+<FUNC 0300>
+<POS 0028009A1533>
+<FB05 0108>
+던전이란, 고대인이 만든<LINE>
+유적을 말한다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+유적 안에는 아직도 쓸만한 도구나<LINE>
+보물이 잠들어 있으나
+<PAGEKEY>
+<NEXTPAGE 020700>
+유적 지킴이인 리버드가<LINE>
+우글대기 때문에 매우 위험하다.<LINE>
+유적에 들어가는 일은 목숨을 거는 일이다.
+<ENDKEY>
+<FB31>
+<FB26 0681>
+<FB0C>
+<FB0E 43>
+<END>
+
+[BLOCK: 0046]
+<FUNC 0100>
+<POS 0046009A1033>
+<FB05 0108>
+지하에 잠든 광물 자원에 관하여
+<PAGEKEY>
+<NEXTPAGE 020700>
+작은 것은 화폐로서<LINE>
+큰 것은 에너지 자원으로서<LINE>
+사람들의 삶을 지탱하고 있다.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 43>
+<END>
+
+[BLOCK: 0047]
+
+
+[BLOCK: 0048]
+
+
+[BLOCK: 0049]
+
+
+[BLOCK: 004A]
+
+
+[BLOCK: 004B]
+
+
+[BLOCK: 004C]
+
+
+[BLOCK: 004D]
+
+
+[BLOCK: 004E]
+
+
+[BLOCK: 004F]
+
+
+[BLOCK: 0050]
+
+
+[BLOCK: 0051]
+
+
+[BLOCK: 0052]
+
+
+[BLOCK: 0053]
+
+
+[BLOCK: 0054]
+
+
+[BLOCK: 0055]
+
+
+[BLOCK: 0056]
+
+
+[BLOCK: 0057]
+
+
+[BLOCK: 0058]
+
+
+[BLOCK: 0059]
+
+
+[BLOCK: 005A]
+
+
+[BLOCK: 005B]
+
+
+[BLOCK: 005C]
+
+
+[BLOCK: 005D]
+
+
+[BLOCK: 005E]
+
+
+[BLOCK: 005F]
+
+
+[BLOCK: 0060]
+
+
+[BLOCK: 0061]
+
+
+[BLOCK: 0062]
+
+
+[BLOCK: 0063]
+<FUNC 0700>
+<POS 0034009A1333>
+<FB05 0108>
+고대인이 만든 것으로 보이는<LINE>
+유적의 지킴이.<LINE>
+정체는 아직도 불명이다.
+<PAGEKEY>
+<NEXTPAGE 020200>
+디그 아우터에게 있어서<LINE>
+천적이라고 할 수 있는 존재일 것이다.
+<ENDKEY>
+<FB31>
+<FB0C>
+<FB0E 43>
+<END>
+
+[BLOCK: 0064]
+<FUNC 0300>
+<POS 001C009A1733>
+<FB05 0108>
+……갑작스럽게 뮐러로부터 편지가 왔다.<LINE>
+금단의 땅을 다시 한번 디그 아웃<LINE>
+하고 싶다는 내용이었다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+그때로부터 ３０년이 흘렀지만<LINE>
+녀석은 아직 금단의 땅에 대한<LINE>
+미련을 버리지 못한 듯하다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+고대문명의 위험성에 대해서는<LINE>
+셀 수도 없이 언급했지만<LINE>
+전혀 들으려 하지 않았나 보다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+이미 가진 돈을 다 털어<LINE>
+거대한 배를 만들었다고 한다.<LINE>
+더 이상 그를 말릴 수 없다는 사실을 각오한다.
+<PAGEKEY>
+<NEXTPAGE 020600>
+그렇다고는 해도, 이번 디그 아웃이<LINE>
+내 딸과 사위의 죽음을<LINE>
+확인하는 일이 되지 않기만을 바랄 뿐이다.
+<PAGEKEY>
+<NEXTPAGE 020000>
+만약 그런 일이 벌어진다면<LINE>
+손주인 롤이 너무 불쌍하지 않은가.
+<PAGEKEY>
+<NEXTPAGE 020300>
+그 아이는 부모님을 만나고 싶다는 마음만으로<LINE>
+위대한 유산을 쫓아왔기 때문이다.
+<PAGEKEY>
+<NEXTPAGE 020100>
+내일 뮐러를 만나러 갈 예정이다.<LINE>
+어떻게 될 것인가・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+<PAGEKEY>
+<NEXTPAGE 020100>
+일기는 여기서 끝났다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0065]
+<FUNC 0100>
+<POS 003A009A1233>
+<FB05 0108>
+『・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+아버지께,<LINE>
+마틸다 캐스켓 올림.
+<PAGEKEY>
+<NEXTPAGE 020500>
+예전 아버지께서<LINE>
+디그 아웃에 실패했던<LINE>
+그 금단의 땅에
+<PAGEKEY>
+<NEXTPAGE 020100>
+저도 가볼까 해요.
+<PAGEKEY>
+<NEXTPAGE 020700>
+옛날부터 마치 동화책을 읽어주시듯이<LINE>
+그 땅의 이야기를<LINE>
+제게 들려주시곤 했죠.
+<PAGEKEY>
+<NEXTPAGE 020100>
+폭풍과 눈으로 가로막힌 땅.
+<PAGEKEY>
+<NEXTPAGE 020300>
+리버드가 수호하는<LINE>
+하늘에 떠 있는 수수께끼의 마름모꼴 물체.
+<PAGEKEY>
+<NEXTPAGE 020300>
+아버지께서 의식을 잃기 전에<LINE>
+보았다고 하신 정체불명의 소녀.
+<PAGEKEY>
+<NEXTPAGE 020100>
+그것들을 떠올리면<LINE>
+도저히 가만히 있을 수가 없었어요.
+<PAGEKEY>
+<NEXTPAGE 020700>
+남편 배너가 그 섬에 내릴 수 있는<LINE>
+배를 만들어 주었어요.<LINE>
+내일, 계획을 실행할 생각이에요.
+<PAGEKEY>
+<NEXTPAGE 020000>
+딸 롤은 이웃집에<LINE>
+맡겨두었어요.
+<PAGEKEY>
+<NEXTPAGE 020000>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+<PAGEKEY>
+<NEXTPAGE 020500>
+그럴 일은 없을 거라 생각합니다만<LINE>
+만일의 경우에는<LINE>
+롤을 잘 부탁드려요.
+<PAGEKEY>
+<NEXTPAGE 020300>
+그러면 아버지, 몸 건강하세요.<LINE>
+성공담을 기대해 주세요.』
+<ENDKEY>
+<FB31>
+<END>
+

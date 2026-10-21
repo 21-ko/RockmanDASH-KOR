@@ -1,0 +1,596 @@
+[Block 00, String: 0000-0026]
+<WIN 70003C000801>
+<DECOR 0008>
+가짜 메세지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 0026-00D0]
+<WIN 4000A2001003>
+<DECOR 0008>
+<GET 2D00>「오오，자네인가…<NEXT>
+
+<CLEAR 0400>
+　공적 놈들… 엄청난 무장 때문에<LINE>
+　가까이 갈 수가 없어！<NEXT>
+
+<CLEAR 0400>
+　이대로라면，저항 한번 못하고<LINE>
+　비보를 빼앗기게 생겼군…<LINE>
+　으그그극…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 00D0-0166]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 섬에서는 지금까지 이 정도의<LINE>
+　사건은 일어난 적 없었어…<NEXT>
+
+<CLEAR 0400>
+　경부님들이라 할지라도<LINE>
+　그 녀석들과 싸울만한<LINE>
+　무기를 가지고 있을리가…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 0166-01D2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적 놈들이 이렇게까지<LINE>
+　강할 줄이야…<NEXT>
+
+<CLEAR 0400>
+　단순한 악당이라고 치부하기엔<LINE>
+　차원이 너무 다릅니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 01D2-026A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 안전할 줄 알았는데…<NEXT>
+
+<CLEAR 0400>
+　도대체 어디로<LINE>
+　도망가야 할런지<NEXT>
+
+<CLEAR 0400>
+　이게 소문으로만 듣던<LINE>
+　대재앙이라는 걸까…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 026A-02E6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저희는 시청 직원입니다<NEXT>
+
+<CLEAR 0400>
+　이 근처<LINE>
+　건물을 조사하러 왔다가<LINE>
+　피곤해져서 쉬고 있어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 02E6-0320]
+<WIN 4000A2001003>
+<DECOR 0008>
+「햇볕에 타버릴 것 같아…<LINE>
+　싫다 정말<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 0320-0322]
+
+
+[Block 08, String: 0322-0324]
+
+
+[Block 09, String: 0324-0326]
+
+
+[Block 0A, String: 0326-0328]
+
+
+[Block 0B, String: 0328-032A]
+
+
+[Block 0C, String: 032A-032C]
+
+
+[Block 0D, String: 032C-032E]
+
+
+[Block 0E, String: 032E-0330]
+
+
+[Block 0F, String: 0330-0332]
+
+
+[Block 10, String: 0332-0334]
+
+
+[Block 11, String: 0334-0336]
+
+
+[Block 12, String: 0336-0338]
+
+
+[Block 13, String: 0338-033A]
+
+
+[Block 14, String: 033A-033C]
+
+
+[Block 15, String: 033C-033E]
+
+
+[Block 16, String: 033E-0340]
+
+
+[Block 17, String: 0340-0342]
+
+
+[Block 18, String: 0342-0344]
+
+
+[Block 19, String: 0344-0346]
+
+
+[Block 1A, String: 0346-0348]
+
+
+[Block 1B, String: 0348-034A]
+
+
+[Block 1C, String: 034A-034C]
+
+
+[Block 1D, String: 034C-034E]
+
+
+[Block 1E, String: 034E-0350]
+
+
+[Block 1F, String: 0350-0352]
+
+
+[Block 20, String: 0352-0354]
+
+
+[Block 21, String: 0354-0356]
+
+
+[Block 22, String: 0356-0358]
+
+
+[Block 23, String: 0358-035A]
+
+
+[Block 24, String: 035A-035C]
+
+
+[Block 25, String: 035C-035E]
+
+
+[Block 26, String: 035E-0360]
+
+
+[Block 27, String: 0360-0362]
+
+
+[Block 28, String: 0362-0364]
+
+
+[Block 29, String: 0364-0366]
+
+
+[Block 2A, String: 0366-0368]
+
+
+[Block 2B, String: 0368-036A]
+
+
+[Block 2C, String: 036A-036C]
+
+
+[Block 2D, String: 036C-036E]
+
+
+[Block 2E, String: 036E-0370]
+
+
+[Block 2F, String: 0370-0372]
+
+
+[Block 30, String: 0372-0374]
+
+
+[Block 31, String: 0374-0376]
+
+
+[Block 32, String: 0376-0378]
+
+
+[Block 33, String: 0378-037A]
+
+
+[Block 34, String: 037A-037C]
+
+
+[Block 35, String: 037C-037E]
+
+
+[Block 36, String: 037E-0380]
+
+
+[Block 37, String: 0380-0382]
+
+
+[Block 38, String: 0382-0384]
+
+
+[Block 39, String: 0384-0386]
+
+
+[Block 3A, String: 0386-0388]
+
+
+[Block 3B, String: 0388-038A]
+
+
+[Block 3C, String: 038A-038C]
+
+
+[Block 3D, String: 038C-038E]
+
+
+[Block 3E, String: 038E-0390]
+
+
+[Block 3F, String: 0390-0392]
+
+
+[Block 40, String: 0392-0394]
+
+
+[Block 41, String: 0394-0396]
+
+
+[Block 42, String: 0396-0398]
+
+
+[Block 43, String: 0398-039A]
+
+
+[Block 44, String: 039A-039C]
+
+
+[Block 45, String: 039C-039E]
+
+
+[Block 46, String: 039E-03A0]
+
+
+[Block 47, String: 03A0-03A2]
+
+
+[Block 48, String: 03A2-03A4]
+
+
+[Block 49, String: 03A4-03A6]
+
+
+[Block 4A, String: 03A6-03A8]
+
+
+[Block 4B, String: 03A8-03AA]
+
+
+[Block 4C, String: 03AA-03AC]
+
+
+[Block 4D, String: 03AC-03AE]
+
+
+[Block 4E, String: 03AE-03B0]
+
+
+[Block 4F, String: 03B0-03B2]
+
+
+[Block 50, String: 03B2-03B4]
+
+
+[Block 51, String: 03B4-03B6]
+
+
+[Block 52, String: 03B6-03B8]
+
+
+[Block 53, String: 03B8-03BA]
+
+
+[Block 54, String: 03BA-03BC]
+
+
+[Block 55, String: 03BC-03BE]
+
+
+[Block 56, String: 03BE-03C0]
+
+
+[Block 57, String: 03C0-03C2]
+
+
+[Block 58, String: 03C2-03C4]
+
+
+[Block 59, String: 03C4-03C6]
+
+
+[Block 5A, String: 03C6-03C8]
+
+
+[Block 5B, String: 03C8-03CA]
+
+
+[Block 5C, String: 03CA-03CC]
+
+
+[Block 5D, String: 03CC-03CE]
+
+
+[Block 5E, String: 03CE-03D0]
+
+
+[Block 5F, String: 03D0-03D2]
+
+
+[Block 60, String: 03D2-03D4]
+
+
+[Block 61, String: 03D4-03D6]
+
+
+[Block 62, String: 03D6-03D8]
+
+
+[Block 63, String: 03D8-03DA]
+
+
+[Block 64, String: 03DA-03DC]
+
+
+[Block 65, String: 03DC-03DE]
+
+
+[Block 66, String: 03DE-03E0]
+
+
+[Block 67, String: 03E0-03E2]
+
+
+[Block 68, String: 03E2-03E4]
+
+
+[Block 69, String: 03E4-03E6]
+
+
+[Block 6A, String: 03E6-03E8]
+
+
+[Block 6B, String: 03E8-03EA]
+
+
+[Block 6C, String: 03EA-03EC]
+
+
+[Block 6D, String: 03EC-03EE]
+
+
+[Block 6E, String: 03EE-03F0]
+
+
+[Block 6F, String: 03F0-03F2]
+
+
+[Block 70, String: 03F2-03F4]
+
+
+[Block 71, String: 03F4-03F6]
+
+
+[Block 72, String: 03F6-03F8]
+
+
+[Block 73, String: 03F8-03FA]
+
+
+[Block 74, String: 03FA-03FC]
+
+
+[Block 75, String: 03FC-03FE]
+
+
+[Block 76, String: 03FE-0400]
+
+
+[Block 77, String: 0400-0402]
+
+
+[Block 78, String: 0402-0404]
+
+
+[Block 79, String: 0404-0406]
+
+
+[Block 7A, String: 0406-0408]
+
+
+[Block 7B, String: 0408-040A]
+
+
+[Block 7C, String: 040A-040C]
+
+
+[Block 7D, String: 040C-040E]
+
+
+[Block 7E, String: 040E-0410]
+
+
+[Block 7F, String: 0410-0412]
+
+
+[Block 80, String: 0412-0414]
+
+
+[Block 81, String: 0414-0416]
+
+
+[Block 82, String: 0416-0418]
+
+
+[Block 83, String: 0418-041A]
+
+
+[Block 84, String: 041A-041C]
+
+
+[Block 85, String: 041C-0442]
+<WIN 400024001001>
+<DECOR 0008>
+「가로등이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 86, String: 0442-046C]
+<WIN 400024001001>
+<DECOR 0008>
+「소화전이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 87, String: 046C-048C]
+<WIN 400024001001>
+<DECOR 0008>
+「벤치다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 88, String: 048C-048E]
+
+
+[Block 89, String: 048E-0490]
+
+
+[Block 8A, String: 0490-0492]
+
+
+[Block 8B, String: 0492-04BC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 앞은 야스마의 숲<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 8C, String: 04BC-04BE]
+
+
+[Block 8D, String: 04BE-04C0]
+
+
+[Block 8E, String: 04C0-04C2]
+
+
+[Block 8F, String: 04C2-04C4]
+
+
+[Block 90, String: 04C4-04C6]
+
+
+[Block 91, String: 04C6-04C8]
+
+
+[Block 92, String: 04C8-04CA]
+
+
+[Block 93, String: 04CA-04CC]
+
+
+[Block 94, String: 04CC-04CE]
+
+
+[Block 95, String: 04CE-04D0]
+
+
+[Block 96, String: 04D0-055E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 집은 부유하지만<LINE>
+　돈을 가지고<LINE>
+　피난 중입니다<NEXT>
+
+<CLEAR 0400>
+　그러니 빈집에 들어오지 마시오<NEXT>
+
+<CLEAR 0400>
+　라는 쪽지가 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 97, String: 055E-05A6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「똑똑<NEXT>
+
+<CLEAR 0400>
+　・・・<NEXT>
+
+<CLEAR 0400>
+　아무도 없는 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 98, String: 05A6-05A8]
+
+
+[Block 99, String: 05A8-05AA]
+
+
+[Block 9A, String: 05AA-05AC]
+
+
+[Block 9B, String: 05AC-05AE]
+
+
+[Block 9C, String: 05AE-0606]
+<WIN 4000A2001003>
+<DECOR 0008>
+「최고의 전망이 있는<LINE>
+　당신의 도시를 아름답게<NEXT>
+
+<CLEAR 0400>
+　이라고 적혀있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 9D, String: 0606-0608]
+
+

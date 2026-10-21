@@ -1,0 +1,1294 @@
+[Block 00, String: 0000-0024]
+<03E8 0000640000000A000000010000004F00>
+<03B4 00000000C400C700D9000000C8490400>
+
+
+[Block 01, String: 0024-003E]
+<0378 0000><WIN 820028000401>
+서브화면<0378 0100><0383>
+
+[Block 02, String: 003E-009A]
+<0378 0000><WIN 52003C000F0D>
+왼손　　　오른손　　머리　　　<LINE>
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+조이　　　　　　　　점프　<0378 0100><0383>
+
+[Block 03, String: 009A-009A]
+
+
+[Block 04, String: 009A-00D2]
+<NO_CHAR_SFX><0378 0000><WIN 580074000C01>
+<DECOR 0704>
+저장 데이터가 없습니다<LINE>
+<PAUSE 2D00><NEXT>
+
+<0378 0100><0383>
+
+[Block 05, String: 00D2-017C]
+<NO_CHAR_SFX><0378 0000><WIN 400074001007>
+<DECOR 0704>
+저장 데이터가 없습니다<LINE>
+<LINE>
+또는 데이터를 저장하기 위한<LINE>
+빈 공간이 없습니다<LINE>
+<LINE>
+데이터 저장을 위해서<LINE>
+１블럭의 빈 공간이 필요합니다<LINE>
+<PAUSE 2D00><NEXT>
+
+<0378 0100><0383>
+
+[Block 06, String: 017C-017E]
+<037F>
+
+
+[Block 07, String: 017E-0196]
+<NO_CHAR_SFX><0378 0000><WIN 160020001701>
+<DECOR 0204>
+<0378 0100><0383>
+
+[Block 08, String: 0196-01C4]
+<NO_CHAR_SFX><0378 0000><WIN E600C8000C02>
+ＳＡＭＰＬＥ<LINE>
+　１０．２２<0378 0100><0383>
+
+[Block 09, String: 01C4-01EC]
+<NO_CHAR_SFX><0378 0000><WIN 340020001201>
+<DECOR 0704>
+<SPACE 4B00>데이터 저장<0378 0100><0383>
+
+[Block 0A, String: 01EC-0228]
+<NO_CHAR_SFX><0378 0000><WIN 340044001201>
+<DECOR 0704>
+어떤<SPACE 0400>메모리카드에<SPACE 0400>세이브<SPACE 0400>하겠습니까？<0378 0100><0383>
+
+[Block 0B, String: 0228-029E]
+<NO_CHAR_SFX><0378 0000><WIN 640074000A06>
+<DECOR 0704>
+<LINES 0600>
+<SPACE 0600><SEL 00214F00>메모리카드１<LINE>
+<LINE>
+<SPACE 0600><SEL 11024F00>메모리카드２<LINE>
+<LINE>
+<SPACE 0600><SEL 22104F00>불러오기 취소<0385 80FFFFFF>
+<0378 0100><0383>
+
+[Block 0C, String: 029E-02C6]
+<NO_CHAR_SFX><0378 0000><WIN 340044000801>
+<DECOR 0704>
+메모리카드１<0378 0100><0383>
+
+[Block 0D, String: 02C6-02EE]
+<NO_CHAR_SFX><0378 0000><WIN 340044000801>
+<DECOR 0704>
+메모리카드２<0378 0100><0383>
+
+[Block 0E, String: 02EE-0320]
+<NO_CHAR_SFX><0378 0000><WIN 520074000D01>
+<DECOR 0704>
+데이터를 체크하고 있습니다<0378 0100><0383>
+
+[Block 0F, String: 0320-0358]
+<NO_CHAR_SFX><0378 0000><WIN 520074000D01>
+<DECOR 0704>
+메모리카드가 없습니다<PAUSE 2D00><NEXT>
+
+<0378 0100><0383>
+
+[Block 10, String: 0358-03E0]
+<NO_CHAR_SFX><0378 0000><WIN 460074000F05>
+<DECOR 0704>
+데이터를 저장하기 위한<LINE>
+빈 공간이 없습니다<LINE>
+<LINE>
+데이터를 저장하기 위해서<LINE>
+１블럭의 빈 공간이 필요합니다<LINE>
+<PAUSE 2D00><NEXT>
+
+<0378 0100><0383>
+
+[Block 11, String: 03E0-040C]
+<NO_CHAR_SFX><0378 0000><WIN 520074000D01>
+<DECOR 0704>
+불러오기 오류<PAUSE 2D00><NEXT>
+
+<0378 0100><0383>
+
+[Block 12, String: 040C-049A]
+<NO_CHAR_SFX><0378 0000><WIN 520074000D07>
+<DECOR 0704>
+메모리 카드가<LINE>
+포맷 되어있지않습니다<LINE>
+<LINE>
+포맷 하시겠습니까？<LINE>
+<LINE>
+<SPACE 3000><SEL 00014F00>네　<LINE>
+<SPACE 3000><SEL 11014F00>아니오<0385 81FFFFFF>
+<0378 0100><0383>
+
+[Block 13, String: 049A-04C8]
+<NO_CHAR_SFX><0378 0000><WIN 520074000D01>
+<DECOR 0704>
+포맷 중입니다<0378 0100><0383>
+
+[Block 14, String: 04C8-04FC]
+<NO_CHAR_SFX><0378 0000><WIN 520074000D01>
+<DECOR 0704>
+포맷을 완료했습니다<NEXT>
+
+<0378 0100><0383>
+
+[Block 15, String: 04FC-0548]
+<NO_CHAR_SFX><0378 0000><WIN 4C0074000E02>
+<DECOR 0704>
+포맷을<LINE>
+실패했습니다<PAUSE 2D00><NEXT>
+
+<0378 0100><0383>
+
+[Block 16, String: 0548-0660]
+<NO_CHAR_SFX><0378 0000><WIN 220074001506>
+<DECOR 0704>
+<SEL 00514F00>１：마을 변두리 숲　　　９９：９９：９９<LINE>
+<SEL 11024F00>２：상점가　　　　　　　９９：９９：９９<LINE>
+<SEL 22134F00>３：　　　　　　　　　　ーー：ーー：ーー<LINE>
+<SEL 33244F00>４：　　　　　　　　　　ーー：ーー：ーー<LINE>
+<SEL 44354F00>５：　　　　　　　　　　ーー：ーー：ーー<LINE>
+<SEL 55404F00>취소<0378 0100><03C7>
+
+
+[Block 17, String: 0660-06A2]
+<NO_CHAR_SFX><0378 0000><WIN 280074001401>
+<DECOR 0704>
+ＸＸＸＸＸＸＸＸＸＸＸＸ？？：？？：？？<LINE>
+<0378 0100><0383>
+
+[Block 18, String: 06A2-06FC]
+<NO_CHAR_SFX><0378 0000><WIN 5200A0000D04>
+<DECOR 0704>
+여기에 저장 하겠습니까？<LINES 1400>
+<SPACE 3000><SEL 00014F00>네　<LINE>
+<SPACE 3000><SEL 11014F00>아니오<0385 80FFFFFF>
+<0378 0100><0383>
+
+[Block 19, String: 06FC-0724]
+<NO_CHAR_SFX><0378 0000><WIN 7000A0000801>
+<DECOR 0704>
+저장 중입니다<0378 0100><0383>
+
+[Block 1A, String: 0724-074E]
+<NO_CHAR_SFX><0378 0000><WIN 7000A0000801>
+<DECOR 0704>
+저장 되었습니다<NEXT>
+
+<0378 0100><0383>
+
+[Block 1B, String: 074E-079C]
+<NO_CHAR_SFX><0378 0000><WIN 4600A0000F02>
+<DECOR 0704>
+데이터 저장에<LINE>
+실패했습니다<PAUSE 2D00><NEXT>
+
+<0378 0100><0383>
+
+[Block 1C, String: 079C-07E0]
+<NO_CHAR_SFX><0378 0000><WIN 520074000D02>
+<DECOR 0704>
+정상적으로 인식할 수 없는<LINE>
+데이터가 있습니다<PAUSE 2D00><NEXT>
+
+<0378 0100><0383>
+
+[Block 1D, String: 07E0-0808]
+<NO_CHAR_SFX><0378 0000><WIN 200030000801>
+<DECOR 0704>
+？？：？？：？？<0378 0100><0383>
+
+[Block 1E, String: 0808-0830]
+<NO_CHAR_SFX><0378 0000><WIN 340020001201>
+<DECOR 0704>
+<SPACE 5400>불러오기<0378 0100><0383>
+
+[Block 1F, String: 0830-086E]
+<NO_CHAR_SFX><0378 0000><WIN 2E0044001301>
+<DECOR 0704>
+어느 메모리카드에서 불러오겠습니까？<0378 0100><0383>
+
+[Block 20, String: 086E-08E4]
+<NO_CHAR_SFX><0378 0000><WIN 640074000A06>
+<DECOR 0704>
+<LINES 0600>
+<SPACE 0600><SEL 00214F00>메모리카드１<LINE>
+<LINE>
+<SPACE 0600><SEL 11024F00>메모리카드２<LINE>
+<LINE>
+<SPACE 0600><SEL 22104F00>불러오기 취소<0385 80FFFFFF>
+<0378 0100><0383>
+
+[Block 21, String: 08E4-0944]
+<NO_CHAR_SFX><0378 0000><WIN 4C00A0000E04>
+<DECOR 0704>
+이 데이터를 불러오겠습니까？<LINES 1400>
+<SPACE 3300><SEL 00014F00>네　<LINE>
+<SPACE 3300><SEL 11014F00>아니오<0385 80FFFFFF>
+<0378 0100><0383>
+
+[Block 22, String: 0944-096C]
+<NO_CHAR_SFX><0378 0000><WIN 7000A0000801>
+<DECOR 0704>
+불러오는 중입니다<0378 0100><0383>
+
+[Block 23, String: 096C-0992]
+<NO_CHAR_SFX><0378 0000><WIN 7000A0000801>
+<DECOR 0704>
+불러오기에 성공했습니다<CLOSE 0F00>
+
+
+[Block 24, String: 0992-09E0]
+<NO_CHAR_SFX><0378 0000><WIN 4600A0000F02>
+<DECOR 0704>
+데이터 불러오기에<LINE>
+실패했습니다<PAUSE 2D00><NEXT>
+
+<0378 0100><0383>
+
+[Block 25, String: 09E0-0A2A]
+<NO_CHAR_SFX><0378 0000><WIN 520074000D02>
+<DECOR 0704>
+메모리카드가<LINE>
+포맷 된 상태입니다<PAUSE 2D00><NEXT>
+
+<0378 0100><0383>
+
+[Block 26, String: 0A2A-0A54]
+<NO_CHAR_SFX><0378 0000><WIN 1C0020001601>
+<DECOR 0204>
+<SPACE 6C00>　설정　<0378 0100><0383>
+
+[Block 27, String: 0A54-0C20]
+<CALL 0125><NO_CHAR_SFX><0378 0000><WIN 1C003E001609>
+<DECOR 0204>
+<LINES 0300>
+<SPACE 0C00><039B 005102022728F3F4>　방향전환　　<OPTION 0201>　방향키　<039E 8000>
+<OPTION 0200>　Ｌ・Ｒ버튼<039E 8000>
+<LINES 1200>
+<SPACE 0C00><039B 11020302292AF5F6>　상하전환　　<OPTION 0301>　일반　　<039E 8000>
+<OPTION 0300>　반전<039E 8000>
+<LINES 1200>
+<SPACE 0C00><039B 221304022B2C2B2C>　시점이동　　<OPTION 0401>　방향키　<039E 8000>
+<OPTION 0400>　아날로그스틱<039E 8000>
+<LINES 1200>
+<SPACE 0C00><039B 332405022D2E2D2E>　지도표시　　<OPTION 0500>　ＯＮ　　<039E 8000>
+<OPTION 0501>　ＯＦＦ　<039E 8000>
+<LINES 1200>
+<SPACE 0C00><039B 443506022F302F30>　록온　　　　<OPTION 0600>　수동　　<039E 8000>
+<OPTION 0601>　자동　　<039E 8000>
+<LINES 1200>
+<SPACE 0C00><039B 55400702F231F231>　화면설정　　<OPTION 0700>　와이드　<039E 8000>
+<OPTION 0701>　일반<039E 8000>
+<LINES 1200>
+<038C 80FFFFFFFFFFFFFF><0378 0100><0383>
+
+[Block 28, String: 0C20-0C7C]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>Ｌ・Ｒ버튼으로 방향전환，<LINE>
+<SPACE 0600>방향키 좌，우로 측면 이동합니다<0378 0100><0383>
+
+[Block F4, String: 0C7C-0CDE]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>Ｌ・Ｒ버튼으로 방향전환，<LINE>
+<SPACE 0600>아날로그 스틱 좌，우로 측면이동합니다<0378 0100><0383>
+
+[Block 29, String: 0CDE-0D3A]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>좌，우 방향키로 방향전환，<LINE>
+<SPACE 0600>Ｌ・Ｒ버튼으로 측면이동합니다<0378 0100><0383>
+
+[Block F5, String: 0D3A-0D9C]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>좌，우 아날로그 스틱으로 방향전환，<LINE>
+<SPACE 0600>Ｌ・Ｒ버튼으로 측면이동합니다<0378 0100><0383>
+
+[Block 2A, String: 0D9C-0E00]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>아날로그 스틱으로，주변을 둘러봅니다<LINE>
+<SPACE 0600>위를<SPACE 0200>눌러<SPACE 0200>아래를<SPACE 0200>보고，아래를<SPACE 0200>눌러<SPACE 0200>위를<SPACE 0200>봅니다<0378 0100><0383>
+
+[Block F6, String: 0E00-0E5E]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>방향키로，주변을 둘러봅니다<LINE>
+<SPACE 0600>위를<SPACE 0200>눌러<SPACE 0200>아래를<SPACE 0200>보고，아래를<SPACE 0200>눌러<SPACE 0200>위를<SPACE 0200>봅니다<0378 0100><0383>
+
+[Block 2B, String: 0E5E-0EC2]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>아날로그 스틱으로，주변을 둘러봅니다<LINE>
+<SPACE 0600>위를<SPACE 0200>눌러<SPACE 0200>위를<SPACE 0200>보고，아래를<SPACE 0200>눌러<SPACE 0200>아래를<SPACE 0200>봅니다<0378 0100><0383>
+
+[Block F7, String: 0EC2-0F20]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>방향키로，주변을 둘러봅니다<LINE>
+<SPACE 0600>위를<SPACE 0200>눌러<SPACE 0200>위를<SPACE 0200>보고，아래를<SPACE 0200>눌러<SPACE 0200>아래를<SPACE 0200>봅니다<0378 0100><0383>
+
+[Block 2C, String: 0F20-0F80]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>아날로그 스틱으로 시점을 조작，<LINE>
+<SPACE 0600>방향키로 플레이어를 조작합니다<LINE>
+<0378 0100><0383>
+
+[Block 2D, String: 0F80-0FE0]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>방향키로 시점을 조작，<LINE>
+<SPACE 0600>아날로그 스틱으로 플레이어를 조작합니다<LINE>
+<0378 0100><0383>
+
+[Block 2E, String: 0FE0-1020]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>지하 던전에서 지도를 표시합니다<0378 0100><0383>
+
+[Block 2F, String: 1020-1062]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>지하 던전에서 지도를 숨깁니다<0378 0100><0383>
+
+[Block 30, String: 1062-10C0]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>Ｌ버튼과 Ｒ버튼을 동시에 누르면，<LINE>
+<SPACE 0600>적을 록온 합니다<LINE>
+<0378 0100><0383>
+
+[Block 31, String: 10C0-1136]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>Ｌ버튼을 누르고 Ｒ버튼을 누르지않아도，<LINE>
+<SPACE 0600>적을 자동적으로 록온 합니다<LINE>
+<0378 0100><0383>
+
+[Block F3, String: 1136-117A]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>게임 화면이，스크린에 꽉차게 표시됩니다<0378 0100><0383>
+
+[Block 32, String: 117A-11DC]
+<NO_CHAR_SFX><0378 0000><WIN 1C00BC001602>
+<DECOR 0204>
+<SPACE 0600>＂플레이스테이션＂판과 동일하게，<LINE>
+<SPACE 0600>화면 비율을 재현한 설정입니다<LINE>
+<0378 0100><0383>
+
+[Block 33, String: 11DC-1268]
+<NO_CHAR_SFX><0378 0000><WIN 700050000806>
+<DECOR 0204>
+<SEL 00514F00>일반 아이템<LINE>
+<SEL 11024F00>키 아이템<LINE>
+<SEL 22134F00>파츠 장비<LINE>
+<SEL 33244F00>특수 무기<LINE>
+<SEL 44354F00>설정<LINE>
+<SEL 55404F00>종료<03C4 02DD><0385 80FFFFFFFFFFFFFF>
+<0378 0100><0383>
+
+[Block 34, String: 1268-1268]
+
+
+[Block 35, String: 1268-1268]
+
+
+[Block 36, String: 1268-126A]
+<037F>
+
+
+[Block 37, String: 126A-1280]
+블래스트 유닛ＳＰ<037F>
+
+
+[Block 38, String: 1280-1296]
+스나이프 유닛ＳＰ<037F>
+
+
+[Block 39, String: 1296-12AA]
+하이파워 유닛<037F>
+
+
+[Block 3A, String: 12AA-12BC]
+스나이퍼 레인지<037F>
+
+
+[Block 3B, String: 12BC-12CE]
+터보 배터리<037F>
+
+
+[Block 3C, String: 12CE-12E2]
+파워 라이저ＳＰ<037F>
+
+
+[Block 3D, String: 12E2-12F4]
+레인지 업ＳＰ<037F>
+
+
+[Block 3E, String: 12F4-1308]
+터보 차지ＳＰ<037F>
+
+
+[Block 3F, String: 1308-131A]
+블래스트 유닛<037F>
+
+
+[Block 40, String: 131A-132C]
+스나이프 유닛<037F>
+
+
+[Block 41, String: 132C-1342]
+파워 라이저 플러스<037F>
+
+
+[Block 42, String: 1342-1356]
+레인지 업 플러스<037F>
+
+
+[Block 43, String: 1356-136C]
+터보 차지 플러스<037F>
+
+
+[Block 44, String: 136C-137C]
+파워 라이저<037F>
+
+
+[Block 45, String: 137C-138A]
+레인지 업<037F>
+
+
+[Block 46, String: 138A-139A]
+터보 차지<037F>
+
+
+[Block 47, String: 139A-13AE]
+맥시멈 버스터<037F>
+
+
+[Block 48, String: 13AE-13C0]
+파워스트림<037F>
+
+
+[Block 49, String: 13C0-13D4]
+블래스트 유닛Ｒ<037F>
+
+
+[Block 4A, String: 13D4-13EA]
+버스터 유닛ＳＰ<037F>
+
+
+[Block 4B, String: 13EA-1400]
+올라운더ＳＰ<037F>
+
+
+[Block 4C, String: 1400-1416]
+풀오토배터리<037F>
+
+
+[Block 4D, String: 1416-142A]
+스나이퍼 스코프<037F>
+
+
+[Block 4E, String: 142A-143E]
+래피드 스트라이크<037F>
+
+
+[Block 4F, String: 143E-1452]
+개틀링버스트<037F>
+
+
+[Block 50, String: 1452-1464]
+올라운더<037F>
+
+
+[Block 51, String: 1464-1478]
+파워 블래스터Ｒ<037F>
+
+
+[Block 52, String: 1478-148C]
+파워 블래스터Ｌ<037F>
+
+
+[Block 53, String: 148C-14A0]
+머신건 버스트<037F>
+
+
+[Block 54, String: 14A0-14B2]
+트리플 액세스<037F>
+
+
+[Block 55, String: 14B2-14C4]
+버스터 유닛<037F>
+
+
+[Block 56, String: 14C4-14D6]
+래피드파이어<037F>
+
+
+[Block 57, String: 14D6-14E8]
+헬멧파츠<037F>
+
+
+[Block 58, String: 14E8-14F8]
+점프파츠<037F>
+
+
+[Block 59, String: 14F8-1508]
+대쉬파츠<037F>
+
+
+[Block 5A, String: 1508-1516]
+라이프파츠<037F>
+
+
+[Block 5B, String: 1516-1528]
+에너지 보틀<037F>
+
+
+[Block 5C, String: 1528-153A]
+엑스트라 팩<037F>
+
+
+[Block 5D, String: 153A-154C]
+어댑터 플러스<037F>
+
+
+[Block 5E, String: 154C-155C]
+디플렉터<037F>
+
+
+[Block 5F, String: 155C-156C]
+디플렉터<037F>
+
+
+[Block 60, String: 156C-157C]
+디플렉터<037F>
+
+
+[Block 61, String: 157C-1588]
+시민카드<037F>
+
+
+[Block 62, String: 1588-159E]
+Ａ급 디그아웃 면허<037F>
+
+
+[Block 63, String: 159E-15B4]
+Ｂ급 디그아웃 면허<037F>
+
+
+[Block 64, String: 15B4-15C0]
+쟁탈전의 키<037F>
+
+
+[Block 65, String: 15C0-15D2]
+스타터・키<037F>
+
+
+[Block 66, String: 15D2-15E4]
+스타터・키<037F>
+
+
+[Block 67, String: 15E4-15F6]
+스타터・키<037F>
+
+
+[Block 68, String: 15F6-1608]
+스타터・키<037F>
+
+
+[Block 69, String: 1608-161A]
+스타터・키<037F>
+
+
+[Block 6A, String: 161A-162C]
+스타터・키<037F>
+
+
+[Block 6B, String: 162C-1638]
+ＩＤ카드<037F>
+
+
+[Block 6C, String: 1638-1644]
+ＩＤ카드<037F>
+
+
+[Block 6D, String: 1644-1650]
+ＩＤ카드<037F>
+
+
+[Block 6E, String: 1650-1662]
+와처의 키<037F>
+
+
+[Block 6F, String: 1662-1672]
+슬리퍼의 키<037F>
+
+
+[Block 70, String: 1672-1682]
+드리머의 키<037F>
+
+
+[Block 71, String: 1682-1694]
+아머드 보디<037F>
+
+
+[Block 72, String: 1694-16A8]
+아머강화파츠<037F>
+
+
+[Block 73, String: 16A8-16BA]
+아머강화ＳＰ<037F>
+
+
+[Block 74, String: 16BA-16D0]
+서포트카의 통신기<037F>
+
+
+[Block 75, String: 16D0-16E6]
+빈 키아이템１Ｅ<037F>
+
+
+[Block 76, String: 16E6-16E8]
+<037F>
+
+
+[Block 77, String: 16E8-16F8]
+리페어실드<037F>
+
+
+[Block 78, String: 16F8-170E]
+하이퍼 카트리지<037F>
+
+
+[Block 79, String: 170E-1724]
+카모플라쥬 배리어<037F>
+
+
+[Block 7A, String: 1724-173A]
+디펜스 실드<037F>
+
+
+[Block 7B, String: 173A-1742]
+꽃<037F>
+
+
+[Block 7C, String: 1742-174A]
+가방<037F>
+
+
+[Block 7D, String: 174A-1754]
+큰 여행가방<037F>
+
+
+[Block 7E, String: 1754-175E]
+곡괭이<037F>
+
+
+[Block 7F, String: 175E-1768]
+톱<037F>
+
+
+[Block 80, String: 1768-176E]
+립스틱<037F>
+
+
+[Block 81, String: 176E-177E]
+전자 오르골<037F>
+
+
+[Block 82, String: 177E-1790]
+뼈 같은 물건<037F>
+
+
+[Block 83, String: 1790-17A4]
+화로 같은 물건<037F>
+
+
+[Block 84, String: 17A4-17B6]
+사람 형상의 물건<037F>
+
+
+[Block 85, String: 17B6-17CC]
+종 모양의 물건<037F>
+
+
+[Block 86, String: 17CC-17E0]
+거대한 뿔<037F>
+
+
+[Block 87, String: 17E0-17F2]
+반짝반짝 빛나는 것<037F>
+
+
+[Block 88, String: 17F2-1802]
+방패같은 것<037F>
+
+
+[Block 89, String: 1802-1812]
+빨갛고 예쁜 돌<037F>
+
+
+[Block 8A, String: 1812-181C]
+사슴벌레<037F>
+
+
+[Block 8B, String: 181C-1828]
+장수풍뎅이<037F>
+
+
+[Block 8C, String: 1828-1832]
+만화책<037F>
+
+
+[Block 8D, String: 1832-183A]
+반지<037F>
+
+
+[Block 8E, String: 183A-1840]
+여백<037F>
+
+
+[Block 8F, String: 1840-1854]
+지뢰파츠키트<037F>
+
+
+[Block 90, String: 1854-186A]
+파워캐논키트<037F>
+
+
+[Block 91, String: 186A-187C]
+그레네이드키트<037F>
+
+
+[Block 92, String: 187C-1892]
+블룸베어의 팔 파츠<037F>
+
+
+[Block 93, String: 1892-18A6]
+미스틱오브<037F>
+
+
+[Block 94, String: 18A6-18BC]
+마올볼프의 장갑<037F>
+
+
+[Block 95, String: 18BC-18CC]
+망가진 모터<037F>
+
+
+[Block 96, String: 18CC-18E2]
+금이 간 프로펠러<037F>
+
+
+[Block 97, String: 18E2-18F4]
+고장난 청소기<037F>
+
+
+[Block 98, String: 18F4-1906]
+대형폭탄의 설계도<037F>
+
+
+[Block 99, String: 1906-191A]
+낡아빠진 거대 드릴<037F>
+
+
+[Block 9A, String: 191A-192E]
+가이던스 유닛<037F>
+
+
+[Block 9B, String: 192E-193E]
+제트세이버<037F>
+
+
+[Block 9C, String: 193E-194A]
+펜라이트<037F>
+
+
+[Block 9D, String: 194A-1960]
+구형 런처 부품<037F>
+
+
+[Block 9E, String: 1960-1970]
+고대유적의 책<037F>
+
+
+[Block 9F, String: 1970-1982]
+암서포터<037F>
+
+
+[Block A0, String: 1982-1994]
+엑스버스터<037F>
+
+
+[Block A1, String: 1994-19A4]
+특수무기계획서<037F>
+
+
+[Block A2, String: 19A4-19B6]
+여신의 크리스탈<037F>
+
+
+[Block A3, String: 19B6-19C8]
+스프링세트<037F>
+
+
+[Block A4, String: 19C8-19D8]
+안전모<037F>
+
+
+[Block A5, String: 19D8-19E8]
+롤러보드<037F>
+
+
+[Block A6, String: 19E8-19FE]
+구형 호버젯<037F>
+
+
+[Block A7, String: 19FE-1A10]
+조인트 플러그<037F>
+
+
+[Block A8, String: 1A10-1A20]
+고장난 전자부품<037F>
+
+
+[Block A9, String: 1A20-1A34]
+메인코어 조각<037F>
+
+
+[Block AA, String: 1A34-1A40]
+선라이트<037F>
+
+
+[Block AB, String: 1A40-1A52]
+속사용 실린더<037F>
+
+
+[Block AC, String: 1A52-1A60]
+소형 시한폭탄<037F>
+
+
+[Block AD, String: 1A60-1A70]
+고성능 시한폭탄<037F>
+
+
+[Block AE, String: 1A70-1A84]
+개틀링포의 일부분<037F>
+
+
+[Block AF, String: 1A84-1A94]
+플라워 펄<037F>
+
+
+[Block B0, String: 1A94-1AAA]
+연사형 소형 실린더<037F>
+
+
+[Block B1, String: 1AAA-1AB8]
+발전기 부품<037F>
+
+
+[Block B2, String: 1AB8-1ACC]
+표적 센서<037F>
+
+
+[Block B3, String: 1ACC-1ADA]
+망원 스코프<037F>
+
+
+[Block B4, String: 1ADA-1AF0]
+잡동사니 아이템２５<037F>
+
+
+[Block B5, String: 1AF0-1B06]
+잡동사니 아이템２６<037F>
+
+
+[Block B6, String: 1B06-1B1C]
+잡동사니 아이템２７<037F>
+
+
+[Block B7, String: 1B1C-1B2C]
+노멀 암<037F>
+
+
+[Block B8, String: 1B2C-1B3C]
+록 버스터<037F>
+
+
+[Block B9, String: 1B3C-1B4C]
+머신 버스터<037F>
+
+
+[Block BA, String: 1B4C-1B5E]
+파워드 버스터<037F>
+
+
+[Block BB, String: 1B5E-1B6C]
+드릴 암<037F>
+
+
+[Block BC, String: 1B6C-1B7E]
+그레네이드 암<037F>
+
+
+[Block BD, String: 1B7E-1B92]
+스프레드 버스터<037F>
+
+
+[Block BE, String: 1B92-1BA4]
+백큠 암<037F>
+
+
+[Block BF, String: 1BA4-1BB8]
+액티브 버스터<037F>
+
+
+[Block C0, String: 1BB8-1BC8]
+블레이드 암<037F>
+
+
+[Block C1, String: 1BC8-1BDC]
+그랜드 그레네이드<037F>
+
+
+[Block C2, String: 1BDC-1BF0]
+스플래시 마인<037F>
+
+
+[Block C3, String: 1BF0-1C00]
+실드 암<037F>
+
+
+[Block C4, String: 1C00-1C16]
+샤이닝 레이저<037F>
+
+
+[Block C5, String: 1C16-1C56]
+<WIN 400024001001>
+<DECOR 0008>
+쓰레기통을 조사했다・・・<NEXT>
+
+<CLEAR 0000>
+안은 텅 비어있다．<NEXT>
+
+<CLOSE 0000>
+
+
+[Block C6, String: 1C56-1C9C]
+<WIN 400024001001>
+<DECOR 0008>
+쓰레기통을 조사했다・・・<NEXT>
+
+<CLEAR 0000>
+<037C 8600>
+<COLOR 0300><GIFT><COLOR 0000>을（를）발견했다！<NEXT>
+
+<CLOSE 0000>
+
+
+[Block C7, String: 1C9C-1D10]
+<WIN 3A0024001101>
+<DECOR 0008>
+쓰레기통을 조사했다<NEXT>
+
+<CLEAR 0000>
+디플렉터 조각이 있다・・・<NEXT>
+
+<CLEAR 0000>
+<037C 8500>
+<ZENNY_AMOUNT>　　　　　　　제니를 발견했다！<NEXT>
+
+<CLOSE 0000>
+
+
+[Block C8, String: 1D10-1D54]
+<WIN 400024001001>
+<DECOR 0008>
+골판지 상자를 조사했다・・・<NEXT>
+
+<CLEAR 0000>
+안은 텅 비어있다．<NEXT>
+
+<CLOSE 0000>
+
+
+[Block C9, String: 1D54-1D9E]
+<WIN 400024001001>
+<DECOR 0008>
+골판지 상자를 조사했다・・・<NEXT>
+
+<CLEAR 0000>
+<037C 8600>
+<COLOR 0300><GIFT><COLOR 0000>을（를）발견했다！<NEXT>
+
+<CLOSE 0000>
+
+
+[Block CA, String: 1D9E-1E1C]
+<WIN 3A0024001101>
+<DECOR 0008>
+골판지 상자를 조사했다・・・<NEXT>
+
+<CLEAR 0000>
+디플렉터 조각이 있다・・・<NEXT>
+
+<CLEAR 0000>
+<037C 8500>
+<ZENNY_AMOUNT>　　　　　　　제니를 발견했다！<NEXT>
+
+<CLOSE 0000>
+
+
+[Block CB, String: 1E1C-1E40]
+<WIN 4000A2001003>
+<DECOR 0008>
+「다 팔린 것 같다<NEXT>
+
+<CLOSE 0000>
+
+
+[Block CC, String: 1E40-1E70]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・・고장난 것 같다<NEXT>
+
+<CLOSE 0000>
+
+
+[Block CD, String: 1E70-1EE0]
+<WIN 58009C000C04>
+<DECOR 0008>
+자동판매기 입니다．<LINE>
+１００제니를 넣을까요？<LINES 1200>
+<SPACE 1200><0378 0000><SEL 01004F00>네<SPACE 1800><SEL 01114F00>아니오<0378 0100><0385 80FFFFFF>
+<CLOSE 0200>
+
+
+[Block CE, String: 1EE0-1F06]
+<WIN 4000A2001003>
+<DECOR 0008>
+주스가 나왔다．<NEXT>
+
+<CLOSE 0000>
+
+
+[Block CF, String: 1F06-1F22]
+<WIN 4000A2001003>
+<DECOR 0008>
+「꿀꺽꿀꺽<NEXT>
+
+<CLOSE 0000>
+
+
+[Block D0, String: 1F22-1F46]
+<WIN 4000A2001003>
+<DECOR 0008>
+돈이 부족합니다．<NEXT>
+
+<CLOSE 0000>
+
+
+[Block D1, String: 1F46-1F68]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・・・・・・<NEXT>
+
+<CLOSE 0000>
+
+
+[Block D2, String: 1F68-1F76]
+카돈 숲<037F>
+
+
+[Block D3, String: 1F76-1F88]
+센트럴 타운<037F>
+
+
+[Block D4, String: 1F88-1F92]
+시청 앞<037F>
+
+
+[Block D5, String: 1F92-1FA6]
+레이크사이드 파크<037F>
+
+
+[Block D6, String: 1FA6-1FBA]
+카돈 숲의 유적<037F>
+
+
+[Block D7, String: 1FBA-1FC4]
+구 시가지<037F>
+
+
+[Block D8, String: 1FC4-1FCE]
+발전소 앞<037F>
+
+
+[Block D9, String: 1FCE-1FDE]
+메인게이트 앞<037F>
+
+
+[Block DA, String: 1FDE-2004]
+<WIN 400024001001>
+<DECOR 0008>
+안은 텅 비었다．<NEXT>
+
+<CLOSE 0000>
+
+
+[Block DB, String: 2004-2030]
+<WIN 340024001201>
+<DECOR 0008>
+<037C 8600>
+<COLOR 0300><GIFT><COLOR 0000>을（를）발견했다！<NEXT>
+
+<CLOSE 0000>
+
+
+[Block DC, String: 2030-2068]
+<WIN 400024001001>
+<DECOR 0008>
+<037C 8500>
+<ZENNY_AMOUNT>　　　　　　　제니를 발견했다！<NEXT>
+
+<CLOSE 0000>
+
+
+[Block DD, String: 2068-20A0]
+<WIN 4000A2001003>
+<DECOR 0008>
+응，맛있어！<LINE>
+라이프가 가득 찼다<NEXT>
+
+<CLOSE 0000>
+
+
+[Block DE, String: 20A0-20DC]
+<NO_CHAR_SFX><0378 0000><WIN 1600BC001702>
+<DECOR 0204>
+<SPACE 0600>일반 아이템을 사용할 수 있습니다<0378 0100><0383>
+
+[Block DF, String: 20DC-2118]
+<NO_CHAR_SFX><0378 0000><WIN 1600BC001702>
+<DECOR 0204>
+<SPACE 0600>키 아이템을 사용할 수 있습니다<0378 0100><0383>
+
+[Block E0, String: 2118-2154]
+<NO_CHAR_SFX><0378 0000><WIN 1600BC001702>
+<DECOR 0204>
+<SPACE 0600>록 버스터의 부품을 장착합니다<0378 0100><0383>
+
+[Block E1, String: 2154-21CA]
+<NO_CHAR_SFX><0378 0000><WIN 1600BC001702>
+<DECOR 0204>
+<SPACE 0600>오른팔의 특수무기 상태를 볼 수 있으며，<LINE>
+<SPACE 0600>특수무기의 장착／해제를 할 수 있습니다<0378 0100><0383>
+
+[Block E2, String: 21CA-21FC]
+<NO_CHAR_SFX><0378 0000><WIN 1600BC001702>
+<DECOR 0204>
+<SPACE 0600>설정을 변경합니다<0378 0100><0383>
+
+[Block E3, String: 21FC-222A]
+<NO_CHAR_SFX><0378 0000><WIN 1600BC001702>
+<DECOR 0204>
+<SPACE 0600>게임을 재개합니다<0378 0100><0383>
+
+[Block E4, String: 222A-222C]
+<037F>
+
+
+[Block E5, String: 222C-223A]
+시청　　　　<037F>
+
+
+[Block E6, String: 223A-2248]
+은행　　　　<037F>
+
+
+[Block E7, String: 2248-2256]
+경찰서　　　<037F>
+
+
+[Block E8, String: 2256-2264]
+도서관　　　<037F>
+
+
+[Block E9, String: 2264-2272]
+고급주택　　<037F>
+
+
+[Block EA, String: 2272-2280]
+민가　　　　<037F>
+
+
+[Block EB, String: 2280-22B0]
+<MOVE_FREE><WIN 460024000F01>
+<DECOR 0008>
+！！！트랩박스다！！！<CLOSE 1E00>
+
+
+[Block EC, String: 22B0-2302]
+<NO_CHAR_SFX><0378 0000><WIN 58006C000C02>
+<DECOR 0204>
+<SEL 00014F00>게임을 리셋한다<LINE>
+<SEL 11014F00>게임을 계속한다<03C4 02EC><0385 81FFFFFF>
+<0378 0100><0383>
+
+[Block ED, String: 2302-2348]
+<NO_CHAR_SFX><0378 0000><WIN 1600BC001702>
+<DECOR 0204>
+<SPACE 0600>게임을 리셋하고 타이틀화면으로 돌아갑니다<0378 0100><0383>
+
+[Block EE, String: 2348-2374]
+<NO_CHAR_SFX><0378 0000><WIN 1600BC001702>
+<DECOR 0204>
+<SPACE 0600>게임을 계속합니다<0378 0100><0383>
+
+[Block EF, String: 2374-23D4]
+<NO_CHAR_SFX><0378 0000><WIN 580060000C04>
+<DECOR 0204>
+<LINES 0600>
+<SPACE 0C00>리셋 하시겠습니까？<LINES 1200>
+<SPACE 2400><SEL 00014F00>네<LINE>
+<SPACE 2400><SEL 11014F00>아니오<03C4 02EF><0385 81FFFFFF>
+<0378 0100><0383>
+
+[Block F0, String: 23D4-2432]
+<NO_CHAR_SFX><0378 0000><WIN 1600BC001702>
+<DECOR 0204>
+<SPACE 0600>「네」를 선택하면，<LINE>
+<SPACE 0600>게임을 리셋하고 타이틀로 돌아갑니다<0378 0100><0383>
+
+[Block F1, String: 2432-2472]
+<NO_CHAR_SFX><0378 0000><WIN 1600BC001702>
+<DECOR 0204>
+<SPACE 0600>「아니오」를 선택하면，게임으로 돌아갑니다<0378 0100><0383>
+
+[Block F2, String: 2472-24A6]
+<NO_CHAR_SFX><0378 0000><WIN 460086000F01>
+클리어 시간　<03BB 0400>００：００：００<0378 0100><0383>
+
+[Block F8, String: 24A6-24E4]
+<NO_CHAR_SFX><0378 0000><WIN 5400DE000D01>
+<DECOR 0204>
+<COLOR 0500><TRIANGLE><COLOR 0000>버튼：저장 데이터 삭제<0378 0100><0383>
+

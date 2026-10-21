@@ -1,0 +1,686 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-0028]
+<AUDIO 3A000500>
+<0395 0000000001000280><PAUSE 3C00><0395 0100FFFF00000200><END><CLOSE 0000>
+
+
+[Block 02, String: 0028-004E]
+<AUDIO 3B000500>
+<0395 0000000001000280><PAUSE 3C00><0395 0100FFFF00000200><END><CLOSE 0000>
+
+
+[Block 03, String: 004E-0086]
+<GET 2C05><WIN 4000A2001003>
+<DECOR 0008>
+록ーーーー！！<WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 0086-00D8]
+<WIN 4000A2001003>
+<DECOR 0008>
+해냈구나，록！！<LINE>
+자，할아버지한테 가자！<WAIT 7800>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 00D8-0116]
+<GET 2C05><WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 7F000600>
+「록～～！！<WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 0116-0180]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 80000600>
+<PAUSE 1100>「해냈구나，록！！<PAUSE 3000><LINE>
+　자，<PAUSE 0500>할아버지한테 가자！<WAIT 3200>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 0180-01B6]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 24000600>
+「록～！<WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 01B6-0204]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 91000600>
+<PAUSE 1400>「록，<PAUSE 1400><LINE>
+　괜찮았어？<WAIT 1E00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 0204-0276]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 92000600>
+「응，<PAUSE 0A00>난 괜찮아<PAUSE 1E00><LINE>
+　그보다도，<PAUSE 0700><LINE>
+　빨리 박사님에게로・・<WAIT 2B00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 0276-02B2]
+<0378 0000><WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 93000600>
+「응・・<0378 0100><WAIT 3C00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 02B2-03B2]
+<0395 0000000000000200><PAUSE 0F00><WIN 400018001010>
+<DECOR 0108>
+<NO_CHAR_SFX><COLOR 0400><LINE>
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+<COLOR 0200><SPACE 3900>시청 공방전！<LINE>
+<PAUSE 0F00><LINE>
+<SPACE 0F00>지상의 빨간 메카는 시청을，<LINE>
+<SPACE 1500>노란 메카는 닥치는 대로，<LINE>
+<SPACE 2D00>건물을 파괴합니다<LINE>
+<PAUSE 0F00><LINE>
+<SPACE 2400>시청，경찰서，은행을<LINE>
+<SPACE 2700>적으로부터 지켜라！<LINE>
+<NEXT>
+
+<0396>
+<AUDIO 07000500>
+<PAUSE 3C00><0395 0100FFFF00000200><END><CLOSE 0000>
+
+
+[Block 0C, String: 03B2-03B4]
+
+
+[Block 0D, String: 03B4-03B6]
+
+
+[Block 0E, String: 03B6-03B8]
+
+
+[Block 0F, String: 03B8-03BA]
+
+
+[Block 10, String: 03BA-03BC]
+
+
+[Block 11, String: 03BC-03BE]
+
+
+[Block 12, String: 03BE-03C0]
+
+
+[Block 13, String: 03C0-03C2]
+
+
+[Block 14, String: 03C2-03C4]
+
+
+[Block 15, String: 03C4-03C6]
+
+
+[Block 16, String: 03C6-03C8]
+
+
+[Block 17, String: 03C8-03CA]
+
+
+[Block 18, String: 03CA-03CC]
+
+
+[Block 19, String: 03CC-03CE]
+
+
+[Block 1A, String: 03CE-03D0]
+
+
+[Block 1B, String: 03D0-03D2]
+
+
+[Block 1C, String: 03D2-03D4]
+
+
+[Block 1D, String: 03D4-03D6]
+
+
+[Block 1E, String: 03D6-03D8]
+
+
+[Block 1F, String: 03D8-03DA]
+
+
+[Block 20, String: 03DA-03DC]
+
+
+[Block 21, String: 03DC-03DE]
+
+
+[Block 22, String: 03DE-03E0]
+
+
+[Block 23, String: 03E0-03E2]
+
+
+[Block 24, String: 03E2-03E4]
+
+
+[Block 25, String: 03E4-03E6]
+
+
+[Block 26, String: 03E6-03E8]
+
+
+[Block 27, String: 03E8-03EA]
+
+
+[Block 28, String: 03EA-03EC]
+
+
+[Block 29, String: 03EC-03EE]
+
+
+[Block 2A, String: 03EE-03F0]
+
+
+[Block 2B, String: 03F0-03F2]
+
+
+[Block 2C, String: 03F2-03F4]
+
+
+[Block 2D, String: 03F4-03F6]
+
+
+[Block 2E, String: 03F6-03F8]
+
+
+[Block 2F, String: 03F8-03FA]
+
+
+[Block 30, String: 03FA-03FC]
+
+
+[Block 31, String: 03FC-03FE]
+
+
+[Block 32, String: 03FE-0400]
+
+
+[Block 33, String: 0400-0402]
+
+
+[Block 34, String: 0402-0404]
+
+
+[Block 35, String: 0404-0406]
+
+
+[Block 36, String: 0406-0408]
+
+
+[Block 37, String: 0408-040A]
+
+
+[Block 38, String: 040A-040C]
+
+
+[Block 39, String: 040C-040E]
+
+
+[Block 3A, String: 040E-0410]
+
+
+[Block 3B, String: 0410-0412]
+
+
+[Block 3C, String: 0412-0414]
+
+
+[Block 3D, String: 0414-0416]
+
+
+[Block 3E, String: 0416-0418]
+
+
+[Block 3F, String: 0418-041A]
+
+
+[Block 40, String: 041A-041C]
+
+
+[Block 41, String: 041C-041E]
+
+
+[Block 42, String: 041E-0420]
+
+
+[Block 43, String: 0420-0422]
+
+
+[Block 44, String: 0422-0424]
+
+
+[Block 45, String: 0424-0426]
+
+
+[Block 46, String: 0426-0428]
+
+
+[Block 47, String: 0428-042A]
+
+
+[Block 48, String: 042A-042C]
+
+
+[Block 49, String: 042C-042E]
+
+
+[Block 4A, String: 042E-0430]
+
+
+[Block 4B, String: 0430-0432]
+
+
+[Block 4C, String: 0432-0434]
+
+
+[Block 4D, String: 0434-0436]
+
+
+[Block 4E, String: 0436-0438]
+
+
+[Block 4F, String: 0438-043A]
+
+
+[Block 50, String: 043A-0472]
+<WIN 4000A2001003>
+<DECOR 0008>
+분수다<LINE>
+보고 있으면 마음이 편해지네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 51, String: 0472-04C8]
+<WIN 4000A2001003>
+<DECOR 0008>
+야자나무다<LINE>
+이런 것도 자라다니<LINE>
+다른 지역과는 느낌이 다르네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 52, String: 04C8-0528]
+<WIN 4000A2001003>
+<DECOR 0008>
+세련된 쓰레기통・・・<LINE>
+센트럴 타운에 있던 것과는<LINE>
+다른 타입이다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 53, String: 0528-052A]
+
+
+[Block 54, String: 052A-052C]
+
+
+[Block 55, String: 052C-052E]
+
+
+[Block 56, String: 052E-0530]
+
+
+[Block 57, String: 0530-0532]
+
+
+[Block 58, String: 0532-0534]
+
+
+[Block 59, String: 0534-0536]
+
+
+[Block 5A, String: 0536-0538]
+
+
+[Block 5B, String: 0538-053A]
+
+
+[Block 5C, String: 053A-053C]
+
+
+[Block 5D, String: 053C-053E]
+
+
+[Block 5E, String: 053E-0540]
+
+
+[Block 5F, String: 0540-0542]
+
+
+[Block 60, String: 0542-0544]
+
+
+[Block 61, String: 0544-0546]
+
+
+[Block 62, String: 0546-0548]
+
+
+[Block 63, String: 0548-054A]
+
+
+[Block 64, String: 054A-054C]
+
+
+[Block 65, String: 054C-054E]
+
+
+[Block 66, String: 054E-0550]
+
+
+[Block 67, String: 0550-0552]
+
+
+[Block 68, String: 0552-0554]
+
+
+[Block 69, String: 0554-0556]
+
+
+[Block 6A, String: 0556-0558]
+
+
+[Block 6B, String: 0558-058C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금은<LINE>
+　적을 쓰러트리는 게 먼저다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6C, String: 058C-058E]
+
+
+[Block 6D, String: 058E-0590]
+
+
+[Block 6E, String: 0590-0592]
+
+
+[Block 6F, String: 0592-0594]
+
+
+[Block 70, String: 0594-0596]
+
+
+[Block 71, String: 0596-0598]
+
+
+[Block 72, String: 0598-059A]
+
+
+[Block 73, String: 059A-059C]
+
+
+[Block 74, String: 059C-059E]
+
+
+[Block 75, String: 059E-05A0]
+
+
+[Block 76, String: 05A0-05A2]
+
+
+[Block 77, String: 05A2-05A4]
+
+
+[Block 78, String: 05A4-05D8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금은<LINE>
+　적을 쓰러트리는 게 먼저다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 79, String: 05D8-060C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금은<LINE>
+　적을 쓰러트리는 게 먼저다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7A, String: 060C-0640]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금은<LINE>
+　적을 쓰러트리는 게 먼저다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7B, String: 0640-0642]
+
+
+[Block 7C, String: 0642-0644]
+
+
+[Block 7D, String: 0644-0646]
+
+
+[Block 7E, String: 0646-0648]
+
+
+[Block 7F, String: 0648-067C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금은<LINE>
+　적을 쓰러트리는 게 먼저다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 80, String: 067C-067E]
+
+
+[Block 81, String: 067E-0680]
+
+
+[Block 82, String: 0680-06C4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「비상사태로 인해<LINE>
+　게이트를 열 수 없습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 83, String: 06C4-0708]
+<WIN 4000A2001003>
+<DECOR 0008>
+「비상사태로 인해<LINE>
+　게이트를 열 수 없습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 84, String: 0708-070A]
+
+
+[Block 85, String: 070A-0758]
+<WIN 4000A2001003>
+<DECOR 0008>
+가로등이 있다<LINE>
+위에 올라갈 수 있어 보이는데<LINE>
+닿을 수 있으려나・・・？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 86, String: 0758-07A0]
+<WIN 4000A2001003>
+<DECOR 0008>
+소화전이 있다<LINE>
+점프하면 올라탈 수 있어보인다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 87, String: 07A0-07D6]
+<WIN 4000A2001003>
+<DECOR 0008>
+벤치다<LINE>
+하지만 지금은 피곤하지 않다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 88, String: 07D6-07D8]
+
+
+[Block 89, String: 07D8-07DA]
+
+
+[Block 8A, String: 07DA-07DC]
+
+
+[Block 8B, String: 07DC-07DE]
+
+
+[Block 8C, String: 07DE-07E0]
+
+
+[Block 8D, String: 07E0-07E2]
+
+
+[Block 8E, String: 07E2-07E4]
+
+
+[Block 8F, String: 07E4-07E6]
+
+
+[Block 90, String: 07E6-07E8]
+
+
+[Block 91, String: 07E8-07EA]
+
+
+[Block 92, String: 07EA-07EC]
+
+
+[Block 93, String: 07EC-07EE]
+
+
+[Block 94, String: 07EE-07F0]
+
+
+[Block 95, String: 07F0-07F2]
+
+
+[Block 96, String: 07F2-0826]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금은<LINE>
+　적을 쓰러트리는 게 먼저다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 97, String: 0826-085A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금은<LINE>
+　적을 쓰러트리는 게 먼저다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 98, String: 085A-088C]
+<MSG_IF 2B0011FF>
+<MSG_IF 2A0010FF>
+<MSG_IF 1D000FFF>
+<MSG_IF 1E000EFF>
+<MSG_IF 19000DFF>
+<CALL 0099><END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 99, String: 088C-08DE]
+<MSG_IF E00213FF>
+<MSG_IF E10214FF>
+<MSG_IF E20215FF>
+<MSG_IF E30216FF>
+<MSG_IF E40217FF>
+<MSG_IF E50218FF>
+<MSG_IF E60219FF>
+<MSG_IF E7021AFF>
+<MSG_IF E8021BFF>
+<MSG_IF E9021CFF>
+<MSG_IF EA021DFF>
+<MSG_IF EB021EFF>
+<NEXT>
+
+<END><CLOSE 0400>
+
+

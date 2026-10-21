@@ -1,0 +1,163 @@
+[BLOCK: 0000]
+<FUNC 0100>
+<VWAIT 00>
+<POS 005E00B40C11>
+<FB05 0108>
+자물쇠가 걸려있다……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0700>
+<POS 003A00861233>
+<FB05 0108>
+<VWAIT 00>
+<COLOR 02>
+<SPACE 30>
+탑 내부로 침입하라！<LINE>
+
+<COLOR 00>
+순찰 중인 기계를 쓰러뜨리고<LINE>
+탑에 침입하라！
+<PAGEKEY>
+<NEXTPAGE 020700>
+<VWAIT 00>
+<COLOR 02>
+<SPACE 30>
+탑 내부로 침입하라！<LINE>
+
+<COLOR 00>
+탑의 창문 아래에 발판이 될 물건을<LINE>
+쌓으면 안으로 들어갈 수 있다.
+<ENDKEY>
+<FB0C>
+<VOICELOAD 0000FF00>
+<FB1B>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0200>
+<VOICELOAD 00008003>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 004000201122>
+<FB05 0108>
+<VWAIT 03>
+예를 들면…<LINE>
+높은 곳에 입구가 있지 않을까？
+<NEXTPAGE 1E0300>
+발판으로 쓸 물건이 있다면<LINE>
+거기로 들어갈 수 있을지도 몰라.
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0700>
+<VOICELOAD 00008004>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 004C00180F33>
+<FB05 0108>
+<VWAIT 04>
+발판이 될 만한 물건 
+<VWAIT 03>
+찾았어？<LINE>
+
+<WAIT 0019>
+<VWAIT 04>
+탑에 창문 같은 것이 있다면<LINE>
+
+<WAIT 000A>
+<VWAIT 03>
+그 밑에 쌓으면 되지 않을까？
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0300>
+<VOICELOAD 00008006>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 005800180D33>
+<FB05 0108>
+<VWAIT 03>
+여기서 보이는데……<LINE>
+
+<WAIT 0004>
+<VWAIT 04>
+탑에 큰 창문이 있어.
+<NEXTPAGE 230700>
+꽤 높긴 한데……<LINE>
+
+<WAIT 000A>
+발판이 될 물건을 쌓으면<LINE>
+들어갈 수 있지 않을까.
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0200>
+<VOICELOAD 00008007>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 004C00200F12>
+<FB05 0108>
+<VWAIT 03>
+글라이드의 전투 기계부터<LINE>
+쓰러뜨리는 것이 나을 거야！
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0300>
+<VOICELOAD 00008008>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 003A00201222>
+<FB05 0108>
+<VWAIT 05>
+건물을 부수면 
+<VWAIT 04>
+뭔가 발판이 될 만한<LINE>
+물건이 나오려나…….
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0300>
+<VWAIT 00>
+<POS 006400AC0B22>
+<FB05 0108>
+여자아이가 위험해！<LINE>
+어서 구하자.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0300>
+<VWAIT 00>
+<POS 006400AC0B22>
+<FB05 0108>
+여자아이가 위험해！<LINE>
+어서 구하자.
+<ENDKEY>
+<FB31>
+<END>
+

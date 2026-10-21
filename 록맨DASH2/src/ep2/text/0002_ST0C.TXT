@@ -1,0 +1,910 @@
+[BLOCK: 0000]
+<FUNC 0100>
+<POS 004600A01011>
+<FB05 0108>
+자물쇠가 걸려있는 듯하다…….
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0600>
+<POS 005E00900C23>
+<FB05 0108>
+포스터가 붙어있다.<LINE>
+눈사람이 있는 걸 보니<LINE>
+이 마을 같다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0600>
+<POS 006400900B23>
+<FB05 0108>
+난로다.<LINE>
+편지 배달하는 사람은<LINE>
+추워서 힘들겠다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0100>
+<POS 004600981012>
+<FB05 0108>
+우편물이 잔뜩 있다.<LINE>
+여기서 처리하고 있는 것 같다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0200>
+<POS 004000901113>
+<FB05 0108>
+팸플릿이 있다…… 어디보자.<LINE>
+『여자에게서 편지를 받는 방법』<LINE>
+뭐야 이건.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0100>
+<POS 004600A01011>
+<FB05 0108>
+어려워 보이는 책이 잔뜩 있다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0100>
+<FB28 008307FF>
+<POS 005800B40D11>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+<ITEM_NAME 0414>
+<INIT_COLOR>
+를 발견했다
+<ENDKEY>
+<FB31>
+<FB26 0083>
+<FB26 0414>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0100>
+<POS 005800A00D11>
+<FB05 0108>
+이제 아무것도 없다…….
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0100>
+<POS 004C00980F12>
+<FB05 0108>
+『인류 기원의 수수께끼』……<LINE>
+흐음～…….
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0300>
+<POS 004600981022>
+<FB05 0108>
+젊은 부부의 사진이다.<LINE>
+젊은 시절의 아주머니 사진일까.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0000>
+<POS 005E00980C02>
+<FB05 0108>
+호랑이가 그려져 있다.<LINE>
+아주머니 취미일까.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000B]
+<FUNC 0100>
+<POS 006400A00B11>
+<FB05 0108>
+새 식기를 갖춰놨다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000C]
+<FUNC 0300>
+<POS 004C00980F22>
+<FB05 0108>
+여신과 천사가 그려져 있다.<LINE>
+왠지 그리움이 느껴진다…….
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000D]
+<FUNC 0100>
+<POS 005E00980C12>
+<FB05 0108>
+금단의 땅에 관한 책이<LINE>
+많이 있다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000E]
+<FUNC 0300>
+<POS 005200980E22>
+<FB05 0108>
+두 여신이 있다.<LINE>
+왠지 둘 다 쓸쓸해 보인다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0300>
+<POS 003A00981222>
+<FB05 0108>
+모험가의 전기가 많이 있다.<LINE>
+틀림없이 뮐러 씨가 남긴 것이겠지.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0010]
+
+
+[BLOCK: 0011]
+
+
+[BLOCK: 0012]
+
+
+[BLOCK: 0013]
+<FUNC 0100>
+<POS 005E00A00C11>
+<FB05 0108>
+비싸 보이는 술이 있다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0700>
+<FB2C 00>
+<FB15 0100000000000000D80084>
+<FB2B>
+<FB16 021616FF>
+<FB28 068015FF>
+<POS 002800901533>
+<FB05 0108>
+<FB33 83>
+이 집은, 지금 행방불명됐다는 소문이 도는<LINE>
+뮐러 씨가 젊은 시절<LINE>
+살던 집입니다.
+<ENDKEY>
+<FB31>
+<FB26 0680>
+<FB2C 01>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0300>
+<POS 002E00901433>
+<FB05 0108>
+<FB33 83>
+뮐러 씨는 이 마을에서<LINE>
+디그 아웃 사업을 벌여<LINE>
+자금을 모아서
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+그 돈으로 거대한 배를 만들어<LINE>
+오랜 꿈이었던 금단의 땅 탐험에<LINE>
+나섰다고 합니다만……
+<PAGEKEY>
+<NEXTPAGE 020000>
+설마 그것이 이런 결과가 될 줄이야…….
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0016]
+
+
+[BLOCK: 0017]
+
+
+[BLOCK: 0018]
+<FUNC 0100>
+<POS 003400981322>
+<FB05 0108>
+<FB33 83>
+뮐러 씨, 살아있었나보군.<LINE>
+ＴＶ에 나오던데,
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+그런데, 그 섬에서 뭘 찾은 걸까<LINE>
+ＴＶ에서는 아무 말도 안 해주고…….
+<PAGEKEY>
+<NEXTPAGE 020300>
+결국 아무것도<LINE>
+못 찾았다던가…
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0019]
+<FUNC 0700>
+<FB2C 00>
+<FB15 0100000040000000D000A0>
+<FB2B>
+<FB28 06821AFF>
+<POS 004C00900F33>
+<FB05 0108>
+<FB33 83>
+뮐러 씨는 옛날에 동료와 함께<LINE>
+이 마을의 여신 신화를<LINE>
+조사했다고 해요.
+<PAGEKEY>
+<NEXTPAGE 020700>
+<FB33 84>
+그걸 바탕으로, 저 섬에<LINE>
+여신이 잠들어 있다는<LINE>
+가설을 세웠다고 하네요.
+<ENDKEY>
+<FB31>
+<FB26 0682>
+<FB2C 01>
+<END>
+
+[BLOCK: 001A]
+
+
+[BLOCK: 001B]
+
+
+[BLOCK: 001C]
+
+
+[BLOCK: 001D]
+<FUNC 0300>
+<POS 002800981522>
+<FB05 0108>
+<FB33 83>
+저희 아버지께서는 마을 외곽의 교회<LINE>
+신부님이세요.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+옛날에는 뮐러 씨 일행에게 이런저런 전설<LINE>
+이야기를 해주셨다고 하시더라고요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0700>
+<FB2C 00>
+<FB15 0100000020000000E00094>
+<FB2B>
+<FB16 021F1FFF>
+<POS 001C00901733>
+<FB05 0108>
+<FB33 83>
+이 마을 외곽의 던전이 폐쇄됐을 때<LINE>
+새로운 가능성을 찾아<LINE>
+그 금단의 땅으로 떠난 사람들이 몇 명 있었죠.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB33 84>
+제 남편도, 그들 중 한 명이었어요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 001F]
+
+
+[BLOCK: 0020]
+
+
+[BLOCK: 0021]
+
+
+[BLOCK: 0022]
+<FUNC 0600>
+<POS 004600901023>
+<FB05 0108>
+<FB33 83>
+설마<LINE>
+행방불명이었던 남편이, <LINE>
+다시 돌아오다니！！
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB33 84>
+그것도, 젊은 시절 모습 그대로.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0023]
+<FUNC 0300>
+<FB2C 00>
+<FB15 0100000040000000E0009C>
+<FB2B>
+<FB28 068124FF>
+<POS 001C00901733>
+<FB05 0108>
+<FB33 83>
+금단의 땅에서 조난하여<LINE>
+이제 다 틀렸다고 생각한 순간
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB33 84>
+머리를 땋은 소녀가<LINE>
+저를 구해주었어요.
+<PAGEKEY>
+<NEXTPAGE 020700>
+신비한 구체에 감싸이자<LINE>
+어쩐지 졸음이 몰려왔고<LINE>
+정신이 들었을 땐, 이미 몇 년이나 지났더군요.
+<ENDKEY>
+<FB31>
+<FB26 0681>
+<FB2C 01>
+<END>
+
+[BLOCK: 0024]
+
+
+[BLOCK: 0025]
+
+
+[BLOCK: 0026]
+
+
+[BLOCK: 0027]
+
+
+[BLOCK: 0028]
+
+
+[BLOCK: 0029]
+
+
+[BLOCK: 002A]
+
+
+[BLOCK: 002B]
+
+
+[BLOCK: 002C]
+
+
+[BLOCK: 002D]
+
+
+[BLOCK: 002E]
+
+
+[BLOCK: 002F]
+
+
+[BLOCK: 0030]
+
+
+[BLOCK: 0031]
+<FUNC 0300>
+<POS 006400900B23>
+<FB05 0108>
+<FB33 83>
+아아, 이 집으로 다시<LINE>
+돌아올 수 있다니<LINE>
+꿈만 같아요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0032]
+<FUNC 0000>
+<FB2C 00>
+<FB15 0100000040000000D0009C>
+<FB2B>
+<FB16 06FFFF33>
+<FB28 03F7FF36>
+<FB16 0EFFFF33>
+<FB28 03F8FF38>
+<FB0C>
+<FB0E 33>
+<END>
+
+[BLOCK: 0033]
+<FUNC 0000>
+<FB47 0103FF34>
+<FB28 03F9FF3A>
+<FB47 0106FF34>
+<FB28 03FAFF3B>
+<FB47 0109FF34>
+<FB28 03FBFF3C>
+<FB0C>
+<FB0E 34>
+<END>
+
+[BLOCK: 0034]
+<FUNC 0000>
+<FB16 06FFFF35>
+<FB16 0E393937>
+<END>
+
+[BLOCK: 0035]
+<FUNC 0100>
+<FB3F 3FFF49>
+<POS 004000981112>
+<FB05 0108>
+<FB33 83>
+하ー이！ 사람과 사람을 이어주는<LINE>
+사랑의 다리, 우체국이야！
+<PAGEKEY>
+<NEXTPAGE 020100>
+너에게 온 편지는……
+<WAIT 0008>
+<WAIT 0008>
+<LINE>
+없는 것 같네, 쏘리.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0036]
+<FUNC 0700>
+<FB3F 40FF4A>
+<POS 005800900D33>
+<FB05 0108>
+<FB33 83>
+음, 너에게 온 편지는……
+<WAIT 0008>
+<WAIT 0008>
+<LINE>
+와우！ 공적에게서 왔어！<LINE>
+발이 넓구나.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 55>
+<END>
+
+[BLOCK: 0037]
+<FUNC 0300>
+<FB3F 41FF4B>
+<POS 003400981322>
+<FB05 0108>
+<FB33 83>
+지금은 네게 온 편지가 없는 것 같아.<LINE>
+실망하지 마！ 조만간 또 올 거야！
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0038]
+<FUNC 0300>
+<FB3F 42FF4C>
+<POS 005E00980C22>
+<FB05 0108>
+<FB33 83>
+헤이, 기다리던 편지야<LINE>
+소중히 간직해！
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 56>
+<END>
+
+[BLOCK: 0039]
+<FUNC 0300>
+<FB3F 43FF4D>
+<POS 001000981922>
+<FB05 0108>
+<FB33 83>
+공적에게 보내는 항의가 쇄도해서 큰일이네.<LINE>
+우체국을 시작한 이후로 이렇게 바쁜 건 처음이야.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 003A]
+<FUNC 0300>
+<FB3F 44FF4E>
+<POS 004600981022>
+<FB05 0108>
+<FB33 83>
+너는 아이들에게도 인기 있구나.<LINE>
+편지가 왔더라.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 57>
+<END>
+
+[BLOCK: 003B]
+<FUNC 0300>
+<FB3F 45FF4F>
+<POS 003400981322>
+<FB05 0108>
+<FB33 83>
+음～ 또 그 아이들에게서 편지가 왔네.<LINE>
+글씨가 조금은 늘었을까？
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 58>
+<END>
+
+[BLOCK: 003C]
+
+
+[BLOCK: 003D]
+
+
+[BLOCK: 003E]
+<FUNC 0300>
+<FB3F 46FF50>
+<POS 003A00981222>
+<FB05 0108>
+<FB33 83>
+하ー이！ 또 그 아이들에게서 왔어.<LINE>
+글씨가 꽤 늘었는걸.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 59>
+<END>
+
+[BLOCK: 003F]
+<FUNC 0000>
+<POS 003400901333>
+<FB05 0108>
+<FB33 83>
+브라보！ 어서오세요, 우체국입니다！<LINE>
+너에게 온 러브레터가 있을까～？
+<PAGEKEY>
+<NEXTPAGE 020700>
+음～ 쏘리, 아직 안 왔나 봐.<LINE>
+나중에 또 들러줘.<LINE>
+편지가 오거든 보관해 둘게.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0040]
+<FUNC 0700>
+<POS 004600901033>
+<FB05 0108>
+<FB33 83>
+기다리고 있었어, 세뇨르！<LINE>
+편지가 왔어.<LINE>
+여자한테 온 건 아니라서 유감！
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 55>
+<END>
+
+[BLOCK: 0041]
+<FUNC 0500>
+<POS 004C00900F23>
+<FB05 0108>
+<FB33 83>
+아직 러브레터는<LINE>
+안 왔나 봐.<LINE>
+뭐, 그런 날도 있는 법이지！
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0042]
+<FUNC 0300>
+<POS 005200980E22>
+<FB05 0108>
+<FB33 83>
+하ー이！ 왔어 왔다고～.<LINE>
+기다리고 기다리던 편지야！
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 56>
+<END>
+
+[BLOCK: 0043]
+<FUNC 0300>
+<POS 002E00981422>
+<FB05 0108>
+<FB33 83>
+난감해～ 공적에게 보내는 항의가 많아서<LINE>
+이번엔 우체국이 전쟁터 같았어.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0044]
+<FUNC 0300>
+<POS 002200981622>
+<FB05 0108>
+<FB33 83>
+헬로～, 이번엔 아이들에게서 편지가 와 있어<LINE>
+오～ 인기인！
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 57>
+<END>
+
+[BLOCK: 0045]
+<FUNC 0600>
+<POS 003400901323>
+<FB05 0108>
+<FB33 83>
+봉쥬르～.<LINE>
+또 그 남자아이들에게서 편지가 왔어.<LINE>
+글씨가 조금 는 것 같더라.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 58>
+<END>
+
+[BLOCK: 0046]
+
+
+[BLOCK: 0047]
+
+
+[BLOCK: 0048]
+<FUNC 0600>
+<POS 004C00900F23>
+<FB05 0108>
+<FB33 83>
+구텐～ 모르겐～.<LINE>
+글씨를 꽤 잘 쓰는 사람에게서<LINE>
+편지가 왔어.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 59>
+<END>
+
+[BLOCK: 0049]
+<FUNC 0200>
+<POS 004000981122>
+<FB05 0108>
+<FB33 83>
+여기는 우체국이야<LINE>
+무슨 용건이야？
+<PAGEKEY>
+<NEXTPAGE 020300>
+……어, 편지？<LINE>
+지금 와있는 편지는 없는 것 같아.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 004A]
+<FUNC 0300>
+<POS 004600981022>
+<FB05 0108>
+<FB33 83>
+공적에게서 편지가 와있어.<LINE>
+나쁜 무리와는 어울리면 안 돼.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 55>
+<END>
+
+[BLOCK: 004B]
+<FUNC 0700>
+<POS 002E00901433>
+<FB05 0108>
+<FB33 83>
+편지는 전혀 안 왔어.<LINE>
+빨리 다른 사람들에게 편지를 받을 만한<LINE>
+사람이 돼라.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 004C]
+<FUNC 0300>
+<POS 004000981122>
+<FB05 0108>
+<FB33 83>
+또 공적에게서 편지가 왔어<LINE>
+뭔가 나쁜 짓이라도 하진 않겠지.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 56>
+<END>
+
+[BLOCK: 004D]
+<FUNC 0300>
+<POS 002E00981422>
+<FB05 0108>
+<FB33 83>
+공적에게 보내는 항의가 많아서<LINE>
+지금은 네 편지에 신경 쓸 시간이 없어.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 004E]
+<FUNC 0300>
+<POS 003400981322>
+<FB05 0108>
+<FB33 83>
+이번엔 아이들에게서 편지가 왔어.<LINE>
+좋지 않은 모습은 보이지 않도록 해라.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 57>
+<END>
+
+[BLOCK: 004F]
+<FUNC 0700>
+<POS 003A00901233>
+<FB05 0108>
+<FB33 83>
+또 아이들에게서 편지가 왔어.<LINE>
+글씨가 조금 늘었네.<LINE>
+너도 지지 않도록 열심히 공부해라.
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 58>
+<END>
+
+[BLOCK: 0050]
+
+
+[BLOCK: 0051]
+
+
+[BLOCK: 0052]
+
+
+[BLOCK: 0053]
+
+
+[BLOCK: 0054]
+<FUNC 0500>
+<POS 003400901323>
+<FB05 0108>
+<FB33 83>
+그 아이들 글씨가<LINE>
+이만큼이나 늘었더라.<LINE>
+너도 조금 보고 배우면 좋지 않을까？
+<ENDKEY>
+<FB31>
+<FB33 84>
+<FB0C>
+<FB0E 59>
+<END>
+
+[BLOCK: 0055]
+<FUNC 0100>
+<POS 004600B41011>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+<ITEM_NAME 03F7>
+<INIT_COLOR>
+을 손에 넣었다.
+<ENDKEY>
+<FB31>
+<FB26 03F7>
+<FB2C 01>
+<END>
+
+[BLOCK: 0056]
+<FUNC 0100>
+<POS 004600B41011>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+<ITEM_NAME 03F8>
+<INIT_COLOR>
+를 손에 넣었다.
+<ENDKEY>
+<FB31>
+<FB26 03F8>
+<FB2C 01>
+<END>
+
+[BLOCK: 0057]
+<FUNC 0100>
+<POS 004000B41111>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+<ITEM_NAME 03F9>
+<INIT_COLOR>
+을 손에 넣었다.
+<ENDKEY>
+<FB31>
+<FB26 03F9>
+<FB2C 01>
+<END>
+
+[BLOCK: 0058]
+<FUNC 0100>
+<POS 004000B41111>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+<ITEM_NAME 03FA>
+<INIT_COLOR>
+를 손에 넣었다.
+<ENDKEY>
+<FB31>
+<FB26 03FA>
+<FB2C 01>
+<END>
+
+[BLOCK: 0059]
+<FUNC 0100>
+<POS 004000B41111>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+<ITEM_NAME 03FB>
+<INIT_COLOR>
+을 손에 넣었다.
+<ENDKEY>
+<FB31>
+<FB26 03FB>
+<FB2C 01>
+<END>
+

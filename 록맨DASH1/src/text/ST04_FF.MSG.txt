@@ -1,0 +1,1908 @@
+[Block 00, String: 0000-0008]
+<MSG_IF 3502D4FF>
+
+
+[Block 01, String: 0008-000A]
+
+
+[Block 02, String: 000A-000C]
+
+
+[Block 03, String: 000C-000E]
+
+
+[Block 04, String: 000E-0010]
+
+
+[Block 05, String: 0010-0012]
+
+
+[Block 06, String: 0012-0014]
+
+
+[Block 07, String: 0014-0016]
+
+
+[Block 08, String: 0016-0018]
+
+
+[Block 09, String: 0018-001A]
+
+
+[Block 0A, String: 001A-001C]
+
+
+[Block 0B, String: 001C-001E]
+
+
+[Block 0C, String: 001E-0020]
+
+
+[Block 0D, String: 0020-008C]
+<MSG_IF 7000D5FF>
+<MSG_IF 3502D4FF>
+<MSG_IF 0C0046FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+정크샵의 아줌마<LINE>
+「미안해・・ 지금 잠깐<LINE>
+　휴업 중이야・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 008C-00AC]
+<MSG_IF 7000D8FF>
+<MSG_IF 3502D4FF>
+<MSG_IF 2C006EFF>
+<MSG_IF 010016FF>
+<END><CLOSE 0000>
+
+
+[Block 0F, String: 00AC-00CC]
+<MSG_IF 7000D7FF>
+<MSG_IF 3502D4FF>
+<MSG_IF 010018FF>
+<MSG_IF 0C0045FF>
+<END><CLOSE 0000>
+
+
+[Block 10, String: 00CC-00EC]
+<MSG_IF 7000D6FF>
+<MSG_IF 3502D4FF>
+<MSG_IF 2C006FFF>
+<MSG_IF 010018FF>
+<END><CLOSE 0000>
+
+
+[Block 11, String: 00EC-00EE]
+
+
+[Block 12, String: 00EE-00F0]
+
+
+[Block 13, String: 00F0-00F2]
+
+
+[Block 14, String: 00F2-00F4]
+
+
+[Block 15, String: 00F4-0102]
+<MSG_IF 7000D9FF>
+<MSG_IF 3502D4FF>
+
+
+[Block 16, String: 0102-013E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아무도 없다・・<LINE>
+　피난 간 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 013E-017C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「개인 사정으로，<LINE>
+　당분간 휴업합니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 017C-01AE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「사고로 인해 가게를 닫습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 01AE-01B0]
+
+
+[Block 1A, String: 01B0-01B2]
+
+
+[Block 1B, String: 01B2-01B4]
+
+
+[Block 1C, String: 01B4-01B6]
+
+
+[Block 1D, String: 01B6-01B8]
+
+
+[Block 1E, String: 01B8-01BA]
+
+
+[Block 1F, String: 01BA-01BC]
+
+
+[Block 20, String: 01BC-02B0]
+<WIN 280030001203>
+<DECOR 0008>
+<GET 0C02>「네，어서 오세요・・・ 어？<LINE>
+　가방을 팔꿈치에 소중히 끼고있던<LINE>
+　아저씨 말이죠？<NEXT>
+
+<CLEAR 0400>
+「빵을 산 뒤에는<LINE>
+　조사할 게 있다며 가버렸어<NEXT>
+
+<CLEAR 0400>
+「다 큰 어른이 빵 １개로는<LINE>
+　부족했을텐데．<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 02B0-02B2]
+
+
+[Block 22, String: 02B2-02B4]
+
+
+[Block 23, String: 02B4-02B6]
+
+
+[Block 24, String: 02B6-02B8]
+
+
+[Block 25, String: 02B8-02BA]
+
+
+[Block 26, String: 02BA-02BC]
+
+
+[Block 27, String: 02BC-02BE]
+
+
+[Block 28, String: 02BE-02C0]
+
+
+[Block 29, String: 02C0-02C2]
+
+
+[Block 2A, String: 02C2-02C4]
+
+
+[Block 2B, String: 02C4-02C6]
+
+
+[Block 2C, String: 02C6-02C8]
+
+
+[Block 2D, String: 02C8-02CA]
+
+
+[Block 2E, String: 02CA-02CC]
+
+
+[Block 2F, String: 02CC-02CE]
+
+
+[Block 30, String: 02CE-02D0]
+
+
+[Block 31, String: 02D0-02D2]
+
+
+[Block 32, String: 02D2-02D4]
+
+
+[Block 33, String: 02D4-02D6]
+
+
+[Block 34, String: 02D6-02D8]
+
+
+[Block 35, String: 02D8-02DA]
+
+
+[Block 36, String: 02DA-02DC]
+
+
+[Block 37, String: 02DC-02DE]
+
+
+[Block 38, String: 02DE-02E0]
+
+
+[Block 39, String: 02E0-02E2]
+
+
+[Block 3A, String: 02E2-02E4]
+
+
+[Block 3B, String: 02E4-02E6]
+
+
+[Block 3C, String: 02E6-02E8]
+
+
+[Block 3D, String: 02E8-02EA]
+
+
+[Block 3E, String: 02EA-02EC]
+
+
+[Block 3F, String: 02EC-02EE]
+
+
+[Block 40, String: 02EE-02F0]
+
+
+[Block 41, String: 02F0-02F2]
+
+
+[Block 42, String: 02F2-02F4]
+
+
+[Block 43, String: 02F4-02F6]
+
+
+[Block 44, String: 02F6-02F8]
+
+
+[Block 45, String: 02F8-031C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이제 들어갈 수 있어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 46, String: 031C-0376]
+<WIN 4000A2001003>
+<DECOR 0008>
+정크샵의 아줌마<LINE>
+「곧바로 가게를 열거니까<LINE>
+　다시 들러줘<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 47, String: 0376-03A8]
+<MSG_IF F30253FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「오，와줬구나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 48, String: 03A8-03AA]
+
+
+[Block 49, String: 03AA-03AC]
+
+
+[Block 4A, String: 03AC-03AE]
+
+
+[Block 4B, String: 03AE-03B0]
+
+
+[Block 4C, String: 03B0-03B2]
+
+
+[Block 4D, String: 03B2-03B4]
+
+
+[Block 4E, String: 03B4-03B6]
+
+
+[Block 4F, String: 03B6-03B8]
+
+
+[Block 50, String: 03B8-03BA]
+
+
+[Block 51, String: 03BA-03BC]
+
+
+[Block 52, String: 03BC-03BE]
+
+
+[Block 53, String: 03BE-03C0]
+
+
+[Block 54, String: 03C0-03C2]
+
+
+[Block 55, String: 03C2-03C4]
+
+
+[Block 56, String: 03C4-03C6]
+
+
+[Block 57, String: 03C6-03C8]
+
+
+[Block 58, String: 03C8-03EC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「웅얼웅얼・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 59, String: 03EC-048A]
+<MSG_IF 0B0220FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「결국 공적은<LINE>
+　뭘 노렸던 걸까…？<NEXT>
+
+<CLEAR 0400>
+　어，지하의 보물！？<NEXT>
+
+<CLEAR 0400>
+　그런가，역시 우리집<LINE>
+　빵이 아니었구나…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 5A, String: 048A-048C]
+
+
+[Block 5B, String: 048C-048E]
+
+
+[Block 5C, String: 048E-0528]
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 가게는 작지만…<LINE>
+　빵은 저쪽 가게보다<LINE>
+　조금 더 크다고！<NEXT>
+
+<CLEAR 0400>
+　라는 말을 듣고나니<LINE>
+　진짜 그런 기분이 들지？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 5D, String: 0528-052A]
+
+
+[Block 5E, String: 052A-05B8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어서오세요！<LINE>
+　애플 마켓에！<NEXT>
+
+<CLEAR 0400>
+　현재 모든 가게가<LINE>
+　부흥 기념 세일 중입니다！<LINE>
+　꼭 들러보세요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 5F, String: 05B8-064C]
+<MSG_IF 360074FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「이야，<LINE>
+　대단했어<NEXT>
+
+<CLEAR 0400>
+　너 같은 사람이<LINE>
+　단골이 되어준다면야<LINE>
+　이 쪽도 코가 높아지겠는데！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 60, String: 064C-06A0]
+<MSG_IF 0B0220FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 집 빵은 정말 싸요～！！<LINE>
+　３개에 １００제니랍니다！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 61, String: 06A0-07FC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어때！？<LINE>
+　우리들이 말했던대로<LINE>
+　그 여자가 공적이었지？<NEXT>
+
+<CLEAR 0400>
+　그때 경찰들이<LINE>
+　막지만 않았다면，지금쯤은…<NEXT>
+
+<CLEAR 0400>
+　우리와 파프리카가<LINE>
+　그 여자를 쫓아낼 수 있었는데！<NEXT>
+
+<CLEAR 0400>
+　・・그래도，뭐，너도<LINE>
+　외지인 치곤，꽤 하는데<NEXT>
+
+<CLEAR 0400>
+　우리들의 부하가 되겠다면<LINE>
+　비밀작전에 끼워줄 수도<LINE>
+　있다만…！？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 62, String: 07FC-082C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아，<LINE>
+　안녕임다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 63, String: 082C-0890]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・앗，또 너냐！<NEXT>
+
+<CLEAR 0400>
+　・・・<NEXT>
+
+<CLEAR 0400>
+　뭐，그치만<LINE>
+　이야기 정도라면 해줄게<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 64, String: 0890-08FC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리집 빵은 싸답니다～<LINE>
+　１개 ４０제니에，３개<LINE>
+　사면 １개를 덤으로 줘요～！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 65, String: 08FC-0986]
+<WIN 4000A2001003>
+<DECOR 0008>
+「난 말야，<LINE>
+　구두를 모으는게<LINE>
+　취미인데 말이야<NEXT>
+
+<CLEAR 0400>
+　이 마켓에는<LINE>
+　구두 가게가 없잖아！<NEXT>
+
+<CLEAR 0400>
+　이런 빌어먹을！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 66, String: 0986-0A02]
+<MSG_IF 360073FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「어서옵쇼！ 어서옵쇼！<LINE>
+　우리집 야채는 정말 싸답니다！<NEXT>
+
+<CLEAR 0400>
+　우리집 아내는 귀여워요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 67, String: 0A02-0A8A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「일하는 남자란<LINE>
+　멋있어요<NEXT>
+
+<CLEAR 0400>
+　앗！！・・<NEXT>
+
+<CLEAR 0400>
+　방금，배 속에서<LINE>
+　아기가 움직였어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 68, String: 0A8A-0B36]
+<MSG_IF 17066BFF>
+<GET 1606><WIN 4000A2001003>
+<DECOR 0008>
+「빵　사고 싶은데<LINE>
+　・・・<LINE>
+　앗，록 씨！<NEXT>
+
+<CLEAR 0400>
+　파프리카가 돌아왔어！<LINE>
+　자 파프리카，<LINE>
+　록 씨한테 인사해야지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 69, String: 0B36-0B70]
+<MSG_IF 16066AFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「왕왕왕왕왕왕！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6A, String: 0B70-0BBA]
+<GET 1706><MSG_IF 42006CFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「멍멍・・ 크르릉～<LINE>
+　・・킁킁킁<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6B, String: 0BBA-0C70]
+<MSG_IF 42006DFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「믿을 수 없어！<NEXT>
+
+<CLEAR 0400>
+　너，파프리카에게<LINE>
+　친구로<LINE>
+　인정받고 있어！<NEXT>
+
+<CLEAR 0400>
+　나한테 구는 태도도<LINE>
+　자기가 더 서열이 높다고<LINE>
+　생각하는데・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6C, String: 0C70-0CB8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「컹컹컹컹컹！！<LINE>
+　그르렁～～～～！！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6D, String: 0CB8-0D78]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・・<LINE>
+　몰랐어・・<LINE>
+　이게 파프리카의 진짜 모습・・<NEXT>
+
+<CLEAR 0400>
+　하지만，<LINE>
+　아무런 이유도 없이<LINE>
+　이런 짓을 하는 아이는 아니야<NEXT>
+
+<CLEAR 0400>
+　너，<LINE>
+　이 아이를 괴롭혔지！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6E, String: 0D78-0DB4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아직 피난 중<LINE>
+　곧 가게를 열겠습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6F, String: 0DB4-0DFE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「근시일에 재오픈 세일 예정 중！<LINE>
+　기대해 주세요！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 70, String: 0DFE-0EC8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신，카돈 숲에<LINE>
+　가는 길이지？<NEXT>
+
+<CLEAR 0400>
+　숲 안쪽 서브게이트 근처에<LINE>
+　전차가 있었어！<NEXT>
+
+<CLEAR 0400>
+　저게 공적이겠지…<LINE>
+　경찰에게 신고하는 쪽이<LINE>
+　맞는거겠지…！？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 71, String: 0EC8-0F4C]
+<MSG_IF 360073FF>
+<GET 2C02><WIN 4000A2001003>
+<DECOR 0008>
+「우리 아내가<LINE>
+　산책을 나간 뒤로<LINE>
+　돌아오지 않고 있어<NEXT>
+
+<CLEAR 0400>
+임신 중이니까，좀 걱정이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 72, String: 0F4C-0FBA]
+<WIN 3A00A2001103>
+<DECOR 0008>
+「카돈 숲，<LINE>
+　이제 전차가 없어졌다고 해<NEXT>
+
+<CLEAR 0400>
+　서둘러 신고하지 않아서 다행이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 73, String: 0FBA-105A]
+<WIN 4000A2001003>
+<DECOR 0008>
+빨간 물감？<LINE>
+이 섬에서는 물감을<LINE>
+팔지 않으니까 말야・・・<NEXT>
+
+<CLEAR 0400>
+다른 대신 할 물건은<LINE>
+필요없어？<NEXT>
+
+<CLEAR 0400>
+당근이라면 있는데…<LINE>
+택도 없나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 74, String: 105A-10EC]
+<WIN 3A00A2001103>
+<DECOR 0008>
+물감？<LINE>
+으음～ 난 잘 모르겠어<LINE>
+미안해・・・<NEXT>
+
+<CLEAR 0400>
+이 상점가에는 여러 사람이 있으니까<LINE>
+이것저것 물어보면 어때？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 75, String: 10EC-11A8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그 빨간 디플렉터<LINE>
+　엄청 크다！<NEXT>
+
+<CLEAR 0400>
+　그게 있으면<LINE>
+　평범한 비공선이라면<LINE>
+　날릴 수 있겠어…<NEXT>
+
+<CLEAR 0400>
+　내가 날 수 있다면<LINE>
+　공적과 공중전을 벌였을 텐데<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 76, String: 11A8-123E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트라고 알아？<NEXT>
+
+<CLEAR 0400>
+　구시가지 쪽에 있는<LINE>
+　거대한 유적인데…<NEXT>
+
+<CLEAR 0400>
+　입구가 없다고 해<LINE>
+　이상하지？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 77, String: 123E-126C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「ＳＥＴ를 삭제했습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 78, String: 126C-1300]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어서옵쇼！ 어서옵쇼！<NEXT>
+
+<CLEAR 0400>
+　아，록 씨<LINE>
+　우리 아내가 머지않아<LINE>
+　아이를 낳을 것 같아<NEXT>
+
+<CLEAR 0400>
+　기대된다～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 79, String: 1300-1374]
+<WIN 4000A2001003>
+<DECOR 0008>
+「실제로 두 집의 빵은<LINE>
+　모두 다 맛있어요<NEXT>
+
+<CLEAR 0400>
+　그래서 두 곳 다<LINE>
+　망하지 않는 거겠죠<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7A, String: 1374-13EA]
+<MSG_IF 0B0220FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「솔직히 한번 쯤은 저쪽 빵도<LINE>
+　먹어보고 싶기는 해요<NEXT>
+
+<CLEAR 0400>
+　차마 입 밖으로<LINE>
+　낼 수 있는 말은 아니지만・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7B, String: 13EA-1436]
+<WIN 4000A2001003>
+<DECOR 0008>
+「쇼핑은 즐겁네요<LINE>
+　어느 가게에 들어가 볼까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7C, String: 1436-1478]
+<WIN 4000A2001003>
+<DECOR 0008>
+「귀여운 아기가<LINE>
+　태어나면 좋겠네・・<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7D, String: 1478-14A6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「꾸벅，꾸벅・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7E, String: 14A6-14FC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저쪽 빵은<LINE>
+　맛있을까？<NEXT>
+
+<CLEAR 0400>
+　조금 신경쓰이는 걸<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7F, String: 14FC-15A4]
+<MSG_IF 5500BDFF>
+<MSG_IF 270075FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적 놈들<LINE>
+　자기들 맘대로 섬 위를<LINE>
+　활공하고 다니다니…！<NEXT>
+
+<CLEAR 0400>
+　비공선만 있었어도<LINE>
+　아주 박살을<LINE>
+　내줄텐데…！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 80, String: 15A4-15A6]
+
+
+[Block 81, String: 15A6-15A8]
+
+
+[Block 82, String: 15A8-1604]
+<WIN 4000A2001003>
+<DECOR 0008>
+「시민 카드를 사용해 주세요・・<NEXT>
+
+<CLEAR 0400>
+　라고，오래된 말로 적혀 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 83, String: 1604-1660]
+<WIN 4000A2001003>
+<DECOR 0008>
+「시민 카드를 사용해 주세요・・<NEXT>
+
+<CLEAR 0400>
+　라고，오래된 말로 적혀 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 84, String: 1660-1694]
+<WIN 4000A2001003>
+<DECOR 0008>
+이 메세지가 나왔다면 버그입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 85, String: 1694-1696]
+
+
+[Block 86, String: 1696-1698]
+
+
+[Block 87, String: 1698-169A]
+
+
+[Block 88, String: 169A-169C]
+
+
+[Block 89, String: 169C-169E]
+
+
+[Block 8A, String: 169E-16A0]
+
+
+[Block 8B, String: 16A0-16A2]
+
+
+[Block 8C, String: 16A2-16A4]
+
+
+[Block 8D, String: 16A4-16A6]
+
+
+[Block 8E, String: 16A6-16A8]
+
+
+[Block 8F, String: 16A8-16AA]
+
+
+[Block 90, String: 16AA-16AC]
+
+
+[Block 91, String: 16AC-16AE]
+
+
+[Block 92, String: 16AE-16B0]
+
+
+[Block 93, String: 16B0-16B2]
+
+
+[Block 94, String: 16B2-16B4]
+
+
+[Block 95, String: 16B4-16B6]
+
+
+[Block 96, String: 16B6-16B8]
+
+
+[Block 97, String: 16B8-16BA]
+
+
+[Block 98, String: 16BA-16BC]
+
+
+[Block 99, String: 16BC-16BE]
+
+
+[Block 9A, String: 16BE-16C0]
+
+
+[Block 9B, String: 16C0-16C2]
+
+
+[Block 9C, String: 16C2-16C4]
+
+
+[Block 9D, String: 16C4-16C6]
+
+
+[Block 9E, String: 16C6-16C8]
+
+
+[Block 9F, String: 16C8-16CA]
+
+
+[Block A0, String: 16CA-178C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「구시가지 쪽에<LINE>
+　뭔가 있었던 것 같아<NEXT>
+
+<CLEAR 0400>
+　당신「Ａ급」면허 갖고있잖아<LINE>
+　빌려준다면，<LINE>
+　내가 조사하러 가볼게<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 80D0D100>
+<END><CLOSE 0000>
+
+
+[Block A1, String: 178C-1810]
+<WIN 4000A2001003>
+<DECOR 0008>
+「최근 구시가지에서<LINE>
+　이상한 일이 일어난다는 소문<LINE>
+　들었어…？<NEXT>
+
+<CLEAR 0400>
+　분명 그 엄청난 소리도<LINE>
+　구시가지에서 났을거야…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A2, String: 1810-183A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「비켜 비켜～！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A3, String: 183A-1884]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 메세지가 표시되면 버그<LINE>
+　１１３이 표시되어야 한다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A4, String: 1884-18C6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기 빵은<LINE>
+　생지가 잘 되어 있어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A5, String: 18C6-199C]
+<MSG_IF 0B0220FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 뒤에서，쿠르르릉하는<LINE>
+　커다란 소리가 났었어요<NEXT>
+
+<CLEAR 0400>
+　아무래도 메인게이트라는<LINE>
+　이상한 유적이 있다는데<NEXT>
+
+<CLEAR 0400>
+　저는 구시가지라는 곳도<LINE>
+　잘 몰라서요・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A6, String: 199C-1A02]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적이 나타나고…<LINE>
+　이상한 소리도 나고…<NEXT>
+
+<CLEAR 0400>
+　정말 괜찮은 걸까<LINE>
+　이 섬은…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A7, String: 1A02-1A6C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「야채 가게네<LINE>
+　항상 활기 찼었는데・・<NEXT>
+
+<CLEAR 0400>
+　아내 일이<LINE>
+　걱정되는 것 같아・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A8, String: 1A6C-1A94]
+<WIN 4000A2001003>
+<DECOR 0008>
+「중얼중얼・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A9, String: 1A94-1B2A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「방금 엄청난 소리가 났어！<LINE>
+　너 그게 무슨 소린지<LINE>
+　알고있는거야！？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 80BBBC00>
+<END><CLOSE 0000>
+
+
+[Block AA, String: 1B2A-1BB0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이번에는 도시 안에<LINE>
+　유적 같은게<LINE>
+　나타났다고…？<NEXT>
+
+<CLEAR 0400>
+　그것도 Ａ급 면허가 있으면<LINE>
+　들어갈 수 있는 건가？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block AB, String: 1BB0-1C44]
+<WIN 3A00A2001103>
+<DECOR 0008>
+「도시 안에 갑작스럽게<LINE>
+　유적이 나타났다고？<NEXT>
+
+<CLEAR 0400>
+　느낌이 안좋아…<LINE>
+　대재앙 이라는게<LINE>
+　진짜일지도 모르겠단 느낌이 들어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block AC, String: 1C44-1CAC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「장난을 쳐도 아무도<LINE>
+　신경 써 주지 않으니까<NEXT>
+
+<CLEAR 0400>
+　장난치는 맛이 없어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block AD, String: 1CAC-1D38]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저쪽 빵은<LINE>
+　굽는 방식이 정말 좋아…<NEXT>
+
+<CLEAR 0400>
+　같은 말이나 느긋하게 하면서<LINE>
+　빵이나 먹고 있어도<LINE>
+　괜찮은건가…？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block AE, String: 1D38-1DC6]
+<MSG_IF 0B0220FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「이런 때에는，<LINE>
+　도시 사람들 모두가<LINE>
+　힘을 합쳐야겠지<NEXT>
+
+<CLEAR 0400>
+　저쪽 빵집하고도<LINE>
+　잘 지내는게 맞으려나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block AF, String: 1DC6-1E4A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나는 이런 생각을 하곤해，<NEXT>
+
+<CLEAR 0400>
+　저 빵집과 협력하면<LINE>
+　더 맛있는 빵을<LINE>
+　만들 수 있지 않을까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B0, String: 1E4A-1EAE]
+<MSG_IF 2E02BAFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「야채 가게네 아내，<LINE>
+　아직 돌아오지 않은건가？<NEXT>
+
+<CLEAR 0400>
+　걱정이네・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B1, String: 1EAE-1EDE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「쿨・・<NEXT>
+
+<CLEAR 0400>
+　휴우・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B2, String: 1EDE-1F3E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아까 지진이 있었는데…<LINE>
+　또 메인게이트에서<LINE>
+　뭔가 일어났었구나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B3, String: 1F3E-1F82]
+<WIN 4000A2001003>
+<DECOR 0008>
+「큰 재앙 같은 게<LINE>
+　일어나버리는 걸까…？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B4, String: 1F82-1FB4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「재앙 같은 건 오지않겠지…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B5, String: 1FB4-1FFA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「빵을 사서<LINE>
+　다시 피난을 가기로 했습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B6, String: 1FFA-209E]
+<MSG_IF 0B0220FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「저쪽 빵집과<LINE>
+　이번에 공동으로 빵을<LINE>
+　만들어 보기로 했어<NEXT>
+
+<CLEAR 0400>
+　그걸 위해서 라도，록 씨！<LINE>
+　섬을 구해줘！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B7, String: 209E-20FA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「만약，이변이 잠잠해지면<LINE>
+　맛있는 빵을 실컷<LINE>
+　서비스할게요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B8, String: 20FA-216C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「대부분의 일에는<LINE>
+　이제 익숙해졌다만・・<NEXT>
+
+<CLEAR 0400>
+　이번에는<LINE>
+　뭔가 불길한 예감이 드는걸<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B9, String: 216C-21CA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「하늘에 계신 영감・・<LINE>
+　중얼중얼・・<NEXT>
+
+<CLEAR 0400>
+　이 섬을 지켜달라우・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BA, String: 21CA-222C]
+<WIN 3400A2001203>
+<DECOR 0008>
+「야채 가게네<LINE>
+　건강한 아기가 태어났다는 것 같아요<LINE>
+　잘됐어 다행이야・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BB, String: 222C-22EA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭐？ 메인게이트가<LINE>
+　어떻게 되어버린 것 같다고！？<NEXT>
+
+<CLEAR 0400>
+　히익… 그거 진짜인가<NEXT>
+
+<CLEAR 0400>
+　메인게이트라고 하면<LINE>
+　이 상점가의<LINE>
+　뒷편이잖아！？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BC, String: 22EA-235E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그런가…<NEXT>
+
+<CLEAR 0400>
+　하지만 커다란 소리가 났거든<LINE>
+　나는 이 세상이<LINE>
+　끝나가는구나 싶었다고…！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BD, String: 235E-23E6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신의 비공선이<LINE>
+　고쳐졌다고 들었어！！<NEXT>
+
+<CLEAR 0400>
+　아～<LINE>
+　내 비공선이었다면，<LINE>
+　공적과 공중전을 했을텐데<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BE, String: 23E6-240A]
+<WIN 4000A2001003>
+<DECOR 0008>
+남성용 옷 가게다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BF, String: 240A-242E]
+<WIN 4000A2001003>
+<DECOR 0008>
+여성용 옷 가게다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C0, String: 242E-2450]
+<WIN 4000A2001003>
+<DECOR 0008>
+전파상이다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C1, String: 2450-248C]
+<WIN 4000A2001003>
+<DECOR 0008>
+정크샵이다<LINE>
+괜찮은 파츠가 들어왔으려나？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C2, String: 248C-24C2]
+<WIN 4000A2001003>
+<DECOR 0008>
+ＣＤ가게다，<LINE>
+재미있어 보이네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C3, String: 24C2-250C]
+<WIN 4000A2001003>
+<DECOR 0008>
+배추，표고버섯，당근<LINE>
+등등，여러가지 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C4, String: 250C-2546]
+<WIN 4000A2001003>
+<DECOR 0008>
+토마토와 오이 등이<LINE>
+진열되어 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C5, String: 2546-2582]
+<WIN 4000A2001003>
+<DECOR 0008>
+맘대로 열거나 하면<LINE>
+혼나겠지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C6, String: 2582-25BE]
+<WIN 4000A2001003>
+<DECOR 0008>
+맘대로 열거나 하면<LINE>
+혼나겠지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C7, String: 25BE-2614]
+<WIN 4000A2001003>
+<DECOR 0008>
+이게 ＤＡＳＨ라는 게임인가，<NEXT>
+
+<CLEAR 0400>
+겁나게 재미있어 보인다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C8, String: 2614-263A]
+<WIN 4000A2001003>
+<DECOR 0008>
+만화책이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C9, String: 263A-2662]
+<WIN 4000A2001003>
+<DECOR 0008>
+소설이 진열되어 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CA, String: 2662-26EC]
+<WIN 4000A2001003>
+<DECOR 0008>
+야한 책이 놓여있다，<NEXT>
+
+<CLEAR 0400>
+흥미는 있지만，<PAUSE 0800><LINE>
+이，<PAUSE 0800>이런 도시 한복판에선・・・<NEXT>
+
+<CLEAR 0400>
+포기하자・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CB, String: 26EC-26EE]
+
+
+[Block CC, String: 26EE-26F0]
+
+
+[Block CD, String: 26F0-26F2]
+
+
+[Block CE, String: 26F2-26F4]
+
+
+[Block CF, String: 26F4-26F6]
+
+
+[Block D0, String: 26F6-2792]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・・아니，그래도<LINE>
+　너의 소중한 「Ａ급」 면허를<LINE>
+　잃어버려선 안 될일이니까・・・<NEXT>
+
+<CLEAR 0400>
+　・・・<LINE>
+　거기에，역시<LINE>
+　조금 무섭고・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D1, String: 2792-27D4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어쩔 수 없군，<LINE>
+　그럼，너한테 맡길게<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D2, String: 27D4-2842]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나이스 슛！<PAUSE 0F00><LINE>
+<037C 8500>
+　보너스 <COLOR 0200><EXE_JUMP 1FC8><EXE_JUMP 2000><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니<COLOR 0000>！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D3, String: 2842-2876]
+<WIN 4000A2001003>
+<DECOR 0008>
+　…빈캔은 재활용하자！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D4, String: 2876-28B4]
+<WIN 280030001203>
+<DECOR 0008>
+센트럴 타운에<LINE>
+가야만 해・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D5, String: 28B4-28FC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「파츠샵에는<LINE>
+　여러모로 신세를 졌군…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D6, String: 28FC-293E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「쇼핑… 이 아니라<LINE>
+　인사를 하러 왔다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D7, String: 293E-2980]
+<WIN 4000A2001003>
+<DECOR 0008>
+「쇼핑… 이 아니라<LINE>
+　인사를 하러 왔다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D8, String: 2980-29C2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「쇼핑… 이 아니라<LINE>
+　인사를 하러 왔다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D9, String: 29C2-2A04]
+<WIN 4000A2001003>
+<DECOR 0008>
+「쇼핑… 이 아니라<LINE>
+　인사를 하러 왔다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DA, String: 2A04-2AB6]
+<MSG_IF 1B02FFDB>
+<WIN 4000A2001003>
+<DECOR 0008>
+「오오！！<LINE>
+　너 말야，꽤 괜찮은 부하라고<NEXT>
+
+<CLEAR 0400>
+　섬 여기저기에<LINE>
+　이 몸의 부하라는 사실을…<LINE>
+　널리 퍼뜨리라고<NEXT>
+
+<CLEAR 0400>
+　그럼，또 보자고<LINE>
+　조달대장！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DB, String: 2AB6-2B4E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「너 말야！！<LINE>
+　대단하잖아！！<NEXT>
+
+<CLEAR 0400>
+　이제부터는，<LINE>
+　동료로 삼아주겠어！！<NEXT>
+
+<CLEAR 0400>
+　라고，생각했는데<LINE>
+　벌써 가버리는건가…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DC, String: 2B4E-2BBE]
+<MSG_IF 1B02FFDD>
+<WIN 4000A2001003>
+<DECOR 0008>
+「눈부신 활약이었슴다<LINE>
+　남자로서도，부하로서도<LINE>
+　너에게는 져버렸슴다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DD, String: 2BBE-2BF6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「히어로 님<LINE>
+　반갑슴다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DE, String: 2BF6-2C70]
+<MSG_IF 1B02FFDF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「너 같은 녀석을<LINE>
+　부하로 두고 있었다니…<NEXT>
+
+<CLEAR 0400>
+　혹시 우리들은，<LINE>
+　실은 엄청난 사람인가？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DF, String: 2C70-2CCC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「너，히어로 였던건가<LINE>
+　좀 더 같이<LINE>
+　놀고 싶었는데<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E0, String: 2CCC-2D6E]
+<MSG_IF 2E02FFE1>
+<WIN 4000A2001003>
+<DECOR 0008>
+「오오，록 씨！<NEXT>
+
+<CLEAR 0400>
+　그 때는 감사했어！<LINE>
+　덕분에 아기도<LINE>
+　건강하게 잘 있어！<NEXT>
+
+<CLEAR 0400>
+　이름은…<LINE>
+　록이라고 지었어！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E1, String: 2D6E-2E26]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭐，아무튼 당신이<LINE>
+　섬을 구해줬구나…<NEXT>
+
+<CLEAR 0400>
+　사례로 무라도 하나…<LINE>
+　필요 없겠지…？<NEXT>
+
+<CLEAR 0400>
+　그나저나 우리 아내는<LINE>
+　괜찮으려나…？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E2, String: 2E26-2F0A]
+<MSG_IF 2E02FFE3>
+<WIN 4000A2001003>
+<DECOR 0008>
+「록 씨，섬과 저와 아기를<LINE>
+　구해주셔서<LINE>
+　정말로 감사합니다<NEXT>
+
+<CLEAR 0400>
+　네？ 이 배요？<NEXT>
+
+<CLEAR 0400>
+　이건，산후 회복…<LINE>
+　이라는 거예요！<NEXT>
+
+<CLEAR 0400>
+　모르겠다면<LINE>
+　어머니께 물어보세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E3, String: 2F0A-2F64]
+<WIN 4000A2001003>
+<DECOR 0008>
+「으응… 우리 아기，<LINE>
+　슬슬 출산 예정일인데…<LINE>
+　난감하네…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E4, String: 2F64-2FBA]
+<MSG_IF 4200E5FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「고마워，록 씨！<LINE>
+　파프리카랑 또 놀아줘<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E5, String: 2FBA-300A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「고마워，록 씨！<LINE>
+　파프리카랑 또 놀아줘<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E6, String: 300A-3060]
+<MSG_IF 4200E7FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「왕왕왕왕！！<NEXT>
+
+<CLEAR 0400>
+　（어이 대장，건강하라고…）<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E7, String: 3060-30BA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「크르르릉～<NEXT>
+
+<CLEAR 0400>
+　（나를<LINE>
+　　찼었던 일，두고보라고…）<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E8, String: 30BA-31BC]
+<MSG_IF F102E9FF>
+<WIN 3A00A2001103>
+<DECOR 0008>
+「해냈구나 록！<LINE>
+　이걸로 나도 안심하고<LINE>
+　섬 곳곳을 디그아웃 할 수 있어！<NEXT>
+
+<CLEAR 0400>
+　…랄까나<LINE>
+　역시 나는 도시 근처의<LINE>
+　작은 유적이면 충분해<NEXT>
+
+<CLEAR 0400>
+　혹시 또 무슨 일이라도 생기면<LINE>
+　무서우니까<NEXT>
+
+<CLEAR 0400>
+　어쨌든，건강하게 잘 지내<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E9, String: 31BC-32BE]
+<WIN 3A00A2001103>
+<DECOR 0008>
+「해냈구나 히포포타머스！<LINE>
+　이걸로 나도 안심하고<LINE>
+　섬 곳곳을 디그아웃 할 수 있어！<NEXT>
+
+<CLEAR 0400>
+　…랄까나<LINE>
+　역시 나는 도시 근처의<LINE>
+　작은 유적이면 충분해<NEXT>
+
+<CLEAR 0400>
+　혹시 또 무슨 일이라도 생기면<LINE>
+　무서우니까<NEXT>
+
+<CLEAR 0400>
+　어쨌든，건강하게 잘 지내<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EA, String: 32BE-33FE]
+<MSG_IF F102EBFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「가버리는구나 록 씨<NEXT>
+
+<CLEAR 0400>
+　너는 우리 고객 중에서도<LINE>
+　최고의 디그아우터였어！<NEXT>
+
+<CLEAR 0400>
+　너라면 분명<LINE>
+　어딜 가더라도 훌륭하게<LINE>
+　잘 해내겠지…<NEXT>
+
+<CLEAR 0400>
+　서포트하던 롤이라는 애하고<LINE>
+　잘 지내라고…<NEXT>
+
+<CLEAR 0400>
+　뭐니해도 디그아웃은<LINE>
+　콤비끼리 합이<LINE>
+　잘 맞아야 하니까！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EB, String: 33FE-3534]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아아，히포포타머스 씨…<NEXT>
+
+<CLEAR 0400>
+　너는 우리 고객 중에서도<LINE>
+　최고의 디그아우터였어！<NEXT>
+
+<CLEAR 0400>
+　너라면 분명<LINE>
+　어딜 가더라도 훌륭하게<LINE>
+　잘 해내겠지…<NEXT>
+
+<CLEAR 0400>
+　서포트하던 롤이라는 애하고<LINE>
+　잘 지내라고…<NEXT>
+
+<CLEAR 0400>
+　뭐니해도 디그아웃은<LINE>
+　콤비끼리 합이<LINE>
+　잘 맞아야 하니까！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EC, String: 3534-35A8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「쿨… 쿨…<NEXT>
+
+<CLEAR 0400>
+　젊었을 적 영감이랑<LINE>
+　닮은 소년이，도시를 구했지<LINE>
+　흠냐흠냐…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block ED, String: 35A8-3686]
+<WIN 4000A2001003>
+<DECOR 0008>
+「록！！<NEXT>
+
+<CLEAR 0400>
+　결국，록의<LINE>
+　여자친구하곤…<LINE>
+　만나지 못했지만…<NEXT>
+
+<CLEAR 0400>
+　분명 록에게<LINE>
+　잘 어울리는…<LINE>
+　좋은 아이일 거야<NEXT>
+
+<CLEAR 0400>
+　후후후，쪼오금<LINE>
+　질투날지도<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EE, String: 3686-372A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어서옵쇼！ 어서옵쇼！<LINE>
+　우리 채소는 맛있어요！<NEXT>
+
+<CLEAR 0400>
+　우리 아내？<LINE>
+　귀엽지만，지금은 없어요<LINE>
+　장이라도 보러 갔을지도요？<NEXT>
+
+<END><CLOSE 0400>
+
+

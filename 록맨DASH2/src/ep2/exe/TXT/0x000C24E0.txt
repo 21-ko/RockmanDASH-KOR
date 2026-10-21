@@ -1,0 +1,465 @@
+[BLOCK: 0000]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 003A00681212>
+<FB05 3108>
+<FB3D>
+을(를) 사용할까요？<LINE>
+　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0203010801>
+<FB11 03FFFFFF>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 005200700E11>
+<FB05 3108>
+라이프는 가득 차 있습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 004000701111>
+<FB05 3108>
+라이프가 완전히 회복되었습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 005800700D11>
+<FB05 3108>
+라이프가 회복되었습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0004]
+
+
+[BLOCK: 0005]
+
+
+[BLOCK: 0006]
+
+
+[BLOCK: 0007]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 005800700D11>
+<FB05 3108>
+<ITEM_NAME 0400>
+는 비어있습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 004600681012>
+<FB05 3108>
+<ITEM_NAME 0401>
+를 사용할까요？<LINE>
+　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0203010801>
+<FB11 03FFFFFF>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 005800700D11>
+<FB05 3108>
+사용할 필요는 없습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 004600701011>
+<FB05 3108>
+특수 대미지가 치료되었습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000B]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 003A00701211>
+<FB05 3108>
+록 버스터를 쓸 수 있게 되었습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000C]
+<FUNC 0300>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 004000681122>
+<FB05 3108>
+마비 증상이 사라져서 록 버스터를<LINE>
+쓸 수 있게 되었습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000D]
+
+
+[BLOCK: 000E]
+
+
+[BLOCK: 000F]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 005800700D11>
+<FB05 3108>
+<ITEM_NAME 0401>
+는 비어있습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 003A00681212>
+<FB05 3108>
+<ITEM_NAME 0402>
+를 사용할까요？<LINE>
+　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0203010801>
+<FB11 03FFFFFF>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 003400701311>
+<FB05 3108>
+특수무기 에너지는 가득 차 있습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0012]
+
+
+[BLOCK: 0013]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 003A00701211>
+<FB05 3108>
+특수무기 에너지가 회복되었습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0300>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 004000681122>
+<FB05 3108>
+롤 쨩에게 건네주면<LINE>
+뭔가 만들어 줄지도 모르겠다…….
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0000>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 004C00700F01>
+<FB05 3108>
+롤 쨩은 알지도 모르겠다…….
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0000>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 004000701101>
+<FB05 3108>
+롤 쨩이 기뻐할지도 모르겠다…….
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0017]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 006400700B11>
+<FB05 3108>
+누구에게 건네줄까？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0018]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 004C00700F11>
+<FB05 3108>
+이 아이템은 쓸 수 없습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0019]
+
+
+[BLOCK: 001A]
+
+
+[BLOCK: 001B]
+
+
+[BLOCK: 001C]
+
+
+[BLOCK: 001D]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 004600681012>
+<FB05 3108>
+이 아이템은 가지고 있기만 해도<LINE>
+효과를 발휘합니다
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0100>
+<VWAIT 00>
+<FB25 00>
+<FB29 01>
+<POS 003A00681212>
+<FB05 3108>
+<FB3D>
+을(를) 읽겠습니까？<LINE>
+　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0203010801>
+<FB11 03FFFFFF>
+<END>
+
+[BLOCK: 001F]
+<FUNC 0300>
+<VWAIT 02>
+<FB25 00>
+<FB29 01>
+<POS 002E00601423>
+<FB05 3108>
+안녕하신가요 록 님.<LINE>
+저는 꼬붕 ２０호라고 합니다.
+<PAGEKEY>
+<NEXTPAGE 020200>
+록 님에게 부탁드릴 일이 있어서<LINE>
+이렇게…… 펜을 들었습니다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+사실은 얼마 전 포쿠테 마을에서 있던<LINE>
+사건 후 트론 님이 기운이 없습니다.
+<PAGEKEY>
+<NEXTPAGE 020300>
+어딘가 매우 낙심한 표정입니다.<LINE>
+밥도 넘어가지 않는 듯합니다.
+<PAGEKEY>
+<NEXTPAGE 020100>
+어떻게 된 일인지 너무나도 걱정입니다.
+<PAGEKEY>
+<NEXTPAGE 020200>
+혹시 저희의<LINE>
+새로운 보스가 되어 주시면<LINE>
+안될까요.
+<PAGEKEY>
+<NEXTPAGE 020200>
+받아들여 주신다면 분명 트론 님께서도<LINE>
+힘을 내실 걸로 생각합니다.
+<PAGEKEY>
+<NEXTPAGE 020000>
+저희와 함께<LINE>
+트론 님의 벌을 받으면<LINE>
+즐거울 거로 생각합니다.
+<PAGEKEY>
+<NEXTPAGE 020000>
+그러면, 부디 저희의 부탁을 들어주시길.<LINE>
+<LINE>
+안녕히 계세요.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0020]
+<FUNC 0500>
+<VWAIT 02>
+<FB25 00>
+<FB29 01>
+<POS 002200601633>
+<FB05 3108>
+안녕하세요. 꼬붕 ３２호예요.<LINE>
+본 님과 트론 님에 대한 많은<LINE>
+성원에 감사드려요.
+<PAGEKEY>
+<NEXTPAGE 020000>
+최근 트론 님께서<LINE>
+또 이상해지셨어요.
+<PAGEKEY>
+<NEXTPAGE 020700>
+갑자기 얼굴이 빨개지나 싶더니<LINE>
+또 풀죽고 그러네요
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+<LINE>
+무언가를 떠올리면서 계속 풀죽은 상태예요.
+<PAGEKEY>
+<NEXTPAGE 020100>
+키모토마시의 지하 던전에서<LINE>
+뭔가 일이 있었나요？
+<PAGEKEY>
+<NEXTPAGE 020100>
+그때 같이 있던 １１호나 ２３호는<LINE>
+아무것도 가르쳐주지 않네요.
+<PAGEKEY>
+<NEXTPAGE 020000>
+도대체 트론 님에게<LINE>
+무슨 일이 있었나요？
+<PAGEKEY>
+<NEXTPAGE 020300>
+또 뵙게 된다면<LINE>
+몰래 알려주세요.
+<PAGEKEY>
+<NEXTPAGE 020000>
+그럼, 안녕히 계세요.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0021]
+<FUNC 0000>
+<VWAIT 02>
+<FB25 00>
+<FB29 01>
+<POS 004C00600F03>
+<FB05 3108>
+록 형아 아녕ー.<LINE>
+이제 글씨도 쓸 줄 알아ー.<LINE>
+편지 잘 받았나 모르겠다ー.
+<PAGEKEY>
+<NEXTPAGE 020000>
+또 놀러 와ー.<LINE>
+건강해.<LINE>
+　　　　　　앗포랑 다
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0022]
+<FUNC 0000>
+<VWAIT 02>
+<FB25 00>
+<FB29 01>
+<POS 004000601103>
+<FB05 3108>
+록 형아 안녕ー.<LINE>
+여기는 키토 마을이라는 곳이야ー.<LINE>
+잘 기억했지ー, 에헷.
+<PAGEKEY>
+<NEXTPAGE 020000>
+매일 더워<LINE>
+편지는 이런 거 쓰는 거 맞지.<LINE>
+에헤헤ー　　　　　　앗포랑 다
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0023]
+<FUNC 0300>
+<VWAIT 02>
+<FB25 00>
+<FB29 01>
+<POS 002200601623>
+<FB05 3108>
+록 형아 오늘은ー<LINE>
+한자 쓰는 법도 배웠어.<LINE>
+에헴 에헴.
+<PAGEKEY>
+<NEXTPAGE 020200>
+슈 누나도 좋아하더라ー.<LINE>
+또 놀러 와ー.<LINE>
+안녕ー　　　　　　　　　　　　앗포랑 다
+<ENDKEY>
+<FB31>
+<END>
+

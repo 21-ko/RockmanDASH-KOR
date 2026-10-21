@@ -1,0 +1,614 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 006400180B01>
+<FB05 1308>
+칼린카 대륙 요숀카시
+<FB2B>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 008200180601>
+<FB05 1308>
+금단의 땅
+<FB2B>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 008200180601>
+<FB05 1308>
+설퍼보톰호
+<FB2B>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 006A00180A01>
+<FB05 1308>
+만다섬 포쿠테 마을
+<FB2B>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 006A00180A01>
+<FB05 1308>
+니노섬 루미노아시
+<FB2B>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0000>
+<FB16 110707FF>
+<FB1D>
+<VWAIT 00>
+<POS 005800180D01>
+<FB05 1308>
+칼바니아섬 칼바니아초원
+<FB2B>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0000>
+<FB16 0D0808FF>
+<FB1D>
+<VWAIT 00>
+<POS 006400180B01>
+<FB05 1308>
+사울카다섬 오아시스
+<FB2B>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 004C00180F01>
+<FB05 1308>
+칼바니아섬 글라이드 요새 앞
+<FB2B>
+<END>
+
+[BLOCK: 0008]
+
+
+[BLOCK: 0009]
+
+
+[BLOCK: 000A]
+
+
+[BLOCK: 000B]
+
+
+[BLOCK: 000C]
+
+
+[BLOCK: 000D]
+
+
+[BLOCK: 000E]
+
+
+[BLOCK: 000F]
+
+
+[BLOCK: 0010]
+
+
+[BLOCK: 0011]
+
+
+[BLOCK: 0012]
+
+
+[BLOCK: 0013]
+
+
+[BLOCK: 0014]
+
+
+[BLOCK: 0015]
+
+
+[BLOCK: 0016]
+
+
+[BLOCK: 0017]
+
+
+[BLOCK: 0018]
+
+
+[BLOCK: 0019]
+
+
+[BLOCK: 001A]
+
+
+[BLOCK: 001B]
+
+
+[BLOCK: 001C]
+
+
+[BLOCK: 001D]
+
+
+[BLOCK: 001E]
+
+
+[BLOCK: 001F]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 005E00180C01>
+<FB05 1308>
+사울카다섬 키모토마시
+<FB2B>
+<END>
+
+[BLOCK: 0020]
+
+
+[BLOCK: 0021]
+
+
+[BLOCK: 0022]
+
+
+[BLOCK: 0023]
+<FUNC 0200>
+<FB16 126565FF>
+<FB16 116464FF>
+<FB16 106060FF>
+<FB16 0F5C5CFF>
+<FB16 0E5858FF>
+<FB16 0D5454FF>
+<FB16 0C5050FF>
+<FB16 0B4C4CFF>
+<FB16 0A4848FF>
+<FB16 094444FF>
+<FB16 084040FF>
+<FB16 073C3CFF>
+<FB16 063838FF>
+<FB16 053434FF>
+<FB16 043030FF>
+<FB16 032C2CFF>
+<FB16 022828FF>
+<FB16 012424FF>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81812>
+<FB05 0308>
+ＷＡＲＮＩＮＧ！<LINE>
+플러터호에 탑승할 수 없습니다.
+<FB2B>
+<END>
+
+[BLOCK: 0024]
+<FUNC 0100>
+<FB28 05C025FF>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81812>
+<FB05 0308>
+할아버지와 일행을 구하러 금단의 땅으로 가자！<LINE>
+록！
+<FB2B>
+<END>
+
+[BLOCK: 0025]
+
+
+[BLOCK: 0026]
+
+
+[BLOCK: 0027]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81812>
+<FB05 0308>
+할아버지와 일행은 금단의 땅<LINE>
+어딘가에 반드시 있을 거야.
+<FB2B>
+<END>
+
+[BLOCK: 0028]
+
+
+[BLOCK: 0029]
+
+
+[BLOCK: 002A]
+
+
+[BLOCK: 002B]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+첫 번째 봉인의 열쇠는 만다섬<LINE>
+포쿠테 마을의 유적에 있을 거야
+<FB2B>
+<END>
+
+[BLOCK: 002C]
+
+
+[BLOCK: 002D]
+
+
+[BLOCK: 002E]
+
+
+[BLOCK: 002F]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+만다섬의 유적 입구는 마을 안쪽에 있을까？<LINE>
+여기저기 잘 찾아보자.
+<FB2B>
+<END>
+
+[BLOCK: 0030]
+<FUNC 0300>
+<FB28 03D031FF>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+이제 만다섬의 유적에 들어갈 수 있겠어！<LINE>
+유적 디그 아웃 하러 가자.
+<FB2B>
+<END>
+
+[BLOCK: 0031]
+
+
+[BLOCK: 0032]
+
+
+[BLOCK: 0033]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+봉인의 열쇠를 뮐러 씨에게 전하러 가자<LINE>
+록, 설퍼보톰호로 돌아가자.
+<FB2B>
+<END>
+
+[BLOCK: 0034]
+
+
+[BLOCK: 0035]
+
+
+[BLOCK: 0036]
+
+
+[BLOCK: 0037]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+다음은 니노섬이구나.<LINE>
+니노섬의 유적은 어떤 던전일까？
+<FB2B>
+<END>
+
+[BLOCK: 0038]
+
+
+[BLOCK: 0039]
+
+
+[BLOCK: 003A]
+
+
+[BLOCK: 003B]
+<FUNC 0200>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81812>
+<FB05 0308>
+ＷＡＲＮＩＮＧ！<LINE>
+플러터호에 탑승할 수 없습니다.
+<FB2B>
+<END>
+
+[BLOCK: 003C]
+<FUNC 0300>
+<FB28 05823DFF>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+길드마스터에게 부탁해서 유적의 게이트를<LINE>
+열어달라고 해야겠어.
+<FB2B>
+<END>
+
+[BLOCK: 003D]
+
+
+[BLOCK: 003E]
+
+
+[BLOCK: 003F]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+공적을 물리치지 않으면 유적의 게이트를 열어주지<LINE>
+않겠구나 ……칼바니아섬으로 가 보자.
+<FB2B>
+<END>
+
+[BLOCK: 0040]
+<FUNC 0300>
+<FB28 059041FF>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+일단, 글라이드의 요새를 찾아보자.<LINE>
+칼바니아섬의 마을에서 정보를 수집해 볼까？
+<FB2B>
+<END>
+
+[BLOCK: 0041]
+
+
+[BLOCK: 0042]
+
+
+[BLOCK: 0043]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+슈 씨를 구해야 해！ 다른 곳으로 갈 때가<LINE>
+아니야！ ……하지만 장비도 갖춰야겠는걸.
+<FB2B>
+<END>
+
+[BLOCK: 0044]
+
+
+[BLOCK: 0045]
+
+
+[BLOCK: 0046]
+
+
+[BLOCK: 0047]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+슈 씨도 구출했고 요새도 파괴했으니,<LINE>
+이제 유적의 게이트를 열어줄 거야！
+<FB2B>
+<END>
+
+[BLOCK: 0048]
+<FUNC 0300>
+<FB28 03D149FF>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+드디어<SPACE 04>니노섬의<SPACE 04>유적을<SPACE 04>디그<SPACE 04>아웃<SPACE 04>할<SPACE 04>수<SPACE 04>있게<SPACE 04>됐어.<LINE>
+장비를 갖춘 다음 루미노아시로 가자.
+<FB2B>
+<END>
+
+[BLOCK: 0049]
+
+
+[BLOCK: 004A]
+
+
+[BLOCK: 004B]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+봉인의 열쇠를 뮐러 씨에게 전하러 가자.<LINE>
+록, 설퍼보톰호로 돌아가자.
+<FB2B>
+<END>
+
+[BLOCK: 004C]
+
+
+[BLOCK: 004D]
+
+
+[BLOCK: 004E]
+
+
+[BLOCK: 004F]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+사울카다섬의 키모토마시라…… 도시에는<LINE>
+공적이 있다고 하니까, 안전한 장소에 내리자！
+<FB2B>
+<END>
+
+[BLOCK: 0050]
+
+
+[BLOCK: 0051]
+
+
+[BLOCK: 0052]
+
+
+[BLOCK: 0053]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+키모토마시에서 본 일가를 쫓아내야 해！<LINE>
+장비를 갖춘 다음 사울카다섬으로 가자！
+<FB2B>
+<END>
+
+[BLOCK: 0054]
+<FUNC 0300>
+<FB28 03D255FF>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+사울카다섬의 유적은 키모토마시의<LINE>
+중앙광장에서 들어갈 수 있어.
+<FB2B>
+<END>
+
+[BLOCK: 0055]
+
+
+[BLOCK: 0056]
+
+
+[BLOCK: 0057]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+봉인의 열쇠를 뮐러 씨에게 전하러 가자<LINE>
+록, 설퍼보톰호로 돌아가자.
+<FB2B>
+<END>
+
+[BLOCK: 0058]
+
+
+[BLOCK: 0059]
+
+
+[BLOCK: 005A]
+
+
+[BLOCK: 005B]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+마지막 유적은 요숀카시에 있다고 했지.<LINE>
+그분, 다친 곳은 다 나았을까…….
+<FB2B>
+<END>
+
+[BLOCK: 005C]
+<FUNC 0300>
+<FB28 03EE5DFF>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+공적 녀석들이야…… 지금까지 만났던 상대 중에서<LINE>
+가장 까다로울지도 몰라. 어쨌든 요숀카시로 가자！
+<FB2B>
+<END>
+
+[BLOCK: 005D]
+
+
+[BLOCK: 005E]
+
+
+[BLOCK: 005F]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+장갑열차라……<LINE>
+이제 공적 녀석들과 맞설 준비가 끝났어！
+<FB2B>
+<END>
+
+[BLOCK: 0060]
+<FUNC 0300>
+<FB28 03D361FF>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+드디어 마지막 봉인의 열쇠야. 칼린카 대륙의 유적<LINE>
+입구는 요숀카시의 교회에 있다고 해.
+<FB2B>
+<END>
+
+[BLOCK: 0061]
+
+
+[BLOCK: 0062]
+
+
+[BLOCK: 0063]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+이제 봉인의 열쇠가 다 모였는데도……<LINE>
+너무나도 불안해…… 록, 몸조심해！
+<FB2B>
+<END>
+
+[BLOCK: 0064]
+<FUNC 0300>
+<FB28 058065FF>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+……그분, 칼바니아섬에서 기다린다고<LINE>
+하셨어…….
+<FB2B>
+<END>
+
+[BLOCK: 0065]
+<FUNC 0300>
+<FB1D>
+<VWAIT 00>
+<POS 001600B81822>
+<FB05 0308>
+록, 몸조심해…….<LINE>
+나…… 기다릴게…….
+<FB2B>
+<END>
+

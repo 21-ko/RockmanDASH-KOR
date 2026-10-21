@@ -1,0 +1,80 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 006400D60B01>
+<COLOR 00>
+오！ 반가워.
+<FB2B>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 001C00D61701>
+<COLOR 00>
+네가 록이라는, 디그 아우터지？
+<FB2B>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 005200D60E01>
+<COLOR 00>
+뭐, 그렇게 노려보지 말라고
+<FB2B>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 005800D60D11>
+<COLOR 00>
+뭔가, 좋구나～ 젊다는 건.
+<FB2B>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 003A00D61201>
+<COLOR 00>
+너한테 원한 같은건 딱히 없다만
+<FB2B>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 006A00D60A11>
+<COLOR 00>
+내 파트너가 어떻게든
+<FB2B>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0100>
+<FB1D>
+<VWAIT 00>
+<POS 003A00D61211>
+<COLOR 00>
+『위대한 유산』이 갖고 싶다고 해서
+<FB2B>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 001600D61801>
+<COLOR 00>
+오랜만에 살짝 힘을 좀 써보려고.
+<FB2B>
+<END>
+

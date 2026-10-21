@@ -1,0 +1,8 @@
+[Block 00, String: 0000-002A]
+<WIN 70003C000801>
+<DECOR 0008>
+가짜 메세지．계속<NEXT>
+
+<END><CLOSE 0400>
+
+

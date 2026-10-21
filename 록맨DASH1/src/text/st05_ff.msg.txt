@@ -1,0 +1,2331 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-0004]
+
+
+[Block 02, String: 0004-0006]
+
+
+[Block 03, String: 0006-0008]
+
+
+[Block 04, String: 0008-000A]
+
+
+[Block 05, String: 000A-000C]
+
+
+[Block 06, String: 000C-000E]
+
+
+[Block 07, String: 000E-0010]
+
+
+[Block 08, String: 0010-0012]
+
+
+[Block 09, String: 0012-0064]
+<NO_CHAR_SFX><AUDIO 4C000500>
+<WIN 340030001202>
+<DECOR 0008>
+히익～<LINE>
+우리가 뭘 했다고 그러는거야～<WAIT 5000>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 0064-00A8]
+<NO_CHAR_SFX><AUDIO 4D000500>
+<WIN 340030001201>
+<DECOR 0008>
+살려줘～ 이러다 죽겠어～！<WAIT 4C00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 00A8-00EC]
+<NO_CHAR_SFX><AUDIO 4E000500>
+<WIN 340030001201>
+<DECOR 0008>
+일단 도망쳐야 해！<WAIT 2800>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 00EC-013E]
+<NO_CHAR_SFX><AUDIO 4F000500>
+<WIN 340030001202>
+<DECOR 0008>
+정말로 아무것도<LINE>
+하지 않았다니까！<WAIT 4900>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 013E-0176]
+<NO_CHAR_SFX><AUDIO 50000500>
+<WIN 340030001201>
+<DECOR 0008>
+오해라구요～！<WAIT 2A00>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 0176-01CA]
+<NO_CHAR_SFX><AUDIO 51000500>
+<WIN 340030001202>
+<DECOR 0008>
+어차피 우리 이야기는<LINE>
+들어주지도 않을 거야！<WAIT 4100>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 01CA-0208]
+<NO_CHAR_SFX><AUDIO 52000500>
+<WIN 340030001201>
+<DECOR 0008>
+이 녀석，그만둬！<WAIT 2000>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0208-024C]
+<NO_CHAR_SFX><AUDIO 53000500>
+<WIN 340030001201>
+<DECOR 0008>
+잠깐，뭐하는 거야！？<WAIT 3500>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 024C-028A]
+<NO_CHAR_SFX><AUDIO 54000500>
+<WIN 340030001201>
+<DECOR 0008>
+범인의 동료인가！？<WAIT 2300>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 028A-02CE]
+<NO_CHAR_SFX><AUDIO 55000500>
+<WIN 340030001201>
+<DECOR 0008>
+우왓！ 이쪽을 쏘고있잖아！！<WAIT 3500>
+<NEXT>
+
+<END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 02CE-02D0]
+
+
+[Block 14, String: 02D0-02D2]
+
+
+[Block 15, String: 02D2-0312]
+<WIN 340030001203>
+<DECOR 0008>
+「젠장，짜증나，<LINE>
+　저 노친네！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 0312-0354]
+<GET 1002><WIN 340030001203>
+<DECOR 0008>
+「뭐야，나한테<LINE>
+　볼 일이라도 있냐고！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 0354-0494]
+<WIN 340030001203>
+<DECOR 0008>
+「가방 든 아저씨？<LINE>
+　그 아재，네가 아는 사람이야？<NEXT>
+
+<CLEAR 0400>
+　정말이지，엄청난 기세로<LINE>
+　나한테 부딪혔다고<LINE>
+　사과 한 마디 없이！<NEXT>
+
+<CLEAR 0400>
+　그만 화가 나서<LINE>
+　떨어진 가방을<LINE>
+　쓰레기통에 버렸지！<NEXT>
+
+<CLEAR 0400>
+　너，찾아달라 해서 온 거지？<LINE>
+　저기 있으니 가져가라고<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 0494-0496]
+
+
+[Block 19, String: 0496-0498]
+
+
+[Block 1A, String: 0498-049A]
+
+
+[Block 1B, String: 049A-049C]
+
+
+[Block 1C, String: 049C-049E]
+
+
+[Block 1D, String: 049E-04A0]
+
+
+[Block 1E, String: 04A0-04A2]
+
+
+[Block 1F, String: 04A2-04A4]
+
+
+[Block 20, String: 04A4-04A6]
+
+
+[Block 21, String: 04A6-04A8]
+
+
+[Block 22, String: 04A8-04AA]
+
+
+[Block 23, String: 04AA-04AC]
+
+
+[Block 24, String: 04AC-04AE]
+
+
+[Block 25, String: 04AE-04B0]
+
+
+[Block 26, String: 04B0-050C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나도 ＴＶ를 보고<LINE>
+　급히 달려온 참이야！<NEXT>
+
+<CLEAR 0400>
+　말하자면 구경꾼인거지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 27, String: 050C-0592]
+<WIN 4000A2001003>
+<DECOR 0008>
+「오，왔구나，<LINE>
+　불시착한 히어로 씨！<NEXT>
+
+<CLEAR 0400>
+　너의 그 단단한 몸으로<LINE>
+　몸통박치기 해버려！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 28, String: 0592-0594]
+
+
+[Block 29, String: 0594-0596]
+
+
+[Block 2A, String: 0596-0598]
+
+
+[Block 2B, String: 0598-059A]
+
+
+[Block 2C, String: 059A-059C]
+
+
+[Block 2D, String: 059C-059E]
+
+
+[Block 2E, String: 059E-05A0]
+
+
+[Block 2F, String: 05A0-05A2]
+
+
+[Block 30, String: 05A2-05A4]
+
+
+[Block 31, String: 05A4-05A6]
+
+
+[Block 32, String: 05A6-05A8]
+
+
+[Block 33, String: 05A8-05AA]
+
+
+[Block 34, String: 05AA-05AC]
+
+
+[Block 35, String: 05AC-05AE]
+
+
+[Block 36, String: 05AE-05B0]
+
+
+[Block 37, String: 05B0-05B2]
+
+
+[Block 38, String: 05B2-05B4]
+
+
+[Block 39, String: 05B4-05B6]
+
+
+[Block 3A, String: 05B6-05B8]
+
+
+[Block 3B, String: 05B8-05BA]
+
+
+[Block 3C, String: 05BA-05BC]
+
+
+[Block 3D, String: 05BC-05BE]
+
+
+[Block 3E, String: 05BE-0674]
+<WIN 340030001203>
+<DECOR 0008>
+폭탄・・・！？<LINE>
+경부님이 말했던 분실물이란<LINE>
+폭탄이었던 건가！？<NEXT>
+
+<CLEAR 0400>
+…남은 ２개가<LINE>
+폭발하기 전에 찾아야 해！<NEXT>
+
+<CLEAR 0400>
+혹시 목격자라도 없을까…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 3F, String: 0674-0716]
+<WIN 340030001203>
+<DECOR 0008>
+폭탄을 발견했다！<NEXT>
+
+<CLEAR 0400>
+록<LINE>
+「스위치를 껐다…<LINE>
+　이제 괜찮을거야！<NEXT>
+
+<CLEAR 0400>
+<LINE>
+<037C 8600>
+<SPACE 0C00><COLOR 0300><ITEM 7500><COLOR 0000><GET 7505>을 손에 넣었다<NEXT>
+
+<CLEAR 0400>
+「앞으로 １개！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 40, String: 0716-07BA]
+<WIN 340030001203>
+<DECOR 0008>
+폭탄을 발견했다！<NEXT>
+
+<CLEAR 0400>
+록<LINE>
+「스위치를 껐다…<LINE>
+　이제 괜찮을거야！<NEXT>
+
+<CLEAR 0400>
+<LINE>
+<037C 8600>
+<SPACE 0C00><COLOR 0300><ITEM 7600><COLOR 0000><GET 7605>을 손에 넣었다<NEXT>
+
+<CLEAR 0400>
+「휴우・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 41, String: 07BA-07E8]
+<WIN 340030001203>
+<DECOR 0008>
+시간을 너무 지체했다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 42, String: 07E8-081A]
+<NO_CHAR_SFX><MOVE_FREE><0378 0000><WIN 1C0020000801>
+<DECOR 0308>
+<COST>　　　　　　　＄<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block 43, String: 081A-083E]
+<WIN 680030000A01>
+<DECOR 0008>
+「히이～～～！！<END><CLOSE 1E00>
+
+
+[Block 44, String: 083E-0864]
+<WIN 680030000A01>
+<DECOR 0008>
+「우왓！ 뭐야！？<END><CLOSE 1E00>
+
+
+[Block 45, String: 0864-08AA]
+<WIN 280030001403>
+<DECOR 0008>
+<LINE>
+<037C 8600>
+현금이 든 <COLOR 0300>큰가방<COLOR 0000>을 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 46, String: 08AA-08DC]
+<WIN 3400A2001203>
+<DECOR 0008>
+경부<LINE>
+「저질러버렸나・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 47, String: 08DC-0948]
+<GET 7906><WIN 3400A2001203>
+<DECOR 0008>
+혹시 슬쩍할 셈인가요？<LINE>
+<0378 0000><LINE>
+　　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0385 804CFF00>
+<0378 0100><END><CLOSE 0500>
+
+
+[Block 48, String: 0948-09B4]
+<WIN 3400A2001203>
+<DECOR 0008>
+경부<LINE>
+「아，한숨 돌렸네　록 군！<LINE>
+　고마워<NEXT>
+
+<CLEAR 0400>
+「꼭 사례를 하게 해주게<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 49, String: 09B4-09EC]
+<MSG_IF 460547FF>
+<WIN 280030001403>
+<DECOR 0008>
+현금을 되찾아야 해・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 4A, String: 09EC-0A50]
+<WIN 3400A2001203>
+<DECOR 0008>
+경부<LINE>
+「현금이 든 큰 가방을<LINE>
+　좀처럼 찾을 수가 없다네<NEXT>
+
+<CLEAR 0400>
+　곤란하군・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 4B, String: 0A50-0A8C]
+<WIN 4000A2001003>
+<DECOR 0008>
+폭탄을<LINE>
+회수하지 않으면・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 4C, String: 0A8C-0AE8]
+<WIN 280030001403>
+<DECOR 0008>
+<GIVE 4605><LINE>
+<037C 8500>
+<COLOR 0200><EXE_JUMP 1F20><EXE_JUMP 204E><EXE_JUMP 2100><EXE_JUMP 2200><ZENNY_AMOUNT>　　　　　　　제니<COLOR 0000>를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 4D, String: 0AE8-0AEA]
+
+
+[Block 4E, String: 0AEA-0B22]
+<MSG_IF 4C02FF4F>
+<MSG_IF 4B02FF4F>
+<MSG_IF 1102FF4F>
+<WIN 4000A2001003>
+<DECOR 0008>
+전부 클리어 ７８<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 4F, String: 0B22-0B38]
+뭔가 안돼 ７９<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 50, String: 0B38-0B70]
+<MSG_IF 4C02FF4F>
+<MSG_IF 4B02FF4F>
+<MSG_IF 1102FF4F>
+<WIN 4000A2001003>
+<DECOR 0008>
+전부 클리어 ８０<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 51, String: 0B70-0B86]
+뭔가 안돼 ８１<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 52, String: 0B86-0B88]
+
+
+[Block 53, String: 0B88-0B8A]
+
+
+[Block 54, String: 0B8A-0B8C]
+
+
+[Block 55, String: 0B8C-0B8E]
+
+
+[Block 56, String: 0B8E-0B90]
+
+
+[Block 57, String: 0B90-0B92]
+
+
+[Block 58, String: 0B92-0BB2]
+<MSG_IF 3F00FF59>
+<WIN 4000A2001003>
+<DECOR 0008>
+８８<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 59, String: 0BB2-0BD2]
+<MSG_IF 3700FF5D>
+<WIN 4000A2001003>
+<DECOR 0008>
+８９<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 5A, String: 0BD2-0BD4]
+
+
+[Block 5B, String: 0BD4-0BD6]
+
+
+[Block 5C, String: 0BD6-0BD8]
+
+
+[Block 5D, String: 0BD8-0BF2]
+<WIN 4000A2001003>
+<DECOR 0008>
+９３<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 5E, String: 0BF2-0BF4]
+
+
+[Block 5F, String: 0BF4-0BF6]
+
+
+[Block 60, String: 0BF6-0BF8]
+
+
+[Block 61, String: 0BF8-0BFA]
+
+
+[Block 62, String: 0BFA-0BFC]
+
+
+[Block 63, String: 0BFC-0C0A]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+
+
+[Block 64, String: 0C0A-0C36]
+<WIN 280024001401>
+<DECOR 0008>
+？？？？을（를）손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 65, String: 0C36-0C38]
+
+
+[Block 66, String: 0C38-0C3A]
+
+
+[Block 67, String: 0C3A-0C3C]
+
+
+[Block 68, String: 0C3C-0C3E]
+
+
+[Block 69, String: 0C3E-0D66]
+<WIN 4000A2001003>
+<DECOR 0008>
+「앗，당신 ＴＶ에서 봤어！<LINE>
+　도시를 지킨 히어로지？<NEXT>
+
+<CLEAR 0400>
+　히어로씨，다음엔 뭐 해？<NEXT>
+
+<CLEAR 0400>
+　…서브게이트를 조사！？<LINE>
+　그렇다면，하나 알려줄게！<NEXT>
+
+<CLEAR 0400>
+　이 섬에는，서브게이트라고<LINE>
+　부르는 유적이<LINE>
+　３개 있어…<NEXT>
+
+<CLEAR 0400>
+　힘내서 조사해！<LINE>
+　쪼옥！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6A, String: 0D66-0E50]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적 소동이<LINE>
+　커다란 재앙이라고…？<NEXT>
+
+<CLEAR 0400>
+　그런 일은 없을거야！<LINE>
+　…내가 들은 바로는<LINE>
+　커다란 재앙이 일어나면<NEXT>
+
+<CLEAR 0400>
+　섬의 인간들은 싸그리<LINE>
+　멸망한다는 이야기라네…！<NEXT>
+
+<CLEAR 0400>
+　뭐，소문이겠네만<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6B, String: 0E50-0F22]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적 소동이 있는 동안<LINE>
+　<COLOR 0200>레이크사이드 파크<COLOR 0000>에<LINE>
+　피난가 있었는데…<NEXT>
+
+<CLEAR 0400>
+　호수가 아주 아름다워서<LINE>
+　살짝 리조트 기분이 났어<NEXT>
+
+<CLEAR 0400>
+　너도 가봐<LINE>
+　서쪽 게이트 너머서야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6C, String: 0F22-0F98]
+<WIN 4000A2001003>
+<DECOR 0008>
+「동쪽의 구시가지에는 가봤어？<NEXT>
+
+<CLEAR 0400>
+　거기… 무서운 개들이<LINE>
+　많이 있잖아…<LINE>
+　대체 왜일까…？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6D, String: 0F98-0FDC]
+<03C3 066E6F707172FF00>
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・그랬다니까<LINE>
+　그랬더니・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6E, String: 0FDC-100C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭐～！！<LINE>
+　그랬던건가<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 6F, String: 100C-1040]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・그래서<LINE>
+　・・・뭐라고<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 70, String: 1040-106E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・그 사람이 말이야・・<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 71, String: 106E-109E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 남편은 말이야・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 72, String: 109E-10DC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・・그렇게<LINE>
+　보이진 않았지만<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 73, String: 10DC-112C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「오늘은 어느 현장에<LINE>
+　가야할라나・・<NEXT>
+
+<CLEAR 0400>
+　음・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 74, String: 112C-1206]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 에리어의 동쪽에도<LINE>
+　도시가 있다곤 하지만…<NEXT>
+
+<CLEAR 0400>
+　거기에도 차는<LINE>
+　있는걸까요？<NEXT>
+
+<CLEAR 0400>
+　…왜 그런 걸<LINE>
+　신경 쓰냐고요？<NEXT>
+
+<CLEAR 0400>
+　그야，제가<LINE>
+　자동차 영업사원이라서죠<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 75, String: 1206-1276]
+<WIN 4000A2001003>
+<DECOR 0008>
+「의욕은 있더라도～<LINE>
+　일손이 부족해서야～<NEXT>
+
+<CLEAR 0400>
+　역시，<LINE>
+　예산이 부족한걸까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 76, String: 1276-13BE]
+<WIN 340030001203>
+<DECOR 0008>
+<GET 0E02>「가방을 든 아저씨？<LINE>
+　글쎄・・・？<NEXT>
+
+<CLEAR 0400>
+　힘들어 보이는 얼굴로<LINE>
+　주스를 사는 아저씨라면 봤지，<LINE>
+　가방은 안 갖고 있었지만・・・<NEXT>
+
+<CLEAR 0400>
+　여기까지 오는 동안에<LINE>
+　떨어트리거나 한건 아닐까？<LINE>
+　그 근방에서 물어보면 어때？<NEXT>
+
+<CLEAR 0400>
+　의심가는 사람에게는 끈질기게<LINE>
+　말을 걸어볼 것！<LINE>
+　탐문수사의 기본이지！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 77, String: 13BE-13E0]
+<MSG_IF 110215FF>
+<MSG_IF 100217FF>
+<MSG_IF 0F0216FF>
+<MSG_IF 0E02FF15>
+<GET 0F02><CALL 0015>
+
+[Block 78, String: 13E0-1442]
+<WIN 4000A2001003>
+<DECOR 0008>
+「오，당신 록 씨 맞지？<NEXT>
+
+<CLEAR 0400>
+「기다리고 있었어，<LINE>
+　자，이쪽이야！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 79, String: 1442-14AA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신이 기부해 준 덕분에<LINE>
+　완전히 고칠 수 있었어，<LINE>
+　정말 고마워！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7A, String: 14AA-1564]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭐지，방금 소리는？<LINE>
+　혹시 폭탄 같은 거였나？<NEXT>
+
+<CLEAR 0400>
+　그러면 내가 아까<LINE>
+　녹색 집 근처에서 본 것도<LINE>
+　설마・・・！？<NEXT>
+
+<CLEAR 0400>
+　으아아아・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7B, String: 1564-1614]
+<WIN 4000A2001003>
+<DECOR 0008>
+「응，뭔가 찾고 있어？<NEXT>
+
+<CLEAR 0400>
+　나도 얼마 전에<LINE>
+　천장 누수 공사를 할 때 지붕에<LINE>
+　물건을 두고온 적이 있거든<NEXT>
+
+<CLEAR 0400>
+　네가 찾는 것도 의외로<LINE>
+　지붕 위에 있을지도 몰라<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7C, String: 1614-1616]
+
+
+[Block 7D, String: 1616-1620]
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 7E, String: 1620-162E]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+
+
+[Block 7F, String: 162E-163C]
+<MSG_IF 350249FF>
+<MSG_IF 36024BFF>
+
+
+[Block 80, String: 163C-164A]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+
+
+[Block 81, String: 164A-1658]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+
+
+[Block 82, String: 1658-1666]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+
+
+[Block 83, String: 1666-1668]
+
+
+[Block 84, String: 1668-1676]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+
+
+[Block 85, String: 1676-16C4]
+<WIN 4000A2001003>
+<DECOR 0008>
+가로등이 있다<LINE>
+위에 올라갈 수 있어 보이는데<LINE>
+닿을 수 있으려나・・・？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 86, String: 16C4-170C]
+<WIN 4000A2001003>
+<DECOR 0008>
+소화전이 있다<LINE>
+점프하면 올라탈 수 있어보인다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 87, String: 170C-1742]
+<WIN 4000A2001003>
+<DECOR 0008>
+벤치다<LINE>
+하지만 지금은 피곤하지 않다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 88, String: 1742-177A]
+<WIN 4000A2001003>
+<DECOR 0008>
+버스 정류장이다<LINE>
+버스도 다니고 있구나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 89, String: 177A-17BA]
+<WIN 4000A2001003>
+<DECOR 0008>
+우체통이 있다<LINE>
+하지만 딱히 쓸일은 없겠다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 8A, String: 17BA-17BC]
+
+
+[Block 8B, String: 17BC-17BE]
+
+
+[Block 8C, String: 17BE-17C0]
+
+
+[Block 8D, String: 17C0-17C2]
+
+
+[Block 8E, String: 17C2-17C4]
+
+
+[Block 8F, String: 17C4-17C6]
+
+
+[Block 90, String: 17C6-1808]
+<WIN 4000A2001003>
+<DECOR 0008>
+「맨홀을 통해 돌아가는 건<LINE>
+　그만두자…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 91, String: 1808-1856]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「지하도시 입구는 ００８로…<LINE>
+　나오면 버그！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 92, String: 1856-1858]
+
+
+[Block 93, String: 1858-185A]
+
+
+[Block 94, String: 185A-185C]
+
+
+[Block 95, String: 185C-185E]
+
+
+[Block 96, String: 185E-1860]
+
+
+[Block 97, String: 1860-1862]
+
+
+[Block 98, String: 1862-1864]
+
+
+[Block 99, String: 1864-1866]
+
+
+[Block 9A, String: 1866-1868]
+
+
+[Block 9B, String: 1868-186A]
+
+
+[Block 9C, String: 186A-186C]
+
+
+[Block 9D, String: 186C-186E]
+
+
+[Block 9E, String: 186E-1870]
+
+
+[Block 9F, String: 1870-1872]
+
+
+[Block A0, String: 1872-1874]
+
+
+[Block A1, String: 1874-1876]
+
+
+[Block A2, String: 1876-1878]
+
+
+[Block A3, String: 1878-187A]
+
+
+[Block A4, String: 187A-187C]
+
+
+[Block A5, String: 187C-187E]
+
+
+[Block A6, String: 187E-1880]
+
+
+[Block A7, String: 1880-1882]
+
+
+[Block A8, String: 1882-1884]
+
+
+[Block A9, String: 1884-190C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이번에는 호수에서<LINE>
+　개구리를 쓰러뜨렸다며！<NEXT>
+
+<CLEAR 0400>
+　당신은 정말 대단해<NEXT>
+
+<CLEAR 0400>
+<CAM 00002C01000040000000>
+　쪽쪽！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block AA, String: 190C-1954]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적들은 정말 집요하네<LINE>
+　집요한 사람은 싫어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block AB, String: 1954-19D4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신，대단한 활약이었어！<NEXT>
+
+<CLEAR 0400>
+　만약 당신이 없었다면<LINE>
+　이 섬은<LINE>
+　지금쯤 어떻게 됐을지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block AC, String: 19D4-1A40]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신이 불시착한 히어로 맞지？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 80CDAE00>
+<END><CLOSE 0000>
+
+
+[Block AD, String: 1A40-1B00]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그 디플렉터가 있으면<LINE>
+　네 배를 고칠 수 있겠지・・<NEXT>
+
+<CLEAR 0400>
+　하지만 가지는 말아줘<NEXT>
+
+<CLEAR 0400>
+　지금 네가 가버리면<LINE>
+　이 섬을 지킬 사람이<LINE>
+　없어지고 말테니까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block AE, String: 1B00-1B32]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그런가・・<LINE>
+　그럼 됐어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block AF, String: 1B32-1B34]
+
+
+[Block B0, String: 1B34-1BC0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「주부가<LINE>
+　쑥덕거리기만 하던 시대는<LINE>
+　지났어<NEXT>
+
+<CLEAR 0400>
+　이제부터는<LINE>
+　우리들이 일어나서<LINE>
+　도시를 지켜야 해<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B1, String: 1BC0-1C18]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여성 시장도 나타났으니<LINE>
+　정치에도 점점 참여할거야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B2, String: 1C18-1C94]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아까 봤는데<LINE>
+　공적들의 비공선 말이야，<LINE>
+　구시가지 쪽으로 날아갔어<NEXT>
+
+<CLEAR 0400>
+　이번엔 어디로 갈까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B3, String: 1C94-1CF8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「엄청난 소리가 들려왔어<LINE>
+　이쪽에서 났어<NEXT>
+
+<CLEAR 0400>
+　가려거든，조심해<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B4, String: 1CF8-1D5E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적들 정말 집요했지・・<NEXT>
+
+<CLEAR 0400>
+　이제 사라졌다고 생각하니까，<LINE>
+　좀 허전한데・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B5, String: 1D5E-1DFC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「방금，엄청난 소리가 났었지<LINE>
+　…그거，메인게이트 쪽에서<LINE>
+　난 것 같아<NEXT>
+
+<CLEAR 0400>
+　이상한 유적이니까<LINE>
+　언젠가 뭔가 일어날거라고<LINE>
+　생각했어…！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B6, String: 1DFC-1EFA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「알고 있을지도 모르지만，<LINE>
+　동쪽 게이트를 넘으면<LINE>
+　구시가지 에리어야<NEXT>
+
+<CLEAR 0400>
+　그리고 구시가지 에리어는，<LINE>
+　메인게이트 에리어하고<LINE>
+　발전소 에리어로 이어져 있어<NEXT>
+
+<CLEAR 0400>
+　뭐，나는 가본적이 없으니까<LINE>
+　잘 모르겠지만<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B7, String: 1EFA-1EFC]
+
+
+[Block B8, String: 1EFC-1F44]
+<WIN 4000A2001003>
+<DECOR 0008>
+「거대한 재앙으로부터<LINE>
+　아이들을 지킵시다～！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block B9, String: 1F44-1F80]
+<WIN 4000A2001003>
+<DECOR 0008>
+「불조심～ 합시다～！<NEXT>
+
+<CLEAR 0400>
+　딱딱！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BA, String: 1F80-1FD8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「구시가지에는<LINE>
+　들개가 많다고 들었어<NEXT>
+
+<CLEAR 0400>
+　무섭다…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BB, String: 1FD8-2072]
+<WIN 3A00A2001103>
+<DECOR 0008>
+「메인게이트 다음으로<LINE>
+　도시에도 이상한 일이 일어났어！<NEXT>
+
+<CLEAR 0400>
+　북쪽 게이트 앞에<LINE>
+　이상한 유적 같은게<LINE>
+　갑자기 나타났어！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BC, String: 2072-20F4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭔가，이상한 일들만 잔뜩<LINE>
+　계속해서 일어나기나 하고…<NEXT>
+
+<CLEAR 0400>
+　이러면 공적은 오히려<LINE>
+　귀여워보일 정도라고…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BD, String: 20F4-215E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이거… 서브게이트<LINE>
+　같은 그런건가？<NEXT>
+
+<CLEAR 0400>
+　대체 무슨 이유로<LINE>
+　이런 장소에…？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BE, String: 215E-220A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「게이트 바로 앞의<LINE>
+　유적 같이 생긴 거 봤어？<NEXT>
+
+<CLEAR 0400>
+　아무래도，바로 옆의<LINE>
+　레이크사이드 파크에도…<NEXT>
+
+<CLEAR 0400>
+　똑같이 생긴게 나타났다는<LINE>
+　이야기가 있어…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block BF, String: 220A-2238]
+<WIN 4000A2001003>
+<DECOR 0008>
+지금은 그럴 상황이 아니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C0, String: 2238-228C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「좋아～ 이렇게 된 이상<LINE>
+　내가 안으로 들어가서<LINE>
+　조사해볼게！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C1, String: 228C-22E4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「안에서 리버드가<LINE>
+　나타나거든<LINE>
+　처치해주지！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C2, String: 22E4-233C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저，저기 록 군…<LINE>
+　이거，뭐야？<NEXT>
+
+<CLEAR 0400>
+　위험한 거야？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C3, String: 233C-23D2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「또，저쪽에서 지진이<LINE>
+　느껴지고 있어！！<NEXT>
+
+<CLEAR 0400>
+　제발！ 뭐라도 해줘！<NEXT>
+
+<CLEAR 0400>
+　・・아냐，역시 위험하니까<LINE>
+　가지마！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C4, String: 23D2-2428]
+<WIN 4000A2001003>
+<DECOR 0008>
+「괜찮은건가？ 이 도시는・・<NEXT>
+
+<CLEAR 0400>
+　그리고 공적들도・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C5, String: 2428-24E0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트의 안쪽으로 가서<LINE>
+　재앙이 일어나는 거라면…<LINE>
+　가지 않았으면 하는데…<NEXT>
+
+<CLEAR 0400>
+　이대로 방치해도<LINE>
+　머지않아 엄청난 일이<LINE>
+　일어날 것 같은 기분이 들어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C6, String: 24E0-2542]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이제는 어떻게 되는건지<LINE>
+　나도 모르겠어…<NEXT>
+
+<CLEAR 0400>
+　너에게 맡길게！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C7, String: 2542-2544]
+
+
+[Block C8, String: 2544-259C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「내부는 어땠어？<NEXT>
+
+<CLEAR 0400>
+　굉장히 강한 리버드가<LINE>
+　있었어？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block C9, String: 259C-2618]
+<WIN 4000A2001003>
+<DECOR 0008>
+「리버드가 튀어나온다면<LINE>
+　해치워주지！<NEXT>
+
+<CLEAR 0400>
+　여차하는 순간에는<LINE>
+　여자들은 강해지니까！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CA, String: 2618-2690]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저기，록 군…<LINE>
+　우리들，어떻게 되는거야？<NEXT>
+
+<CLEAR 0400>
+　재앙이 일어나서<LINE>
+　죽거나 하는 걸까…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CB, String: 2690-2692]
+
+
+[Block CC, String: 2692-2694]
+
+
+[Block CD, String: 2694-272A]
+<MSG_IF 2700ADFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「만약，커다란 디플렉터를<LINE>
+　얻게 되더라도，바로는<LINE>
+　떠나지 말아줘<NEXT>
+
+<CLEAR 0400>
+　모두가 너를 의지하고 있어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CE, String: 272A-2806]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040DCFF><03D9 C5FFEAFF><WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+아이의 목소리<LINE>
+「저 파란 사람，섬을 구하다니<LINE>
+　대단한데！！ 히어로다！！<NEXT>
+
+<CLEAR 0400>
+여성의 목소리<LINE>
+「하지만，나는 역시 조금 더<LINE>
+　불량한 스타일이 좋을지도？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block CF, String: 2806-28E6]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040DDFF><03D9 C5FFEBFF><WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+남자아이의 목소리<LINE>
+「가랏，왕자！<LINE>
+　강철의 버스터로 마무리다！<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「참，ＴＶ만 보고있지 말고<LINE>
+　공부라도 좀 하려무나！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D0, String: 28E6-2A32]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040DEFF><03D9 C5FFECFF><WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「저기，당신，<LINE>
+　짐이 어디에 있는지 알아？<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「응？ 글쎄，모이던 애들끼리<LINE>
+　놀러가고 그런거 아니야？<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「진짜，집안일도 안돕고，<LINE>
+　어딜 돌아다니는 거야，<NEXT>
+
+<CLEAR 0400>
+　이 바보 아들내미가！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D1, String: 2A32-2B60]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040DFFF><03D9 C5FFEDFF><WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+할아버지의 목소리<LINE>
+「음～ 저 파란 소년，<LINE>
+　예사 인물은 아니구나・・・<NEXT>
+
+<CLEAR 0400>
+　내 뒤를 이을 수 있는 건<LINE>
+　저 소년 말고는 없겠어<NEXT>
+
+<CLEAR 0400>
+여자의 목소리<LINE>
+「정말，할아버지도 참，<NEXT>
+
+<CLEAR 0400>
+　할아버지가 가진 특기라고는<LINE>
+　건포마찰 뿐이잖아요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D2, String: 2B60-2CC6]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040E0FF><03D9 C5FFEEFF><WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+남자의 목소리<LINE>
+「아버지！<LINE>
+　여기는 꽤 좋은 도시네요！<NEXT>
+
+<CLEAR 0400>
+　큰 맘 먹고 이사 오길<LINE>
+　잘한 것 같아요！<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「그렇지，친절한 사람들 뿐이고<LINE>
+　예쁜 여자들도 많고 말야<NEXT>
+
+<CLEAR 0400>
+　무엇보다 시장님이 장난없어！<LINE>
+　예쁜데다가 일도 잘하고 ，<LINE>
+　정말「재색겸비」란 말이지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D3, String: 2CC6-2DAC]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040E1FF><03D9 C5FFEFFF><WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「자，와이드 쇼도 끝났으니<LINE>
+　장이나 보러 가볼까<NEXT>
+
+<CLEAR 0400>
+　오늘은 그 파프 뭐시깽이하는<LINE>
+　자주 짖어대는 개는<LINE>
+　없었으면 좋겠네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D4, String: 2DAC-2E96]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040E2FF><03D9 C5FFF0FF><WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+여자아이의 목소리<LINE>
+「엄마，<LINE>
+　디그아우터는 뭐야～？<NEXT>
+
+<CLEAR 0400>
+엄마의 목소리<LINE>
+「엄마도 잘 모르겠지만，<NEXT>
+
+<CLEAR 0400>
+　듣자하니 물건을 재활용하는<LINE>
+　일을 하는 사람인 것 같아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D5, String: 2E96-2FA4]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040E3FF><03D9 C5FFF1FF><WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+마담의 목소리<LINE>
+「벤슬리도 참・・・<LINE>
+　어디에 간 걸까나<NEXT>
+
+<CLEAR 0400>
+가정부의 목소리<LINE>
+「사모님，벤슬리 도련님이라면<LINE>
+　도서관에 간다고 하셨습니다<NEXT>
+
+<CLEAR 0400>
+마담의 목소리<LINE>
+「어머，<PAUSE 0800>기특하네요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D6, String: 2FA4-301A]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040E4FF><03D9 C5FFF2FF><WIN 4000A2001003>
+<DECOR 0008>
+집안은 고요하고<LINE>
+정적만이 흐르고 있다・・・<NEXT>
+
+<CLEAR 0400>
+보아하니 부재 중 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D7, String: 301A-307C]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040E5FF><03D9 C5FFF3FF><WIN 4000A2001003>
+<DECOR 0008>
+「현재 가족 여행 중입니다<NEXT>
+
+<CLEAR 0400>
+라는 쪽지가 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D8, String: 307C-30DA]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040E6FF><03D9 C5FFF4FF><WIN 4000A2001003>
+<DECOR 0008>
+「방문판매 사절！<NEXT>
+
+<CLEAR 0400>
+이라는 쪽지가 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D9, String: 30DA-3136]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040E7FF><03D9 C5FFF5FF><WIN 4000A2001003>
+<DECOR 0008>
+문패가 없다・・・<LINE>
+아무래도 빈집인 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DA, String: 3136-31A6]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040E8FF><03D9 C5FFF6FF><WIN 4000A2001003>
+<DECOR 0008>
+「우리 가족은 여행을 떠납니다<LINE>
+　찾지 말아 주세요<NEXT>
+
+<CLEAR 0400>
+라고 쓰여있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DB, String: 31A6-32D8]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<03D9 0040E9FF><03D9 C5FFF7FF><WIN 4000A2001003>
+<DECOR 0008>
+똑똑・・・<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「네～ 누구세요・・・<NEXT>
+
+<CLEAR 0400>
+　오，오쉬의 친구인가<LINE>
+　잠깐 기다려줘<NEXT>
+
+<CLEAR 0400>
+　이봐～ 오쉬！<LINE>
+　친구가 왔다～！<NEXT>
+
+<CLEAR 0400>
+　・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800>없나보군，<LINE>
+　미안，집에 없나봐<LINE>
+　나중에 다시 오려무나！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DC, String: 32D8-33B2]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+어린아이의 목소리<LINE>
+「무서워，저 파란 사람<LINE>
+　물건을 자주 발로 차는걸 봤어<NEXT>
+
+<CLEAR 0400>
+여자의 목소리<LINE>
+「맞아，하지만 나는 그런<LINE>
+　불량한 티가 나는 쪽이 취향이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DD, String: 33B2-34C4]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+남자아이의 목소리<LINE>
+「들어봐，파란 사람은<LINE>
+　강철의 왕자랑 닮았어<NEXT>
+
+<CLEAR 0400>
+　전신이 하드 보디인 점이라든가<LINE>
+　팔에서 탄이 나온다든가<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「정말이지，그런 위험한 사람<LINE>
+　흉내는 내는거 아니라고 했지！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DE, String: 34C4-35DA]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+어머니의 목소리<LINE>
+「들었지，당신，<LINE>
+　짐이 저번에 말이야・・・<NEXT>
+
+<CLEAR 0400>
+　그 파란 소년과 함께 있는걸<LINE>
+　봤었어，<NEXT>
+
+<CLEAR 0400>
+아버지의 목소리<LINE>
+「응？　그 파란 애 말인가，<LINE>
+　뭔가 평판이 안 좋지<NEXT>
+
+<CLEAR 0400>
+　조금 주의를 해야겠는데<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DF, String: 35DA-3698]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+할아버지의 목소리<LINE>
+「음，저 파란 소년에게선<LINE>
+　사악한 기운이 느껴지는군・・・<NEXT>
+
+<CLEAR 0400>
+　내 뒤를 잇게 하는 건<LINE>
+　좀 무리일지도・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E0, String: 3698-376A]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+남자의 목소리<LINE>
+「아버지！ 뭔가 파란 불량배가<LINE>
+　근처를 돌아다닌다니까<NEXT>
+
+<CLEAR 0400>
+　꼭 조심해야 돼！<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「음，불량배 무서워！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E1, String: 376A-3840]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「자，노래자랑도 끝났고<LINE>
+　장이라도 보러 갈까<NEXT>
+
+<CLEAR 0400>
+　근래 평판이 나쁘다던 그<LINE>
+　파란 소년을 만나지 않도록<LINE>
+　조심해야겠네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E2, String: 3840-392E]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+여자아이의 목소리<LINE>
+「엄마，<LINE>
+　양아치라는 건 뭐야～？<NEXT>
+
+<CLEAR 0400>
+엄마의 목소리<LINE>
+「엄마도 잘 모르겠지만，<NEXT>
+
+<CLEAR 0400>
+　매번 도시에서 행패 부리거나<LINE>
+　발로 뭐든지 차버리거나 하는<LINE>
+　위험한 사람인 것 같아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E3, String: 392E-3A02]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+마담의 목소리<LINE>
+「벤슬리도 참・・・<LINE>
+　어디에 간 걸까나<NEXT>
+
+<CLEAR 0400>
+가정부의 목소리<LINE>
+「최근，이 근방에 파란 야쿠자가<LINE>
+　나타난다 해서 걱정이네요・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E4, String: 3A02-3A6C]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+집안은 고요하고<LINE>
+정적만이 흐르고 있다・・・<NEXT>
+
+<CLEAR 0400>
+보아하니 부재 중 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E5, String: 3A6C-3AC2]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「현재 가족 여행 중입니다<NEXT>
+
+<CLEAR 0400>
+라는 쪽지가 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E6, String: 3AC2-3B12]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「야쿠자 사절！<NEXT>
+
+<CLEAR 0400>
+이라는 쪽지가 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E7, String: 3B12-3B62]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+문패가 없다・・・<LINE>
+아무래도 빈집인 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E8, String: 3B62-3BC6]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 가족은 여행을 떠납니다<LINE>
+　찾지 말아 주세요<NEXT>
+
+<CLEAR 0400>
+라고 쓰여있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E9, String: 3BC6-3C80]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+똑똑・・・<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「네～ 누구세요・・・<NEXT>
+
+<CLEAR 0400>
+　뭐야，너인가<NEXT>
+
+<CLEAR 0400>
+　미안하지만，우리 오쉬랑은<LINE>
+　더 이상 놀지 말거라！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EA, String: 3C80-3D0C]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+여성의 목소리<LINE>
+「그 파란 소년，너무 상냥해요<NEXT>
+
+<CLEAR 0400>
+　너무 상냥한 남자는 별로예요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EB, String: 3D0C-3E32]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+남자아이의 목소리<LINE>
+「들어봐，그 파란 소년，<LINE>
+　록 씨라고 부르나봐！<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「정말，강철의 왕자는 그만두고<LINE>
+　공부라도 좀 하려무나！<NEXT>
+
+<CLEAR 0400>
+남자아이의 목소리<LINE>
+「아니야，진짜 좋은 사람이라니깐<LINE>
+　뉴스에도 나오고 한다고<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EC, String: 3E32-3F04]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「저기，당신，짐도 참<LINE>
+　파란 소년과 친구인 것 같아！<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「뭐！ 그럼 사인이라도<LINE>
+　받아오라고 해야겠다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block ED, String: 3F04-4022]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+할아버지의 목소리<LINE>
+「음～ 저 파란 소년，<LINE>
+　예사 인물은 아니구나・・・<NEXT>
+
+<CLEAR 0400>
+　매우 아름다운 마음을 가졌어<LINE>
+　배려야 말로，인간의 진정한<LINE>
+　강함인 것이지<NEXT>
+
+<CLEAR 0400>
+여자의 목소리<LINE>
+「어머，할아버지도 참，<NEXT>
+
+<CLEAR 0400>
+　가끔은 좋은 말을 하시네요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EE, String: 4022-416C]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+남자의 목소리<LINE>
+「아버지！<LINE>
+　여기는 꽤 좋은 도시네요！<NEXT>
+
+<CLEAR 0400>
+　큰 맘 먹고 이사 오길<LINE>
+　잘한 것 같아요！<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「그렇지，친절한 사람들 뿐이고<LINE>
+　예쁜 여자들도 많고 말야<NEXT>
+
+<CLEAR 0400>
+　저 파란 소년도 다른 섬에서<LINE>
+　왔다는데，그 아이도 꽤나<LINE>
+　된사람으로 보이고 말이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EF, String: 416C-41F0]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「그 파란 소년，소문으로는<LINE>
+　상냥하고 좋은 아이라는데<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F0, String: 41F0-42CE]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+여자아이의 목소리<LINE>
+「엄마，<LINE>
+　불시착한 히어로가 뭐야？<NEXT>
+
+<CLEAR 0400>
+엄마의 목소리<LINE>
+「엄마도 잘 모르겠지만，<NEXT>
+
+<CLEAR 0400>
+　듣자하니 도시 사람들 모두를<LINE>
+　지켜주는 좋은 사람이라더라<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F1, String: 42CE-439E]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+마담의 목소리<LINE>
+「벤슬리도 참・・・<LINE>
+　파란 소년과 친한 것 같네<NEXT>
+
+<CLEAR 0400>
+가정부의 목소리<LINE>
+「어머，친절한 소년이라고 하네요<LINE>
+　좋은 일이네요，사모님<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F2, String: 439E-4408]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+집안은 고요하고<LINE>
+정적만이 흐르고 있다・・・<NEXT>
+
+<CLEAR 0400>
+보아하니 부재 중 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F3, String: 4408-445E]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「현재 가족 여행 중입니다<NEXT>
+
+<CLEAR 0400>
+라는 쪽지가 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F4, String: 445E-44B0]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「방문판매 사절！<NEXT>
+
+<CLEAR 0400>
+이라는 쪽지가 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F5, String: 44B0-4500]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+문패가 없다・・・<LINE>
+아무래도 빈집인 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F6, String: 4500-4564]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 가족은 여행을 떠납니다<LINE>
+　찾지 말아 주세요<NEXT>
+
+<CLEAR 0400>
+라고 쓰여있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F7, String: 4564-4692]
+<MSG_IF 36024BFF>
+<MSG_IF 3502BFFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+똑똑・・・<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「네～ 누구세요・・・<NEXT>
+
+<CLEAR 0400>
+　오，소문의 친절한 소년 아니냐<LINE>
+　잠깐만 기다려 봐<NEXT>
+
+<CLEAR 0400>
+　이봐～ 오쉬！<LINE>
+　네 친구가 왔다고～！<NEXT>
+
+<CLEAR 0400>
+　・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800>없나보군，<LINE>
+　미안，집에 없나봐<LINE>
+　나중에 다시 오려무나！<NEXT>
+
+<END><CLOSE 0400>
+
+

@@ -1,0 +1,2033 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-0004]
+
+
+[Block 02, String: 0004-0138]
+<NO_CHAR_SFX><MOVE_FREE><0378 0000><WIN 40003C001007>
+<DECOR 0008>
+이름을 입력해 주세요<LINE>
+（위，아래 방향키로 선택<LINE>
+　우측 방향키와 <COLOR 0500><CIRCLE><COLOR 0000>버튼으로 결정<LINE>
+　좌측 방향키와 <COLOR 0500><CROSS><COLOR 0000>버튼으로<LINE>
+　취소）<LINES 1400>
+　<COLOR 0400>이름<COLOR 0000>：<039E 8000>
+ー<039E 8000>
+ー<039E 8000>
+ー<03BC 0003><CLEAR 0F00>
+<WIN 34003C001203>
+<DECOR 0008>
+이름：<COLOR 0400><03BA 0000>　　　<COLOR 0000> 씨로 결정하시겠습니까？<LINES 1400>
+<SPACE 3000><SEL 0100FD00>네　<SEL 0111FD00>아니오<0385 80FF0200>
+<END><CLOSE 0000>
+
+
+[Block 03, String: 0138-0206]
+<WIN 3A0074001105>
+<DECOR 0008>
+<0378 0000><SPACE 2A00><COLOR 0400>～직선 코스～<COLOR 0000><LINE>
+<LINE>
+<SPACE 0C00>１ｓｔ　<03BB 0100>？：？？：？？　<EXE_JUMP 1A00><03BA 0000>　　　<LINE>
+<SPACE 0C00>２ｎｄ　<03BB 0101>？：？？：？？　<EXE_JUMP 1A01><03BA 0000>　　　<LINE>
+<SPACE 0C00>３ｒｄ　<03BB 0102>？：？？：？？　<EXE_JUMP 1A02><03BA 0000>　　　<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 0206-02D6]
+<WIN 3A0074001105>
+<DECOR 0008>
+<0378 0000><SPACE 2400><COLOR 0400>～좌회전 코스～<COLOR 0000><LINE>
+<LINE>
+<SPACE 0C00>１ｓｔ　<03BB 0103>？：？？：？？　<EXE_JUMP 1A03><03BA 0000>　　　<LINE>
+<SPACE 0C00>２ｎｄ　<03BB 0104>？：？？：？？　<EXE_JUMP 1A04><03BA 0000>　　　<LINE>
+<SPACE 0C00>３ｒｄ　<03BB 0105>？：？？：？？　<EXE_JUMP 1A05><03BA 0000>　　　<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 02D6-03A4]
+<WIN 3C0074001105>
+<DECOR 0008>
+<0378 0000><SPACE 2A00><COLOR 0400>～테크니컬 코스～<COLOR 0000><LINE>
+<LINE>
+<SPACE 0C00>１ｓｔ　<03BB 0106>？：？？：？？　<EXE_JUMP 1A06><03BA 0000>　　　<LINE>
+<SPACE 0C00>２ｎｄ　<03BB 0107>？：？？：？？　<EXE_JUMP 1A07><03BA 0000>　　　<LINE>
+<SPACE 0C00>３ｒｄ　<03BB 0108>？：？？：？？　<EXE_JUMP 1A08><03BA 0000>　　　<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 03A4-03A6]
+
+
+[Block 07, String: 03A6-03A8]
+
+
+[Block 08, String: 03A8-03AA]
+
+
+[Block 09, String: 03AA-03AC]
+
+
+[Block 0A, String: 03AC-03AE]
+
+
+[Block 0B, String: 03AE-03B0]
+
+
+[Block 0C, String: 03B0-03B2]
+
+
+[Block 0D, String: 03B2-03B4]
+
+
+[Block 0E, String: 03B4-03B6]
+
+
+[Block 0F, String: 03B6-03B8]
+
+
+[Block 10, String: 03B8-03BA]
+
+
+[Block 11, String: 03BA-03BC]
+
+
+[Block 12, String: 03BC-03BE]
+
+
+[Block 13, String: 03BE-03C0]
+
+
+[Block 14, String: 03C0-03C2]
+
+
+[Block 15, String: 03C2-03C4]
+
+
+[Block 16, String: 03C4-03C6]
+
+
+[Block 17, String: 03C6-03C8]
+
+
+[Block 18, String: 03C8-03CA]
+
+
+[Block 19, String: 03CA-03CC]
+
+
+[Block 1A, String: 03CC-03CE]
+
+
+[Block 1B, String: 03CE-03D0]
+
+
+[Block 1C, String: 03D0-03D2]
+
+
+[Block 1D, String: 03D2-03D4]
+
+
+[Block 1E, String: 03D4-03D6]
+
+
+[Block 1F, String: 03D6-03D8]
+
+
+[Block 20, String: 03D8-03DA]
+
+
+[Block 21, String: 03DA-03DC]
+
+
+[Block 22, String: 03DC-03DE]
+
+
+[Block 23, String: 03DE-03E0]
+
+
+[Block 24, String: 03E0-03E2]
+
+
+[Block 25, String: 03E2-03E4]
+
+
+[Block 26, String: 03E4-03E6]
+
+
+[Block 27, String: 03E6-03E8]
+
+
+[Block 28, String: 03E8-0410]
+<WIN 4000A2001003>
+<DECOR 0008>
+「매진된 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 29, String: 0410-0444]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・・고장난 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2A, String: 0444-04AE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「주스 자판기입니다<LINE>
+돈을 넣으시겠습니까？<NEXT>
+
+<CLEAR 0400>
+　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0385 80FFFF00>
+<END><CLOSE 0500>
+
+
+[Block 2B, String: 04AE-04DA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「주스가 나왔다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2C, String: 04DA-04FE]
+<WIN 4000A2001003>
+<DECOR 0008>
+꿀꺽꿀꺽・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2D, String: 04FE-052A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「돈이 부족합니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2E, String: 052A-0550]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・・・・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2F, String: 0550-05C6]
+<WIN 340030001203>
+<DECOR 0008>
+아나운서<LINE>
+「경기 설명을 들으시겠습니까？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 8030FF00>
+<END><CLOSE 0500>
+
+
+[Block 30, String: 05C6-0850]
+<WIN 340030001203>
+<DECOR 0008>
+아나운서<LINE>
+「이 게임은 시가지를 활용한<LINE>
+　타임 어택 레이스！<NEXT>
+
+<CLEAR 0400>
+　빨간 콘 사이를 통과하며<LINE>
+　골까지의 도착시간을 측정한다<NEXT>
+
+<CLEAR 0400>
+　노란 콘은 보너스 콘으로<NEXT>
+
+<CLEAR 0400>
+　부딪혀서 날려버리면<LINE>
+　잠시 동안 타이머가<LINE>
+　정지한다<NEXT>
+
+<CLEAR 0400>
+　제한 시간 내에 골인하면<LINE>
+　클리어로 인정한다<NEXT>
+
+<CLEAR 0400>
+　코스는 ３개，덧붙여서<LINE>
+　랭크는 Ａ에서 Ｄ까지 있다<NEXT>
+
+<CLEAR 0400>
+　최초에는 Ｄ랭크로 시작한다<LINE>
+　클리어를 하면 랭크가 오르며<LINE>
+　제한 시간도 짧아진다<NEXT>
+
+<CLEAR 0400>
+　랭크Ａ를 클리어 시<LINE>
+　상품을 받을 수 있으니까<LINE>
+　힘내서 클리어 해줘！<NEXT>
+
+<CLEAR 0400>
+　설명을 다시 들어볼래？<LINE>
+<LINE>
+<0378 0000><SPACE 3000><SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 8130FF00>
+<END><CLOSE 0500>
+
+
+[Block 31, String: 0850-08A6]
+<WIN 800074000501>
+<DECOR 0008>
+<NO_CHAR_SFX><037C 6501>
+<SPACE 1800>３<CLEAR 1600>
+<037C 6501>
+<SPACE 1800>２<CLEAR 1600>
+<037C 6501>
+<SPACE 1800>１<CLEAR 1600>
+<037C 6601>
+<SPACE 0C00>ＧＯ！<PAUSE 0F00><CLEAR 0000>
+<END><CLOSE 0000>
+
+
+[Block 32, String: 08A6-0908]
+<WIN 4000A2001003>
+<DECOR 0008>
+<037C 1E00>
+아나운서<LINE>
+「앗，코스 이탈이다！<LINE>
+　안타깝게도 실격입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 33, String: 0908-095E]
+<WIN 4000A2001003>
+<DECOR 0008>
+디렉터<LINE>
+「아아，아쉬웠어<LINE>
+　다음에 다시 도전하러 와<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 34, String: 095E-09C6]
+<WIN 6E00A0000801>
+<DECOR 0008>
+ＴＩＭＥ　ＵＰ！<NEXT>
+
+<CLEAR 0400>
+<WIN 4000A2001003>
+<DECOR 0008>
+<037C 1E00>
+아나운서<LINE>
+「아쉽게도 시간 초과입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 35, String: 09C6-0AA4]
+<CALL 0142><WIN 6E00A0000801>
+<DECOR 0008>
+<SPACE 1E00>골！！<NEXT>
+
+<CLEAR 0400>
+<WIN 4000A2001003>
+<DECOR 0008>
+<037C 1F00>
+아나운서<LINE>
+「해냈습니다！멋지게 골인！<LINE>
+　시간은　<03BB 0000>？：？？：？？<NEXT>
+
+<CLEAR 0400>
+　축하합니다！<LINE>
+　상금은 <LINE>
+　<COLOR 0200><ZENNY_AMOUNT>　　　　　　　제니<COLOR 0000>입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 36, String: 0AA4-0B72]
+<CALL 0142><WIN 6E00A0000801>
+<DECOR 0008>
+<SPACE 1E00>골！！<NEXT>
+
+<CLEAR 0400>
+<WIN 4000A2001003>
+<DECOR 0008>
+<037C 1F00>
+아나운서<LINE>
+「해냈습니다！멋지게 골인！<LINE>
+　시간은　<03BB 0000>？：？？：？？<NEXT>
+
+<CLEAR 0400>
+　축하합니다！<LINE>
+　상품은<LINE>
+　<COLOR 0300>＂<GIFT>＂<COLOR 0000>입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 37, String: 0B72-0C8E]
+<CALL 0142><WIN 6E00A0000801>
+<DECOR 0008>
+<SPACE 1E00>골！！<NEXT>
+
+<CLEAR 0400>
+<WIN 4000A2001003>
+<DECOR 0008>
+<037C 2000>
+아나운서<LINE>
+「시간은　<03BB 0000>？：？？：？？<NEXT>
+
+<CLEAR 0400>
+　놀랍게도 신기록 입니다！！<LINE>
+　마침내 기록이<LINE>
+　갱신되었습니다！<NEXT>
+
+<CLEAR 0400>
+　축하합니다～！！！！！<LINE>
+　상금은 <LINE>
+　<COLOR 0200><ZENNY_AMOUNT>　　　　　　　제니<COLOR 0000>입니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 38, String: 0C8E-0D2A]
+<WIN 4000A2001003>
+<DECOR 0008>
+디렉터<LINE>
+「고마워！<NEXT>
+
+<CLEAR 0400>
+덕분에 프로그램도 잘 됐고<LINE>
+시청률도 좋았어<NEXT>
+
+<CLEAR 0400>
+괜찮다면 또 도전해봐<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 39, String: 0D2A-0D56]
+<0378 0000><MOVE_FREE><WIN BA0020000701>
+<DECOR 0308>
+<03BB 0000>？：？？：？？<0378 0100><0383>
+
+[Block 3A, String: 0D56-0DC2]
+<WIN 5A0074000C03>
+<DECOR 0008>
+<0378 0000><SEL 0021FD00>직선 코스<LINE>
+<SEL 1102FD00>좌회전 코스<LINE>
+<SEL 2210FD00>테크니컬 코스<LINE>
+<0378 0100><0385 00FFFFFF>
+<END><CLOSE 0000>
+
+
+[Block 3B, String: 0DC2-0E44]
+<WIN 5A0074000C04>
+<DECOR 0008>
+<0378 0000><SEL 0031FD00>다시 도전하기<LINE>
+<SEL 1102FD00>좌회전 코스로<LINE>
+<SEL 2213FD00>테크니컬 코스로<LINE>
+<SEL 3320FD00>그만두기<LINE>
+<0378 0100><0385 80FFFFFFFF00>
+<END><CLOSE 0000>
+
+
+[Block 3C, String: 0E44-0EC4]
+<WIN 5A0074000C04>
+<DECOR 0008>
+<0378 0000><SEL 0031FD00>다시 도전하기<LINE>
+<SEL 1102FD00>직선 코스로<LINE>
+<SEL 2213FD00>테크니컬 코스로<LINE>
+<SEL 3320FD00>그만두기<LINE>
+<0378 0100><0385 80FFFFFFFF00>
+<END><CLOSE 0000>
+
+
+[Block 3D, String: 0EC4-0F46]
+<WIN 5A0074000C04>
+<DECOR 0008>
+<0378 0000><SEL 0031FD00>다시 도전하기<LINE>
+<SEL 1102FD00>직선 코스로<LINE>
+<SEL 2213FD00>좌회전 코스로<LINE>
+<SEL 3320FD00>그만두기<LINE>
+<0378 0100><0385 80FFFFFFFF00>
+<END><CLOSE 0000>
+
+
+[Block 3E, String: 0F46-0F48]
+
+
+[Block 3F, String: 0F48-0F4A]
+
+
+[Block 40, String: 0F4A-0F4C]
+
+
+[Block 41, String: 0F4C-0F4E]
+
+
+[Block 42, String: 0F4E-0F80]
+<NO_CHAR_SFX><MOVE_FREE><0378 0000><WIN 1C0020000801>
+<DECOR 0308>
+<COST>　　　　　　　＄<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block 43, String: 0F80-0F82]
+
+
+[Block 44, String: 0F82-0F84]
+
+
+[Block 45, String: 0F84-0F86]
+
+
+[Block 46, String: 0F86-0F88]
+
+
+[Block 47, String: 0F88-0F8A]
+
+
+[Block 48, String: 0F8A-0F8C]
+
+
+[Block 49, String: 0F8C-0F8E]
+
+
+[Block 4A, String: 0F8E-0F90]
+
+
+[Block 4B, String: 0F90-0F92]
+
+
+[Block 4C, String: 0F92-0F94]
+
+
+[Block 4D, String: 0F94-10BA]
+<CALL 0142><WIN 6E00A0000801>
+<DECOR 0008>
+<SPACE 1E00>골！！<NEXT>
+
+<CLEAR 0400>
+<WIN 4000A2001003>
+<DECOR 0008>
+<037C 2000>
+아나운서<LINE>
+「시간은　<03BB 0000>？：？？：？？<NEXT>
+
+<CLEAR 0400>
+　놀랍게도 랭크Ａ를 클리어하고<LINE>
+　신기록을 달성했습니다！！<NEXT>
+
+<CLEAR 0400>
+　마침내 기록이<LINE>
+　갱신되었습니다！<LINE>
+　축하합니다～！！！！！<NEXT>
+
+<CLEAR 0400>
+　상품은 <LINE>
+　<COLOR 0300>＂<GIFT>＂<COLOR 0000>입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 4E, String: 10BA-113E]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　직선 코스<SPACE 4200>랭크Ｄ<LINE>
+　　제한시간　　　　　１２：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 4F, String: 113E-11C2]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　직선 코스<SPACE 4200>랭크Ｃ<LINE>
+　　제한시간　　　　　１０：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 50, String: 11C2-1246]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　직선 코스<SPACE 4200>랭크Ｂ<LINE>
+　　제한시간　　　　　０８：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 51, String: 1246-12CA]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　직선 코스<SPACE 4200>랭크Ａ<LINE>
+　　제한시간　　　　　０７：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 52, String: 12CA-134E]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　좌회전 코스<SPACE 3600>랭크Ｄ<LINE>
+　　제한시간　　　　　１５：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 53, String: 134E-13D2]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　좌회전 코스<SPACE 3600>랭크Ｃ<LINE>
+　　제한시간　　　　　１２：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 54, String: 13D2-1456]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　좌회전 코스<SPACE 3600>랭크Ｂ<LINE>
+　　제한시간　　　　　０９：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 55, String: 1456-14DA]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　좌회전 코스<SPACE 3600>랭크Ａ<LINE>
+　　제한시간　　　　　０８：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 56, String: 14DA-155E]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　테크니컬 코스<SPACE 2A00>랭크Ｄ<LINE>
+　　제한시간　　　　　２５：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 57, String: 155E-15E2]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　테크니컬 코스<SPACE 2A00>랭크Ｃ<LINE>
+　　제한시간　　　　　２０：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 58, String: 15E2-1666]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　테크니컬 코스<SPACE 2A00>랭크Ｂ<LINE>
+　　제한시간　　　　　１８：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 59, String: 1666-16EA]
+<WIN 340030001404>
+<DECOR 0008>
+<0378 0000>　　테크니컬 코스<SPACE 2A00>랭크Ａ<LINE>
+　　제한시간　　　　　１６：００<LINE>
+<0378 0100><LINE>
+아나운서「준비！<NEXT>
+
+<CLEAR 0400>
+<JUMP 0031>
+
+[Block 5A, String: 16EA-17A2]
+<CALL 0142><WIN 6E00A0000801>
+<DECOR 0008>
+<SPACE 1E00>골！！<NEXT>
+
+<CLEAR 0400>
+<WIN 4000A2001003>
+<DECOR 0008>
+아나운서<LINE>
+「시간은　<03BB 0000>？：？？：？？<NEXT>
+
+<CLEAR 0400>
+　아쉽게도，<LINE>
+　제한시간 초과입니다<NEXT>
+
+<CLEAR 0400>
+　다시 도전하시겠어요？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 5B, String: 17A2-17F8]
+<WIN 280030001403>
+<DECOR 0008>
+<SPACE 6000>재도전？<LINE>
+<LINE>
+<SPACE 3000>　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0385 81FFFF00>
+<END><CLOSE 0000>
+
+
+[Block 5C, String: 17F8-17FA]
+
+
+[Block 5D, String: 17FA-17FC]
+
+
+[Block 5E, String: 17FC-17FE]
+
+
+[Block 5F, String: 17FE-1800]
+
+
+[Block 60, String: 1800-1802]
+
+
+[Block 61, String: 1802-1804]
+
+
+[Block 62, String: 1804-1806]
+
+
+[Block 63, String: 1806-1808]
+
+
+[Block 64, String: 1808-1848]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｄ<LINE>
+제한 시간<LINE>
+　　１２：００<0378 0100><0383>
+
+[Block 65, String: 1848-1888]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｃ<LINE>
+제한 시간<LINE>
+　　１０：００<0378 0100><0383>
+
+[Block 66, String: 1888-18CA]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｂ<LINE>
+제한 시간<LINE>
+　　０８：００<0378 0100><0383>
+
+[Block 67, String: 18CA-190C]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ａ<LINE>
+제한 시간<LINE>
+　　０７：００<0378 0100><0383>
+
+[Block 68, String: 190C-194E]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｄ<LINE>
+제한 시간<LINE>
+　　１５：００<0378 0100><0383>
+
+[Block 69, String: 194E-1990]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｃ<LINE>
+제한 시간<LINE>
+　　１２：００<0378 0100><0383>
+
+[Block 6A, String: 1990-19D2]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｂ<LINE>
+제한 시간<LINE>
+　　０９：００<0378 0100><0383>
+
+[Block 6B, String: 19D2-1A14]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ａ<LINE>
+제한 시간<LINE>
+　　０８：００<0378 0100><0383>
+
+[Block 6C, String: 1A14-1A56]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｄ<LINE>
+제한 시간<LINE>
+　　２５：００<0378 0100><0383>
+
+[Block 6D, String: 1A56-1A98]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｃ<LINE>
+제한 시간<LINE>
+　　２０：００<0378 0100><0383>
+
+[Block 6E, String: 1A98-1ADA]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｂ<LINE>
+제한 시간<LINE>
+　　１８：００<0378 0100><0383>
+
+[Block 6F, String: 1ADA-1B1C]
+<WIN 18001C000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ａ<LINE>
+제한 시간<LINE>
+　　１６：００<0378 0100><0383>
+
+[Block 70, String: 1B1C-1B1E]
+
+
+[Block 71, String: 1B1E-1B20]
+
+
+[Block 72, String: 1B20-1B22]
+
+
+[Block 73, String: 1B22-1B24]
+
+
+[Block 74, String: 1B24-1B26]
+
+
+[Block 75, String: 1B26-1B28]
+
+
+[Block 76, String: 1B28-1B2A]
+
+
+[Block 77, String: 1B2A-1B2C]
+
+
+[Block 78, String: 1B2C-1B2E]
+
+
+[Block 79, String: 1B2E-1B30]
+
+
+[Block 7A, String: 1B30-1B32]
+
+
+[Block 7B, String: 1B32-1B34]
+
+
+[Block 7C, String: 1B34-1B36]
+
+
+[Block 7D, String: 1B36-1B38]
+
+
+[Block 7E, String: 1B38-1B3A]
+
+
+[Block 7F, String: 1B3A-1B3C]
+
+
+[Block 80, String: 1B3C-1BA6]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「아직 위험！！<LINE>
+　함부로 통행 금지！！<NEXT>
+
+<CLEAR 0400>
+　캐틀옥스 경찰<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 81, String: 1BA6-1C04]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「거주 외 에리어에 대하여<LINE>
+　일반 시민은<LINE>
+　출입할 수 없습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 82, String: 1C04-1C5E]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+꼬붕<LINE>
+「누군가 트론 님을<LINE>
+　찾아와 주지 않을까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 83, String: 1C5E-1C60]
+
+
+[Block 84, String: 1C60-1C6E]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+
+
+[Block 85, String: 1C6E-1CBC]
+<WIN 4000A2001003>
+<DECOR 0008>
+가로등이 있다<LINE>
+위에 올라갈 수 있어 보이는데<LINE>
+닿을 수 있으려나・・・？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 86, String: 1CBC-1D04]
+<WIN 4000A2001003>
+<DECOR 0008>
+소화전이 있다<LINE>
+점프하면 올라탈 수 있어보인다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 87, String: 1D04-1D3A]
+<WIN 4000A2001003>
+<DECOR 0008>
+벤치다<LINE>
+하지만 지금은 피곤하지 않다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 88, String: 1D3A-1D72]
+<WIN 4000A2001003>
+<DECOR 0008>
+버스 정류장이다<LINE>
+버스도 다니고 있구나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 89, String: 1D72-1DB2]
+<WIN 4000A2001003>
+<DECOR 0008>
+우체통이 있다<LINE>
+하지만 딱히 쓸일은 없겠다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 8A, String: 1DB2-1DB4]
+
+
+[Block 8B, String: 1DB4-1DB6]
+
+
+[Block 8C, String: 1DB6-1DB8]
+
+
+[Block 8D, String: 1DB8-1DBA]
+
+
+[Block 8E, String: 1DBA-1DBC]
+
+
+[Block 8F, String: 1DBC-1DBE]
+
+
+[Block 90, String: 1DBE-1E00]
+<WIN 4000A2001003>
+<DECOR 0008>
+「맨홀을 통해 돌아가는 것은<LINE>
+　그만두자…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 91, String: 1E00-1E3E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지하도시 입구는 없다…<LINE>
+　있으면 버그！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 92, String: 1E3E-1E40]
+
+
+[Block 93, String: 1E40-1E42]
+
+
+[Block 94, String: 1E42-1E44]
+
+
+[Block 95, String: 1E44-1E46]
+
+
+[Block 96, String: 1E46-1E48]
+
+
+[Block 97, String: 1E48-1E4A]
+
+
+[Block 98, String: 1E4A-1E4C]
+
+
+[Block 99, String: 1E4C-1E4E]
+
+
+[Block 9A, String: 1E4E-1E50]
+
+
+[Block 9B, String: 1E50-1E52]
+
+
+[Block 9C, String: 1E52-1E9C]
+<WIN 400024001001>
+<DECOR 0008>
+「쓰레기통을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+　안은 텅 비었다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 9D, String: 1E9C-1EE6]
+<WIN 400024001001>
+<DECOR 0008>
+「쓰레기통을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+　？？？？을（를）손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 9E, String: 1EE6-1F32]
+<WIN 400024001001>
+<DECOR 0008>
+「쓰레기통을 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+　？？제니를 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 9F, String: 1F32-1F7E]
+<WIN 400024001001>
+<DECOR 0008>
+「골판지 상자를 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+　안은 텅 비었다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A0, String: 1F7E-1FCA]
+<WIN 400024001001>
+<DECOR 0008>
+「골판지 상자를 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+　아이템을 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A1, String: 1FCA-2018]
+<WIN 400024001001>
+<DECOR 0008>
+「골판지 상자를 조사했다・・・<NEXT>
+
+<CLEAR 0400>
+　？？제니를 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A2, String: 2018-203E]
+<WIN 4000A2001003>
+<DECOR 0008>
+다 팔린 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A3, String: 203E-2070]
+<WIN 4000A2001003>
+<DECOR 0008>
+・・・고장인 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A4, String: 2070-20CA]
+<WIN 4000A2001003>
+<DECOR 0008>
+주스 자판기다…<LINE>
+<LINE>
+<0378 0000><SPACE 2400><SEL 0100FD00>산다　<SEL 0111FD00>그만둔다<0378 0100><0385 80FFFF00>
+<END><CLOSE 0500>
+
+
+[Block A5, String: 20CA-20E6]
+주스가 나왔다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A6, String: 20E6-2136]
+<WIN 4000A2001003>
+<DECOR 0008>
+꿀꺽꿀꺽・・・<NEXT>
+
+<CLEAR 0400>
+<PAUSE 1400>음，맛있어！<NEXT>
+
+<CLEAR 0400>
+체력을 회복했다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A7, String: 2136-2160]
+<WIN 4000A2001003>
+<DECOR 0008>
+「돈이 부족해…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A8, String: 2160-2186]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・・・・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block A9, String: 2186-2188]
+
+
+[Block AA, String: 2188-218A]
+
+
+[Block AB, String: 218A-218C]
+
+
+[Block AC, String: 218C-218E]
+
+
+[Block AD, String: 218E-2190]
+
+
+[Block AE, String: 2190-2192]
+
+
+[Block AF, String: 2192-2194]
+
+
+[Block B0, String: 2194-2196]
+
+
+[Block B1, String: 2196-2198]
+
+
+[Block B2, String: 2198-219A]
+
+
+[Block B3, String: 219A-219C]
+
+
+[Block B4, String: 219C-219E]
+
+
+[Block B5, String: 219E-21A0]
+
+
+[Block B6, String: 21A0-21A2]
+
+
+[Block B7, String: 21A2-21A4]
+
+
+[Block B8, String: 21A4-21A6]
+
+
+[Block B9, String: 21A6-21A8]
+
+
+[Block BA, String: 21A8-21AA]
+
+
+[Block BB, String: 21AA-21AC]
+
+
+[Block BC, String: 21AC-21AE]
+
+
+[Block BD, String: 21AE-21B0]
+
+
+[Block BE, String: 21B0-21B2]
+
+
+[Block BF, String: 21B2-21B4]
+
+
+[Block C0, String: 21B4-21B6]
+
+
+[Block C1, String: 21B6-21B8]
+
+
+[Block C2, String: 21B8-21BA]
+
+
+[Block C3, String: 21BA-21BC]
+
+
+[Block C4, String: 21BC-21BE]
+
+
+[Block C5, String: 21BE-21C0]
+
+
+[Block C6, String: 21C0-21C2]
+
+
+[Block C7, String: 21C2-21C4]
+
+
+[Block C8, String: 21C4-21C6]
+
+
+[Block C9, String: 21C6-21C8]
+
+
+[Block CA, String: 21C8-21CA]
+
+
+[Block CB, String: 21CA-21CC]
+
+
+[Block CC, String: 21CC-21CE]
+
+
+[Block CD, String: 21CE-21D0]
+
+
+[Block CE, String: 21D0-21D2]
+
+
+[Block CF, String: 21D2-22CC]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+아이의 목소리<LINE>
+「언니이！<LINE>
+　벌써 피난용 버스가 왔어！<NEXT>
+
+<CLEAR 0400>
+여성의 목소리<LINE>
+「아으・・・<LINE>
+　조금만 더 기다려！<NEXT>
+
+<CLEAR 0400>
+　사랑스런  타쿠야님의<LINE>
+　브로마이드가 안보여！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D0, String: 22CC-246A]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「빨리 피난 준비를 하렴！<LINE>
+　자，그런 장난감은 버리고！<NEXT>
+
+<CLEAR 0400>
+남자아이의 목소리<LINE>
+「뭐～！ 싫어～！<LINE>
+　강철의 왕자 프라모델만큼은！<NEXT>
+
+<CLEAR 0400>
+　마침 오늘이 재방송 날이란 말야<LINE>
+　프라모델이 없으면 친구들한테<LINE>
+　소외당하고 말거야！<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「대체 무슨 말이니！<NEXT>
+
+<CLEAR 0400>
+　오늘 ＴＶ는 긴급특보만<LINE>
+　나올게 뻔하잖니！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D1, String: 246A-24DC]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+집안은 고요하고<LINE>
+정적만이 흐르고 있다・・・<NEXT>
+
+<CLEAR 0400>
+보아하니 이미 피난 간 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D2, String: 24DC-25EE]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 3A00A2001103>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+할아버지의 목소리<LINE>
+「바보 같은 녀석！！<NEXT>
+
+<CLEAR 0400>
+　공적 따위를 두려워 할쏘냐！<LINE>
+　난 여기서 절대 움직이지 않겠네！<NEXT>
+
+<CLEAR 0400>
+여자의 목소리<LINE>
+「아이 참，할아버지，<NEXT>
+
+<CLEAR 0400>
+　이런 작은 집은，<LINE>
+　폭탄 １개면 가루가 된다고요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D3, String: 25EE-26F2]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+남자의 목소리<LINE>
+「아버지！<LINE>
+　그거 못 가져가요！<NEXT>
+
+<CLEAR 0400>
+　더 말하고 싶지 않으니까<LINE>
+　그냥 두고 가요！<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「싫어～！<NEXT>
+
+<CLEAR 0400>
+　미포쨩 등신대 피규어만큼은<LINE>
+　절대로 놓지 않을거야～！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D4, String: 26F2-27B0]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「좋아・・・<LINE>
+　옷도 전부 챙겼고<NEXT>
+
+<CLEAR 0400>
+　이젠 상점가에서<LINE>
+　빵과 채소를<LINE>
+　사야겠어！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D5, String: 27B0-286A]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+여자아이의 목소리<LINE>
+「엄마，<LINE>
+　공적이 뭐야～？<NEXT>
+
+<CLEAR 0400>
+엄마의 목소리<LINE>
+「엄마도 잘 모르겠지만，<LINE>
+　어쨌든 도망가야 한단다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D6, String: 286A-28EE]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+남자의 목소리<LINE>
+「슬슬 피난을 가야겠군，<NEXT>
+
+<CLEAR 0400>
+　잘있거라，사랑스런 내 집이여<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D7, String: 28EE-2960]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+집안은 고요하고<LINE>
+정적만이 흐르고 있다・・・<NEXT>
+
+<CLEAR 0400>
+보아하니 이미 피난 간 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D8, String: 2960-29C4]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「현재 본가로 피난 중<LINE>
+　입니다<NEXT>
+
+<CLEAR 0400>
+라는 쪽지가 붙어 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block D9, String: 29C4-2A14]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「방문판매 사절！<NEXT>
+
+<CLEAR 0400>
+이라는 쪽지가 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DA, String: 2A14-2A64]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+문패가 없다・・・<LINE>
+아무래도 빈집인 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DB, String: 2A64-2AC6]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 가족은 여행을 떠납니다<LINE>
+　찾지 말아 주세요<NEXT>
+
+<CLEAR 0400>
+라고 쓰여있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DC, String: 2AC6-2B16]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+문패가 없다・・・<LINE>
+아무래도 빈집인 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DD, String: 2B16-2C10]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+아이의 목소리<LINE>
+「언니이！<LINE>
+　벌써 피난용 버스가 왔어！<NEXT>
+
+<CLEAR 0400>
+여성의 목소리<LINE>
+「아으・・・<LINE>
+　조금만 더 기다려！<NEXT>
+
+<CLEAR 0400>
+　사랑스런 타쿠야님의<LINE>
+　브로마이드가 안보여！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DE, String: 2C10-2DAE]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「빨리 피난 준비를 하렴！<LINE>
+　자，그런 장난감은 버리고！<NEXT>
+
+<CLEAR 0400>
+남자아이의 목소리<LINE>
+「뭐～！ 싫어～！<LINE>
+　강철의 왕자 프라모델만큼은！<NEXT>
+
+<CLEAR 0400>
+　마침 오늘이 재방송 날이란 말야<LINE>
+　프라모델이 없으면 친구들한테<LINE>
+　소외당하고 말거야！<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「대체 무슨 말이니！<NEXT>
+
+<CLEAR 0400>
+　오늘 ＴＶ는 긴급특보만<LINE>
+　나올게 뻔하잖니！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block DF, String: 2DAE-2E20]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+집안은 고요하고<LINE>
+정적만이 흐르고 있다・・・<NEXT>
+
+<CLEAR 0400>
+보아하니 이미 피난 간 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E0, String: 2E20-2F32]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 3A00A2001103>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+할아버지의 목소리<LINE>
+「바보 같은 녀석！！<NEXT>
+
+<CLEAR 0400>
+　공적 따위를 두려워 할쏘냐！<LINE>
+　난 여기서 절대 움직이지 않겠네！<NEXT>
+
+<CLEAR 0400>
+여자의 목소리<LINE>
+「아이 참，할아버지，<NEXT>
+
+<CLEAR 0400>
+　이런 작은 집은，<LINE>
+　폭탄 １개면 가루가 된다고요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E1, String: 2F32-3036]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+남자의 목소리<LINE>
+「아버지！<LINE>
+　그거 못 가져가요！<NEXT>
+
+<CLEAR 0400>
+　더 말하고 싶지 않으니까<LINE>
+　그냥 두고 가요！<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「싫어～！<NEXT>
+
+<CLEAR 0400>
+　미포쨩 등신대 피규어만큼은<LINE>
+　절대로 놓지 않을거야～！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E2, String: 3036-30F4]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「좋아・・・<LINE>
+　옷도 전부 챙겼고<NEXT>
+
+<CLEAR 0400>
+　이젠 상점가에서<LINE>
+　빵과 채소를<LINE>
+　사야겠어！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E3, String: 30F4-31AE]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+여자아이의 목소리<LINE>
+「엄마，<LINE>
+　공적이 뭐야～？<NEXT>
+
+<CLEAR 0400>
+엄마의 목소리<LINE>
+「엄마도 잘 모르겠지만，<LINE>
+　어쨌든 도망가야 한단다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E4, String: 31AE-3232]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+남자의 목소리<LINE>
+「슬슬 피난을 가야겠군，<NEXT>
+
+<CLEAR 0400>
+　잘있거라，사랑스런 내 집이여<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E5, String: 3232-32A4]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+집안은 고요하고<LINE>
+정적만이 흐르고 있다・・・<NEXT>
+
+<CLEAR 0400>
+보아하니 이미 피난 간 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E6, String: 32A4-3308]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「현재 본가로 피난 중<LINE>
+　입니다<NEXT>
+
+<CLEAR 0400>
+라는 쪽지가 붙어 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E7, String: 3308-3358]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「방문판매 사절！<NEXT>
+
+<CLEAR 0400>
+이라는 쪽지가 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E8, String: 3358-33A8]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+문패가 없다・・・<LINE>
+아무래도 빈집인 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block E9, String: 33A8-340A]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 가족은 여행을 떠납니다<LINE>
+　찾지 말아 주세요<NEXT>
+
+<CLEAR 0400>
+라고 쓰여있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EA, String: 340A-345A]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+문패가 없다・・・<LINE>
+아무래도 빈집인 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EB, String: 345A-3554]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+아이의 목소리<LINE>
+「언니이！<LINE>
+　벌써 피난용 버스가 왔어！<NEXT>
+
+<CLEAR 0400>
+여성의 목소리<LINE>
+「아으・・・<LINE>
+　조금만 더 기다려！<NEXT>
+
+<CLEAR 0400>
+　사랑스런 타쿠야님의<LINE>
+　브로마이드가 안보여！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EC, String: 3554-36F2]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다・・・<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「빨리 피난 준비를 하렴！<LINE>
+　자，그런 장난감은 버리고！<NEXT>
+
+<CLEAR 0400>
+남자아이의 목소리<LINE>
+「뭐～！ 싫어～！<LINE>
+　강철의 왕자 프라모델만큼은！<NEXT>
+
+<CLEAR 0400>
+　마침 오늘이 재방송 날이란 말야<LINE>
+　프라모델이 없으면 친구들한테<LINE>
+　소외당하고 말거야！<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「대체 무슨 말이니！<NEXT>
+
+<CLEAR 0400>
+　오늘 ＴＶ는 긴급특보만<LINE>
+　나올게 뻔하잖니！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block ED, String: 36F2-3764]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+집안은 고요하고<LINE>
+정적만이 흐르고 있다・・・<NEXT>
+
+<CLEAR 0400>
+보아하니 이미 피난 간 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EE, String: 3764-3876]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 3A00A2001103>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+할아버지의 목소리<LINE>
+「바보 같은 녀석！！<NEXT>
+
+<CLEAR 0400>
+　공적 따위를 두려워 할쏘냐！<LINE>
+　난 여기서 절대 움직이지 않겠네！<NEXT>
+
+<CLEAR 0400>
+여자의 목소리<LINE>
+「아이 참，할아버지，<NEXT>
+
+<CLEAR 0400>
+　이런 작은 집은，<LINE>
+　폭탄 １개면 가루가 된다고요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block EF, String: 3876-397A]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+남자의 목소리<LINE>
+「아버지！<LINE>
+　그거 못 가져가요！<NEXT>
+
+<CLEAR 0400>
+　더 말하고 싶지 않으니까<LINE>
+　그냥 두고 가요！<NEXT>
+
+<CLEAR 0400>
+아저씨의 목소리<LINE>
+「싫어～！<NEXT>
+
+<CLEAR 0400>
+　미포쨩 등신대 피규어만큼은<LINE>
+　절대로 놓지 않을거야～！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F0, String: 397A-3A38]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+아줌마의 목소리<LINE>
+「좋아・・・<LINE>
+　옷도 전부 챙겼고<NEXT>
+
+<CLEAR 0400>
+　이젠 상점가에서<LINE>
+　빵과 채소를<LINE>
+　사야겠어！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F1, String: 3A38-3AF2]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+여자아이의 목소리<LINE>
+「엄마，<LINE>
+　공적이 뭐야～？<NEXT>
+
+<CLEAR 0400>
+엄마의 목소리<LINE>
+「엄마도 잘 모르겠지만，<LINE>
+　어쨌든 도망가야 한단다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F2, String: 3AF2-3B76]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+안에서 대화 소리가 들린다<NEXT>
+
+<CLEAR 0400>
+남자의 목소리<LINE>
+「슬슬 피난을 가야겠군，<NEXT>
+
+<CLEAR 0400>
+　잘있거라，사랑스런 내 집이여<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F3, String: 3B76-3BE8]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+집안은 고요하고<LINE>
+정적만이 흐르고 있다・・・<NEXT>
+
+<CLEAR 0400>
+보아하니 이미 피난 간 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F4, String: 3BE8-3C4C]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「현재 본가로 피난 중<LINE>
+　입니다<NEXT>
+
+<CLEAR 0400>
+라는 쪽지가 붙어 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F5, String: 3C4C-3C9C]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「방문판매 사절！<NEXT>
+
+<CLEAR 0400>
+이라는 쪽지가 붙어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F6, String: 3C9C-3CEC]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+문패가 없다・・・<LINE>
+아무래도 빈집인 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F7, String: 3CEC-3D4E]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 가족은 여행을 떠납니다<LINE>
+　찾지 말아 주세요<NEXT>
+
+<CLEAR 0400>
+라고 쓰여있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block F8, String: 3D4E-3DAC]
+<MSG_IF 36024BFF>
+<MSG_IF 350249FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+문패가 없다・・・<LINE>
+아무래도 빈집인 것 같다<NEXT>
+
+<END><CLOSE 0400>
+０<WIN 4000A2001003>
+<DECOR 0008>
+
+

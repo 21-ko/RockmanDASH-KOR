@@ -1,0 +1,140 @@
+[BLOCK: 0000]
+ーーーーーーーーーーー
+<FB1F>
+<END>
+
+[BLOCK: 0001]
+플러터호　　　　　　　
+<FB1F>
+<END>
+
+[BLOCK: 0002]
+설퍼보톰호　　　　　　
+<FB1F>
+<END>
+
+[BLOCK: 0003]
+요숀카시 선착장　　　 
+<FB1F>
+<END>
+
+[BLOCK: 0004]
+요숀카시 교회　　　　 
+<FB1F>
+<END>
+
+[BLOCK: 0005]
+금단의 땅　　　　　　 
+<FB1F>
+<END>
+
+[BLOCK: 0006]
+만다섬 선착장　　　　 
+<FB1F>
+<END>
+
+[BLOCK: 0007]
+포쿠테 마을 유적 돔　 
+<FB1F>
+<END>
+
+[BLOCK: 0008]
+니노섬 비행선 독　　　
+<FB1F>
+<END>
+
+[BLOCK: 0009]
+니노섬 방어 시설　　　
+<FB1F>
+<END>
+
+[BLOCK: 000A]
+루미노아시　　　　　　
+<FB1F>
+<END>
+
+[BLOCK: 000B]
+글라이드 요새 앞　　　
+<FB1F>
+<END>
+
+[BLOCK: 000C]
+칼바니아섬　　　　　　
+<FB1F>
+<END>
+
+[BLOCK: 000D]
+키모토마시　　　　　　
+<FB1F>
+<END>
+
+[BLOCK: 000E]
+키모토마시 선착장　　 
+<FB1F>
+<END>
+
+[BLOCK: 000F]
+키모토마시 유적 게이트
+<FB1F>
+<END>
+
+[BLOCK: 0010]
+사울카다섬　　　　　　
+<FB1F>
+<END>
+
+[BLOCK: 0011]
+만다섬의 유적　　　　 
+<FB1F>
+<END>
+
+[BLOCK: 0012]
+니노섬의 유적　　　　 
+<FB1F>
+<END>
+
+[BLOCK: 0013]
+사울카다섬의 유적　　 
+<FB1F>
+<END>
+
+[BLOCK: 0014]
+칼린카 대륙의 유적　　
+<FB1F>
+<END>
+
+[BLOCK: 0015]
+헤븐 셔틀 베이　　　　
+<FB1F>
+<END>
+
+[BLOCK: 0016]
+헤븐　　　　　　　　　
+<FB1F>
+<END>
+
+[BLOCK: 0017]
+마스터 룸　　　　　　 
+<FB1F>
+<END>
+
+[BLOCK: 0018]
+금단의 땅　　　　　　 
+<FB1F>
+<END>
+
+[BLOCK: 0019]
+키모토마시　　　　　　
+<FB1F>
+<END>
+
+[BLOCK: 001A]
+데이터가 없어요　　
+<FB1F>
+<END>
+
+[BLOCK: 001B]
+데이터가 깨졌어요　
+<FB1F>
+<END>
+

@@ -1,0 +1,136 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-0090]
+<WIN 4000A2001003>
+<DECOR 0008>
+불길한 형태를 한 관이다<NEXT>
+
+<CLEAR 0400>
+확실히 배럴 박사님이 현역시절<LINE>
+유명한 사막의 나라 유적지에서<NEXT>
+
+<CLEAR 0400>
+기념품으로 산 물건이라는 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 0090-0106]
+<WIN 4000A2001003>
+<DECOR 0008>
+이 별을 본떠 만들었다고 하는<LINE>
+장식품이다<NEXT>
+
+<CLEAR 0400>
+옛사람들은 정말 그런 높은 곳까지<LINE>
+날아갈 수 있었던 걸까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 0106-01B2]
+<WIN 4000A2001003>
+<DECOR 0008>
+현미경이라는<LINE>
+작은 물체를 보기위한 기계다<NEXT>
+
+<CLEAR 0400>
+들여다볼까<NEXT>
+
+<CLEAR 0400>
+・　<PAUSE 0800>・　<PAUSE 0800>・<PAUSE 0800><LINE>
+미생물 같은 것이<LINE>
+꿈틀꿈틀 거리고 있을 뿐이다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 01B2-01FC]
+<WIN 4000A2001003>
+<DECOR 0008>
+꽤 잘 만들어진 것 같지만，<NEXT>
+
+<CLEAR 0400>
+기분 나쁘군・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 01FC-029E]
+<WIN 4000A2001003>
+<DECOR 0008>
+책들이 줄지어 있다<NEXT>
+
+<CLEAR 0400>
+「처음 해보는 디그아웃」<LINE>
+「내 인생 디그아웃 있으리」<LINE>
+「돌아온 디그아우터」<NEXT>
+
+<CLEAR 0400>
+전부 어려워 보인다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 029E-02CA]
+<WIN 4000A2001003>
+<DECOR 0008>
+진지한 책들이 줄지어있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 02CA-0340]
+<MSG_IF 4A0309FF>
+<GET 4A03><WIN 4000A2001003>
+<DECOR 0008>
+보물상자 같은 것이 있다<LINE>
+안을 조사해보았다・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8600>
+<COLOR 0300><ITEM 6100><COLOR 0000><GET 6105>를 손에 넣었다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 0340-0366]
+<WIN 4000A2001003>
+<DECOR 0008>
+폭탄 모양 장식품이다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 0366-0396]
+<WIN 4200AC001102>
+<DECOR 0008>
+이제 아무것도 보이지 않는다・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 0396-0412]
+<WIN 4000A2001003>
+<DECOR 0008>
+「흠…　메인게이트에는<LINE>
+　아직 더 안이 있는 것 같아…<NEXT>
+
+<CLEAR 0400>
+　무슨 열쇠가 필요하단<LINE>
+　말 처럼 들린다네…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0412-0478]
+<WIN 4000A2001003>
+<DECOR 0008>
+「…거리에 새로 나타났다는<LINE>
+　３곳의 유적이<LINE>
+　수상하지 않나요？<NEXT>
+
+<END><CLOSE 0400>
+
+

@@ -1,0 +1,5003 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨 ＤＡＳＨ』의<LINE>
+무대가 된 섬의 이름은<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+만다섬<LINE>
+　
+<SEL 01>
+칼바니아섬<LINE>
+　
+<SEL 02>
+캐틀옥스섬<LINE>
+　
+<SEL 03>
+카린섬
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨 ＤＡＳＨ』 시리즈의<LINE>
+여주인공인 『롤 쨩』의<LINE>
+성은, 다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+캐스켓<LINE>
+　
+<SEL 01>
+머스켓<LINE>
+　
+<SEL 02>
+바스켓<LINE>
+　
+<SEL 03>
+가스켓
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+본 일가의 유쾌한 전투원인<LINE>
+꼬붕！<LINE>
+자, 전부 몇대인가？<LINE>
+<LINE>
+　
+<SEL 00>
+　１３대<LINE>
+　
+<SEL 01>
+　４０대<LINE>
+　
+<SEL 02>
+　５０대<LINE>
+　
+<SEL 03>
+８００대
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨 ＤＡＳＨ』 시리즈만의<LINE>
+『오리지널 장르』인<LINE>
+명칭은, 다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+슈팅 ＲＰＧ<LINE>
+　
+<SEL 01>
+액션 ＲＰＧ<LINE>
+　
+<SEL 02>
+서바이벌 ＲＰＧ<LINE>
+　
+<SEL 03>
+프리 러닝 ＲＰＧ
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨 ＤＡＳＨ』의 주인공<LINE>
+록 볼넛의<LINE>
+눈동자는, 무슨 색인가？<LINE>
+<LINE>
+　
+<SEL 00>
+빨간색<LINE>
+　
+<SEL 01>
+파란색<LINE>
+　
+<SEL 02>
+녹색<LINE>
+　
+<SEL 03>
+갈색
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+록이 특수무기를 장비할 수<LINE>
+있는 곳은, 다음 중 어디인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+오른팔<LINE>
+　
+<SEL 01>
+왼팔<LINE>
+　
+<SEL 02>
+머리<LINE>
+　
+<SEL 03>
+엉덩이
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨 ＤＡＳＨ』의<LINE>
+한국판 제목은<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+록맨 레전드<LINE>
+　
+<SEL 01>
+스톤맨 레전드<LINE>
+　
+<SEL 02>
+건맨 레전드<LINE>
+　
+<SEL 03>
+메가맨 레전드
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨 ＤＡＳＨ ２』의<LINE>
+타이틀 데모는<LINE>
+전부 몇 종류 있는가？<LINE>
+<LINE>
+　
+<SEL 00>
+없다<LINE>
+　
+<SEL 01>
+１<LINE>
+　
+<SEL 02>
+２<LINE>
+　
+<SEL 03>
+４
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨 ＤＡＳＨ ２』의<LINE>
+『플레이스테이션』 판이<LINE>
+발매된 해는, 몇년 인가？<LINE>
+<LINE>
+　
+<SEL 00>
+１９９７년<LINE>
+　
+<SEL 01>
+２０００년<LINE>
+　
+<SEL 02>
+２００３년<LINE>
+　
+<SEL 03>
+２００５년
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨 에그제』에 등장하는<LINE>
+다음 인물 중 『록맨 ＤＡＳＨ ２』<LINE>
+에도 등장하는 인물은 누구인가？<LINE>
+<LINE>
+　
+<SEL 00>
+야이토<LINE>
+　
+<SEL 01>
+데카오<LINE>
+　
+<SEL 02>
+포르테<LINE>
+　
+<SEL 03>
+세레나드
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 겨울잠을<LINE>
+자지 않는 동물은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+거북이<LINE>
+　
+<SEL 01>
+곰<LINE>
+　
+<SEL 02>
+개구리<LINE>
+　
+<SEL 03>
+사람
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 000B]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『ＵＭＤ』 라는 디스크의 직경은<LINE>
+몇ｃｍ인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　４ｃｍ<LINE>
+　
+<SEL 01>
+　６ｃｍ<LINE>
+　
+<SEL 02>
+　８ｃｍ<LINE>
+　
+<SEL 03>
+１２ｃｍ
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 000C]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 겨울 스포츠는<LINE>
+무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+마라톤<LINE>
+　
+<SEL 01>
+스키<LINE>
+　
+<SEL 02>
+스케이트보드<LINE>
+　
+<SEL 03>
+서핑
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 000D]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+트럼펫은 무엇인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+비행선<LINE>
+　
+<SEL 01>
+동물<LINE>
+　
+<SEL 02>
+옷<LINE>
+　
+<SEL 03>
+악기
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 000E]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+세계 최초로 로켓을 타고<LINE>
+우주를 여행한 동물은<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+원숭이<LINE>
+　
+<SEL 01>
+코끼리<LINE>
+　
+<SEL 02>
+병아리<LINE>
+　
+<SEL 03>
+쥐
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+주사위 『１』의 눈 반대쪽은<LINE>
+몇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+２<LINE>
+　
+<SEL 01>
+３<LINE>
+　
+<SEL 02>
+５<LINE>
+　
+<SEL 03>
+６
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+１시간은 몇 분인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　　２４분<LINE>
+　
+<SEL 01>
+　　６０분<LINE>
+　
+<SEL 02>
+１４４０분<LINE>
+　
+<SEL 03>
+３６００분
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 원료가 우유인 것은<LINE>
+무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+간장<LINE>
+　
+<SEL 01>
+유우<LINE>
+　
+<SEL 02>
+요구르트<LINE>
+　
+<SEL 03>
+소스
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 곤충이 아닌 것은<LINE>
+무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+물벼룩<LINE>
+　
+<SEL 01>
+장구벌레<LINE>
+　
+<SEL 02>
+잠자리 유충<LINE>
+　
+<SEL 03>
+벼룩
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+대한민국의 『광역지방자치단체』는<LINE>
+전부 몇 개인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+１０<LINE>
+　
+<SEL 01>
+１３<LINE>
+　
+<SEL 02>
+１７<LINE>
+　
+<SEL 03>
+２０
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+포도가 원료인 술은<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+맥주<LINE>
+　
+<SEL 01>
+진<LINE>
+　
+<SEL 02>
+와인<LINE>
+　
+<SEL 03>
+위스키
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+일반적인 와이드 ＴＶ의<LINE>
+가로세로 화면 비율은<LINE>
+몇 대 몇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+　４：３<LINE>
+　
+<SEL 01>
+　９：４<LINE>
+　
+<SEL 02>
+１６：６<LINE>
+　
+<SEL 03>
+１６：９
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+세계에서 가장 높은 산은<LINE>
+무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+에베레스트<LINE>
+　
+<SEL 01>
+매킨리<LINE>
+　
+<SEL 02>
+킬리만자로<LINE>
+　
+<SEL 03>
+아콩카과
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0017]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+야구 경기 시작 시<LINE>
+심판이 외치는 말은<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+겟셋<LINE>
+　
+<SEL 01>
+플레이볼<LINE>
+　
+<SEL 02>
+파이트<LINE>
+　
+<SEL 03>
+킥오프
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0018]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+거미 다리는 몇 개인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　４개<LINE>
+　
+<SEL 01>
+　６개<LINE>
+　
+<SEL 02>
+　８개<LINE>
+　
+<SEL 03>
+１２개
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0019]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+캡콤에서 나온 게임에 널리<LINE>
+사용된 통화 단위는<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+엔<LINE>
+　
+<SEL 01>
+달러<LINE>
+　
+<SEL 02>
+유로<LINE>
+　
+<SEL 03>
+제니
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 001A]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+미국의 『수도』는 어디인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+워싱턴 Ｄ.Ｃ.<LINE>
+　
+<SEL 01>
+뉴욕<LINE>
+　
+<SEL 02>
+시카고<LINE>
+　
+<SEL 03>
+샌프란시스코
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 001B]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 파충류에 속하는 생물은<LINE>
+무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+개구리<LINE>
+　
+<SEL 01>
+침팬지<LINE>
+　
+<SEL 02>
+무당벌레<LINE>
+　
+<SEL 03>
+카멜레온
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 001C]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+브라질의 『수도』는 어디인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+브라질리아<LINE>
+　
+<SEL 01>
+리우데자네이루<LINE>
+　
+<SEL 02>
+상파울루<LINE>
+　
+<SEL 03>
+헤시피
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 001D]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 포유류인 동물은<LINE>
+무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+거북이<LINE>
+　
+<SEL 01>
+고래<LINE>
+　
+<SEL 02>
+참새<LINE>
+　
+<SEL 03>
+이구아나
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+담뱃불 온도는 약 몇 도인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　　５０도<LINE>
+　
+<SEL 01>
+　１００도<LINE>
+　
+<SEL 02>
+　８００도<LINE>
+　
+<SEL 03>
+１０００도
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 001F]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+북아프리카에 있는 세계에서 가장<LINE>
+큰 사막의 이름은 다음 중<LINE>
+무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+고비<LINE>
+　
+<SEL 01>
+칼라하리<LINE>
+　
+<SEL 02>
+사하라<LINE>
+　
+<SEL 03>
+네푸드
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0020]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+태국 요리 『똠얌꿍』은 주로<LINE>
+어떤 재료로 육수를 만드는가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+닭고기<LINE>
+　
+<SEL 01>
+쇠고기<LINE>
+　
+<SEL 02>
+굴<LINE>
+　
+<SEL 03>
+새우
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0021]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+세계에서 가장 높은 곳에<LINE>
+위치한 호수는 어디인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+티티카카호<LINE>
+　
+<SEL 01>
+빅토리아호<LINE>
+　
+<SEL 02>
+그레이트솔트호<LINE>
+　
+<SEL 03>
+카스피해
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0022]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 한 번에 알을 가장 많이<LINE>
+낳는 생물은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+개복치<LINE>
+　
+<SEL 01>
+정어리<LINE>
+　
+<SEL 02>
+송사리<LINE>
+　
+<SEL 03>
+닭
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0023]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 어린 말을 부르는<LINE>
+이름은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+강아지<LINE>
+　
+<SEL 01>
+망아지<LINE>
+　
+<SEL 02>
+송아지<LINE>
+　
+<SEL 03>
+도야지
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0024]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 변온동물이<LINE>
+아닌 것은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+돌고래<LINE>
+　
+<SEL 01>
+펭귄<LINE>
+　
+<SEL 02>
+박쥐<LINE>
+　
+<SEL 03>
+상어
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0025]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 우리나라의 국화는<LINE>
+무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+매화<LINE>
+　
+<SEL 01>
+무궁화<LINE>
+　
+<SEL 02>
+나팔꽃<LINE>
+　
+<SEL 03>
+연꽃
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0026]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+아폴로 계획에서 인류 최초로<LINE>
+달착륙에 성공한 아폴로는<LINE>
+몇호인가？
+<LINE>
+<LINE>
+　
+<SEL 00>
+１１호<LINE>
+　
+<SEL 01>
+１３호<LINE>
+　
+<SEL 02>
+１７호<LINE>
+　
+<SEL 03>
+２８호
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0027]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 전류의 단위는 무엇인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+쿨롱<LINE>
+　
+<SEL 01>
+볼트<LINE>
+　
+<SEL 02>
+암페어<LINE>
+　
+<SEL 03>
+투페어
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0028]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+런던은<LINE>
+어느 나라에 있는 도시인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+프랑스<LINE>
+　
+<SEL 01>
+영국<LINE>
+　
+<SEL 02>
+이탈리아<LINE>
+　
+<SEL 03>
+오스트리아
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0029]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+체스 문제.<LINE>
+체스판에 있는 칸은<LINE>
+전부 몇 칸인가？<LINE>
+<LINE>
+　
+<SEL 00>
+２４<LINE>
+　
+<SEL 01>
+３２<LINE>
+　
+<SEL 02>
+４０<LINE>
+　
+<SEL 03>
+４８
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 002A]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+맥주의 주원료로<LINE>
+쓰이는 작물은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+쌀<LINE>
+　
+<SEL 01>
+밀<LINE>
+　
+<SEL 02>
+보리<LINE>
+　
+<SEL 03>
+옥수수
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 002B]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+번데기가 되기 전의 곤충을<LINE>
+무엇이라고 하는가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+애벌레<LINE>
+　
+<SEL 01>
+벌레<LINE>
+　
+<SEL 02>
+애벌<LINE>
+　
+<SEL 03>
+벌
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 002C]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『한마디도 하지 않는다』에서<LINE>
+『마디』는 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+발구르기<LINE>
+　
+<SEL 01>
+손뼉<LINE>
+　
+<SEL 02>
+눈짓<LINE>
+　
+<SEL 03>
+말
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 002D]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+노래 『마법의 성』에서<LINE>
+공주를 찾은 곳은 어디인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+마법의 성<LINE>
+　
+<SEL 01>
+늪<LINE>
+　
+<SEL 02>
+어둠의 동굴 속<LINE>
+　
+<SEL 03>
+하늘
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 002E]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+콜럼버스는 자신이 발견한<LINE>
+아메리카 대륙을<LINE>
+어떤 나라와 착각했는가？<LINE>
+<LINE>
+　
+<SEL 00>
+인도<LINE>
+　
+<SEL 01>
+멕시코<LINE>
+　
+<SEL 02>
+캐나다<LINE>
+　
+<SEL 03>
+러시아
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 002F]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중<LINE>
+세계에서 가장 많이 사용되는<LINE>
+언어는 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+중국어<LINE>
+　
+<SEL 01>
+스페인어<LINE>
+　
+<SEL 02>
+러시아어<LINE>
+　
+<SEL 03>
+영어
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0030]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 철새가 아닌 것은<LINE>
+무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+백조<LINE>
+　
+<SEL 01>
+흑두루미<LINE>
+　
+<SEL 02>
+왜가리<LINE>
+　
+<SEL 03>
+오리
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0031]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+어버이날에 선물하는<LINE>
+꽃은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+튤립<LINE>
+　
+<SEL 01>
+장미<LINE>
+　
+<SEL 02>
+카네이션<LINE>
+　
+<SEL 03>
+백합
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0032]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+４２＋６８－３３＝？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+６６<LINE>
+　
+<SEL 01>
+６７<LINE>
+　
+<SEL 02>
+７６<LINE>
+　
+<SEL 03>
+７７
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0033]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+２×１３－７＝？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+１７<LINE>
+　
+<SEL 01>
+１８<LINE>
+　
+<SEL 02>
+１９<LINE>
+　
+<SEL 03>
+２１３７
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0034]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 답이 『２』가<LINE>
+되는 것은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+０×２＋２÷１<LINE>
+　
+<SEL 01>
+２÷０－１×２<LINE>
+　
+<SEL 02>
+２×２－１÷０<LINE>
+　
+<SEL 03>
+２×０＋１÷２
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0035]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+３×４＋４×５＝？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+１６<LINE>
+　
+<SEL 01>
+３２<LINE>
+　
+<SEL 02>
+８０<LINE>
+　
+<SEL 03>
+２４０
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0036]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+어떤 개가 ６０ｋｍ 떨어진 마을로<LINE>
+하루 ８ｋｍ씩 갔다.<LINE>
+마을에는 며칠 째 도착하는가？<LINE>
+<LINE>
+　
+<SEL 00>
+　７<LINE>
+　
+<SEL 01>
+　８<LINE>
+　
+<SEL 02>
+　９<LINE>
+　
+<SEL 03>
+１０
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0037]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+０.３×０.７＝？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+０.０２１<LINE>
+　
+<SEL 01>
+０.２１<LINE>
+　
+<SEL 02>
+１.０<LINE>
+　
+<SEL 03>
+２.１
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0038]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+1개에 35제니, 3개를 묶어서 사면<LINE>
+100제니가 되는 아이스크림을<LINE>
+5개 사면, 전부 얼마인가？<LINE>
+<LINE>
+　
+<SEL 00>
+１３５Ｚ<LINE>
+　
+<SEL 01>
+１４０Ｚ<LINE>
+　
+<SEL 02>
+１７０Ｚ<LINE>
+　
+<SEL 03>
+１７５Ｚ
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0039]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+가로 20ｍ, 세로 40ｍ,<LINE>
+깊이 5ｍ인 『저수지』에 들어가는<LINE>
+물의 무게는 몇 톤인가？<LINE>
+<LINE>
+　
+<SEL 00>
+８００ｔ<LINE>
+　
+<SEL 01>
+１６００ｔ<LINE>
+　
+<SEL 02>
+４０００ｔ<LINE>
+　
+<SEL 03>
+８０００ｔ
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 003A]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+둘레의 길이가 20ｍ인 정사각형의<LINE>
+면적은 몇 제곱미터인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　２５<LINE>
+　
+<SEL 01>
+　５０<LINE>
+　
+<SEL 02>
+１００<LINE>
+　
+<SEL 03>
+４００
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 003B]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+지구의 반경은 약 몇ｋｍ인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　１５００ｋｍ<LINE>
+　
+<SEL 01>
+　４０００ｋｍ<LINE>
+　
+<SEL 02>
+　６５００ｋｍ<LINE>
+　
+<SEL 03>
+１００００ｋｍ
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 003C]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+１０ｍ는 몇ｃｍ인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　　　１０ｃｍ<LINE>
+　
+<SEL 01>
+　　１００ｃｍ<LINE>
+　
+<SEL 02>
+　１０００ｃｍ<LINE>
+　
+<SEL 03>
+１００００ｃｍ
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 003D]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+정５각형의 내각은 몇 도인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　９０도<LINE>
+　
+<SEL 01>
+１０８도<LINE>
+　
+<SEL 02>
+１２０도<LINE>
+　
+<SEL 03>
+１４４도
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 003E]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『１그로스의 연필』은<LINE>
+전부 몇 개인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　１２개<LINE>
+　
+<SEL 01>
+１００개<LINE>
+　
+<SEL 02>
+１２０개<LINE>
+　
+<SEL 03>
+１４４개
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 003F]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+１０부터 ２０까지의 숫자 중<LINE>
+『１』은 몇 번 나오는가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　９번<LINE>
+　
+<SEL 01>
+１０번<LINE>
+　
+<SEL 02>
+１１번<LINE>
+　
+<SEL 03>
+１２번
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0040]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+주사위 ２개를 굴렸을 때<LINE>
+숫자의 합이 『９』가 나올<LINE>
+확률은？<LINE>
+<LINE>
+　
+<SEL 00>
+１／６<LINE>
+　
+<SEL 01>
+１／９<LINE>
+　
+<SEL 02>
+１／１２<LINE>
+　
+<SEL 03>
+１／２４
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0041]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+산수 문제.<LINE>
+６시 ３０분의 １시간 ４５분전은<LINE>
+몇시 몇분인가？<LINE>
+<LINE>
+　
+<SEL 00>
+４시 ３０분<LINE>
+　
+<SEL 01>
+４시 ４５분<LINE>
+　
+<SEL 02>
+５시<LINE>
+　
+<SEL 03>
+５시 １５분
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0042]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+１６팀으로 토너먼트를 짰는데,<LINE>
+３팀이 늘어났다.<LINE>
+늘어나는 경기 수는 몇 경기인가？<LINE>
+<LINE>
+　
+<SEL 00>
+１<LINE>
+　
+<SEL 01>
+３<LINE>
+　
+<SEL 02>
+４<LINE>
+　
+<SEL 03>
+６
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0043]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 계속 더할수록<LINE>
+점점 더 작아지는 숫자는<LINE>
+무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+　－３<LINE>
+　
+<SEL 01>
+　　０<LINE>
+　
+<SEL 02>
+０.５<LINE>
+　
+<SEL 03>
+３／５
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0044]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+수영장에 얼음을 띄웠을 때<LINE>
+수면 아래 있는 얼음의 부피는<LINE>
+수면<SPACE 02>위에<SPACE 02>있는<SPACE 02>부분의<SPACE 02>약<SPACE 02>몇<SPACE 02>배인가？<LINE>
+<LINE>
+　
+<SEL 00>
+２<LINE>
+　
+<SEL 01>
+３<LINE>
+　
+<SEL 02>
+５<LINE>
+　
+<SEL 03>
+９
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0045]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+빨간 공 3개와 파란 공 5개가 든<LINE>
+상자에서<SPACE 04>공을<SPACE 04>4개<SPACE 04>꺼냈을<SPACE 04>때,<SPACE 04>꺼낸<LINE>
+공의 조합은 전부 몇 종류인가？<LINE>
+<LINE>
+　
+<SEL 00>
+１종류<LINE>
+　
+<SEL 01>
+３종류<LINE>
+　
+<SEL 02>
+４종류<LINE>
+　
+<SEL 03>
+５종류
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0046]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 <LINE>
+９월의 탄생석은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+에메랄드<LINE>
+　
+<SEL 01>
+사파이어<LINE>
+　
+<SEL 02>
+토파즈<LINE>
+　
+<SEL 03>
+다이아몬드
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0047]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 가장 단단한 보석은<LINE>
+무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+루비<LINE>
+　
+<SEL 01>
+수정<LINE>
+　
+<SEL 02>
+형석<LINE>
+　
+<SEL 03>
+토파즈
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0048]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+태양 표면에서 폭발이 일어날 때<LINE>
+나타나는 불기둥을 무엇이라고<LINE>
+하는가？<LINE>
+<LINE>
+　
+<SEL 00>
+코로나<LINE>
+　
+<SEL 01>
+프로미넌스<LINE>
+　
+<SEL 02>
+플레어<LINE>
+　
+<SEL 03>
+오로라
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0049]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 원소 기호가 한 글자로<LINE>
+된 것은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+칼륨<LINE>
+　
+<SEL 01>
+칼슘<LINE>
+　
+<SEL 02>
+니켈<LINE>
+　
+<SEL 03>
+알루미늄
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 004A]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 올빼미의 신체에서<LINE>
+『좌우의 크기』가 두드러지게<LINE>
+다른 부분은 어디인가？<LINE>
+<LINE>
+　
+<SEL 00>
+날개<LINE>
+　
+<SEL 01>
+눈<LINE>
+　
+<SEL 02>
+발<LINE>
+　
+<SEL 03>
+귓구멍
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 004B]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+지렁이의 신체 표면은<LINE>
+어떻게 되어 있는가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+가시가 나 있다<LINE>
+　
+<SEL 01>
+비늘이 있다<LINE>
+　
+<SEL 02>
+털이 나 있다<LINE>
+　
+<SEL 03>
+아무것도 없이 매끈하다
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 004C]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 새우의 천적은<LINE>
+무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+성게<LINE>
+　
+<SEL 01>
+곰치<LINE>
+　
+<SEL 02>
+해삼<LINE>
+　
+<SEL 03>
+문어
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 004D]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+말미잘을 은신처로 쓰면서<LINE>
+적으로부터 도망치는 습성을<LINE>
+가진 물고기는 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+거피<LINE>
+　
+<SEL 01>
+금붕어<LINE>
+　
+<SEL 02>
+흰동가리<LINE>
+　
+<SEL 03>
+디스커스
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 004E]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+거미의 신체에서 뚜렷하게<LINE>
+구별되지 않는 부분은<LINE>
+어디와 어디인가？<LINE>
+<LINE>
+　
+<SEL 00>
+가슴과 배<LINE>
+　
+<SEL 01>
+다리와 가슴<LINE>
+　
+<SEL 02>
+머리와 가슴<LINE>
+　
+<SEL 03>
+머리와 배
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 004F]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+유전 정보를 저장하고<LINE>
+있는 ＤＮＡ의 구조는 <LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+２중 나선<LINE>
+　
+<SEL 01>
+３중 나선<LINE>
+　
+<SEL 02>
+구형<LINE>
+　
+<SEL 03>
+정육면체
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0050]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+전갱이<SPACE 04>3마리,<SPACE 04>참치<SPACE 04>7마리,<SPACE 04>돌고래<LINE>
+8마리,<SPACE 04>장어<SPACE 04>6마리,<SPACE 04>방어<SPACE 04>4마리가<LINE>
+있다. 물고기는 전부 몇마리인가？<LINE>
+<LINE>
+　
+<SEL 00>
+２０마리<LINE>
+　
+<SEL 01>
+２２마리<LINE>
+　
+<SEL 02>
+２８마리<LINE>
+　
+<SEL 03>
+３０마리
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0051]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중<LINE>
+『눈꺼풀』이 없는 생물은<LINE>
+무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+청개구리<LINE>
+　
+<SEL 01>
+개복치<LINE>
+　
+<SEL 02>
+장수잠자리<LINE>
+　
+<SEL 03>
+올빼미
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0052]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 번데기 시기를 거치지<LINE>
+않은 곤충은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+귀뚜라미<LINE>
+　
+<SEL 01>
+왕오색나비<LINE>
+　
+<SEL 02>
+검은개미<LINE>
+　
+<SEL 03>
+누에나방
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0053]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+핼리 혜성이 태양을 공전하는<LINE>
+주기는 몇 년인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+３７년<LINE>
+　
+<SEL 01>
+６６년<LINE>
+　
+<SEL 02>
+７６년<LINE>
+　
+<SEL 03>
+９９년
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0054]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 『연필심』과<LINE>
+같은 원소로 이루어진 것은<LINE>
+무엇인가？
+<LINE>
+<LINE>
+　
+<SEL 00>
+사파이어<LINE>
+　
+<SEL 01>
+다이아몬드<LINE>
+　
+<SEL 02>
+흑요석<LINE>
+　
+<SEL 03>
+아메시스트
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0055]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『세계 ３대 홍차』는 <LINE>
+다르질링, 우바, 그리고 나머지<LINE>
+하나는 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+실론<LINE>
+　
+<SEL 01>
+닐기리<LINE>
+　
+<SEL 02>
+아삼<LINE>
+　
+<SEL 03>
+기문
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0056]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+고급<SPACE 04>버섯인<SPACE 04>『트뤼프』를<SPACE 04>찾아내는<LINE>
+동물은 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+말<LINE>
+　
+<SEL 01>
+염소<LINE>
+　
+<SEL 02>
+돼지<LINE>
+　
+<SEL 03>
+소
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0057]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 사탕수수를 원료로<LINE>
+한 술은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+브랜디<LINE>
+　
+<SEL 01>
+와인<LINE>
+　
+<SEL 02>
+맥주<LINE>
+　
+<SEL 03>
+럼
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0058]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+밀가루를 묻혀 버터에 구워낸<LINE>
+프랑스 유래 생선 요리는<LINE>
+무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+뫼니에르<LINE>
+　
+<SEL 01>
+마리네<LINE>
+　
+<SEL 02>
+코키유<LINE>
+　
+<SEL 03>
+그라탕
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0059]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+이리는 수컷 명태의 정소를 말한다.<LINE>
+그렇다면, 암컷 명태의 알집은<LINE>
+무엇이라고 하는가？<LINE>
+<LINE>
+　
+<SEL 00>
+아가미<LINE>
+　
+<SEL 01>
+코다리<LINE>
+　
+<SEL 02>
+노가리<LINE>
+　
+<SEL 03>
+곤이
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 005A]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『클램차우더』는<LINE>
+무엇으로 만든 수프인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+오징어<LINE>
+　
+<SEL 01>
+생선<LINE>
+　
+<SEL 02>
+조개<LINE>
+　
+<SEL 03>
+문어
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 005B]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+인류 최초로 우주 비행을 한<LINE>
+『가가린』이 지구를 보고 남긴<LINE>
+유명한 말은 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+지구는 둥글었다<LINE>
+　
+<SEL 01>
+지구는 작았다<LINE>
+　
+<SEL 02>
+지구는 컸다<LINE>
+　
+<SEL 03>
+지구는 푸르렀다
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 005C]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+위로 올라가는 엘리베이터 안에서<LINE>
+용수철저울을 쓰면, 멈춰 있을 때와<LINE>
+비교하여 어떻게 달라지는가？<LINE>
+<LINE>
+　
+<SEL 00>
+그대로다<LINE>
+　
+<SEL 01>
+가벼워진다<LINE>
+　
+<SEL 02>
+무거워진다<LINE>
+　
+<SEL 03>
+상황에 따라 다르다
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 005D]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 달 표면에서도 평소처럼<LINE>
+즐길 수 있는 것은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+배드민턴<LINE>
+　
+<SEL 01>
+팽이치기<LINE>
+　
+<SEL 02>
+연날리기<LINE>
+　
+<SEL 03>
+종이풍선
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 005E]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음<SPACE 04>중<SPACE 04>『다이너마이트』를<SPACE 04>발명한<LINE>
+사람은 누구인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+노벨<LINE>
+　
+<SEL 01>
+에디슨<LINE>
+　
+<SEL 02>
+파브르<LINE>
+　
+<SEL 03>
+라이트 형제
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 005F]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+컴퓨터를 작동하기 위해<LINE>
+필요한 명령의 모음을<LINE>
+무엇이라고 하는가？<LINE>
+<LINE>
+　
+<SEL 00>
+프로포즈<LINE>
+　
+<SEL 01>
+프로그램<LINE>
+　
+<SEL 02>
+프롤로그<LINE>
+　
+<SEL 03>
+프로미넌스
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0060]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+컴퓨터 용어인 『ＯＳ』를<LINE>
+축약하지 않고 쓰면<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+오펜스 시스템<LINE>
+　
+<SEL 01>
+오거닉 시스템<LINE>
+　
+<SEL 02>
+오리엔탈 시스템<LINE>
+　
+<SEL 03>
+오퍼레이팅 시스템
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0061]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+정보의 단위 『１바이트』는<LINE>
+『？비트』이다.<LINE>
+『？』에 들어갈 숫자는 몇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+２<LINE>
+　
+<SEL 01>
+４<LINE>
+　
+<SEL 02>
+６<LINE>
+　
+<SEL 03>
+８
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0062]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+컴퓨터 문제.<LINE>
+다음 중 프로그래밍 언어는<LINE>
+무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+캐주얼<LINE>
+　
+<SEL 01>
+파퓰러<LINE>
+　
+<SEL 02>
+베이식<LINE>
+　
+<SEL 03>
+노멀
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0063]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중<LINE>
+『뉴턴의 운동 ３법칙』에<LINE>
+포함되지 않는 것은 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+만유인력의 법칙<LINE>
+　
+<SEL 01>
+관성의 법칙<LINE>
+　
+<SEL 02>
+운동방정식<LINE>
+　
+<SEL 03>
+작용・반작용의 법칙
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0064]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 실제로 있는 <LINE>
+물고기의 이름은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+만새기<LINE>
+　
+<SEL 01>
+천새기<LINE>
+　
+<SEL 02>
+백새기<LINE>
+　
+<SEL 03>
+십새기
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0065]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 실존하지 않는<LINE>
+『식물』은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+빵나무<LINE>
+　
+<SEL 01>
+소세지나무<LINE>
+　
+<SEL 02>
+돌고래나무<LINE>
+　
+<SEL 03>
+두릅나무
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0066]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『구두쇠』를 낮잡아 이르는<LINE>
+단어는 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+까망이<LINE>
+　
+<SEL 01>
+빨강이<LINE>
+　
+<SEL 02>
+파랑이<LINE>
+　
+<SEL 03>
+노랑이
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0067]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+제주도 방언에서 『㉭저옵서예』의<LINE>
+의미는 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+어서 오세요<LINE>
+　
+<SEL 01>
+다녀오셨어요<LINE>
+　
+<SEL 02>
+잘 먹겠습니다<LINE>
+　
+<SEL 03>
+안녕히 가세요
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0068]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+강원도 방언 『미숩다』의<LINE>
+의미는 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+춥다<LINE>
+　
+<SEL 01>
+미덥다<LINE>
+　
+<SEL 02>
+맛있다<LINE>
+　
+<SEL 03>
+무섭다
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0069]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+충청 경상 방언에서 『정구지』의<LINE>
+의미는 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+배추<LINE>
+　
+<SEL 01>
+정어리<LINE>
+　
+<SEL 02>
+부추<LINE>
+　
+<SEL 03>
+양파
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 006A]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+황해도 사투리 『당추』의<LINE>
+의미는 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+대파<LINE>
+　
+<SEL 01>
+고추<LINE>
+　
+<SEL 02>
+당근<LINE>
+　
+<SEL 03>
+배추
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 006B]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음<SPACE 04>중<SPACE 04>경상도<SPACE 04>지역에서<SPACE 04>『돔배기』<LINE>
+라고 불리는 음식은 무엇으로 만든<LINE>
+음식인가？<LINE>
+<LINE>
+　
+<SEL 00>
+참치<LINE>
+　
+<SEL 01>
+돌고래<LINE>
+　
+<SEL 02>
+고래<LINE>
+　
+<SEL 03>
+상어
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 006C]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+옛말에서 『잔나비』라고 부르던<LINE>
+동물은 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+조랑말<LINE>
+　
+<SEL 01>
+당나귀<LINE>
+　
+<SEL 02>
+고양이<LINE>
+　
+<SEL 03>
+원숭이
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 006D]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+서북 방언 『눅다』의<LINE>
+의미는 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+싸다<LINE>
+　
+<SEL 01>
+늙었다<LINE>
+　
+<SEL 02>
+깊다<LINE>
+　
+<SEL 03>
+춥다
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 006E]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+프로레슬링 용어에서 『힐』의<LINE>
+의미는 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+신인<LINE>
+　
+<SEL 01>
+라이벌<LINE>
+　
+<SEL 02>
+당해주는 역<LINE>
+　
+<SEL 03>
+악역
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 006F]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+골프 용어 『알바트로스』의<LINE>
+의미는 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+까마귀<LINE>
+　
+<SEL 01>
+타조<LINE>
+　
+<SEL 02>
+신천옹<LINE>
+　
+<SEL 03>
+백로
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0070]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 골프의 『３번 우드』에<LINE>
+붙은 별칭은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+스푼<LINE>
+　
+<SEL 01>
+피칭<LINE>
+　
+<SEL 02>
+드라이버<LINE>
+　
+<SEL 03>
+포크
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0071]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 배구에서 반칙이<LINE>
+되는 행위는 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+트래블링<LINE>
+　
+<SEL 01>
+더블 드리블<LINE>
+　
+<SEL 02>
+핸들링<LINE>
+　
+<SEL 03>
+차징
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0072]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+야구 문제.<LINE>
+삼진을 나타내는 알파벳은<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+Ｋ<LINE>
+　
+<SEL 01>
+Ｏ<LINE>
+　
+<SEL 02>
+Ｓ<LINE>
+　
+<SEL 03>
+Ｔ
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0073]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 라켓을 사용하는<LINE>
+스포츠는 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+인디아카<LINE>
+　
+<SEL 01>
+스쿼시<LINE>
+　
+<SEL 02>
+세팍타크로<LINE>
+　
+<SEL 03>
+라크로스
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0074]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+대한민국 축구 대표팀의<LINE>
+엠블럼에 그려진 동물은<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+독수리<LINE>
+　
+<SEL 01>
+사자<LINE>
+　
+<SEL 02>
+늑대<LINE>
+　
+<SEL 03>
+호랑이
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0075]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+골프에서 해당 홀의 『규정타』로<LINE>
+홀을 끝내는 것을<LINE>
+무엇이라고 하는가？<LINE>
+<LINE>
+　
+<SEL 00>
+보기<LINE>
+　
+<SEL 01>
+파<LINE>
+　
+<SEL 02>
+버디<LINE>
+　
+<SEL 03>
+이글
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0076]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+배구에서 토스를 올리는<LINE>
+포지션의 명칭은<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+리베로<LINE>
+　
+<SEL 01>
+센터<LINE>
+　
+<SEL 02>
+세터<LINE>
+　
+<SEL 03>
+슈퍼 에이스
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0077]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+테니스 점수 계산법 문제.<LINE>
+０, １５, ３０의<LINE>
+다음은 몇 점인가？<LINE>
+<LINE>
+　
+<SEL 00>
+４０<LINE>
+　
+<SEL 01>
+４５<LINE>
+　
+<SEL 02>
+５０<LINE>
+　
+<SEL 03>
+６０
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0078]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 팔을 쓰면 안 되는<LINE>
+스포츠는 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+크리켓<LINE>
+　
+<SEL 01>
+세팍타크로<LINE>
+　
+<SEL 02>
+카바디<LINE>
+　
+<SEL 03>
+라크로스
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0079]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+주사위 ２개를 굴려서<LINE>
+둘 다 『짝수』가 나올<LINE>
+확률은 얼마인가？<LINE>
+<LINE>
+　
+<SEL 00>
+１／３<LINE>
+　
+<SEL 01>
+１／４<LINE>
+　
+<SEL 02>
+１／６<LINE>
+　
+<SEL 03>
+１／１２
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 007A]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+장수풍뎅이 ６마리와 왕거미<LINE>
+８마리의 다리를 다 합치면<LINE>
+몇 개인가？<LINE>
+<LINE>
+　
+<SEL 00>
+　６８개<LINE>
+　
+<SEL 01>
+　７２개<LINE>
+　
+<SEL 02>
+１００개<LINE>
+　
+<SEL 03>
+１１２개
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 007B]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+２９개의 사탕을 １명씩 고르게<LINE>
+나누어 주었더니 ５개가 남았다.<LINE>
+전부 몇 명에게 주었는가？<LINE>
+<LINE>
+　
+<SEL 00>
+３명<LINE>
+　
+<SEL 01>
+４명<LINE>
+　
+<SEL 02>
+６명<LINE>
+　
+<SEL 03>
+７명
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 007C]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+１００엔 동전을 ３번 던졌더니<LINE>
+전부<SPACE 02>『앞』이<SPACE 02>나왔다.<SPACE 02>한<SPACE 02>번<SPACE 02>더<SPACE 02>던져서<LINE>
+『앞』이 나올 확률은 얼마인가？<LINE>
+<LINE>
+　
+<SEL 00>
+１／２<LINE>
+　
+<SEL 01>
+１／４<LINE>
+　
+<SEL 02>
+１／８<LINE>
+　
+<SEL 03>
+１／１６
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 007D]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+１００ｇ의 물에 ５０ｇ의 설탕을<LINE>
+섞으면 설탕물의 『농도』는<LINE>
+약 몇 퍼센트가 되는가？<LINE>
+<LINE>
+　
+<SEL 00>
+　３３.３<LINE>
+　
+<SEL 01>
+　５０.０<LINE>
+　
+<SEL 02>
+　６６.６<LINE>
+　
+<SEL 03>
+１５０.０
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 007E]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중<LINE>
+실제로 있는 정다면체는 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+정５면체<LINE>
+　
+<SEL 01>
+정１０면체<LINE>
+　
+<SEL 02>
+정１２면체<LINE>
+　
+<SEL 03>
+정１６면체
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 007F]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+로마 숫자 『Ｍ』은<LINE>
+몇을 나타내는가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　　５０<LINE>
+　
+<SEL 01>
+　１００<LINE>
+　
+<SEL 02>
+　５００<LINE>
+　
+<SEL 03>
+１０００
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0080]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+고대 바빌로니아에서 사용했던<LINE>
+숫자 진법은 몇 진법이었는가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　２진법<LINE>
+　
+<SEL 01>
+１０진법<LINE>
+　
+<SEL 02>
+１６진법<LINE>
+　
+<SEL 03>
+６０진법
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0081]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+지금으로부터 ３００년 전<LINE>
+제트코스터의 원형이 처음으로<LINE>
+등장한 곳은 어디인가？<LINE>
+<LINE>
+　
+<SEL 00>
+미국<LINE>
+　
+<SEL 01>
+러시아<LINE>
+　
+<SEL 02>
+일본<LINE>
+　
+<SEL 03>
+프랑스
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0082]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+지구의 지각 전체에서 가장 많이<LINE>
+존재하는 『원소』는 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+산소<LINE>
+　
+<SEL 01>
+철<LINE>
+　
+<SEL 02>
+규소<LINE>
+　
+<SEL 03>
+탄소
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0083]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+수심 ３０ｍ까지 버틸 수 있는<LINE>
+손목시계는 몇 기압까지 버틸 수<LINE>
+있는가？<LINE>
+<LINE>
+　
+<SEL 00>
+　３기압<LINE>
+　
+<SEL 01>
+　４기압<LINE>
+　
+<SEL 02>
+３０기압<LINE>
+　
+<SEL 03>
+４０기압
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0084]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 물에 넣으면<LINE>
+타는 것은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+칼슘<LINE>
+　
+<SEL 01>
+칼륨<LINE>
+　
+<SEL 02>
+플루오르<LINE>
+　
+<SEL 03>
+붕소
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0085]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 세계에서 가장 많이<LINE>
+산출되는 화성암은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+화강암<LINE>
+　
+<SEL 01>
+현무암<LINE>
+　
+<SEL 02>
+반려암<LINE>
+　
+<SEL 03>
+유문암
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0086]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+달팽이의 『이빨』은<LINE>
+대략 몇 개인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+없다<LINE>
+　
+<SEL 01>
+４０개<LINE>
+　
+<SEL 02>
+３６００개<LINE>
+　
+<SEL 03>
+１２０００개
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0087]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+고양이가 땀을 흘리는 부분은<LINE>
+신체의 어느 부분인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+겨드랑이<LINE>
+　
+<SEL 01>
+발바닥<LINE>
+　
+<SEL 02>
+콧등<LINE>
+　
+<SEL 03>
+귓속
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0088]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+지구의 자전축은<LINE>
+공전면에 대하여 몇 도나<LINE>
+기울어져 있는가？<LINE>
+<LINE>
+　
+<SEL 00>
+１１.１도<LINE>
+　
+<SEL 01>
+３３.３도<LINE>
+　
+<SEL 02>
+６６.６도<LINE>
+　
+<SEL 03>
+８８.８도
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0089]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+복어 독의 위력은<LINE>
+청산가리의 약 몇 배인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+×　５<LINE>
+　
+<SEL 01>
+×　９<LINE>
+　
+<SEL 02>
+×１３<LINE>
+　
+<SEL 03>
+×２０
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 008A]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 이름의 유래가<LINE>
+『태양』인 『원소』는<LINE>
+무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+헬륨<LINE>
+　
+<SEL 01>
+폴로늄<LINE>
+　
+<SEL 02>
+플루토늄<LINE>
+　
+<SEL 03>
+요오드
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 008B]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+카멜레온의 실제 피부 색깔은<LINE>
+과연 무슨 색인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+녹색<LINE>
+　
+<SEL 01>
+파란색<LINE>
+　
+<SEL 02>
+흰색<LINE>
+　
+<SEL 03>
+알 수 없다
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 008C]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 매우 드물게 태어나는<LINE>
+고양이는 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+수컷 검정 고양이<LINE>
+　
+<SEL 01>
+수컷 얼룩 고양이<LINE>
+　
+<SEL 02>
+암컷 샴 고양이<LINE>
+　
+<SEL 03>
+암컷 히말라얀
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 008D]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+세계에서 가장 큰 박쥐인 『말레이<LINE>
+날여우박쥐』가 날개를 펼쳤을<LINE>
+때의 크기는 약 몇 미터인가？<LINE>
+<LINE>
+　
+<SEL 00>
+１ｍ<LINE>
+　
+<SEL 01>
+２ｍ<LINE>
+　
+<SEL 02>
+３ｍ<LINE>
+　
+<SEL 03>
+５ｍ
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 008E]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+미꾸라지는 아가미 호흡 외에도<LINE>
+특이하게<SPACE 04>다른<SPACE 04>한<SPACE 04>곳으로도<SPACE 04>호흡한다.<LINE>
+그곳은 어디인가？<LINE>
+<LINE>
+　
+<SEL 00>
+수염<LINE>
+　
+<SEL 01>
+폐<LINE>
+　
+<SEL 02>
+배꼽<LINE>
+　
+<SEL 03>
+장
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 008F]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+불가사리의 팔을 하나 잘라내면<LINE>
+잘려 나간 팔은 그 후<LINE>
+어떻게 되는가？<LINE>
+<LINE>
+　
+<SEL 00>
+죽는다<LINE>
+　
+<SEL 01>
+그대로 살아간다<LINE>
+　
+<SEL 02>
+완전한 불가사리 모습이 된다<LINE>
+　
+<SEL 03>
+알로 변한다
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0090]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+겨우살이가 기생하는 『나무』에<LINE>
+씨를 뿌리기 위해 쓰는<LINE>
+것은 다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+새<LINE>
+　
+<SEL 01>
+벌레<LINE>
+　
+<SEL 02>
+바람<LINE>
+　
+<SEL 03>
+도마뱀
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0091]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 진주 양식에 사용되지<LINE>
+않는 조개는 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+펄조개<LINE>
+　
+<SEL 01>
+진주조개<LINE>
+　
+<SEL 02>
+나비조개<LINE>
+　
+<SEL 03>
+전복
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0092]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+서로 다른 주사위 두 개를 굴렸을<LINE>
+때 나온 눈의 『합』이 ８이 되는<LINE>
+조합은 전부 몇 개인가？<LINE>
+<LINE>
+　
+<SEL 00>
+４개<LINE>
+　
+<SEL 01>
+５개<LINE>
+　
+<SEL 02>
+６개<LINE>
+　
+<SEL 03>
+７개
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0093]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+스칸디나비아 반도 등에서 볼 수<LINE>
+있는 빙하로 인해 형성된 복잡한<LINE>
+형태의 해안 지형은 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+피오르<LINE>
+　
+<SEL 01>
+라군<LINE>
+　
+<SEL 02>
+카렌펠트<LINE>
+　
+<SEL 03>
+리아스식 해안
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0094]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+레몬은 어떤 성질의 식품으로<LINE>
+분류되는가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+알칼리성<LINE>
+　
+<SEL 01>
+산성<LINE>
+　
+<SEL 02>
+중성<LINE>
+　
+<SEL 03>
+양성
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0095]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+고추에 포함된<LINE>
+매운맛 성분은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+리코펜<LINE>
+　
+<SEL 01>
+펜리코<LINE>
+　
+<SEL 02>
+캡사이신<LINE>
+　
+<SEL 03>
+고추신
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0096]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+영어 『그린 페퍼』는<LINE>
+어떤 의미인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+파슬리<LINE>
+　
+<SEL 01>
+파래<LINE>
+　
+<SEL 02>
+오이<LINE>
+　
+<SEL 03>
+피망
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0097]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+카드 게임 『우노』에서<LINE>
+『우노』는 어느 나라 말인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+프랑스<LINE>
+　
+<SEL 01>
+독일<LINE>
+　
+<SEL 02>
+스페인<LINE>
+　
+<SEL 03>
+그리스
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0098]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『맥시멈』과 반대 의미가 있는<LINE>
+단어는 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+리틀<LINE>
+　
+<SEL 01>
+미니멈<LINE>
+　
+<SEL 02>
+쇼트<LINE>
+　
+<SEL 03>
+무한
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 0099]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『트럼프』는 포르투갈어로<LINE>
+무슨 의미인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+최강의 패<LINE>
+　
+<SEL 01>
+카드<LINE>
+　
+<SEL 02>
+승리<LINE>
+　
+<SEL 03>
+물리기
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 009A]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+디저트 『티라미수』의<LINE>
+의미는 다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+나를 먹어줘<LINE>
+　
+<SEL 01>
+나를 사랑해 줘<LINE>
+　
+<SEL 02>
+내 꿈 꿔<LINE>
+　
+<SEL 03>
+내가 기운 나게 해줘
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 009B]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+악어는 때때로 작은 돌을 그대로<LINE>
+삼키는 습성이 있다.<LINE>
+그 주된 이유는 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+추로 쓰려고<LINE>
+　
+<SEL 01>
+소화에 도움이 되어서<LINE>
+　
+<SEL 02>
+위장 청소를 위해<LINE>
+　
+<SEL 03>
+칼슘 보충을 위해
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 009C]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+물맴이의 눈은 몇 개인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　２<LINE>
+　
+<SEL 01>
+　４<LINE>
+　
+<SEL 02>
+　８<LINE>
+　
+<SEL 03>
+１６<LINE>
+
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 009D]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+칠성장어의 눈은 몇 개인가？<LINE>
+<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+　２<LINE>
+　
+<SEL 01>
+　４<LINE>
+　
+<SEL 02>
+　８<LINE>
+　
+<SEL 03>
+１６
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 009E]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 달걀의 신선도를 유지하는<LINE>
+보관법으로서 올바른 것은<LINE>
+무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+뾰족한 쪽을 위로 놓는다<LINE>
+　
+<SEL 01>
+둥근 쪽을 위로 놓는다<LINE>
+　
+<SEL 02>
+가로로 놓는다<LINE>
+　
+<SEL 03>
+물에 담근다
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 009F]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『악마의 목구멍』이라는 별명을<LINE>
+가진 세계 최대의 폭포는<LINE>
+어디인가？<LINE>
+<LINE>
+　
+<SEL 00>
+이구아나<LINE>
+　
+<SEL 01>
+나이아가라<LINE>
+　
+<SEL 02>
+빅토리아<LINE>
+　
+<SEL 03>
+서덜랜드
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00A0]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『브레스 오브 파이어 ３』의<LINE>
+주인공 『류』의 취미는 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+수영<LINE>
+　
+<SEL 01>
+낚시<LINE>
+　
+<SEL 02>
+많이 먹기<LINE>
+　
+<SEL 03>
+그림
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00A1]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『브레스 오브 파이어』의 모든<LINE>
+시리즈에 등장하는<LINE>
+여주인공은 다음 중 누구인가？<LINE>
+<LINE>
+　
+<SEL 00>
+디스<LINE>
+　
+<SEL 01>
+모모<LINE>
+　
+<SEL 02>
+니나<LINE>
+　
+<SEL 03>
+바바델
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00A2]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『뱀파이어 크로니클 더 카오스<LINE>
+타워』에만 있는 오리지널 모드는<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+비지터 모드<LINE>
+　
+<SEL 01>
+낚시 모드<LINE>
+　
+<SEL 02>
+아 라 모드<LINE>
+　
+<SEL 03>
+타워 모드
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00A3]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 『뱀파이어 크로니클 더<LINE>
+카오스 타워』에 등장하지 않는<LINE>
+캐릭터는 누구인가？<LINE>
+<LINE>
+　
+<SEL 00>
+레이레이<LINE>
+　
+<SEL 01>
+춘리<LINE>
+　
+<SEL 02>
+모리건<LINE>
+　
+<SEL 03>
+펠리시아
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00A4]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨 에그제 ５』에 등장하는<LINE>
+배럴이 사용하는 내비게이션의<LINE>
+이름은 다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+커널<LINE>
+　
+<SEL 01>
+블루스<LINE>
+　
+<SEL 02>
+거츠맨<LINE>
+　
+<SEL 03>
+스톤맨
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00A5]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨 에그제』의 메일 쨩 방에<LINE>
+놓여있는 인형으로 플러그인이<LINE>
+가능한 것은 어떤 인형인가？<LINE>
+<LINE>
+　
+<SEL 00>
+데이터<LINE>
+　
+<SEL 01>
+꼬붕<LINE>
+　
+<SEL 02>
+러시<LINE>
+　
+<SEL 03>
+메톨
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00A6]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 『록맨Ｘ 커맨드 미션』<LINE>
+에서 사용되지 않은<LINE>
+시스템은 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+Ｘ오더<LINE>
+　
+<SEL 01>
+파이널 스트라이크<LINE>
+　
+<SEL 02>
+더블 히어로 시스템<LINE>
+　
+<SEL 03>
+액션 트리거
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00A7]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 『록맨Ｘ ８』의<LINE>
+내비게이터로 등장하는<LINE>
+여성 캐릭터는 누구인가？<LINE>
+<LINE>
+　
+<SEL 00>
+롤<LINE>
+　
+<SEL 01>
+마틸다<LINE>
+　
+<SEL 02>
+트론<LINE>
+　
+<SEL 03>
+팔레트
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00A8]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨』 첫 작품의 록맨은<LINE>
+원래 어떤 용도로<LINE>
+만들어진 로봇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+전투용<LINE>
+　
+<SEL 01>
+정찰용<LINE>
+　
+<SEL 02>
+건설 작업용<LINE>
+　
+<SEL 03>
+가사도우미용
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00A9]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+『록맨』 첫 작품의 유명 대사인<LINE>
+『??는<SPACE 02>내가<SPACE 02>지킨다!』에서<SPACE 02>『??』<LINE>
+에<SPACE 04>들어갈<SPACE 04>말은<SPACE 04>다음<SPACE 04>중<SPACE 04>무엇인가?<LINE>
+<LINE>
+　
+<SEL 00>
+사람들의 세상<LINE>
+　
+<SEL 01>
+사람들의 돈<LINE>
+　
+<SEL 02>
+사람들의 미래<LINE>
+　
+<SEL 03>
+롤 쨩
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00AA]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+온화한<SPACE 02>기후를<SPACE 02>보이는<SPACE 02>라틴<SPACE 02>아메리카<LINE>
+라플라타강 유역의 초원을<LINE>
+무엇이라고 하는가？<LINE>
+<LINE>
+　
+<SEL 00>
+팜파<LINE>
+　
+<SEL 01>
+셀바<LINE>
+　
+<SEL 02>
+스텝<LINE>
+　
+<SEL 03>
+사반나
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00AB]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+북쪽에서 남프랑스 해안으로<LINE>
+불어오는 바람을<LINE>
+무엇이라고 하는가？<LINE>
+<LINE>
+　
+<SEL 00>
+미스트랄<LINE>
+　
+<SEL 01>
+타이푼<LINE>
+　
+<SEL 02>
+몬순<LINE>
+　
+<SEL 03>
+편서풍
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00AC]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+럭비에서 『경기 종료』를<LINE>
+무엇이라고 하는가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+타임 업<LINE>
+　
+<SEL 01>
+노 사이드<LINE>
+　
+<SEL 02>
+오프사이드<LINE>
+　
+<SEL 03>
+녹온
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00AD]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+소프트볼 문제.<LINE>
+주장의 등번호는<LINE>
+몇 번인가？<LINE>
+<LINE>
+　
+<SEL 00>
+　１<LINE>
+　
+<SEL 01>
+　４<LINE>
+　
+<SEL 02>
+１０<LINE>
+　
+<SEL 03>
+１１
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00AE]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+인스턴트 커피를<LINE>
+발명한 사람은 어느 나라<LINE>
+사람인가？<LINE>
+<LINE>
+　
+<SEL 00>
+미국인<LINE>
+　
+<SEL 01>
+이탈리아인<LINE>
+　
+<SEL 02>
+일본인<LINE>
+　
+<SEL 03>
+영국인
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00AF]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+미국의<LINE>
+초대 대통령은 누구인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+케네디<LINE>
+　
+<SEL 01>
+링컨<LINE>
+　
+<SEL 02>
+워싱턴<LINE>
+　
+<SEL 03>
+잭슨
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00B0]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+에디슨이 축음기에 처음으로<LINE>
+녹음한 곡은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+사랑은 비를 타고<LINE>
+　
+<SEL 01>
+역마차<LINE>
+　
+<SEL 02>
+징글벨<LINE>
+　
+<SEL 03>
+비행기
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00B1]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 레오나르도 다빈치의<LINE>
+작품은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+천지창조<LINE>
+　
+<SEL 01>
+최후의 만찬<LINE>
+　
+<SEL 02>
+최후의 심판<LINE>
+　
+<SEL 03>
+다비드상
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00B2]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 『베네룩스 ３국』에<LINE>
+포함되지 않은 국가는 어디인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+덴마크<LINE>
+　
+<SEL 01>
+네덜란드<LINE>
+　
+<SEL 02>
+룩셈부르크<LINE>
+　
+<SEL 03>
+벨기에
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00B3]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 르네상스 시대의 ３대<LINE>
+발명과 관계없는 것은 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+나침반<LINE>
+　
+<SEL 01>
+증기기관<LINE>
+　
+<SEL 02>
+활판 인쇄술<LINE>
+　
+<SEL 03>
+화약
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00B4]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 경도가 ０도인 『도시』는<LINE>
+어디인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+런던<LINE>
+　
+<SEL 01>
+뉴욕<LINE>
+　
+<SEL 02>
+파리<LINE>
+　
+<SEL 03>
+토쿄
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00B5]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 히틀러가 태어난 나라는<LINE>
+어디인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+이탈리아<LINE>
+　
+<SEL 01>
+독일<LINE>
+　
+<SEL 02>
+멕시코<LINE>
+　
+<SEL 03>
+오스트리아
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00B6]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+피라미드의 높이를 처음으로 <LINE>
+측정했다고 전해지는 세계에서<LINE>
+가장 오래된 수학자는 누구인가？<LINE>
+<LINE>
+　
+<SEL 00>
+탈레스<LINE>
+　
+<SEL 01>
+아리스토텔레스<LINE>
+　
+<SEL 02>
+피타고라스<LINE>
+　
+<SEL 03>
+에라토스테네스
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00B7]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 최초로 세계 일주를 달성한<LINE>
+함대를 이끌었던 사람은<LINE>
+누구인가？<LINE>
+<LINE>
+　
+<SEL 00>
+콜럼버스<LINE>
+　
+<SEL 01>
+바스쿠 다 가마<LINE>
+　
+<SEL 02>
+디아스<LINE>
+　
+<SEL 03>
+마젤란
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00B8]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+１９５１년 이란이 석유를<LINE>
+국유화하면서 관계가 악화한<LINE>
+상대국은 어디인가？<LINE>
+<LINE>
+　
+<SEL 00>
+미국<LINE>
+　
+<SEL 01>
+영국<LINE>
+　
+<SEL 02>
+소련<LINE>
+　
+<SEL 03>
+이라크
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00B9]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 노벨상의<LINE>
+수여식이 열리는 곳은<LINE>
+어디인가？<LINE>
+<LINE>
+　
+<SEL 00>
+헬싱키<LINE>
+　
+<SEL 01>
+오슬로<LINE>
+　
+<SEL 02>
+스톡홀름<LINE>
+　
+<SEL 03>
+코펜하겐
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00BA]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 가장 오래 존재했던<LINE>
+제국은 어디인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+동로마<LINE>
+　
+<SEL 01>
+오스만 튀르크<LINE>
+　
+<SEL 02>
+서로마<LINE>
+　
+<SEL 03>
+몽골
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00BB]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 낭만주의 음악에<LINE>
+포함되는 작곡가는 누구인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+바그너<LINE>
+　
+<SEL 01>
+모차르트<LINE>
+　
+<SEL 02>
+하이든<LINE>
+　
+<SEL 03>
+베토벤
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00BC]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+그리스 문화와 오리엔트 문화가<LINE>
+융합된 문화를<LINE>
+무엇이라고 부르는가？<LINE>
+<LINE>
+　
+<SEL 00>
+메소포타미아 문화<LINE>
+　
+<SEL 01>
+인더스 문화<LINE>
+　
+<SEL 02>
+헬레니즘 문화<LINE>
+　
+<SEL 03>
+간다라 문화
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00BD]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+소련에서 『페레스트로이카』를<LINE>
+슬로건으로 자유주의 개혁을<LINE>
+제안한 사람은 누구인가？<LINE>
+<LINE>
+　
+<SEL 00>
+옐친<LINE>
+　
+<SEL 01>
+장기에프<LINE>
+　
+<SEL 02>
+체르넨코<LINE>
+　
+<SEL 03>
+고르바초프
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00BE]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 『걸리버 여행기』의<LINE>
+작가는 누구인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+입센<LINE>
+　
+<SEL 01>
+스위프트<LINE>
+　
+<SEL 02>
+헤밍웨이<LINE>
+　
+<SEL 03>
+포크너
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00BF]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+세계에서 가장 작은 대륙은<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+북아메리카 대륙<LINE>
+　
+<SEL 01>
+오스트레일리아 대륙<LINE>
+　
+<SEL 02>
+유라시아 대륙<LINE>
+　
+<SEL 03>
+남극 대륙
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00C0]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+콘스탄티노플의 현재 이름은<LINE>
+다음 중 무엇인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+예루살렘<LINE>
+　
+<SEL 01>
+앙카라<LINE>
+　
+<SEL 02>
+이스탄불<LINE>
+　
+<SEL 03>
+알렉산드리아
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00C1]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 『음악의 어머니』<LINE>
+라고 불리는 인물은 누구인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+헨델<LINE>
+　
+<SEL 01>
+그레텔<LINE>
+　
+<SEL 02>
+퀴리 부인<LINE>
+　
+<SEL 03>
+나이팅게일
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00C2]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 『음악의 아버지』라고<LINE>
+불리는 바로크 시대 최고의<LINE>
+작곡가는 누구인가？<LINE>
+<LINE>
+　
+<SEL 00>
+모차르트<LINE>
+　
+<SEL 01>
+베토벤<LINE>
+　
+<SEL 02>
+비발디<LINE>
+　
+<SEL 03>
+바흐
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00C3]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+페루에 있는<LINE>
+마추픽추 유적은<LINE>
+다음 중 어느 문명의 것인가？<LINE>
+<LINE>
+　
+<SEL 00>
+안데스 문명<LINE>
+　
+<SEL 01>
+메소포타미아 문명<LINE>
+　
+<SEL 02>
+마야 문명<LINE>
+　
+<SEL 03>
+인더스 문명
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00C4]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중 『죄와 벌』을 쓴<LINE>
+러시아 작가는 누구인가？<LINE>
+<LINE>
+<LINE>
+　
+<SEL 00>
+톨스토이<LINE>
+　
+<SEL 01>
+도스토옙스키<LINE>
+　
+<SEL 02>
+투르게네프<LINE>
+　
+<SEL 03>
+체호프
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00C5]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+다음 중<LINE>
+『사회계약론』을 쓴<LINE>
+프랑스의 사상가는 누구인가？<LINE>
+<LINE>
+　
+<SEL 00>
+몽테스키외<LINE>
+　
+<SEL 01>
+애덤 스미스<LINE>
+　
+<SEL 02>
+토머스 모어<LINE>
+　
+<SEL 03>
+루소
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00C6]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+１３세기 경 유럽에서<LINE>
+수요가 가장 높았던<LINE>
+아시아 물건은 다음 중 무엇인가？<LINE>
+<LINE>
+　
+<SEL 00>
+도자기<LINE>
+　
+<SEL 01>
+술<LINE>
+　
+<SEL 02>
+향신료<LINE>
+　
+<SEL 03>
+면직물
+<FB10 040104010501060107>
+<FB2B>
+<END>
+
+[BLOCK: 00C7]
+<FUNC 0000>
+<VWAIT 00>
+<FB1D>
+<POS 0064001C110C>
+１９１３년 자동차의 대량 생산에<LINE>
+성공한 미국의 사업가는<LINE>
+다음 중 누구인가？<LINE>
+<LINE>
+　
+<SEL 00>
+포드<LINE>
+　
+<SEL 01>
+혼다<LINE>
+　
+<SEL 02>
+크라이슬러<LINE>
+　
+<SEL 03>
+켄터키
+<FB10 040104010501060107>
+<FB2B>
+<END>
+

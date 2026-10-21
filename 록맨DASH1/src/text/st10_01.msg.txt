@@ -1,0 +1,985 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-0064]
+<MSG_IF 17020CFF>
+<MSG_IF 160207FF>
+<WIN 280030001203>
+<DECOR 0008>
+벤슬리<LINE>
+「이 아지트를 찾아내다니<LINE>
+　꽤 하지않슴까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 0064-00C2]
+<MSG_IF 17020DFF>
+<MSG_IF 160208FF>
+<WIN 280030001203>
+<DECOR 0008>
+오쉬<LINE>
+「여길 어떻게 알아낸거지？<LINE>
+　비밀장소인데 말이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00C2-023C]
+<MSG_IF 17020BFF>
+<MSG_IF 160209FF>
+<MSG_IF 150205FF>
+<GET 1502><WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「앗，너，잘도 여길 찾았구나<NEXT>
+
+<CLEAR 0400>
+「뭐，여기？<LINE>
+　우리들의 비밀 아지트야<LINE>
+　아직 개조 중이지만<NEXT>
+
+<CLEAR 0400>
+「그렇지，너 우리들의 동료가<LINE>
+　되지않겠어？<NEXT>
+
+<CLEAR 0400>
+「이 아지트를 완성하는데<LINE>
+　도움을 줬으면 좋겠어<NEXT>
+
+<CLEAR 0400>
+「강요하는 건 아니니까<LINE>
+　대답해주면 좋겠어<NEXT>
+
+<CLEAR 0400>
+<SEL 0001FD00>그래，하자！<LINE>
+<SEL 1101FD00>거절할게<LINE>
+<0385 00060400>
+<END><CLOSE 0500>
+
+
+[Block 04, String: 023C-02A2]
+<WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「그런가・・・<NEXT>
+
+<CLEAR 0400>
+「뭐 어쩔 수 없지<LINE>
+　마음이 바뀌면，다시 와<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 02A2-0314]
+<WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「오，역시 동료가 되려고？<LINE>
+<0378 0000>　　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 80060400>
+<END><CLOSE 0500>
+
+
+[Block 06, String: 0314-0446]
+<GET 1602><GET 2602><WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「오，알아주는건가<LINE>
+　나의 부하여！<NEXT>
+
+<CLEAR 0400>
+「그럼 너를<LINE>
+　조달대장으로 임명하지<NEXT>
+
+<CLEAR 0400>
+　우리에게 필요한<LINE>
+　여러 물건을 조달하는거다！<NEXT>
+
+<CLEAR 0400>
+　…우선은，그렇군<LINE>
+　아지트를 개조하기 위한<LINE>
+　곡괭이를 조달해오라구<NEXT>
+
+<CLEAR 0400>
+　부탁한다，부하여！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 0446-047A]
+<WIN 340030001203>
+<DECOR 0008>
+벤슬리<LINE>
+「잘 부탁함다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 047A-04D4]
+<WIN 340030001203>
+<DECOR 0008>
+오쉬<LINE>
+「참고로 나는 행동대장이야<NEXT>
+
+<CLEAR 0400>
+「결코 쫄따구가 아니라고<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 04D4-0552]
+<MSG_IF 47050AFF>
+<WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「조달대장이여…<LINE>
+　곡괭이를 부탁하지！<NEXT>
+
+<CLEAR 0400>
+　공사 아저씨한테라도<LINE>
+　빌려와라！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 0552-0610]
+<GIVE 4705><GIVE 2602><GET 1702><EXE_JUMP 1800><EXE_JUMP 1900><WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「오，곡괭이를 가져온건가<LINE>
+　훌륭하구나，부하여！<NEXT>
+
+<CLEAR 0400>
+「좋아，나머지는 우리에게 맡겨라！<NEXT>
+
+<CLEAR 0400>
+　조금 있다가 상황을<LINE>
+　보러오라고！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0610-067C]
+<WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「이봐，아무리 그래도<LINE>
+　아직 완성되지 않았다고<NEXT>
+
+<CLEAR 0400>
+　조금 더 있다가 와<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 067C-06B8]
+<WIN 340030001203>
+<DECOR 0008>
+벤슬리<LINE>
+「죽을 각오로 일할검다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 06B8-06F6]
+<WIN 340030001203>
+<DECOR 0008>
+오쉬<LINE>
+「화려한 아지트를 만들어주지！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 06F6-07CC]
+<MSG_IF 1A0213FF>
+<MSG_IF 19020FFF>
+<GET 1902><GET 2702><WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「이봐，어때，조금은 모양새가<LINE>
+　그럴싸해졌지！<NEXT>
+
+<CLEAR 0400>
+　오，맞다，또 부탁이 있는데，<LINE>
+　이번에는 톱을 조달해줄 수<LINE>
+　있을까？<NEXT>
+
+<CLEAR 0400>
+　부탁하지，부하여！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 07CC-081A]
+<MSG_IF 480512FF>
+<WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「톱이 필요하다<LINE>
+　부탁하지，부하여！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 081A-0860]
+<MSG_IF 1A0214FF>
+<WIN 340030001203>
+<DECOR 0008>
+벤슬리<LINE>
+「더 크게 만들검다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 0860-08B6]
+<MSG_IF 1A0215FF>
+<WIN 340030001203>
+<DECOR 0008>
+오쉬<LINE>
+「두고보라고…<LINE>
+　더 근사하게 만들어주지！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 08B6-097A]
+<GIVE 4805><GIVE 2702><GET 1A02><EXE_JUMP 1800><EXE_JUMP 1900><WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「오오，톱을 가져온건가<LINE>
+　훌륭하구나，부하여！<NEXT>
+
+<CLEAR 0400>
+「좋아，이제 우리에게 맡겨！<NEXT>
+
+<CLEAR 0400>
+　곧 완성되니까<LINE>
+　조금 있다 다시 와보라고<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 097A-09EA]
+<WIN 340030001203>
+<DECOR 0008>
+「이봐，서두르지 말라고<LINE>
+　나의 부하여！<NEXT>
+
+<CLEAR 0400>
+　완성까지 이제 조금 남았다<LINE>
+　조금 후에 다시 오라고！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 09EA-0A22]
+<WIN 340030001203>
+<DECOR 0008>
+벤슬리<LINE>
+「곧 완성임다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 0A22-0A78]
+<WIN 340030001203>
+<DECOR 0008>
+오쉬<LINE>
+「창고도 만들어서…<LINE>
+　우리 보물을 보관해야겠군！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 0A78-0BB8]
+<MSG_IF 1C0217FF>
+<GET 1C02><GET 3702><WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「오오，왔군！<LINE>
+　어때，꽤 괜찮은 물건이지？<NEXT>
+
+<CLEAR 0400>
+　네 협력이 있어서 가능했어<LINE>
+　감사하다고，부하여！<NEXT>
+
+<CLEAR 0400>
+　저쪽 창고에는<LINE>
+　우리가 모아둔 전리품이<LINE>
+　보관되어있지…<NEXT>
+
+<CLEAR 0400>
+　원하는게 있으면 하나쯤은<LINE>
+　가져가도 좋다고…<NEXT>
+
+<CLEAR 0400>
+　다음에 또 놀러오라고！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 0BB8-0C18]
+<MSG_IF 530526FF>
+<MSG_IF 54051CFF>
+<MSG_IF 550521FF>
+<WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「여기는 우리들의 성이다！<LINE>
+　언제든지 놀러오라고！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 0C18-0C64]
+<MSG_IF 530524FF>
+<MSG_IF 54051AFF>
+<MSG_IF 55051FFF>
+<WIN 340030001203>
+<DECOR 0008>
+벤슬리<LINE>
+「드디어 해냈슴다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 0C64-0CA8]
+<MSG_IF 530525FF>
+<MSG_IF 54051BFF>
+<MSG_IF 550520FF>
+<WIN 340030001203>
+<DECOR 0008>
+오쉬<LINE>
+「예술이지！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1A, String: 0CA8-0CEE]
+<WIN 340030001203>
+<DECOR 0008>
+벤슬리<LINE>
+「장수풍뎅이！<LINE>
+　대단함다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1B, String: 0CEE-0D40]
+<WIN 340030001203>
+<DECOR 0008>
+오쉬<LINE>
+「아，좋겠다，장수풍뎅이！<LINE>
+　젠장，부러워！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1C, String: 0D40-0DFC]
+<WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「오오，대박，장수풍뎅이！<LINE>
+　좋겠다！<NEXT>
+
+<CLEAR 0400>
+　…저기，우리가 주워둔<LINE>
+　<COLOR 0300><ITEM 4C00><COLOR 0000>이랑 교환할래？<LINE>
+<0378 0000>　　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 801E1D00>
+<END><CLOSE 0500>
+
+
+[Block 1D, String: 0DFC-0E3A]
+<WIN 340030001203>
+<DECOR 0008>
+「쳇，쩨쩨하구나<LINE>
+　내 부하여・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1E, String: 0E3A-0EDC]
+<GIVE 5405><GET 1D02><WIN 340030001203>
+<DECOR 0008>
+「오옷，역시 나의 부하구나！<LINE>
+　<COLOR 0300><ITEM 4C00><COLOR 0000>은 저쪽<LINE>
+　창고에서 가져가면 돼<NEXT>
+
+<CLEAR 0400>
+　또，좋은게 있으면<LINE>
+　부탁하지，부하여！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 0EDC-0F26]
+<WIN 340030001203>
+<DECOR 0008>
+벤슬리<LINE>
+「아，대박임다～<LINE>
+　근사함다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0F26-0F82]
+<WIN 340030001203>
+<DECOR 0008>
+오쉬<LINE>
+「어！ 너，너！ 그 책！<LINE>
+　오，나한테도 보여줘！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 0F82-1048]
+<WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「오오오오・・・ 그，그 책은！<NEXT>
+
+<CLEAR 0400>
+　부부부부・・・부디！<LINE>
+　우리들이 주운 <COLOR 0300><ITEM 6900><COLOR 0000>하고<LINE>
+　제발 교환 해줘！！！<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 80232200>
+<END><CLOSE 0500>
+
+
+[Block 22, String: 1048-106C]
+<WIN 340030001203>
+<DECOR 0008>
+「커윽・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 106C-113C]
+<GIVE 5505><GET 1E02><WIN 340030001203>
+<DECOR 0008>
+「오오，역시 나의 부하구나！<LINE>
+　<COLOR 0300><ITEM 6900><COLOR 0000>는 저쪽<LINE>
+　창고에서 가져가면 돼！<NEXT>
+
+<CLEAR 0400>
+　・<PAUSE 0800>・<PAUSE 0800>・굉장한 일이다<LINE>
+　조달대장이여，나의 부하여！<LINE>
+　또，부탁하지！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 113C-1184]
+<WIN 340030001203>
+<DECOR 0008>
+벤슬리<LINE>
+「사슴벌레！<LINE>
+　너무 부럽슴다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 25, String: 1184-11D4]
+<WIN 340030001203>
+<DECOR 0008>
+오쉬<LINE>
+「아，사슴벌레，좋겠다！<LINE>
+　젠장，부러워！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 26, String: 11D4-1290]
+<WIN 340030001203>
+<DECOR 0008>
+짐<LINE>
+「오，멋지다，사슴벌레！<LINE>
+　좋겠다！<NEXT>
+
+<CLEAR 0400>
+　저기，우리들이 주운<LINE>
+　<COLOR 0300><ITEM 7100><COLOR 0000>하고 교환할래？<LINE>
+<0378 0000>　　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 80282700>
+<END><CLOSE 0500>
+
+
+[Block 27, String: 1290-12B4]
+<WIN 340030001203>
+<DECOR 0008>
+「쳇・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 28, String: 12B4-1344]
+<GIVE 5305><GET 1F02><WIN 340030001203>
+<DECOR 0008>
+「오오，역시 나의 부하구나！<LINE>
+　<COLOR 0300><ITEM 7100><COLOR 0000>은 저쪽<LINE>
+　창고에서 가져가면 돼<NEXT>
+
+<CLEAR 0400>
+　또 부탁하지，부하여！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 29, String: 1344-13AA]
+<MSG_IF 1D022AFF>
+<MSG_IF 1E022BFF>
+<MSG_IF 1F022CFF>
+<MSG_IF 37022DFF>
+<WIN 340030001203>
+<DECOR 0008>
+잡동사니가 산처럼 쌓여있다<NEXT>
+
+<CLEAR 0400>
+만，눈에 띄는 건 없다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2A, String: 13AA-1418]
+<GIVE 1D02><WIN 340030001203>
+<DECOR 0008>
+<EXE_JUMP 1720>잡동사니가 산처럼 쌓여있다<NEXT>
+
+<CLEAR 0400>
+부스럭부스럭・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8600>
+<LINE>
+<COLOR 0300><ITEM 4C00><COLOR 0000><GET 4C05>을 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2B, String: 1418-1482]
+<GIVE 1E02><WIN 340030001203>
+<DECOR 0008>
+잡동사니가 산처럼 쌓여있다<NEXT>
+
+<CLEAR 0400>
+부스럭・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8600>
+<LINE>
+<COLOR 0300><ITEM 6900><COLOR 0000><GET 6905>를 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2C, String: 1482-14EC]
+<GIVE 1F02><WIN 340030001203>
+<DECOR 0008>
+잡동사니가 산처럼 쌓여있다<NEXT>
+
+<CLEAR 0400>
+부스럭・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8600>
+<LINE>
+<COLOR 0300><ITEM 7100><COLOR 0000><GET 7105>을 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2D, String: 14EC-1556]
+<GIVE 3702><WIN 340030001203>
+<DECOR 0008>
+잡동사니가 산처럼 쌓여있다<NEXT>
+
+<CLEAR 0400>
+부스럭・・・<NEXT>
+
+<CLEAR 0400>
+<037C 8600>
+<LINE>
+<COLOR 0300><ITEM 5D00><COLOR 0000><GET 5D05>을 발견했다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2E, String: 1556-1592]
+<WIN 4000A2001003>
+<DECOR 0008>
+어느새 책상까지<LINE>
+가져온 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2F, String: 1592-15D6]
+<WIN 4000A2001003>
+<DECOR 0008>
+나무 상자다<LINE>
+여러가지를 주워서<LINE>
+온 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 30, String: 15D6-15D8]
+
+
+[Block 31, String: 15D8-15DA]
+
+
+[Block 32, String: 15DA-15DC]
+
+
+[Block 33, String: 15DC-15DE]
+
+
+[Block 34, String: 15DE-15E0]
+
+
+[Block 35, String: 15E0-15E2]
+
+
+[Block 36, String: 15E2-15E4]
+
+
+[Block 37, String: 15E4-15E6]
+
+
+[Block 38, String: 15E6-15E8]
+
+
+[Block 39, String: 15E8-15EA]
+
+
+[Block 3A, String: 15EA-15EC]
+
+
+[Block 3B, String: 15EC-15EE]
+
+
+[Block 3C, String: 15EE-15F0]
+
+
+[Block 3D, String: 15F0-15F2]
+
+
+[Block 3E, String: 15F2-15F4]
+
+
+[Block 3F, String: 15F4-15F6]
+
+
+[Block 40, String: 15F6-15F8]
+
+
+[Block 41, String: 15F8-15FA]
+
+
+[Block 42, String: 15FA-15FC]
+
+
+[Block 43, String: 15FC-15FE]
+
+
+[Block 44, String: 15FE-1600]
+
+
+[Block 45, String: 1600-1602]
+
+
+[Block 46, String: 1602-1604]
+
+
+[Block 47, String: 1604-1606]
+
+
+[Block 48, String: 1606-1608]
+
+
+[Block 49, String: 1608-160A]
+
+
+[Block 4A, String: 160A-160C]
+
+
+[Block 4B, String: 160C-160E]
+
+
+[Block 4C, String: 160E-1610]
+
+
+[Block 4D, String: 1610-1612]
+
+
+[Block 4E, String: 1612-1614]
+
+
+[Block 4F, String: 1614-1616]
+
+
+[Block 50, String: 1616-1618]
+
+
+[Block 51, String: 1618-161A]
+
+
+[Block 52, String: 161A-161C]
+
+
+[Block 53, String: 161C-161E]
+
+
+[Block 54, String: 161E-1620]
+
+
+[Block 55, String: 1620-1622]
+
+
+[Block 56, String: 1622-1624]
+
+
+[Block 57, String: 1624-1626]
+
+
+[Block 58, String: 1626-1628]
+
+
+[Block 59, String: 1628-162A]
+
+
+[Block 5A, String: 162A-162C]
+
+
+[Block 5B, String: 162C-162E]
+
+
+[Block 5C, String: 162E-1630]
+
+
+[Block 5D, String: 1630-1632]
+
+
+[Block 5E, String: 1632-1634]
+
+
+[Block 5F, String: 1634-1636]
+
+
+[Block 60, String: 1636-1638]
+
+
+[Block 61, String: 1638-163A]
+
+
+[Block 62, String: 163A-163C]
+
+
+[Block 63, String: 163C-163E]
+
+
+[Block 64, String: 163E-1640]
+
+
+[Block 65, String: 1640-1642]
+
+
+[Block 66, String: 1642-1644]
+
+
+[Block 67, String: 1644-1646]
+
+
+[Block 68, String: 1646-1648]
+
+
+[Block 69, String: 1648-164A]
+
+
+[Block 6A, String: 164A-164C]
+
+
+[Block 6B, String: 164C-164E]
+
+
+[Block 6C, String: 164E-1650]
+
+
+[Block 6D, String: 1650-1652]
+
+
+[Block 6E, String: 1652-1654]
+
+
+[Block 6F, String: 1654-1656]
+
+
+[Block 70, String: 1656-1658]
+
+
+[Block 71, String: 1658-165A]
+
+
+[Block 72, String: 165A-165C]
+
+
+[Block 73, String: 165C-165E]
+
+
+[Block 74, String: 165E-1660]
+
+
+[Block 75, String: 1660-1662]
+
+
+[Block 76, String: 1662-1664]
+
+
+[Block 77, String: 1664-1666]
+
+
+[Block 78, String: 1666-1668]
+
+
+[Block 79, String: 1668-166A]
+
+
+[Block 7A, String: 166A-166C]
+
+
+[Block 7B, String: 166C-166E]
+
+
+[Block 7C, String: 166E-1670]
+
+
+[Block 7D, String: 1670-1672]
+
+
+[Block 7E, String: 1672-1674]
+
+
+[Block 7F, String: 1674-1676]
+
+
+[Block 80, String: 1676-1678]
+
+
+[Block 81, String: 1678-167A]
+
+
+[Block 82, String: 167A-167C]
+
+
+[Block 83, String: 167C-167E]
+
+
+[Block 84, String: 167E-1680]
+
+
+[Block 85, String: 1680-16A6]
+<WIN 400024001001>
+<DECOR 0008>
+「가로등이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 86, String: 16A6-16D0]
+<WIN 400024001001>
+<DECOR 0008>
+「소화전이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 87, String: 16D0-16F0]
+<WIN 400024001001>
+<DECOR 0008>
+「벤치다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 88, String: 16F0-16F2]
+
+
+[Block 89, String: 16F2-16F4]
+
+
+[Block 8A, String: 16F4-16F6]
+
+
+[Block 8B, String: 16F6-16F8]
+
+
+[Block 8C, String: 16F8-16FA]
+
+
+[Block 8D, String: 16FA-16FC]
+
+
+[Block 8E, String: 16FC-16FE]
+
+
+[Block 8F, String: 16FE-1700]
+
+
+[Block 90, String: 1700-1702]
+
+
+[Block 91, String: 1702-1704]
+
+
+[Block 92, String: 1704-1706]
+
+
+[Block 93, String: 1706-1708]
+
+
+[Block 94, String: 1708-170A]
+
+
+[Block 95, String: 170A-170C]
+
+
+[Block 96, String: 170C-170E]
+
+
+[Block 97, String: 170E-1710]
+
+
+[Block 98, String: 1710-1742]
+<MSG_IF 2B0011FF>
+<MSG_IF 2A0010FF>
+<MSG_IF 1D000FFF>
+<MSG_IF 1E000EFF>
+<MSG_IF 19000DFF>
+<CALL 008C><END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 99, String: 1742-1794]
+<MSG_IF E00213FF>
+<MSG_IF E10214FF>
+<MSG_IF E20215FF>
+<MSG_IF E30216FF>
+<MSG_IF E40217FF>
+<MSG_IF E50218FF>
+<MSG_IF E60219FF>
+<MSG_IF E7021AFF>
+<MSG_IF E8021BFF>
+<MSG_IF E9021CFF>
+<MSG_IF EA021DFF>
+<MSG_IF EB021EFF>
+<NEXT>
+
+<END><CLOSE 0400>
+
+

@@ -1,0 +1,694 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-005A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신 생각은 어때？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니요<0385 80020300>
+<END><CLOSE 0000>
+
+
+[Block 02, String: 005A-00D2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그렇겠지<NEXT>
+
+<CLEAR 0400>
+　유적 주변에<LINE>
+　저렇게 큰 구멍이 생기면<NEXT>
+
+<CLEAR 0400>
+　대체 누가 그 안에<LINE>
+　들어갈 수 있겠어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00D2-016E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「응！？<NEXT>
+
+<CLEAR 0400>
+　당신은<LINE>
+　저쪽 유적에 갈 수 있다는건가<LINE>
+　바보 같은 소리 하지 마<NEXT>
+
+<CLEAR 0400>
+　・・뭐<LINE>
+　비공선을 가지고 있다면<LINE>
+　얘기가 다르지만<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 016E-021A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「요전에，<LINE>
+　공적이 여기서 날뛴 이후로<LINE>
+　경계가 엄격해졌습니다<NEXT>
+
+<CLEAR 0400>
+　조금이라도 빠르게 이변을<LINE>
+　발견하기 위해 제가<LINE>
+　순찰을 돌고 있는 것입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 021A-02C4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저는 고고학자입니다<NEXT>
+
+<CLEAR 0400>
+　이 돌벽은<LINE>
+　상당히 오래된 것 같아요<NEXT>
+
+<CLEAR 0400>
+　조사 결과에 따라서는<LINE>
+　획기적인 학술 논문을<LINE>
+　발표할 수 있을지도 모릅니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 02C4-0328]
+<NO_CHAR_SFX><AUDIO 0B000A00>
+<WIN 4000A2001003>
+<DECOR 0008>
+꼬붕１<LINE>
+「앗，또 누가 왔다<LINE>
+　이번엔 경찰이 아니야<WAIT 5F00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 07, String: 0328-0392]
+<NO_CHAR_SFX><AUDIO 0C000A00>
+<WIN 4000A2001003>
+<DECOR 0008>
+꼬붕２<LINE>
+「또 파란 녀석이다～！ 아까 그<LINE>
+　경찰처럼 혼쭐내주자<WAIT 5000>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 08, String: 0392-03DA]
+<NO_CHAR_SFX><AUDIO 0D000A00>
+<WIN 4000A2001003>
+<DECOR 0008>
+꼬붕３<LINE>
+「이번엔 지지 않겠다！！<WAIT 2300>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 09, String: 03DA-0470]
+<WIN 4000A2001003>
+<DECOR 0008>
+「응？ 큰 소리？<LINE>
+　들리긴 했지만<LINE>
+　그 정도로 크진 않았는데…<NEXT>
+
+<CLEAR 0400>
+　무슨 일이 있었다면，<LINE>
+　더 남쪽이 아닐까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 0470-0540]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그렇게 큰 소리는<LINE>
+　아니었지만…<NEXT>
+
+<CLEAR 0400>
+　높은 지대라서 꽤<LINE>
+　흔들흔들거렸어요！<LINE>
+　흔들흔들요！<NEXT>
+
+<CLEAR 0400>
+　이 영향으로<LINE>
+　리버드 같은게 발생한다면<LINE>
+　곤란하겠네요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0540-05CA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 앞쪽에서 사건은 딱히<LINE>
+　일어나지 않은 것 같아요<NEXT>
+
+<CLEAR 0400>
+　공적이 파던 큰 구멍을<LINE>
+　보러 온 사람이 있는 정도고<LINE>
+　다른 건 없어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 05CA-05EC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「야오옹～？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 05EC-0662]
+<WIN 4000A2001003>
+<DECOR 0008>
+「헤에，<LINE>
+　지하로 가는 새로운 입구！？<NEXT>
+
+<CLEAR 0400>
+　…아니，이 근처에는<LINE>
+　나타나지 않은 것 같아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 0662-06CC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적 소동이 가라앉았다고<LINE>
+　생각했는데，이번엔 리버드가<LINE>
+　활성화 되어버리다니…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 06CC-072A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「오！<LINE>
+　또 온건가？<NEXT>
+
+<CLEAR 0400>
+　여기는 여전히<LINE>
+　변함없어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 072A-074A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「냥～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 074A-07A4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「큰 지진？<LINE>
+　음～ 여느 때랑 똑같아<LINE>
+　여기는 아니야～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 07A4-0802]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어라，무선 상태가<LINE>
+　이상해…<NEXT>
+
+<CLEAR 0400>
+　싫어～<LINE>
+　불안한걸～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 0802-0852]
+<WIN 4000A2001003>
+<DECOR 0008>
+「하아…<LINE>
+　이런 곳에 있어도，<LINE>
+　괜찮은거 맞을까…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 0852-0876]
+<WIN 4000A2001003>
+<DECOR 0008>
+「킁킁！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 0876-0878]
+
+
+[Block 16, String: 0878-087A]
+
+
+[Block 17, String: 087A-087C]
+
+
+[Block 18, String: 087C-087E]
+
+
+[Block 19, String: 087E-0880]
+
+
+[Block 1A, String: 0880-0882]
+
+
+[Block 1B, String: 0882-0884]
+
+
+[Block 1C, String: 0884-0886]
+
+
+[Block 1D, String: 0886-0888]
+
+
+[Block 1E, String: 0888-088A]
+
+
+[Block 1F, String: 088A-088C]
+
+
+[Block 20, String: 088C-088E]
+
+
+[Block 21, String: 088E-0890]
+
+
+[Block 22, String: 0890-0892]
+
+
+[Block 23, String: 0892-0894]
+
+
+[Block 24, String: 0894-0896]
+
+
+[Block 25, String: 0896-0898]
+
+
+[Block 26, String: 0898-089A]
+
+
+[Block 27, String: 089A-089C]
+
+
+[Block 28, String: 089C-089E]
+
+
+[Block 29, String: 089E-08A0]
+
+
+[Block 2A, String: 08A0-08A2]
+
+
+[Block 2B, String: 08A2-08A4]
+
+
+[Block 2C, String: 08A4-08A6]
+
+
+[Block 2D, String: 08A6-08A8]
+
+
+[Block 2E, String: 08A8-08AA]
+
+
+[Block 2F, String: 08AA-08AC]
+
+
+[Block 30, String: 08AC-08AE]
+
+
+[Block 31, String: 08AE-08B0]
+
+
+[Block 32, String: 08B0-08B2]
+
+
+[Block 33, String: 08B2-08B4]
+
+
+[Block 34, String: 08B4-08B6]
+
+
+[Block 35, String: 08B6-08B8]
+
+
+[Block 36, String: 08B8-08BA]
+
+
+[Block 37, String: 08BA-08BC]
+
+
+[Block 38, String: 08BC-08BE]
+
+
+[Block 39, String: 08BE-08C0]
+
+
+[Block 3A, String: 08C0-08C2]
+
+
+[Block 3B, String: 08C2-08C4]
+
+
+[Block 3C, String: 08C4-08C6]
+
+
+[Block 3D, String: 08C6-08C8]
+
+
+[Block 3E, String: 08C8-08CA]
+
+
+[Block 3F, String: 08CA-08CC]
+
+
+[Block 40, String: 08CC-08CE]
+
+
+[Block 41, String: 08CE-08D0]
+
+
+[Block 42, String: 08D0-08D2]
+
+
+[Block 43, String: 08D2-08D4]
+
+
+[Block 44, String: 08D4-08D6]
+
+
+[Block 45, String: 08D6-08D8]
+
+
+[Block 46, String: 08D8-08DA]
+
+
+[Block 47, String: 08DA-08DC]
+
+
+[Block 48, String: 08DC-08DE]
+
+
+[Block 49, String: 08DE-08E0]
+
+
+[Block 4A, String: 08E0-08E2]
+
+
+[Block 4B, String: 08E2-08E4]
+
+
+[Block 4C, String: 08E4-08E6]
+
+
+[Block 4D, String: 08E6-08E8]
+
+
+[Block 4E, String: 08E8-08EA]
+
+
+[Block 4F, String: 08EA-08EC]
+
+
+[Block 50, String: 08EC-08EE]
+
+
+[Block 51, String: 08EE-08F0]
+
+
+[Block 52, String: 08F0-08F2]
+
+
+[Block 53, String: 08F2-08F4]
+
+
+[Block 54, String: 08F4-08F6]
+
+
+[Block 55, String: 08F6-08F8]
+
+
+[Block 56, String: 08F8-08FA]
+
+
+[Block 57, String: 08FA-08FC]
+
+
+[Block 58, String: 08FC-08FE]
+
+
+[Block 59, String: 08FE-0900]
+
+
+[Block 5A, String: 0900-0902]
+
+
+[Block 5B, String: 0902-0904]
+
+
+[Block 5C, String: 0904-0906]
+
+
+[Block 5D, String: 0906-0908]
+
+
+[Block 5E, String: 0908-090A]
+
+
+[Block 5F, String: 090A-090C]
+
+
+[Block 60, String: 090C-090E]
+
+
+[Block 61, String: 090E-0910]
+
+
+[Block 62, String: 0910-0912]
+
+
+[Block 63, String: 0912-0914]
+
+
+[Block 64, String: 0914-0916]
+
+
+[Block 65, String: 0916-0918]
+
+
+[Block 66, String: 0918-091A]
+
+
+[Block 67, String: 091A-091C]
+
+
+[Block 68, String: 091C-091E]
+
+
+[Block 69, String: 091E-0920]
+
+
+[Block 6A, String: 0920-0922]
+
+
+[Block 6B, String: 0922-0924]
+
+
+[Block 6C, String: 0924-0926]
+
+
+[Block 6D, String: 0926-0928]
+
+
+[Block 6E, String: 0928-092A]
+
+
+[Block 6F, String: 092A-092C]
+
+
+[Block 70, String: 092C-092E]
+
+
+[Block 71, String: 092E-0930]
+
+
+[Block 72, String: 0930-0932]
+
+
+[Block 73, String: 0932-0934]
+
+
+[Block 74, String: 0934-0936]
+
+
+[Block 75, String: 0936-0938]
+
+
+[Block 76, String: 0938-093A]
+
+
+[Block 77, String: 093A-093C]
+
+
+[Block 78, String: 093C-093E]
+
+
+[Block 79, String: 093E-0940]
+
+
+[Block 7A, String: 0940-0942]
+
+
+[Block 7B, String: 0942-0944]
+
+
+[Block 7C, String: 0944-0946]
+
+
+[Block 7D, String: 0946-0948]
+
+
+[Block 7E, String: 0948-094A]
+
+
+[Block 7F, String: 094A-094C]
+
+
+[Block 80, String: 094C-094E]
+
+
+[Block 81, String: 094E-0950]
+
+
+[Block 82, String: 0950-0952]
+
+
+[Block 83, String: 0952-0954]
+
+
+[Block 84, String: 0954-0956]
+
+
+[Block 85, String: 0956-097C]
+<WIN 400024001001>
+<DECOR 0008>
+「가로등이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 86, String: 097C-09A6]
+<WIN 400024001001>
+<DECOR 0008>
+「소화전이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 87, String: 09A6-09C6]
+<WIN 400024001001>
+<DECOR 0008>
+「벤치다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 88, String: 09C6-09C8]
+
+
+[Block 89, String: 09C8-09CA]
+
+
+[Block 8A, String: 09CA-09CC]
+
+
+[Block 8B, String: 09CC-09CE]
+
+
+[Block 8C, String: 09CE-09D0]
+
+
+[Block 8D, String: 09D0-09D2]
+
+
+[Block 8E, String: 09D2-09D4]
+
+
+[Block 8F, String: 09D4-09D6]
+
+
+[Block 90, String: 09D6-09D8]
+
+
+[Block 91, String: 09D8-09DA]
+
+
+[Block 92, String: 09DA-09DC]
+
+
+[Block 93, String: 09DC-09DE]
+
+
+[Block 94, String: 09DE-09E0]
+
+
+[Block 95, String: 09E0-09E2]
+
+
+[Block 96, String: 09E2-09E4]
+
+
+[Block 97, String: 09E4-09E6]
+
+
+[Block 98, String: 09E6-0A18]
+<MSG_IF 2B0011FF>
+<MSG_IF 2A0010FF>
+<MSG_IF 1D000FFF>
+<MSG_IF 1E000EFF>
+<MSG_IF 19000DFF>
+<CALL 008C><END><CLOSE 0000>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 99, String: 0A18-0A6A]
+<MSG_IF E00213FF>
+<MSG_IF E10214FF>
+<MSG_IF E20215FF>
+<MSG_IF E30216FF>
+<MSG_IF E40217FF>
+<MSG_IF E50218FF>
+<MSG_IF E60219FF>
+<MSG_IF E7021AFF>
+<MSG_IF E8021BFF>
+<MSG_IF E9021CFF>
+<MSG_IF EA021DFF>
+<MSG_IF EB021EFF>
+<NEXT>
+
+<END><CLOSE 0400>
+
+

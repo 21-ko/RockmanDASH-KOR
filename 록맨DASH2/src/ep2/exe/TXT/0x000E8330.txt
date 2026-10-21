@@ -1,0 +1,11 @@
+[BLOCK: 0000]
+<FUNC 0000>
+<FB1D>
+<VWAIT 00>
+<POS 007C00D60701>
+<COLOR 00>
+그럼, 간다.
+<FB2B>
+<END>
+
+

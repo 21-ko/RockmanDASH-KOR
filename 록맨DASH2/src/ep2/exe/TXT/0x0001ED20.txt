@@ -1,0 +1,200 @@
+[BLOCK: 0000]
+ーーーーーーーーーーー
+<FB1F>
+<END>
+
+[BLOCK: 0001]
+모형을 받았다！
+<FB1F>
+<END>
+
+[BLOCK: 0002]
+펭귄을 받았다！
+<FB1F>
+<END>
+
+[BLOCK: 0003]
+쿠션을 받았다！
+<FB1F>
+<END>
+
+[BLOCK: 0004]
+Ａ급 라이센스
+<FB1F>
+<END>
+
+[BLOCK: 0005]
+Ｓ급 라이센스
+<FB1F>
+<END>
+
+[BLOCK: 0006]
+나쁜 소문
+<FB1F>
+<END>
+
+[BLOCK: 0007]
+거실 부활
+<FB1F>
+<END>
+
+[BLOCK: 0008]
+록이・・・
+<FB1F>
+<END>
+
+[BLOCK: 0009]
+포쿠테 마을 복구
+<FB1F>
+<END>
+
+[BLOCK: 000A]
+퀴즈
+<FB1F>
+<END>
+
+[BLOCK: 000B]
+불상 부활
+<FB1F>
+<END>
+
+[BLOCK: 000C]
+편지수신
+<FB1F>
+<END>
+
+[BLOCK: 000D]
+　
+<FB1F>
+<END>
+
+[BLOCK: 000E]
+　
+<FB1F>
+<END>
+
+[BLOCK: 000F]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0010]
+록과 디그 아웃
+<FB1F>
+<END>
+
+[BLOCK: 0011]
+록과 디그 아웃
+<FB1F>
+<END>
+
+[BLOCK: 0012]
+록과 디그 아웃
+<FB1F>
+<END>
+
+[BLOCK: 0013]
+화재발생
+<FB1F>
+<END>
+
+[BLOCK: 0014]
+화재발생
+<FB1F>
+<END>
+
+[BLOCK: 0015]
+아빠？
+<FB1F>
+<END>
+
+[BLOCK: 0016]
+만다섬으로
+<FB1F>
+<END>
+
+[BLOCK: 0017]
+본 일가의 트론
+<FB1F>
+<END>
+
+[BLOCK: 0018]
+봉인의<SPACE 02>열쇠・・・첫<SPACE 02>번째
+<FB1F>
+<END>
+
+[BLOCK: 0019]
+뮐러 씨의 배
+<FB1F>
+<END>
+
+[BLOCK: 001A]
+글라이드 일가
+<FB1F>
+<END>
+
+[BLOCK: 001B]
+여자아이 구출
+<FB1F>
+<END>
+
+[BLOCK: 001C]
+니노섬으로
+<FB1F>
+<END>
+
+[BLOCK: 001D]
+봉인의<SPACE 02>열쇠・・・두<SPACE 02>번째
+<FB1F>
+<END>
+
+[BLOCK: 001E]
+니노섬의 던전
+<FB1F>
+<END>
+
+[BLOCK: 001F]
+티젤
+<FB1F>
+<END>
+
+[BLOCK: 0020]
+봉인의<SPACE 02>열쇠・・・세<SPACE 02>번째
+<FB1F>
+<END>
+
+[BLOCK: 0021]
+어떻게 될 것인가？
+<FB1F>
+<END>
+
+[BLOCK: 0022]
+때가 됐다
+<FB1F>
+<END>
+
+[BLOCK: 0023]
+마지막 봉인의 열쇠
+<FB1F>
+<END>
+
+[BLOCK: 0024]
+다녀와
+<FB1F>
+<END>
+
+[BLOCK: 0025]
+정말 좋아
+<FB1F>
+<END>
+
+[BLOCK: 0026]
+　
+<FB1F>
+<END>
+
+[BLOCK: 0027]
+역시 그만둔다
+<FB1F>
+<END>
+

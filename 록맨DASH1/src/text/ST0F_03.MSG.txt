@@ -1,0 +1,523 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-005C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 은행입니다<NEXT>
+
+<CLEAR 0400>
+　피난 예정이라면<LINE>
+　인출은 빠르게 해주세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 005C-00AC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기도 이젠 위험합니다<LINE>
+　일단 은행을 닫으려고 해요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00AC-00D2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「들어올 수 있었던 거야？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 00D2-00FC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「문 열려 있던 거야？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 00FC-017A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「피난을 위해서<LINE>
+　돈을 인출하려고<NEXT>
+
+<CLEAR 0400>
+　했었는데，<LINE>
+　잔고가 ９８０제니 밖에<LINE>
+　없었어・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 017A-01D6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적이라…<LINE>
+　우리들도 불안하지만<LINE>
+　시장님은 더 큰일이겠지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 01D6-0214]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적，안 오는 거지？<LINE>
+　오지 않는다고 말해！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 0214-026E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 은행입니다<NEXT>
+
+<CLEAR 0400>
+　덕분에，<LINE>
+　다시 지점을 열 수 있었습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 026E-02B6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「은행은<LINE>
+　현재 여성의 힘을<LINE>
+　필요로 합니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 02B6-0316]
+<WIN 4000A2001003>
+<DECOR 0008>
+「현재는 고장나 있습니다<LINE>
+　죄송합니다만<LINE>
+　옆의 기기를 이용해주십시오<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0316-039A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「트론 님에게 들었어・・<NEXT>
+
+<CLEAR 0400>
+　새로운 메카를 만드는데<LINE>
+　돈이 필요하니까，<LINE>
+　돈을 찾아오라고・・<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 039A-03D2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「은행은<LINE>
+　바빠보이네・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 03D2-0408]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어～이！<LINE>
+　빨리 좀 해달라고～<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 0408-0462]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 은행입니다<NEXT>
+
+<CLEAR 0400>
+　덕분에，<LINE>
+　다시 지점을 열 수 있었습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 0462-04AA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「은행은<LINE>
+　현재 여성의 힘을<LINE>
+　필요로 합니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 04AA-04F0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「곧 고쳐질 예정이니<LINE>
+　조금만 더 기다려주세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 04F0-052C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「슬슬，<LINE>
+　어딘가로 놀러가려고<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 052C-0566]
+<WIN 4000A2001003>
+<DECOR 0008>
+「후우・・<LINE>
+　드디어 돈을 찾을 수 있었어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 0566-05B0]
+<MSG_IF 140233FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「어서오십시오～<LINE>
+　여기는 은행입니다～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 05B0-0624]
+<MSG_IF 140232FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「역시 여성이 있으니까<LINE>
+　활기차네요<NEXT>
+
+<CLEAR 0400>
+　거기에，일도 잘 하니<LINE>
+　방심할 수 없겠어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 0624-0672]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이야～，<LINE>
+　왠지 모두들<LINE>
+　밝고 기분이 좋네요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 0672-06CE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아빠，제대로<LINE>
+　돈 송금하고 있는걸까？<NEXT>
+
+<CLEAR 0400>
+　・・학비<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 06CE-0718]
+<WIN 4000A2001003>
+<DECOR 0008>
+「정기예금이 이득이랍니다～<LINE>
+　어떠신가요～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 0718-0748]
+<MSG_IF 140233FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「어서오세요～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 0748-0796]
+<MSG_IF 140232FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「어서오십시오！<LINE>
+　여기는 은행입니다！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1A, String: 0796-07F4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭐，뭔가요？<LINE>
+　지금，이쪽의 누님을<LINE>
+　식사에 초대하고 있었는데…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1B, String: 07F4-0834]
+<WIN 4000A2001003>
+<DECOR 0008>
+「내 차례는 아직인가…<NEXT>
+
+<CLEAR 0400>
+　어슬렁어슬렁…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1C, String: 0834-0864]
+<WIN 4000A2001003>
+<DECOR 0008>
+「오지 않으시나요～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1D, String: 0864-0866]
+
+
+[Block 1E, String: 0866-0894]
+<WIN 4000A2001003>
+<DECOR 0008>
+팜플렛이 진열되어 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 0894-08E8]
+<WIN 4000A2001003>
+<DECOR 0008>
+돈을 찾을 수 있는 기계다<NEXT>
+
+<CLEAR 0400>
+하지만 내 돈은<LINE>
+맡기지 않았다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 08E8-093C]
+<WIN 4000A2001003>
+<DECOR 0008>
+돈을 찾을 수 있는 기계다<NEXT>
+
+<CLEAR 0400>
+하지만 내 돈은<LINE>
+맡기지 않았다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 093C-0992]
+<WIN 4000A2001003>
+<DECOR 0008>
+용지 기입용 책상이다<NEXT>
+
+<CLEAR 0400>
+볼펜 등이 끈으로<LINE>
+연결되어 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 0992-09D8]
+<WIN 4000A2001003>
+<DECOR 0008>
+검고 윤기가 나는<LINE>
+만지면 시원한 소파다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 09D8-0A1A]
+<MSG_IF 140233FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「죄송합니다，<LINE>
+　지금은 근무중이라서…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 0A1A-0ABA]
+<MSG_IF 140232FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「어서오십시오！！<LINE>
+　오늘은 무엇을 가져오셨나요？<LINE>
+　얼마가 필요하신가요？<NEXT>
+
+<CLEAR 0400>
+　앗차<LINE>
+　전당포에서 일하던 버릇이…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 25, String: 0ABA-0AFC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「부탁입니다，<LINE>
+　진짜로，식사뿐이면 되니까요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 26, String: 0AFC-0B6C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「조용히！！<LINE>
+　손 들어！！<NEXT>
+
+<CLEAR 0400>
+　…<LINE>
+　랄까，<LINE>
+　폼 나지않아？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 27, String: 0B6C-0C1E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「돈은 효율적으로 쓰고있나요？<LINE>
+　서투르게 저축하기보단<LINE>
+　필요한 것을 사는 것이 좋아요<NEXT>
+
+<CLEAR 0400>
+　이런 말을 한다면<LINE>
+　화를 내겠죠？<NEXT>
+
+<CLEAR 0400>
+　그래도 그렇잖아요？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 28, String: 0C1E-0C70]
+<MSG_IF 140233FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「…<LINE>
+　별 수 없지…<LINE>
+　그럼，일이 끝난 뒤에 봐…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 29, String: 0C70-0CE0]
+<MSG_IF 140232FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「자，어서옵쇼 어서옵쇼！！<NEXT>
+
+<CLEAR 0400>
+　…<LINE>
+　이번엔，<LINE>
+　식료품점에서 일할 때 버릇이…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2A, String: 0CE0-0D2C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「됐어！！<LINE>
+　데이트 권유에<LINE>
+　성공했다고！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2B, String: 0D2C-0D7E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「무슨 일이 일어나도 괜찮도록…<LINE>
+　예금을 전부 인출해버릴까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2C, String: 0D7E-0DE0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「만약，이변이 일어나서<LINE>
+　은행이 망해버리면，<LINE>
+　다시 휴업하게 되는걸까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2D, String: 0DE0-0DE2]
+
+
+[Block 2E, String: 0DE2-0DE4]
+
+
+[Block 2F, String: 0DE4-0DE6]
+
+
+[Block 30, String: 0DE6-0DE8]
+
+
+[Block 31, String: 0DE8-0DEA]
+
+
+[Block 32, String: 0DEA-0EB6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「얼마 전에 아이들이 가게를<LINE>
+　열겠다고 운영자금을<LINE>
+　빌리러 왔었어<NEXT>
+
+<CLEAR 0400>
+　거금이 들어있는 큰 가방은<LINE>
+　익숙하지 않았겠지<NEXT>
+
+<CLEAR 0400>
+　엄청 겁을 먹고있어서<LINE>
+　귀여웠어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 33, String: 0EB6-0F30]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저번에，어느 은행에<LINE>
+　강도가 들었다는 것 같아<NEXT>
+
+<CLEAR 0400>
+　그런데 이 섬에 다른 은행이<LINE>
+　있었던가？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 34, String: 0F30-0F32]
+
+
+[Block 35, String: 0F32-0F34]
+
+
+[Block 36, String: 0F34-0F36]
+
+
+[Block 37, String: 0F36-0F38]
+
+

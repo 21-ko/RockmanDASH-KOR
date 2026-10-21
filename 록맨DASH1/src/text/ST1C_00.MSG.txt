@@ -1,0 +1,1044 @@
+[Block 00, String: 0000-00A2]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「어서오세요！<LINE>
+　캐틀옥스 미술관에<LINE>
+　오신 것을 환영합니다！<NEXT>
+
+<CLEAR 0400>
+　１층은 그림，２층은 전시장으로<LINE>
+　되어있습니다！<NEXT>
+
+<CLEAR 0400>
+　좋은 관람되세요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 00A2-02D4]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 0C001C00>
+「아，어서 와，<LINE>
+　아깐 고마웠어！<WAIT 6A00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 0D001C00>
+　당신이 준 립스틱 덕분에<LINE>
+　좋은 그림을 걸 수 있었어！<WAIT 4B00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 0E001C00>
+　실은 내 본업은<LINE>
+　이 곳의 관장이야<LINE>
+　자，천천히 보다가！<WAIT AF00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 0F001C00>
+　・・・그렇지만，보다시피<LINE>
+　별 거 없지・・・<WAIT 7500>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 10001C00>
+　저기 당신！<LINE>
+　디그아우터인 거지！？<WAIT 4800>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 11001C00>
+　혹시 지하에서<LINE>
+　재미있는 물건을 찾는다면<LINE>
+　내게 보여주지 않을래？<WAIT 6500>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 12001C00>
+　감정해보고，<LINE>
+　좋은 물건이라면<LINE>
+　전시하고 싶어！<WAIT 4A00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 13001C00>
+　부탁할게！<WAIT 1200>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 02, String: 02D4-03E2]
+<MSG_IF 3800FF0D>
+<MSG_IF 3900FF0D>
+<MSG_IF 3A00FF0D>
+<MSG_IF 3B00FF0D>
+<MSG_IF 3C00FF0D>
+<MSG_IF 3D00FF0D>
+<MSG_IF 3E00FF0D>
+<MSG_IF 3F00FF0D>
+<WIN 4000A2001003>
+<DECOR 0008>
+「있잖아，봤어？<LINE>
+　손님이 엄청 늘었어！<NEXT>
+
+<CLEAR 0400>
+　매일 다양한 사람들이<LINE>
+　이 미술관에서 전시품을 보고<LINE>
+　즐거워 하고있어・・・！<NEXT>
+
+<CLEAR 0400>
+　관장으로서 이거보다<LINE>
+　기쁜 순간은 없을 거야！<LINE>
+　정말로 고마워！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 03E2-050E]
+<WIN 2E00A2001303>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 17001C00>
+「어라，뭐야 그게？ 뼈 같은걸까？<WAIT 5500>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 18001C00>
+　뭐，괜찮은가・・・ 손님들은，<LINE>
+　이상한 물건 쪽을 좋아하는 것 같고，<WAIT 6F00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 19001C00>
+　본 스틱이라고 부르자<LINE>
+　그다지 가치는 없어보이지만，<LINE>
+　이 미술관에 전시할까？<WAIT CB00>
+<NEXT>
+
+<CLEAR 0000>
+<LINE>
+<0378 0000>　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 000B0C00>
+<END><CLOSE 0500>
+
+
+[Block 04, String: 050E-0626]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 1A001C00>
+「응？ 특이한 걸 가지고 있네<WAIT 5F00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 1B001C00>
+　화로처럼 생겼는데・・<LINE>
+　던전에서 추울 때<LINE>
+　쓰는 물건인가？<WAIT 9600>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 1C001C00>
+　그럼，파이어 포트라는 이름으로<LINE>
+　전시해 볼까！？<WAIT 7600>
+<NEXT>
+
+<CLEAR 0000>
+<LINE>
+<0378 0000>　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 000B0C00>
+<END><CLOSE 0500>
+
+
+[Block 05, String: 0626-07A2]
+<WIN 2E00A2001303>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 1D001C00>
+「뭐야？ 이건，<LINE>
+　정말로 지하에서 발견한 거야？<WAIT 6000>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 1E001C00>
+　만약 정말이라면，대발견일지도・・・<LINE>
+　왜 이런 물건이<LINE>
+　지하에 있는걸까・・・<WAIT 8700>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 1F001C00>
+　일단 휴먼 돌이라고<LINE>
+　부르자<WAIT 6100>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 20001C00>
+　의외로 누군가의<LINE>
+　장난일 수도 있겠네<LINE>
+　그래도 전시해 둘까？<WAIT 9C00>
+<NEXT>
+
+<CLEAR 0000>
+<LINE>
+<0378 0000>　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 000B0C00>
+<END><CLOSE 0500>
+
+
+[Block 06, String: 07A2-08BA]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 21001C00>
+「호오，<LINE>
+　그건 캐틀옥스 벨이야<WAIT 9300>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 22001C00>
+　이 섬에서만<LINE>
+　발견되는 물건이라던데<LINE>
+　대체 무슨 용도로 쓰던걸까？<WAIT AC00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 23001C00>
+　그럼，<LINE>
+　당연히 전시해 주겠지？<WAIT 5D00>
+<NEXT>
+
+<CLEAR 0000>
+<LINE>
+<0378 0000>　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 000B0C00>
+<END><CLOSE 0500>
+
+
+[Block 07, String: 08BA-0A18]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 24001C00>
+「어라，당신！<LINE>
+　꽤나 대단한 걸<LINE>
+　가지고 있잖아<WAIT 6D00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 25001C00>
+　그건 자이언트 혼이야！<WAIT 2E00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 26001C00>
+　ＴＶ에서 부자들이<LINE>
+　다다미방 구석에 장식하는 거<LINE>
+　있잖아<WAIT 7100>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 27001C00>
+　이건 꽤 값어치 있어보여・・<LINE>
+　이 미술관에<LINE>
+　전시하게 해줄게！<WAIT 9600>
+<NEXT>
+
+<CLEAR 0000>
+<LINE>
+<0378 0000>　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 000B0C00>
+<END><CLOSE 0500>
+
+
+[Block 08, String: 0A18-0B92]
+<WIN 3A00A2001103>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 28001C00>
+「거짓말，그거<LINE>
+　크리스탈 화석이잖아！<WAIT 7500>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 29001C00>
+　리버드의 유해가，<LINE>
+　긴 시간을 거쳐서<LINE>
+　결정화 된 물건이라고！<WAIT 8A00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 2A001C00>
+　이것이야말로<LINE>
+　대지의 어머니가 낳은 예술이지！<WAIT 6200>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 2B001C00>
+　제３급 국보야・・・<LINE>
+　저기，부탁할게！<LINE>
+　이 미술관에 전시해도 괜찮을까？<WAIT C900>
+<NEXT>
+
+<CLEAR 0000>
+<LINE>
+<0378 0000>　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 000B0C00>
+<END><CLOSE 0500>
+
+
+[Block 09, String: 0B92-0CCA]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 2C001C00>
+「잠깐 당신，그건！？<WAIT 4000>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 2D001C00>
+　고대 방패야！<LINE>
+　제２급 국보야！<WAIT 6F00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 2E001C00>
+　리버드가 인간의 공격을 막는<LINE>
+　용도의 방패일텐데・・・<LINE>
+　뭔가 접시같기도 하네！<WAIT B600>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 2F001C00>
+　이 미술관에 전시해 줘！<WAIT 3900>
+<NEXT>
+
+<CLEAR 0000>
+<LINE>
+<0378 0000>　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 000B0C00>
+<END><CLOSE 0500>
+
+
+[Block 0A, String: 0CCA-0E9C]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 30001C00>
+「그，그，그건・・・！？<PAUSE 0F00><LINE>
+　리버드의 눈！？<WAIT A300>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 31001C00>
+　대단해・・・<LINE>
+　비쳐보이는 듯한 붉은색이 멋져<LINE>
+　・・・<WAIT 8800>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 32001C00>
+　이건 제１급 국보로<LINE>
+　지정되어 있어・・<WAIT 5100>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 33001C00>
+　지금까지 많은 디그아우터들이<LINE>
+　이걸 얻으려고 던전 속에서<LINE>
+　사라져갔는지・・・<WAIT 9700>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 34001C00>
+　틀림없이 이 미술관의<LINE>
+　자랑거리가 될거야！<LINE>
+　꼭 이 미술관에 전시해줘！<WAIT 9A00>
+<NEXT>
+
+<CLEAR 0000>
+<LINE>
+<0378 0000>　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 000B0C00>
+<END><CLOSE 0500>
+
+
+[Block 0B, String: 0E9C-0EF8]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 35001C00>
+「됐어ー！ 고마워！<LINE>
+　이걸로 관람객도 늘어날 거야！<WAIT 8200>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 0C, String: 0EF8-0F68]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 36001C00>
+「뭐어ーーー！？<PAUSE 0800><LINE>
+　당신・<PAUSE 0800>・<PAUSE 0800>・<PAUSE 0800><LINE>
+　믿기 힘들 정도의 구두쇠네！<WAIT 9B00>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 0D, String: 0F68-1034]
+<WIN 4000A2001003>
+<DECOR 0008>
+<NO_CHAR_SFX><AUDIO 14001C00>
+「이봐，당신<LINE>
+　디그아우터 맞지？<WAIT 4B00>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 15001C00>
+　혹시，지하에서<LINE>
+　재미있는 물건을 발견한다면<LINE>
+　내게 보여주지 않을래？<WAIT 6900>
+<NEXT>
+
+<CLEAR 0000>
+<AUDIO 16001C00>
+　감정 해줄테니까<WAIT 2100>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 0E, String: 1034-1036]
+
+
+[Block 0F, String: 1036-1038]
+
+
+[Block 10, String: 1038-103A]
+
+
+[Block 11, String: 103A-103C]
+
+
+[Block 12, String: 103C-103E]
+
+
+[Block 13, String: 103E-1040]
+
+
+[Block 14, String: 1040-10A8]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「그것은 ２０년 전쯤에<LINE>
+　그려진 그림입니다，<NEXT>
+
+<CLEAR 0400>
+　아름다운 사람이죠！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 10A8-10F8]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「우리의 캐틀옥스 섬을<LINE>
+　하늘에서 본 그림입니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 10F8-1128]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「상점가의 그림입니다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 1128-11DC]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「어딘가의 유적에서 나온<LINE>
+　그림이라고 합니다！<NEXT>
+
+<CLEAR 0400>
+　파란 사람이 무서운 괴물과<LINE>
+　싸우고 있는 것 같네요，<NEXT>
+
+<CLEAR 0400>
+　위의 눈 같은 건<LINE>
+　뭘까요？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 11DC-1210]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「닭 같이 보이네요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 1210-1270]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「그게 뭘까요！？<NEXT>
+
+<CLEAR 0400>
+　사실은 저도<LINE>
+　잘 모르겠네요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1A, String: 1270-12A8]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「ＳＦ느낌의 오브제네요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1B, String: 12A8-12F4]
+<WIN 4000A2001003>
+<DECOR 0008>
+관장<LINE>
+「예쁜 다이아몬드지！？<LINE>
+　마음에 드는 물건이야！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1C, String: 12F4-1342]
+<WIN 4000A2001003>
+<DECOR 0008>
+관장<LINE>
+「멋진 상자이지 않아？<LINE>
+　이런 것도 좋지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1D, String: 1342-1396]
+<WIN 4000A2001003>
+<DECOR 0008>
+관장<LINE>
+「미술관 하면 항아리지<LINE>
+　이게 없인 대화가 안 되지！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1E, String: 1396-1400]
+<WIN 4000A2001003>
+<DECOR 0008>
+관장<LINE>
+「단순한 돌로 보이겠지만，<NEXT>
+
+<CLEAR 0400>
+「뭐시기뭐시기라고 부르던<LINE>
+　가치있는 물건이야！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 1400-14A4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 상점가의 그림은 좋네<NEXT>
+
+<CLEAR 0400>
+　그런데，이 미술관의<LINE>
+　그림은 좋지만，<LINE>
+　２층의 전시관은 텅 비어있지<NEXT>
+
+<CLEAR 0400>
+　뭔가 어떻게든 하지않으려나？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 14A4-1586]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「아，록 씨군요！<LINE>
+　안녕하세요！<NEXT>
+
+<CLEAR 0400>
+　전시품을 제공하신다고 들었어요<LINE>
+　덕분에，조금씩 관람객분도<LINE>
+　늘어나게 되었습니다！<NEXT>
+
+<CLEAR 0400>
+　록 씨도 천천히，<LINE>
+　관람하시고 가세요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 1586-15F8]
+<WIN 3A00A2001103>
+<DECOR 0008>
+「이건 이상한 그림이네요<NEXT>
+
+<CLEAR 0400>
+　분명 고대에 그려졌을 거예요<LINE>
+　무언가를 나타내고 있는 걸까요？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 15F8-1646]
+<WIN 4000A2001003>
+<DECOR 0008>
+「아름다운 돌이네요<LINE>
+　검게 빛나고 있어서<LINE>
+　매혹될 것 같아요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 1646-173A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「큰 다이아몬드네요，<NEXT>
+
+<CLEAR 0400>
+　제가 남편에게 받은 반지에도<LINE>
+　같은 색의 돌이 붙어 있었어요<LINE>
+　이것보다는 훨씬 작았지만요<NEXT>
+
+<CLEAR 0400>
+　당신은 누군가에게 반지를<LINE>
+　준 적이 있나요？<NEXT>
+
+<CLEAR 0400>
+<LINE>
+<0378 0000>　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 00242500>
+<END><CLOSE 0500>
+
+
+[Block 24, String: 173A-1792]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그렇군요，당신，<LINE>
+　그 아이를 좋아하는군요<LINE>
+　열심히 해요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 25, String: 1792-17EC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그렇군요，<LINE>
+　언젠가 좋아하는 사람이 생기면<LINE>
+　반지를 선물해 주세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 26, String: 17EC-188A]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「아，록 씨，안녕하세요！<NEXT>
+
+<CLEAR 0400>
+　관람객들도 다시 늘었어요！<LINE>
+　록 씨의 덕분이에요！<NEXT>
+
+<CLEAR 0400>
+　편하게 보다가세요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 27, String: 188A-18FC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「귀，귀여운 아이구나・・・！<NEXT>
+
+<CLEAR 0400>
+　지금이라도 늦지 않았으니，<LINE>
+　내 아내로 삼고싶구나！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 28, String: 18FC-192C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나는 닭이 정말 좋아！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 29, String: 192C-1986]
+<WIN 4000A2001003>
+<DECOR 0008>
+「검게 빛나는 것은<LINE>
+　참 좋네，<NEXT>
+
+<CLEAR 0400>
+　뭔가 매혹될 것 같아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2A, String: 1986-19F0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이게 우리가 살고 있는<LINE>
+　캐틀옥스 섬이구나<NEXT>
+
+<CLEAR 0400>
+　내 집은 어느 쪽에 있을까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2B, String: 19F0-1A88]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 미술관도 전시품이 꽤<LINE>
+　늘어났네요，<NEXT>
+
+<CLEAR 0400>
+　어떠한<LINE>
+　전시품이든 가져가 주는<LINE>
+　디그아우터가 있다고 합니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2C, String: 1A88-1B40]
+<WIN 3400A2001203>
+<DECOR 0008>
+접수원<LINE>
+「아，록 씨！<NEXT>
+
+<CLEAR 0400>
+　저는 접수원을 한지 벌써<LINE>
+　５년째이지만，이렇게 많은 관람객을<LINE>
+　보는 것은 처음이에요！<NEXT>
+
+<CLEAR 0400>
+　정말 감사드립니다！<LINE>
+　록 씨！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2D, String: 1B40-1BDC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「드디어 그 그림의 모델이<LINE>
+　된 사람을 찾아냈어！<NEXT>
+
+<CLEAR 0400>
+　지금은 상점가에서<LINE>
+　빵을 팔고 있다고 해，<LINE>
+　당장 보러 가야겠다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2E, String: 1BDC-1C26]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭘까，이건？<NEXT>
+
+<CLEAR 0400>
+　잘 모르겠지만… 멋져<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2F, String: 1C26-1CA4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「언제 이렇게 전시품이<LINE>
+　늘어난걸까<NEXT>
+
+<CLEAR 0400>
+　멋진 것부터 이상한 것까지<LINE>
+　다양해서 좋네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 30, String: 1CA4-1D5C]
+<WIN 2E00A2001303>
+<DECOR 0008>
+「이，이봐・・・당신，<LINE>
+　이 아이랑 나，어느 쪽이 더 예뻐！？<NEXT>
+
+<CLEAR 0400>
+<0378 0000><SEL 0001FD00>누가봐도 당신이 더 예뻐<LINE>
+<SEL 1102FD00>이 그림 속 아이가 더 좋아<LINE>
+<SEL 2212FD00>여자한텐 관심이 없다<LINE>
+<0378 0100><0385 00313233>
+<END><CLOSE 0500>
+
+
+[Block 31, String: 1D5C-1DD8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「싫다，정말，<LINE>
+　알고 있으면서<NEXT>
+
+<CLEAR 0400>
+　당신도 얼굴만큼은 잘 생겼어！<LINE>
+　몸은 좀 딱딱해 보이지만<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 32, String: 1DD8-1E34]
+<WIN 4000A2001003>
+<DECOR 0008>
+「음，음・・・<LINE>
+　역시 애들은 색기라는 게 뭔지<LINE>
+　이해를 못하는구나！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 33, String: 1E34-1EFE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「말도 안 돼！<LINE>
+　너，그런 사람이었구나！<NEXT>
+
+<CLEAR 0400>
+　그런 너에게는<LINE>
+　내 삼촌을<LINE>
+　소개시켜 줘 볼까？<NEXT>
+
+<CLEAR 0400>
+　경부님으로 일하고 있어，<LINE>
+　꽤 댄디하단다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 34, String: 1EFE-1F82]
+<WIN 3A00A2001103>
+<DECOR 0008>
+「아아，아름다워・・・<NEXT>
+
+<CLEAR 0400>
+　관장님이 그렇게 아름다운 분인 줄<LINE>
+　몰랐었어・・・<NEXT>
+
+<CLEAR 0400>
+　그녀의 존재 자체가 예술이야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 35, String: 1F82-20A6]
+<MSG_IF 2F0038FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「우리 증조할아버지가<LINE>
+　소중하게 간직했다는 여신상을，<LINE>
+　감정을 받았었는데<NEXT>
+
+<CLEAR 0400>
+　강력한 힘이 봉인 되어있어서<LINE>
+　가지고 있음 위험하다고 해<NEXT>
+
+<CLEAR 0400>
+　버리는 게 좋다고 하는데<LINE>
+　이거 가질래？<NEXT>
+
+<CLEAR 0400>
+<LINE>
+<0378 0000>　　　　<SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 00363700>
+<END><CLOSE 0500>
+
+
+[Block 36, String: 20A6-2126]
+<GET 2F00><WIN 4000A2001003>
+<DECOR 0008>
+「그럼，줄게<NEXT>
+
+<CLEAR 0400>
+　하지만・・・<LINE>
+　다치거나 그래도 나는 몰라<NEXT>
+
+<CLEAR 0400>
+<LINE>
+<037C 8600>
+<COLOR 0300><ITEM 6B00><COLOR 0000><GET 6B05>을 손에 넣었다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 37, String: 2126-215C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그렇네，<LINE>
+　그만두는 게 더 나을 거야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 38, String: 215C-219E]
+<WIN 4000A2001003>
+<DECOR 0008>
+「다시 무언가 보물을 찾아서<LINE>
+　가져오려고 해<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 39, String: 219E-2224]
+<MSG_IF 35003AFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 그림은 무언가를<LINE>
+　전달하려고 하는 것처럼<LINE>
+　느껴지지 않나요…？<NEXT>
+
+<CLEAR 0400>
+　경고… 아니면，예언？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 3A, String: 2224-2284]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 그림의 괴물이<LINE>
+　깨어나는 것이… 재앙…<NEXT>
+
+<CLEAR 0400>
+　그것을 막는 자…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 3B, String: 2284-2286]
+
+
+[Block 3C, String: 2286-233A]
+<WIN 4000A2001003>
+<DECOR 0008>
+<0378 0000><COLOR 0200>　　　　본 스틱<LINE>
+카돈 숲의 서브게이트에서<LINE>
+디그아웃 된 물건，<NEXT>
+
+<CLEAR 0400>
+자주 개가 물고 다니는 뼈와<LINE>
+비슷하다하여 명명되었다<NEXT>
+
+<END><CLOSE 0400>
+<0378 0100>
+
+[Block 3D, String: 233A-23CE]
+<WIN 4000A2001003>
+<DECOR 0008>
+<0378 0000><COLOR 0200>　　　　파이어 포트<LINE>
+야스의 초원에서 발견 된<LINE>
+수수께끼의 용기<NEXT>
+
+<CLEAR 0400>
+외관이 화로와 비슷하다하여，<LINE>
+붙여진 이름이다<NEXT>
+
+<END><CLOSE 0400>
+<0378 0100>
+
+[Block 3E, String: 23CE-249E]
+<WIN 4000A2001003>
+<DECOR 0008>
+<0378 0000><COLOR 0200>　　　　휴먼 돌<LINE>
+카돈 숲의 서브게이트에서<LINE>
+디그아웃 된 물건<NEXT>
+
+<CLEAR 0400>
+리버드를 보고 놀라는<LINE>
+인간을 모델로，리버드가<LINE>
+만들었다는 이야기가 있다<NEXT>
+
+<END><CLOSE 0400>
+<0378 0100>
+
+[Block 3F, String: 249E-254E]
+<WIN 3400A2001203>
+<DECOR 0008>
+<0378 0000><COLOR 0200>　　　캐틀옥스 벨<LINE>
+클로저 숲의 서브게이트에서<LINE>
+디그아웃 된 물건<NEXT>
+
+<CLEAR 0400>
+종 모양의 형태를<LINE>
+하고 있기 때문에，그렇게 명명되었다<NEXT>
+
+<END><CLOSE 0400>
+<0378 0100>
+
+[Block 40, String: 254E-25FA]
+<WIN 4000A2001003>
+<DECOR 0008>
+<0378 0000><COLOR 0200>　　　자이언트 혼<LINE>
+동물형 리버드의 뿔이나<LINE>
+이빨일 수 있다고 추측하고있다<NEXT>
+
+<CLEAR 0400>
+던전이 아닌，암석 지역 등지에서<LINE>
+발견되는 일이 많다<NEXT>
+
+<END><CLOSE 0400>
+<0378 0100>
+
+[Block 41, String: 25FA-26A8]
+<WIN 3A00A2001103>
+<DECOR 0008>
+<0378 0000><COLOR 0200>　　　크리스탈 화석<LINE>
+제３급 국보로 지정되어 있는<LINE>
+매우 아름다운 크리스탈<NEXT>
+
+<CLEAR 0400>
+리버드의 유해가<LINE>
+오랜 세월을 거쳐 결정화 된 것이다<NEXT>
+
+<END><CLOSE 0400>
+<0378 0100>
+
+[Block 42, String: 26A8-2752]
+<WIN 4000A2001003>
+<DECOR 0008>
+<0378 0000><COLOR 0200>　　　　　　고대 방패<LINE>
+제２급 국보로 지정되어 있으며<LINE>
+접시로 보이는 외관을 하고있다<NEXT>
+
+<CLEAR 0400>
+리버드들이 사용하고 있는<LINE>
+방어구라는 설이 유력하다<NEXT>
+
+<END><CLOSE 0400>
+<0378 0100>
+
+[Block 43, String: 2752-2820]
+<WIN 4000A2001003>
+<DECOR 0008>
+<0378 0000><COLOR 0200>　　　　리버드의 눈<LINE>
+제１급 국보로 지정된 보석으로，<LINE>
+메인게이트에서 디그아웃 되었다<NEXT>
+
+<CLEAR 0400>
+그 이름대로 거대한 리버드의<LINE>
+눈인지 아닌지는<LINE>
+지금도 명확히 밝혀지지 않았다<NEXT>
+
+<END><CLOSE 0400>
+<0378 0100>
+
+[Block 44, String: 2820-2822]
+
+
+[Block 45, String: 2822-2824]
+
+

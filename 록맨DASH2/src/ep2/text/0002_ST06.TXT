@@ -1,0 +1,556 @@
+[BLOCK: 0000]
+<FUNC 0100>
+<POS 005E00B40C11>
+<FB05 0108>
+<FB30 00>
+자물쇠가 걸려있다……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0300>
+<POS 003400AC1322>
+<FB05 0108>
+불이 나서 망가졌기에 들어갈 수 없다.<LINE>
+롤 쨩에게 말해 고쳐 달라고 하자.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0002]
+
+
+[BLOCK: 0003]
+
+
+[BLOCK: 0004]
+
+
+[BLOCK: 0005]
+
+
+[BLOCK: 0006]
+
+
+[BLOCK: 0007]
+
+
+[BLOCK: 0008]
+
+
+[BLOCK: 0009]
+<FUNC 0000>
+<FB29 00>
+<VOICELOAD 0000FF03>
+<FB1B>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0500>
+<POS 004000A41123>
+<FB05 0108>
+롤 쨩이 너무 좋아하는 세면대다.<LINE>
+이게 있느냐 없느냐가<LINE>
+상당히 차이가 크다고 한다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000B]
+<FUNC 0300>
+<FB28 013128FF>
+<POS 004600AC1022>
+<FB05 0108>
+화장실 청소는 내가 담당한다.<LINE>
+화장실이 깨끗하면 기분이 좋다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000C]
+<FUNC 0100>
+<FB28 013329FF>
+<POS 005E00B40C11>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+강력 모터
+<INIT_COLOR>
+를 발견했다.
+<ENDKEY>
+<FB31>
+<FB26 0415>
+<FB26 0133>
+<END>
+
+[BLOCK: 000D]
+<FUNC 0100>
+<POS 005200B40E11>
+<FB05 0108>
+마음이 편해지는 불빛이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000E]
+<FUNC 0300>
+<POS 003A00AC1222>
+<FB05 0108>
+새로 산 ＴＶ다.<LINE>
+언젠가 다 함께 모여 느긋하게 보자.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0000>
+<FB28 00D5FF4A>
+<FB16 114949FF>
+<FB16 104848FF>
+<FB16 0F4747FF>
+<FB16 0E4646FF>
+<FB16 0D4545FF>
+<FB16 0C4444FF>
+<FB16 0B4343FF>
+<FB16 0A4242FF>
+<FB16 064141FF>
+<FB16 054040FF>
+<FB16 043F3FFF>
+<FB16 033E3EFF>
+<FB16 013D3DFF>
+<FB16 003C3CFF>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0300>
+<POS 002E00AC1422>
+<FB05 0108>
+용맹한 모습의 플러터호 그림이다.<LINE>
+비스듬히 아래에서 멋지게 각을 잡았다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0100>
+<POS 006A00B40A11>
+<FB05 0108>
+특별한 것은 없다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0000>
+<POS 007600AC0802>
+<FB05 0108>
+롤 쨩이 타 준<LINE>
+커피는 맛있다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0300>
+<POS 004600AC1022>
+<FB05 0108>
+여기 있는 접시는 배가 기울어도<LINE>
+떨어지지 않게 되어 있다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0100>
+<FB28 00D4FF32>
+<FB28 04412AFF>
+<POS 004C00B40F11>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+<ITEM_NAME 0441>
+<INIT_COLOR>
+을 발견했다.
+<ENDKEY>
+<FB31>
+<FB26 0441>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0700>
+<POS 004000A41133>
+<FB05 0108>
+접시나 컵을 설거지하는<LINE>
+편리한 기계다.<LINE>
+이 기계 덕분에 상당히 편해졌다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0700>
+<POS 005200A40E33>
+<FB05 0108>
+깨끗한 싱크대다.<LINE>
+가끔은 데이터도 요리할 때<LINE>
+쓰곤 한다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0017]
+<FUNC 0300>
+<POS 004000AC1122>
+<FB05 0108>
+화재를 일으킬 수 있을 정도로<LINE>
+강력한 화력을 자랑하는 레인지다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0018]
+<FUNC 0100>
+<POS 004600AC1012>
+<FB05 0108>
+이 거울은 목욕할 때도<LINE>
+김이 서리지 않도록 만들어졌다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0019]
+
+
+[BLOCK: 001A]
+
+
+[BLOCK: 001B]
+
+
+[BLOCK: 001C]
+
+
+[BLOCK: 001D]
+
+
+[BLOCK: 001E]
+
+
+[BLOCK: 001F]
+
+
+[BLOCK: 0020]
+
+
+[BLOCK: 0021]
+
+
+[BLOCK: 0022]
+
+
+[BLOCK: 0023]
+
+
+[BLOCK: 0024]
+
+
+[BLOCK: 0025]
+
+
+[BLOCK: 0026]
+
+
+[BLOCK: 0027]
+<FUNC 0300>
+<POS 004000A41123>
+<FB05 0108>
+목욕탕 청소는 내가 담당한다.<LINE>
+물때는 자주 닦지 않으면<LINE>
+곰팡이가 피기 때문에 귀찮아진다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0028]
+<FUNC 0700>
+<POS 004C00A40F33>
+<FB05 0108>
+물이 파랗게 변했다.<LINE>
+더욱더 상쾌한 느낌이 들어서<LINE>
+기분이 좋다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0029]
+<FUNC 0100>
+<POS 005200B40E11>
+<FB05 0108>
+안에는 이제 아무것도 없다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002A]
+
+
+[BLOCK: 002B]
+
+
+[BLOCK: 002C]
+
+
+[BLOCK: 002D]
+
+
+[BLOCK: 002E]
+
+
+[BLOCK: 002F]
+
+
+[BLOCK: 0030]
+
+
+[BLOCK: 0031]
+<FUNC 0100>
+<POS 005E00B40C11>
+<FB05 0108>
+안에는 아무것도 없다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0032]
+
+
+[BLOCK: 0033]
+
+
+[BLOCK: 0034]
+
+
+[BLOCK: 0035]
+
+
+[BLOCK: 0036]
+
+
+[BLOCK: 0037]
+
+
+[BLOCK: 0038]
+
+
+[BLOCK: 0039]
+
+
+[BLOCK: 003A]
+
+
+[BLOCK: 003B]
+<FUNC 0000>
+<END>
+
+[BLOCK: 003C]
+<FUNC 0100>
+<POS 001600A41833>
+<FB05 0108>
+뮐러 씨의 비행선 공격받다！
+<PAGEKEY>
+<NEXTPAGE 020700>
+해당 선박은 금단의 섬 상공 근처에서<LINE>
+정체불명의 생명체에게 공격받아 행방불명되었고<LINE>
+그에 따라 승객의 안전이 우려되는 상황이다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003D]
+<FUNC 0100>
+<POS 003400B41311>
+<FB05 0108>
+뮐러 씨의 비행선은 여전히 행방불명.
+<PAGEKEY>
+<NEXTPAGE 020000>
+수색은 난항을 겪고 있는 것으로 보임.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003E]
+<FUNC 0100>
+<POS 004C00AC0F22>
+<FB05 0108>
+뮐러 씨의 비행선, 발견되다！
+<PAGEKEY>
+<NEXTPAGE 020300>
+금단의 섬에서 배럴 박사의<LINE>
+조카인 록 소년이 발견되었다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 003F]
+<FUNC 0100>
+<POS 002800A41533>
+<FB05 0108>
+포쿠테 마을이 공적에게 점령당하다！
+<PAGEKEY>
+<NEXTPAGE 020700>
+해당 마을은 본 일가의 장녀인 트론에 의해<LINE>
+점령되었으나, 록 소년의 활약으로<LINE>
+쫓겨난 것으로 보인다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0040]
+<FUNC 0100>
+<POS 004000AC1112>
+<FB05 0108>
+첫 번째 봉인의 열쇠가 발견되다！
+<PAGEKEY>
+<NEXTPAGE 020100>
+첫 번째 열쇠는 록 소년이<LINE>
+디그 아웃 해낸 것으로 보인다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0041]
+<FUNC 0100>
+<POS 001C00AC1722>
+<FB05 0108>
+글라이드 일가가 니노 섬을 노리다！
+<PAGEKEY>
+<NEXTPAGE 020300>
+봉인의 열쇠가 있을 것으로 추정되는 해당 섬은<LINE>
+공적들이 다음 목표로 삼은 것으로 보인다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0042]
+<FUNC 0100>
+<POS 001C00A41733>
+<FB05 0108>
+디그 아우터 길드가 공적에게 반격을 가하다！
+<PAGEKEY>
+<NEXTPAGE 020700>
+니노섬을 습격한 글라이드 일가는<LINE>
+디그 아우터들의 활약으로<LINE>
+쫓겨난 것으로 보인다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0043]
+<FUNC 0100>
+<POS 003A00AC1222>
+<FB05 0108>
+두 번째 봉인의 열쇠가 발견되다！
+<PAGEKEY>
+<NEXTPAGE 020300>
+첫 번째 열쇠에 이어 두 번째 열쇠도<LINE>
+록 소년이 디그 아웃 해냈다！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0044]
+<FUNC 0100>
+<POS 004000AC1122>
+<FB05 0108>
+본 일가가 재차 마을을 점령하다！
+<PAGEKEY>
+<NEXTPAGE 020300>
+점령된 키모토마시의 시민들은<LINE>
+인질로 잡혀있는 것으로 보인다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0045]
+<FUNC 0100>
+<POS 005200A40E23>
+<FB05 0108>
+키모토마시가 해방되다！
+<PAGEKEY>
+<NEXTPAGE 020300>
+그러나, 던전 안에는<LINE>
+아직 본 일가의 잔존부대가<LINE>
+남아 있는 것으로 보인다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0046]
+<FUNC 0100>
+<POS 003400A41333>
+<FB05 0108>
+세 번째 봉인의 열쇠가 발견되다！
+<PAGEKEY>
+<NEXTPAGE 020700>
+또다시 록 소년이 디그 아웃 해냈다！<LINE>
+관계자에 따르면<LINE>
+남은 봉인의 열쇠는 한 개로 보인다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0047]
+<FUNC 0100>
+<POS 004000A41123>
+<FB05 0108>
+요숀카시 위협당하다！
+<PAGEKEY>
+<NEXTPAGE 020500>
+공적들이<LINE>
+유적 개방을 요구하며<LINE>
+위협 포격을 가한 것으로 보인다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0048]
+<FUNC 0100>
+<POS 003400AC1322>
+<FB05 0108>
+요숀카시 교외에서 포격전 일어나다！
+<PAGEKEY>
+<NEXTPAGE 020300>
+공적들과 자주 언급되는 록 소년 간에<LINE>
+격렬한 전투가 벌어진 것으로 보인다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0049]
+<FUNC 0100>
+<POS 002800AC1522>
+<FB05 0108>
+마지막 봉인의 열쇠가 발견되다！
+<PAGEKEY>
+<NEXTPAGE 020300>
+이제는 당연하다고 해야 할까,<LINE>
+디그 아웃한 사람은 록 소년이다！
+<PAGEKEY>
+<NEXTPAGE 020300>
+네 개의 열쇠가 모두 모였으니<LINE>
+이제부터 과연 무슨 일이 벌어질 것인가？
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 004A]
+<FUNC 0300>
+<POS 004C00AC0F22>
+<FB05 0108>
+이 책상은 타지 않은 것 같다.<LINE>
+의외로 튼튼하게 만들었다.
+<ENDKEY>
+<FB31>
+<END>
+

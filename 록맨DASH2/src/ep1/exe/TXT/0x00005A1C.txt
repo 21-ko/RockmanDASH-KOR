@@ -1,0 +1,1945 @@
+[BLOCK: 0000]
+장비하지 않음
+<FB1F>
+<END>
+
+[BLOCK: 0001]
+버스터 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 0002]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0003]
+버스터 파츠Ｃ
+<FB1F>
+<END>
+
+[BLOCK: 0004]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0005]
+파워 라이저 플러스
+<FB1F>
+<END>
+
+[BLOCK: 0006]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0007]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0008]
+래피드 스트라이크
+<FB1F>
+<END>
+
+[BLOCK: 0009]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 000A]
+터보 차지ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 000B]
+레인지 업ＳＰ
+<FB1F>
+<END>
+
+[BLOCK: 000C]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 000D]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 000E]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 000F]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0010]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0011]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0012]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0013]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0014]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0015]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0016]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0017]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0018]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0019]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 001A]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 001B]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 001C]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 001D]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 001E]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 001F]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0020]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0021]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0022]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0023]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0024]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0025]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0026]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0027]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0028]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0029]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 002A]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 002B]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 002C]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 002D]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 002E]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 002F]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0030]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0031]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0032]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0033]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0034]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0035]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0036]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0037]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0038]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0039]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 003A]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 003B]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 003C]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 003D]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 003E]
+버스터 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 003F]
+맥시멈 버스터
+<FB1F>
+<END>
+
+[BLOCK: 0040]
+노멀 핸드
+<FB1F>
+<END>
+
+[BLOCK: 0041]
+킥
+<FB1F>
+<END>
+
+[BLOCK: 0042]
+록 버스터
+<FB1F>
+<END>
+
+[BLOCK: 0043]
+중량탄
+<FB1F>
+<END>
+
+[BLOCK: 0044]
+버스터 캐논
+<FB1F>
+<END>
+
+[BLOCK: 0045]
+록 바주카
+<FB1F>
+<END>
+
+[BLOCK: 0046]
+호밍 미사일
+<FB1F>
+<END>
+
+[BLOCK: 0047]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0048]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0049]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 004A]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 004B]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 004C]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 004D]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 004E]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 004F]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0050]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0051]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0052]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0053]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0054]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0055]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0056]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0057]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0058]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0059]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 005A]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 005B]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 005C]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 005D]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 005E]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 005F]
+특수 무기Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0060]
+예비１
+<FB1F>
+<END>
+
+[BLOCK: 0061]
+예비２
+<FB1F>
+<END>
+
+[BLOCK: 0062]
+예비３
+<FB1F>
+<END>
+
+[BLOCK: 0063]
+예비４
+<FB1F>
+<END>
+
+[BLOCK: 0064]
+예비５
+<FB1F>
+<END>
+
+[BLOCK: 0065]
+예비６
+<FB1F>
+<END>
+
+[BLOCK: 0066]
+예비７
+<FB1F>
+<END>
+
+[BLOCK: 0067]
+예비８
+<FB1F>
+<END>
+
+[BLOCK: 0068]
+예비９
+<FB1F>
+<END>
+
+[BLOCK: 0069]
+예비１０
+<FB1F>
+<END>
+
+[BLOCK: 006A]
+예비１１
+<FB1F>
+<END>
+
+[BLOCK: 006B]
+예비１２
+<FB1F>
+<END>
+
+[BLOCK: 006C]
+예비１３
+<FB1F>
+<END>
+
+[BLOCK: 006D]
+예비１４
+<FB1F>
+<END>
+
+[BLOCK: 006E]
+예비１５
+<FB1F>
+<END>
+
+[BLOCK: 006F]
+예비１６
+<FB1F>
+<END>
+
+[BLOCK: 0070]
+예비１７
+<FB1F>
+<END>
+
+[BLOCK: 0071]
+예비１８
+<FB1F>
+<END>
+
+[BLOCK: 0072]
+예비１９
+<FB1F>
+<END>
+
+[BLOCK: 0073]
+예비２０
+<FB1F>
+<END>
+
+[BLOCK: 0074]
+예비２１
+<FB1F>
+<END>
+
+[BLOCK: 0075]
+예비２２
+<FB1F>
+<END>
+
+[BLOCK: 0076]
+예비２３
+<FB1F>
+<END>
+
+[BLOCK: 0077]
+예비２４
+<FB1F>
+<END>
+
+[BLOCK: 0078]
+예비２５
+<FB1F>
+<END>
+
+[BLOCK: 0079]
+예비２６
+<FB1F>
+<END>
+
+[BLOCK: 007A]
+예비２７
+<FB1F>
+<END>
+
+[BLOCK: 007B]
+예비２８
+<FB1F>
+<END>
+
+[BLOCK: 007C]
+예비２９
+<FB1F>
+<END>
+
+[BLOCK: 007D]
+예비３０
+<FB1F>
+<END>
+
+[BLOCK: 007E]
+예비３１
+<FB1F>
+<END>
+
+[BLOCK: 007F]
+예비３２
+<FB1F>
+<END>
+
+[BLOCK: 0080]
+장비하지 않음
+<FB1F>
+<END>
+
+[BLOCK: 0081]
+헬멧
+<FB1F>
+<END>
+
+[BLOCK: 0082]
+헬멧Ｂ
+<FB1F>
+<END>
+
+[BLOCK: 0083]
+헬멧Ｃ
+<FB1F>
+<END>
+
+[BLOCK: 0084]
+헬멧Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0085]
+헬멧Ｅ
+<FB1F>
+<END>
+
+[BLOCK: 0086]
+헬멧Ａ
+<FB1F>
+<END>
+
+[BLOCK: 0087]
+헬멧Ａ
+<FB1F>
+<END>
+
+[BLOCK: 0088]
+헬멧Ａ
+<FB1F>
+<END>
+
+[BLOCK: 0089]
+헬멧Ａ
+<FB1F>
+<END>
+
+[BLOCK: 008A]
+헬멧Ａ
+<FB1F>
+<END>
+
+[BLOCK: 008B]
+헬멧Ａ
+<FB1F>
+<END>
+
+[BLOCK: 008C]
+헬멧Ａ
+<FB1F>
+<END>
+
+[BLOCK: 008D]
+헬멧Ａ
+<FB1F>
+<END>
+
+[BLOCK: 008E]
+헬멧Ａ
+<FB1F>
+<END>
+
+[BLOCK: 008F]
+헬멧Ａ
+<FB1F>
+<END>
+
+[BLOCK: 0090]
+장비하지 않음
+<FB1F>
+<END>
+
+[BLOCK: 0091]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 0092]
+보디 파츠Ｂ
+<FB1F>
+<END>
+
+[BLOCK: 0093]
+보디 파츠Ｃ
+<FB1F>
+<END>
+
+[BLOCK: 0094]
+보디 파츠Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 0095]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 0096]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 0097]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 0098]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 0099]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 009A]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 009B]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 009C]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 009D]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 009E]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 009F]
+보디 파츠Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00A0]
+장비하지 않음
+<FB1F>
+<END>
+
+[BLOCK: 00A1]
+대시 파츠
+<FB1F>
+<END>
+
+[BLOCK: 00A2]
+슈즈Ｂ
+<FB1F>
+<END>
+
+[BLOCK: 00A3]
+슈즈Ｃ
+<FB1F>
+<END>
+
+[BLOCK: 00A4]
+슈즈Ｄ
+<FB1F>
+<END>
+
+[BLOCK: 00A5]
+슈즈Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00A6]
+슈즈Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00A7]
+슈즈Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00A8]
+슈즈Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00A9]
+슈즈Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00AA]
+슈즈Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00AB]
+슈즈Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00AC]
+슈즈Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00AD]
+슈즈Ａ
+<FB1F>
+<END>
+
+[BLOCK: 00AE]
+슈즈１
+<FB1F>
+<END>
+
+[BLOCK: 00AF]
+하이 점프 슈즈
+<FB1F>
+<END>
+
+[BLOCK: 00B0]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 00B1]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 00B2]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 00B3]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 00B4]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 00B5]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 00B6]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 00B7]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 00B8]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 00B9]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 00BA]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 00BB]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 00BC]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 00BD]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 00BE]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 00BF]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 00C0]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 00C1]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 00C2]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 00C3]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 00C4]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 00C5]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 00C6]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 00C7]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 00C8]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 00C9]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 00CA]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 00CB]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 00CC]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 00CD]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 00CE]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 00CF]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 00D0]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 00D1]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 00D2]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 00D3]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 00D4]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 00D5]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 00D6]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 00D7]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 00D8]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 00D9]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 00DA]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 00DB]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 00DC]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 00DD]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 00DE]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 00DF]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 00E0]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 00E1]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 00E2]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 00E3]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 00E4]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 00E5]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 00E6]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 00E7]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 00E8]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 00E9]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 00EA]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 00EB]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 00EC]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 00ED]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 00EE]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 00EF]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 00F0]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 00F1]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 00F2]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 00F3]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 00F4]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 00F5]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 00F6]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 00F7]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 00F8]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 00F9]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 00FA]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 00FB]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 00FC]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 00FD]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 00FE]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 00FF]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 0100]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 0101]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 0102]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 0103]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 0104]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 0105]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 0106]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 0107]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 0108]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 0109]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 010A]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 010B]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 010C]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 010D]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 010E]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 010F]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 0110]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 0111]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 0112]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 0113]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 0114]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 0115]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 0116]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 0117]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 0118]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 0119]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 011A]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 011B]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 011C]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 011D]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 011E]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 011F]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 0120]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 0121]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 0122]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 0123]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 0124]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 0125]
+아이템１
+<FB1F>
+<END>
+
+[BLOCK: 0126]
+아이템２
+<FB1F>
+<END>
+
+[BLOCK: 0127]
+아이템３
+<FB1F>
+<END>
+
+[BLOCK: 0128]
+아이템４
+<FB1F>
+<END>
+
+[BLOCK: 0129]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 012A]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 012B]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 012C]
+아이템８
+<FB1F>
+<END>
+
+[BLOCK: 012D]
+아이템５
+<FB1F>
+<END>
+
+[BLOCK: 012E]
+아이템６
+<FB1F>
+<END>
+
+[BLOCK: 012F]
+아이템７
+<FB1F>
+<END>
+
+[BLOCK: 0130]
+키 아이템１
+<FB1F>
+<END>
+
+[BLOCK: 0131]
+키 아이템２
+<FB1F>
+<END>
+
+[BLOCK: 0132]
+키 아이템３
+<FB1F>
+<END>
+
+[BLOCK: 0133]
+키 아이템４
+<FB1F>
+<END>
+
+[BLOCK: 0134]
+키 아이템５
+<FB1F>
+<END>
+
+[BLOCK: 0135]
+키 아이템６
+<FB1F>
+<END>
+
+[BLOCK: 0136]
+키 아이템７
+<FB1F>
+<END>
+
+[BLOCK: 0137]
+키 아이템８
+<FB1F>
+<END>
+
+[BLOCK: 0138]
+키 아이템１
+<FB1F>
+<END>
+
+[BLOCK: 0139]
+키 아이템２
+<FB1F>
+<END>
+
+[BLOCK: 013A]
+키 아이템３
+<FB1F>
+<END>
+
+[BLOCK: 013B]
+키 아이템４
+<FB1F>
+<END>
+
+[BLOCK: 013C]
+키 아이템５
+<FB1F>
+<END>
+
+[BLOCK: 013D]
+키 아이템６
+<FB1F>
+<END>
+
+[BLOCK: 013E]
+키 아이템７
+<FB1F>
+<END>
+
+[BLOCK: 013F]
+키 아이템８
+<FB1F>
+<END>
+
+[BLOCK: 0140]
+키 아이템１
+<FB1F>
+<END>
+
+[BLOCK: 0141]
+키 아이템２
+<FB1F>
+<END>
+
+[BLOCK: 0142]
+키 아이템３
+<FB1F>
+<END>
+
+[BLOCK: 0143]
+키 아이템４
+<FB1F>
+<END>
+
+[BLOCK: 0144]
+키 아이템５
+<FB1F>
+<END>
+
+[BLOCK: 0145]
+키 아이템６
+<FB1F>
+<END>
+
+[BLOCK: 0146]
+키 아이템７
+<FB1F>
+<END>
+
+[BLOCK: 0147]
+키 아이템８
+<FB1F>
+<END>
+
+[BLOCK: 0148]
+키 아이템１
+<FB1F>
+<END>
+
+[BLOCK: 0149]
+키 아이템２
+<FB1F>
+<END>
+
+[BLOCK: 014A]
+키 아이템３
+<FB1F>
+<END>
+
+[BLOCK: 014B]
+키 아이템４
+<FB1F>
+<END>
+
+[BLOCK: 014C]
+키 아이템５
+<FB1F>
+<END>
+
+[BLOCK: 014D]
+키 아이템６
+<FB1F>
+<END>
+
+[BLOCK: 014E]
+키 아이템７
+<FB1F>
+<END>
+
+[BLOCK: 014F]
+키 아이템８
+<FB1F>
+<END>
+
+[BLOCK: 0150]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0151]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0152]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0153]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0154]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0155]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0156]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0157]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0158]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0159]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 015A]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 015B]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 015C]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 015D]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 015E]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 015F]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0160]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0161]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0162]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0163]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0164]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0165]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0166]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0167]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0168]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0169]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 016A]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 016B]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 016C]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 016D]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 016E]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 016F]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0170]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0171]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0172]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0173]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0174]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0175]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0176]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0177]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0178]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0179]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 017A]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 017B]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 017C]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 017D]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 017E]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 017F]
+아이템 예비
+<FB1F>
+<END>
+
+[BLOCK: 0180]
+장비 없음
+<FB1F>
+<END>
+
+[BLOCK: 0181]
+장비 없음
+<FB1F>
+<END>
+
+[BLOCK: 0182]
+장비 없음
+<FB1F>
+<END>
+
+[BLOCK: 0183]
+장비 없음
+<FB1F>
+<END>
+
+[BLOCK: 0184]
+장비 없음
+<FB1F>
+<END>
+

@@ -1,0 +1,303 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-0058]
+<WIN 340030001203>
+<DECOR 0008>
+재즈 ＣＤ가 있다…<LINE>
+<0378 0000><SPACE 2400><SEL 0100FD00>들어본다　<SEL 0111FD00>그만둔다<0378 0100><0385 80FFFF00>
+<END><CLOSE 0500>
+
+
+[Block 02, String: 0058-00B2]
+<WIN 340030001203>
+<DECOR 0008>
+헤비 메탈 ＣＤ다…<LINE>
+<0378 0000><SPACE 2400><SEL 0100FD00>들어본다　<SEL 0111FD00>그만둔다<0378 0100><0385 80FFFF00>
+<END><CLOSE 0500>
+
+
+[Block 03, String: 00B2-0110]
+<WIN 340030001203>
+<DECOR 0008>
+바로크 음악 ＣＤ 같다…<LINE>
+<0378 0000><SPACE 2400><SEL 0100FD00>들어본다　<SEL 0111FD00>그만둔다<0378 0100><0385 80FFFF00>
+<END><CLOSE 0500>
+
+
+[Block 04, String: 0110-016A]
+<WIN 340030001203>
+<DECOR 0008>
+클래식 ＣＤ가 있다…<LINE>
+<0378 0000><SPACE 2400><SEL 0100FD00>들어본다　<SEL 0111FD00>그만둔다<0378 0100><0385 80FFFF00>
+<END><CLOSE 0500>
+
+
+[Block 05, String: 016A-01C2]
+<WIN 340030001203>
+<DECOR 0008>
+퓨전 ＣＤ다…<LINE>
+<0378 0000><SPACE 2400><SEL 0100FD00>들어본다　<SEL 0111FD00>그만둔다<0378 0100><0385 80FFFF00>
+<END><CLOSE 0500>
+
+
+[Block 06, String: 01C2-0260]
+<WIN 4C0030000E04>
+<DECOR 0008>
+히트곡 코너<NEXT>
+
+<CLEAR 0400>
+모리시타 레이카의<LINE>
+「ａｎｏｔｈｅｒ　ｓｕｎ」<LINE>
+이 인기 있다고 한다…<LINE>
+<0378 0000><SPACE 0C00><SEL 0100FD00>들어본다　<SEL 0111FD00>그만둔다<0378 0100><0385 80FFFF00>
+<END><CLOSE 0500>
+
+
+[Block 07, String: 0260-02A8]
+<WIN 340030001203>
+<DECOR 0008>
+체험해 볼 수 있는 것 같다<LINE>
+여러 ＣＤ를 한번 봐보자！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 02A8-02F0]
+<WIN 340030001203>
+<DECOR 0008>
+체험해 볼 수 있는 것 같다<LINE>
+여러 ＣＤ를 한번 봐보자！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 02F0-033A]
+<WIN 340030001203>
+<DECOR 0008>
+아，아무것도 가져가지 않았는데，<NEXT>
+
+<CLEAR 0400>
+두근두근 거린다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 033A-0384]
+<WIN 340030001203>
+<DECOR 0008>
+아，아무것도 가져가지 않았는데，<NEXT>
+
+<CLEAR 0400>
+두근두근 거린다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0384-03EC]
+<WIN 340030001203>
+<DECOR 0008>
+<0378 0000><MOVE_FREE><SPACE 3000>현재，듣는 중 입니다<LINE>
+<LINE>
+<SPACE 0900>그만두려면 아무 버튼을 눌러주세요<0378 0100><0386>
+<WAIT 007D>
+<NEXT>
+
+<END><CLOSE 0000>
+
+
+[Block 0C, String: 03EC-0438]
+<WIN 4000A2001003>
+<DECOR 0008>
+「마음에 드는 곡이 있다면<LINE>
+　한번 들어보세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 0438-04A2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「ＣＤ를 사러 왔지만<LINE>
+　용돈이 부족해서…<NEXT>
+
+<CLEAR 0400>
+　듣기만 하고 돌아갈래<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 04A2-04CE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 곡，좋네！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 04CE-051A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「마음에 드는 곡이 있다면<LINE>
+　한번 들어보세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 051A-0596]
+<WIN 4000A2001003>
+<DECOR 0008>
+「요즘 젊은 애들은<LINE>
+　무슨 음악을 듣는 걸까…<NEXT>
+
+<CLEAR 0400>
+　내가 젊었을 적엔<LINE>
+　테크노로 신나게 놀았었지！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 0596-05E2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「마음에 드는 곡이 있다면<LINE>
+　한번 들어보세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 05E2-0662]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뱃속에 있을 때부터<LINE>
+　좋은 음악 많이 들려줘서…<NEXT>
+
+<CLEAR 0400>
+　크거든<LINE>
+　뮤지션으로 만들 거야！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 0662-06CA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「…나한테 안성맞춤인<LINE>
+　멜로우하고 그루비하면서<LINE>
+　소울 넘치는 건 없을까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 06CA-06F0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어서오세요<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 06F0-074C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭐，뭔데<LINE>
+　내가 아이돌 곡을<LINE>
+　듣는게 이상하냐！？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 074C-07FA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「파란 소년 특집의<LINE>
+　테마곡을<LINE>
+　결정하고 싶은데…<NEXT>
+
+<CLEAR 0400>
+　당신의 테마는<LINE>
+　역시 로큰롤인가요？<NEXT>
+
+<CLEAR 0400>
+　・<PAUSE 0800>・<PAUSE 0800>・말장난 아닌데요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 07FA-0846]
+<WIN 4000A2001003>
+<DECOR 0008>
+「마음에 드는 곡이 있다면<LINE>
+　한번 들어보세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 0846-08C2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「나，지금<LINE>
+　브로큰 하트야…<NEXT>
+
+<CLEAR 0400>
+　소위 실연이라는 녀석이지<LINE>
+　실연 노래 없을까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 08C2-0940]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금，나，<LINE>
+　해피해피해요！！<NEXT>
+
+<CLEAR 0400>
+　뭔가，끓어오르는 노래<LINE>
+　없을라나～<LINE>
+　막 이래！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1A, String: 0940-098C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「마음에 드는 곡이 있다면<LINE>
+　한번 들어보세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1B, String: 098C-09E4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이럴 땐<LINE>
+　음악이라도 듣고，기분을<LINE>
+　진정시키는 게 최고지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1C, String: 09E4-0A30]
+<WIN 4000A2001003>
+<DECOR 0008>
+「마음에 드는 곡이 있다면<LINE>
+　한번 들어보세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1D, String: 0A30-0A92]
+<WIN 4000A2001003>
+<DECOR 0008>
+「내가 고른 이 곡，<LINE>
+　불경이야！<NEXT>
+
+<CLEAR 0400>
+　와～ 마음이 침착해져…<NEXT>
+
+<END><CLOSE 0400>
+
+

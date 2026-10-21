@@ -1,0 +1,453 @@
+[Block 00, String: 0000-0028]
+<MSG_IF 0A020AFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+경기가 안 좋아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 01, String: 0028-0084]
+<MSG_IF 0A020AFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「비공선의 부품？<LINE>
+　・・그건 정크샵에서<LINE>
+　찾는게 좋을거야<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 0084-00AE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「건전지 없을까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00AE-0132]
+<WIN 4000A2001003>
+<DECOR 0008>
+「ＡＶ매니아라서<LINE>
+　비디오를 보러왔습니다・・<NEXT>
+
+<CLEAR 0400>
+　ＡＶ 라는 건<LINE>
+　오디오・비주얼<LINE>
+　얘기예요・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 0132-0186]
+<MSG_IF 0A020AFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적 소동도 가라앉았으니<LINE>
+　경기가 좋아지면 좋겠네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 0186-01F4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「트론 님이 뭐라고<LINE>
+　말했더라？<NEXT>
+
+<CLEAR 0400>
+　잘못하면<LINE>
+　혼날거야・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 01F4-0232]
+<WIN 4000A2001003>
+<DECOR 0008>
+「전기 곡괭이라든가<LINE>
+　있으면 좋을 텐데～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 0232-029E]
+<MSG_IF 0A020AFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「자，부흥 기념<LINE>
+　세일 중이야！！<NEXT>
+
+<CLEAR 0400>
+　비싼 상품도 사줘！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 029E-02F6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭘 사야 했는지<LINE>
+　기억이 안나・・<NEXT>
+
+<CLEAR 0400>
+　흑흑・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 02F6-0346]
+<WIN 4000A2001003>
+<DECOR 0008>
+「윈도우 쇼핑도<LINE>
+　즐겼겠다，<LINE>
+　슬슬 돌아갈까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 0346-0444]
+<GET 0B02><WIN 340030001203>
+<DECOR 0008>
+「어，가방을 든 손님？<LINE>
+　아，왔었지．<NEXT>
+
+<CLEAR 0400>
+「큰 돈을 가지고 있어서，<LINE>
+　이것저것 추천해줬는데<NEXT>
+
+<CLEAR 0400>
+「전혀 살 기미가 안보이더라고<LINE>
+　자기 돈이 아니라면서．<NEXT>
+
+<CLEAR 0400>
+「배고프다고 말하곤<LINE>
+　나가버렸어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0444-04A8]
+<MSG_IF 0A020AFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「불경기도 진정됐고<LINE>
+　다시 착실하게 장사를<LINE>
+　해볼까…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 04A8-04DA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「또 배터리가 다 떨어졌어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 04DA-059C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저는<LINE>
+　헤어 드라이어를 사러 왔어요<NEXT>
+
+<CLEAR 0400>
+　멋을 내려고요！<NEXT>
+
+<CLEAR 0400>
+　멋내기 하니까 생각난건데，<LINE>
+　신사복 가게에 계속 있는 건<LINE>
+　내 쌍둥이 동생이에요<NEXT>
+
+<CLEAR 0400>
+　그 녀석한테는 두손 들었어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 059C-05EE]
+<MSG_IF 0A020AFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「최근 방문 손님 수도<LINE>
+　안정되고 있어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 05EE-0644]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트 쪽에서<LINE>
+　뭔가 있었던 것 같아・・<NEXT>
+
+<CLEAR 0400>
+　흠・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0644-06B4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「해충 방지 램프를<LINE>
+　사러 왔어요<NEXT>
+
+<CLEAR 0400>
+　이 후에 어떤 일이 일어날지<LINE>
+　모르잖아요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 06B4-070A]
+<MSG_IF 0A020AFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「큰일이 나버렸네<LINE>
+　장사같은 걸 할 때가 아니군<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 070A-0756]
+<WIN 4000A2001003>
+<DECOR 0008>
+「손전등에 넣을<LINE>
+　건전지를 깜빡했어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 0756-0758]
+
+
+[Block 14, String: 0758-07B2]
+<WIN 4000A2001003>
+<DECOR 0008>
+여러 물건이 진열되어 있다<NEXT>
+
+<CLEAR 0400>
+하지만 파츠로 쓸만한 것은<LINE>
+없어보인다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 07B2-080C]
+<WIN 4000A2001003>
+<DECOR 0008>
+여러 물건이 진열되어 있다<NEXT>
+
+<CLEAR 0400>
+하지만 파츠로 쓸만한 것은<LINE>
+없어보인다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 080C-0844]
+<WIN 4000A2001003>
+<DECOR 0008>
+여러 빵 브로슈어가<LINE>
+진열되어 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 0844-0886]
+<WIN 4000A2001003>
+<DECOR 0008>
+ＴＶ다，<NEXT>
+
+<CLEAR 0400>
+하지만 들고 다닐 수 없으니<LINE>
+필요 없겠지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 0886-08B4]
+<WIN 4000A2001003>
+<DECOR 0008>
+비디오다<LINE>
+하지만 필요 없나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 08B4-08D6]
+<WIN 4000A2001003>
+<DECOR 0008>
+냉장고다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1A, String: 08D6-0944]
+<MSG_IF 0A020AFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「다시 도망치는 게<LINE>
+　좋으려나・・<NEXT>
+
+<CLEAR 0400>
+　그래도，그 사이에<LINE>
+　손님이 오면 어떡하지～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1B, String: 0944-09E4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「손전등의<LINE>
+　소형 전구를 깜빡했었어요<LINE>
+　이제 피난갈 수 있을 것 같아요<NEXT>
+
+<CLEAR 0400>
+　그래도 대피를 안해도 되는 게<LINE>
+　더 좋은 일이겠지만요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1C, String: 09E4-0AAC]
+<MSG_IF 460022FF>
+<WIN 400024001003>
+<DECOR 0008>
+「어머，처음 보는 얼굴이네<LINE>
+　혹시 당신<NEXT>
+
+<CLEAR 0400>
+　섬과 섬을 여행하는<LINE>
+　디그아우터라는<LINE>
+　사람인가？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 801D1E00>
+<END><CLOSE 0000>
+
+
+[Block 1D, String: 0AAC-0B24]
+<WIN 400024001003>
+<DECOR 0008>
+「어머，역시 그렇구나！<NEXT>
+
+<CLEAR 0400>
+　요즘 유행하고 있다던데<LINE>
+　너 같은 어린아이도<LINE>
+　하고있구나・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1E, String: 0B24-0B9C]
+<WIN 400024001003>
+<DECOR 0008>
+「아，그런가・・<NEXT>
+
+<CLEAR 0400>
+　특이한 차림이라서<LINE>
+　그런 줄 알았는데<LINE>
+　아니었구나・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 0B9C-0C4A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머，당신・・<LINE>
+　디그아우터 씨 였던가？<NEXT>
+
+<CLEAR 0400>
+　・・그렇다면 공적이라고<LINE>
+　알고 있어？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 80202100>
+<END><CLOSE 0000>
+
+
+[Block 20, String: 0C4A-0CB0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「세상에！<NEXT>
+
+<CLEAR 0400>
+　그럼 설마<LINE>
+　공적의 동료라고<LINE>
+　말할 셈은 아닌거지！？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 0CB0-0DA2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적이란 말야<LINE>
+　섬과 섬을 여행하는<LINE>
+　디그아우터들 중에서도<NEXT>
+
+<CLEAR 0400>
+　보물을 손에 넣기 위해서라면<LINE>
+　뭐든지 한다고하는<LINE>
+　나쁜 녀석들이야！<NEXT>
+
+<CLEAR 0400>
+　혹시 이 섬에도<LINE>
+　공적이 있다고 생각하면・・<LINE>
+　아아，천지신명님・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 0DA2-0E4C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어머，또 만났네<NEXT>
+
+<CLEAR 0400>
+　혹시 알고 있니？<LINE>
+　공적이 이 섬을<LINE>
+　협박하고 있다는 소문<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>안다<SPACE 0C00><SEL 0111FD00>모른다<0378 0100><0385 80232400>
+<END><CLOSE 0000>
+
+
+[Block 23, String: 0E4C-0ECE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「세상에，알고 있었니！<LINE>
+　그럼，소문은 진짜였구나<NEXT>
+
+<CLEAR 0400>
+　그렇다면 고민할 필요없이<LINE>
+　바로 피난 가야겠다！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 0ECE-0F16]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그렇구나・・<LINE>
+　헛소문이라 다행이네<NEXT>
+
+<CLEAR 0400>
+　휴우・・<NEXT>
+
+<END><CLOSE 0400>
+
+

@@ -1,0 +1,1129 @@
+[Block 00, String: 0000-0048]
+<MOVE_FREE><NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 01000B00>
+역시，왔어！<LINE>
+또 저 녀석들의 메카야！！<END><CLOSE 5000>
+
+
+[Block 01, String: 0048-0096]
+<MOVE_FREE><NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 00000B00>
+소나에 뭔가 반응이 있어…<LINE>
+록，방심하지마！！<END><CLOSE 5700>
+
+
+[Block 02, String: 0096-0130]
+<MOVE_FREE><NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 04000B00>
+조무래기들은 거의 해치운<LINE>
+모양인 것 같아…<CLEAR 2D00>
+<AUDIO 05000B00>
+앗，소나에 적의 반응이！<LINE>
+스크류 소리가 매우 커！！<LINE>
+록，조심해！<LINE>
+<END><CLOSE 9B00>
+
+
+[Block 03, String: 0130-01AA]
+<MOVE_FREE><NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 06000B00>
+공격이 거세！！<LINE>
+정면에서 싸우는 것은<LINE>
+그만두는게 좋아보여<CLEAR 8200>
+<AUDIO 07000B00>
+잠시 후퇴했다가 돌아올까…<END><CLOSE 3200>
+
+
+[Block 04, String: 01AA-0230]
+<NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 08000B00>
+저기，록．이대로 싸울까？<LINE>
+아니면 일단 돌아갈래？<WAIT 6900>
+<NEXT>
+
+<CLEAR 0000>
+<WIN 6A00A0000901>
+<DECOR 0008>
+<SEL 0100FD00>싸운다<SEL 0111FD00>돌아간다<0385 00FF0800>
+<END><CLOSE 0000>
+
+
+[Block 05, String: 0230-0278]
+<MOVE_FREE><NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 1B003000>
+일단，돌아갔다 오자<LINE>
+보트하우스로 돌아갈게<END><CLOSE 6400>
+
+
+[Block 06, String: 0278-02CE]
+<MOVE_FREE><NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 1C003000>
+알았어，록！<LINE>
+이대로 가보자，<LINE>
+꽉 붙잡고 있어！<END><CLOSE 7800>
+
+
+[Block 07, String: 02CE-0394]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 1E003000>
+<WIN 8C0030000E02>
+<DECOR 0008>
+Ｔ・본<LINE>
+「자자，왜 그러냐！<CLEAR 2400>
+잘 피하지 않으면<LINE>
+볼기짝에 구멍이 날거라고<CLEAR 7E00>
+<MOVE_FREE><NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 1F003000>
+정말，끈질기네…<LINE>
+<CLEAR 2800>
+록… 록，괜찮아？<LINE>
+떨어지진 않은 거지<END><CLOSE 8F00>
+
+
+[Block 08, String: 0394-03A0]
+<GET 0406><END><CLOSE 0000>
+
+
+[Block 09, String: 03A0-045E]
+<MOVE_FREE><NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 20003000>
+ＯＫ！ 딱 좋은 넓이야<LINE>
+저쪽이라면 조금 선회가<LINE>
+잘 안될 거야…<CLEAR A200>
+<NO_CHAR_SFX><AUDIO 21003000>
+<WIN 8C0030000E02>
+<DECOR 0008>
+트론<LINE>
+「뭐야，쟤들！<CLEAR 3C00>
+촐랑촐랑 도망치기나 하고！<CLEAR 2800>
+이제 포기해ー<END><CLOSE 4E00>
+
+
+[Block 0A, String: 045E-04E6]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 22003000>
+<WIN 8C0030000F02>
+<DECOR 0008>
+본<LINE>
+「바부？<CLEAR 1E00>
+<AUDIO 23003000>
+Ｔ・본<LINE>
+「저<SPACE 0400>녀석들，도망을<SPACE 0400>안<SPACE 0400>치는데？<LINE>
+<CLEAR 2C00>
+설마，우리를<LINE>
+이겨먹을 수 있다 생각하나<END><CLOSE 6400>
+
+
+[Block 0B, String: 04E6-057C]
+<PAUSE B400><MOVE_FREE><NO_CHAR_SFX><AUDIO 02000B00>
+<WIN 520028000D03>
+<DECOR 0008>
+록，아직 긴장을 풀지마<LINE>
+소나의 적의 반응이 다수<CLEAR 5800>
+<AUDIO 03000B00>
+스크류 소리가，<LINE>
+이 배의 주위를<LINE>
+빙글빙글 돌고있어…<END><CLOSE 4D00>
+
+
+[Block 0C, String: 057C-05BC]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 09000B00>
+<WIN 520028000D03>
+<DECOR 0008>
+잘 하고있어<LINE>
+계속 가보자，록<END><CLOSE 3700>
+
+
+[Block 0D, String: 05BC-060E]
+<MOVE_FREE><NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 24003000>
+팔과 포대를 노려！<LINE>
+공격을 할수 없게되면<LINE>
+그냥 개구리일 뿐이야！<END><CLOSE 8200>
+
+
+[Block 0E, String: 060E-06A2]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 25003000>
+<WIN 8C0030000E02>
+<DECOR 0008>
+꼬붕<LINE>
+「히이이，안 되겠어요<CLEAR 3C00>
+트론 님～<CLEAR 3200>
+<AUDIO 26003000>
+트론<LINE>
+「허둥대고 있지마！<CLEAR 2800>
+아직，하나가 더 있잖아！！<END><CLOSE 3C00>
+
+
+[Block 0F, String: 06A2-06A4]
+
+
+[Block 10, String: 06A4-06F2]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 27003000>
+<WIN 8C0030000E02>
+<DECOR 0008>
+꼬붕<LINE>
+「본 님ー<CLEAR 3200>
+모든 병기가，당해버렸어요ー<PAUSE 5000><JUMP 0011>
+
+[Block 11, String: 06F2-0766]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 28003000>
+<WIN 8C0030000E02>
+<DECOR 0008>
+Ｔ・본<LINE>
+「쫑알쫑알 시끄러워！<CLEAR 3200>
+젠장，최후의 수단이다<CLEAR 3200>
+본 일가를 얕보지마라！<END><CLOSE 6400>
+
+
+[Block 12, String: 0766-0792]
+<MOVE_FREE><NO_CHAR_SFX><AUDIO 0A000B00>
+<WIN 520028000D03>
+<DECOR 0008>
+이젠 끝장이야！！<LINE>
+<END><CLOSE 5500>
+
+
+[Block 13, String: 0792-07C0]
+<WIN 520028000D03>
+<DECOR 0008>
+이번에는<LINE>
+지지 않을 거야ーーー<END><CLOSE 4B00>
+
+
+[Block 14, String: 07C0-07FC]
+<WIN 520028000D03>
+<DECOR 0008>
+이제 하는 수밖에 없네<LINE>
+<PAUSE 1E00>이대로 갈게，록<END><CLOSE 3C00>
+
+
+[Block 15, String: 07FC-085A]
+<WIN 520028000D03>
+<DECOR 0008>
+롤<LINE>
+「록，마을로 돌아갈까？<LINE>
+<0378 0000><SPACE 2400><SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0378 0100><0385 8016FF00>
+<END><CLOSE 0000>
+
+
+[Block 16, String: 085A-0866]
+<GET 0506><END><CLOSE 0000>
+
+
+[Block 17, String: 0866-0868]
+
+
+[Block 18, String: 0868-096A]
+<0395 0000000000000200><PAUSE 0F00><WIN 4C0018000E10>
+<DECOR 0108>
+<NO_CHAR_SFX><COLOR 0400><LINE>
+<LINE>
+<LINE>
+<LINE>
+<LINE>
+<COLOR 0200><SPACE 3600>수상전！！<LINE>
+<PAUSE 0F00><LINE>
+<SPACE 2700>앞길을 가로막는<LINE>
+<SPACE 0300>적의 공격에서 보트를 지키자<LINE>
+<PAUSE 1400><LINE>
+<SPACE 1200>붉은 잠수메카의 어뢰와<LINE>
+<SPACE 1800>노란 메카의 미사일은<LINE>
+<SPACE 2400>보트에 닿기 전에<LINE>
+<SPACE 3600>파괴하자！<LINE>
+<NEXT>
+
+<0396>
+<AUDIO 07000500>
+<PAUSE 3C00><0395 0100FFFF00000200><END><CLOSE 0000>
+
+
+[Block 19, String: 096A-0992]
+<NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 15003000>
+록，앞에！<LINE>
+<END><CLOSE 2800>
+
+
+[Block 1A, String: 0992-09BE]
+<NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 16003000>
+록，뒤에！<LINE>
+<END><CLOSE 2800>
+
+
+[Block 1B, String: 09BE-09E8]
+<NO_CHAR_SFX><WIN 520028000D03>
+<DECOR 0008>
+<AUDIO 17003000>
+상공에 적이…<LINE>
+<END><CLOSE 3200>
+
+
+[Block 1C, String: 09E8-09EA]
+
+
+[Block 1D, String: 09EA-09EC]
+
+
+[Block 1E, String: 09EC-0A28]
+<WIN 400024001003>
+<DECOR 0008>
+「호수의 유적이군・・<LINE>
+　저장 할래？<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 1F, String: 0A28-0A54]
+<0395 0000000001000280><MOVE_FREE><PAUSE 0F00><AUDIO 3A000500>
+<PAUSE 3C00><0395 0100FFFF00000200><END><CLOSE 0000>
+
+
+[Block 20, String: 0A54-0A56]
+
+
+[Block 21, String: 0A56-0A58]
+
+
+[Block 22, String: 0A58-0A5A]
+
+
+[Block 23, String: 0A5A-0A5C]
+
+
+[Block 24, String: 0A5C-0A5E]
+
+
+[Block 25, String: 0A5E-0A60]
+
+
+[Block 26, String: 0A60-0A62]
+
+
+[Block 27, String: 0A62-0A64]
+
+
+[Block 28, String: 0A64-0A66]
+
+
+[Block 29, String: 0A66-0A68]
+
+
+[Block 2A, String: 0A68-0A6A]
+
+
+[Block 2B, String: 0A6A-0A6C]
+
+
+[Block 2C, String: 0A6C-0A6E]
+
+
+[Block 2D, String: 0A6E-0A70]
+
+
+[Block 2E, String: 0A70-0A72]
+
+
+[Block 2F, String: 0A72-0A74]
+
+
+[Block 30, String: 0A74-0A76]
+
+
+[Block 31, String: 0A76-0A78]
+
+
+[Block 32, String: 0A78-0A7A]
+
+
+[Block 33, String: 0A7A-0A7C]
+
+
+[Block 34, String: 0A7C-0A7E]
+
+
+[Block 35, String: 0A7E-0A80]
+
+
+[Block 36, String: 0A80-0A82]
+
+
+[Block 37, String: 0A82-0A84]
+
+
+[Block 38, String: 0A84-0A86]
+
+
+[Block 39, String: 0A86-0A88]
+
+
+[Block 3A, String: 0A88-0A8A]
+
+
+[Block 3B, String: 0A8A-0A8C]
+
+
+[Block 3C, String: 0A8C-0A8E]
+
+
+[Block 3D, String: 0A8E-0A90]
+
+
+[Block 3E, String: 0A90-0A92]
+
+
+[Block 3F, String: 0A92-0A94]
+
+
+[Block 40, String: 0A94-0A96]
+
+
+[Block 41, String: 0A96-0A98]
+
+
+[Block 42, String: 0A98-0A9A]
+
+
+[Block 43, String: 0A9A-0A9C]
+
+
+[Block 44, String: 0A9C-0A9E]
+
+
+[Block 45, String: 0A9E-0AA0]
+
+
+[Block 46, String: 0AA0-0AA2]
+
+
+[Block 47, String: 0AA2-0AA4]
+
+
+[Block 48, String: 0AA4-0AA6]
+
+
+[Block 49, String: 0AA6-0AA8]
+
+
+[Block 4A, String: 0AA8-0AAA]
+
+
+[Block 4B, String: 0AAA-0AAC]
+
+
+[Block 4C, String: 0AAC-0AAE]
+
+
+[Block 4D, String: 0AAE-0AB0]
+
+
+[Block 4E, String: 0AB0-0AB2]
+
+
+[Block 4F, String: 0AB2-0AB4]
+
+
+[Block 50, String: 0AB4-0AB6]
+
+
+[Block 51, String: 0AB6-0AB8]
+
+
+[Block 52, String: 0AB8-0ABA]
+
+
+[Block 53, String: 0ABA-0ABC]
+
+
+[Block 54, String: 0ABC-0ABE]
+
+
+[Block 55, String: 0ABE-0AC0]
+
+
+[Block 56, String: 0AC0-0AC2]
+
+
+[Block 57, String: 0AC2-0AC4]
+
+
+[Block 58, String: 0AC4-0AC6]
+
+
+[Block 59, String: 0AC6-0AC8]
+
+
+[Block 5A, String: 0AC8-0ACA]
+
+
+[Block 5B, String: 0ACA-0ACC]
+
+
+[Block 5C, String: 0ACC-0ACE]
+
+
+[Block 5D, String: 0ACE-0AD0]
+
+
+[Block 5E, String: 0AD0-0AD2]
+
+
+[Block 5F, String: 0AD2-0AD4]
+
+
+[Block 60, String: 0AD4-0AD6]
+
+
+[Block 61, String: 0AD6-0AD8]
+
+
+[Block 62, String: 0AD8-0ADA]
+
+
+[Block 63, String: 0ADA-0ADC]
+
+
+[Block 64, String: 0ADC-0ADE]
+
+
+[Block 65, String: 0ADE-0AE0]
+
+
+[Block 66, String: 0AE0-0AE2]
+
+
+[Block 67, String: 0AE2-0AE4]
+
+
+[Block 68, String: 0AE4-0AE6]
+
+
+[Block 69, String: 0AE6-0AE8]
+
+
+[Block 6A, String: 0AE8-0AEA]
+
+
+[Block 6B, String: 0AEA-0AEC]
+
+
+[Block 6C, String: 0AEC-0AEE]
+
+
+[Block 6D, String: 0AEE-0AF0]
+
+
+[Block 6E, String: 0AF0-0AF2]
+
+
+[Block 6F, String: 0AF2-0AF4]
+
+
+[Block 70, String: 0AF4-0AF6]
+
+
+[Block 71, String: 0AF6-0AF8]
+
+
+[Block 72, String: 0AF8-0AFA]
+
+
+[Block 73, String: 0AFA-0AFC]
+
+
+[Block 74, String: 0AFC-0AFE]
+
+
+[Block 75, String: 0AFE-0B00]
+
+
+[Block 76, String: 0B00-0B02]
+
+
+[Block 77, String: 0B02-0B04]
+
+
+[Block 78, String: 0B04-0B06]
+
+
+[Block 79, String: 0B06-0B08]
+
+
+[Block 7A, String: 0B08-0B0A]
+
+
+[Block 7B, String: 0B0A-0B0C]
+
+
+[Block 7C, String: 0B0C-0B0E]
+
+
+[Block 7D, String: 0B0E-0B10]
+
+
+[Block 7E, String: 0B10-0B12]
+
+
+[Block 7F, String: 0B12-0B14]
+
+
+[Block 80, String: 0B14-0B16]
+
+
+[Block 81, String: 0B16-0B18]
+
+
+[Block 82, String: 0B18-0B1A]
+
+
+[Block 83, String: 0B1A-0B1C]
+
+
+[Block 84, String: 0B1C-0B1E]
+
+
+[Block 85, String: 0B1E-0B20]
+
+
+[Block 86, String: 0B20-0B22]
+
+
+[Block 87, String: 0B22-0B24]
+
+
+[Block 88, String: 0B24-0B26]
+
+
+[Block 89, String: 0B26-0B28]
+
+
+[Block 8A, String: 0B28-0B2A]
+
+
+[Block 8B, String: 0B2A-0B2C]
+
+
+[Block 8C, String: 0B2C-0B2E]
+
+
+[Block 8D, String: 0B2E-0B30]
+
+
+[Block 8E, String: 0B30-0B32]
+
+
+[Block 8F, String: 0B32-0B34]
+
+
+[Block 90, String: 0B34-0B36]
+
+
+[Block 91, String: 0B36-0B38]
+
+
+[Block 92, String: 0B38-0B3A]
+
+
+[Block 93, String: 0B3A-0B3C]
+
+
+[Block 94, String: 0B3C-0B3E]
+
+
+[Block 95, String: 0B3E-0B40]
+
+
+[Block 96, String: 0B40-0B42]
+
+
+[Block 97, String: 0B42-0B44]
+
+
+[Block 98, String: 0B44-0B46]
+
+
+[Block 99, String: 0B46-0B48]
+
+
+[Block 9A, String: 0B48-0B4A]
+
+
+[Block 9B, String: 0B4A-0B4C]
+
+
+[Block 9C, String: 0B4C-0B4E]
+
+
+[Block 9D, String: 0B4E-0B50]
+
+
+[Block 9E, String: 0B50-0B52]
+
+
+[Block 9F, String: 0B52-0B54]
+
+
+[Block A0, String: 0B54-0B56]
+
+
+[Block A1, String: 0B56-0B58]
+
+
+[Block A2, String: 0B58-0B5A]
+
+
+[Block A3, String: 0B5A-0B5C]
+
+
+[Block A4, String: 0B5C-0B5E]
+
+
+[Block A5, String: 0B5E-0B60]
+
+
+[Block A6, String: 0B60-0B62]
+
+
+[Block A7, String: 0B62-0B64]
+
+
+[Block A8, String: 0B64-0B66]
+
+
+[Block A9, String: 0B66-0B68]
+
+
+[Block AA, String: 0B68-0B6A]
+
+
+[Block AB, String: 0B6A-0B6C]
+
+
+[Block AC, String: 0B6C-0B6E]
+
+
+[Block AD, String: 0B6E-0B70]
+
+
+[Block AE, String: 0B70-0B72]
+
+
+[Block AF, String: 0B72-0B74]
+
+
+[Block B0, String: 0B74-0B76]
+
+
+[Block B1, String: 0B76-0B78]
+
+
+[Block B2, String: 0B78-0B7A]
+
+
+[Block B3, String: 0B7A-0B7C]
+
+
+[Block B4, String: 0B7C-0B7E]
+
+
+[Block B5, String: 0B7E-0B80]
+
+
+[Block B6, String: 0B80-0B82]
+
+
+[Block B7, String: 0B82-0B84]
+
+
+[Block B8, String: 0B84-0B86]
+
+
+[Block B9, String: 0B86-0B88]
+
+
+[Block BA, String: 0B88-0B8A]
+
+
+[Block BB, String: 0B8A-0B8C]
+
+
+[Block BC, String: 0B8C-0B8E]
+
+
+[Block BD, String: 0B8E-0B90]
+
+
+[Block BE, String: 0B90-0B92]
+
+
+[Block BF, String: 0B92-0B94]
+
+
+[Block C0, String: 0B94-0B96]
+
+
+[Block C1, String: 0B96-0B98]
+
+
+[Block C2, String: 0B98-0B9A]
+
+
+[Block C3, String: 0B9A-0B9C]
+
+
+[Block C4, String: 0B9C-0B9E]
+
+
+[Block C5, String: 0B9E-0BA0]
+
+
+[Block C6, String: 0BA0-0BA2]
+
+
+[Block C7, String: 0BA2-0BA4]
+
+
+[Block C8, String: 0BA4-0BA6]
+
+
+[Block C9, String: 0BA6-0BA8]
+
+
+[Block CA, String: 0BA8-0BAA]
+
+
+[Block CB, String: 0BAA-0BAC]
+
+
+[Block CC, String: 0BAC-0BAE]
+
+
+[Block CD, String: 0BAE-0BB0]
+
+
+[Block CE, String: 0BB0-0BB2]
+
+
+[Block CF, String: 0BB2-0BB4]
+
+
+[Block D0, String: 0BB4-0BB6]
+
+
+[Block D1, String: 0BB6-0BB8]
+
+
+[Block D2, String: 0BB8-0BBA]
+
+
+[Block D3, String: 0BBA-0BBC]
+
+
+[Block D4, String: 0BBC-0BBE]
+
+
+[Block D5, String: 0BBE-0BC0]
+
+
+[Block D6, String: 0BC0-0BC2]
+
+
+[Block D7, String: 0BC2-0BC4]
+
+
+[Block D8, String: 0BC4-0BC6]
+
+
+[Block D9, String: 0BC6-0BC8]
+
+
+[Block DA, String: 0BC8-0BCA]
+
+
+[Block DB, String: 0BCA-0BCC]
+
+
+[Block DC, String: 0BCC-0C46]
+<NO_CHAR_SFX><0378 0000><CALL 01DD><WIN 5A00A0000C04>
+<DECOR 0008>
+<SEL 0031FD00>에너지 충전<LINE>
+<0391 1102FD00>저장한다<LINE>
+<SEL 2213FD00>정보가 필요하다<LINE>
+<SEL 3320FD00>아무것도 아니다<LINE>
+<0399 80DFDEE4FF00><END><CLOSE 0000>
+
+
+[Block DD, String: 0C46-0C6C]
+<WIN 5A0030000C01>
+<DECOR 0008>
+「뭘 할 거야～？<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block DE, String: 0C6C-0C84]
+<EXE_JUMP 0806><EXE_JUMP 0900><EXE_JUMP 0A00><EXE_JUMP 0B00><0378 0100><0383>
+
+[Block DF, String: 0C84-0D02]
+<CALL 01E3><03A3 FFE0E1E2>
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<LINE>
+<RESTORE_SP>특수무기 에너지가 가득 찼다<LINE>
+<RESTORE_SHIELD>라이프 실드가 고쳐졌다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E0, String: 0D02-0D50]
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<LINE>
+<RESTORE_SHIELD>라이프 실드가 고쳐졌다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E1, String: 0D50-0DA6]
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<LINE>
+<RESTORE_SP>특수무기 에너지가 가득 찼다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E2, String: 0DA6-0DD6]
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E3, String: 0DD6-0DDC]
+<CLOSE 0000>
+
+
+[Block E4, String: 0DDC-0E62]
+<NO_CHAR_SFX><0378 0000><CALL 01E5><WIN 5A00A0000C04>
+<DECOR 0008>
+<SEL 0031FD00>지금부터 어떻게 하지？<LINE>
+<SEL 1102FD00>락온에 대해서<LINE>
+<SEL 2213FD00>실드에 대해서<LINE>
+<SEL 3320FD00>아무것도 아니다<LINE>
+<0385 80E6E8ECDC00>
+<END><CLOSE 0000>
+
+
+[Block E5, String: 0E62-0E86]
+<WIN 5A0030000C01>
+<DECOR 0008>
+「뭔데～？<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block E6, String: 0E86-0F56]
+<MSG_IF 2905E7FF>
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001003>
+<DECOR 0008>
+「여기는 쥬인호의<LINE>
+　서브게이트야<NEXT>
+
+<CLEAR 0400>
+　분명 여기에도<LINE>
+　디플렉터가<LINE>
+　있지 않을까나～<NEXT>
+
+<CLEAR 0400>
+　도시로 돌아가려면 보트로<LINE>
+　돌아갈 수 밖에 없겠네～<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block E7, String: 0F56-0FA8]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「역시나 여기에도，<LINE>
+　디플렉터가 있었네～<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block E8, String: 0FA8-1020]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「적의 공격도 거세지고 있어<NEXT>
+
+<CLEAR 0400>
+　적과 싸울 때，<LINE>
+　락온 기능은 쓰고있어？<CALL 01E9><037B 0100>
+<END><CLOSE 0000>
+
+
+[Block E9, String: 1020-1078]
+<NO_CHAR_SFX><0378 0000><WIN 7800A0000702>
+<DECOR 0008>
+<SPACE 0600><SEL 0001FD00>쓰고있어<LINE>
+<SPACE 0600><SEL 1101FD00>아니<LINE>
+<0385 00FFFF00>
+<IF 000000EA><IF 010000EB><END><CLOSE 0000>
+
+
+[Block EA, String: 1078-10BE]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「역시 록이야～<LINE>
+　나도 안심이야，안심<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block EB, String: 10BE-1320]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「에～～～！！！！<NEXT>
+
+<CLEAR 0400>
+　잘도 여기까지 왔네<LINE>
+　나 놀랐어<NEXT>
+
+<CLEAR 0400>
+　락온 기능이라는 건・・・<NEXT>
+
+<CLEAR 0400>
+<WIN 3A0024001103>
+<DECOR 0008>
+<COLOR 0400><SPACE 4200>～조작설명～<LINE>
+<COLOR 0000><SPACE 0900>Ｌ버튼을 누르며 Ｒ버튼을 누르면<LINE>
+<SPACE 0900>자동적으로 근처의 적을 조준한다<NEXT>
+
+<CLEAR 0400>
+<SPACE 0300>버튼을 계속 누르는 동안 적을 계속<LINE>
+<SPACE 0F00>노릴테니까，Ｌ버튼과 Ｒ버튼을<LINE>
+<SPACE 1200>누르면서 공격하면 편리할거야<NEXT>
+
+<CLEAR 0400>
+<SPACE 2D00>또한，옵션 설정에서<LINE>
+<SPACE 1800>락온을 자동으로 설정하면，<LINE>
+<SPACE 3F00>더더욱 편리！<NEXT>
+
+<CLEAR 0400>
+<SPACE 0C00>Ｌ버튼과 Ｒ버튼을 누르지않아도<LINE>
+<SPACE 0000>자동으로 가장 가까운 적을 겨냥해서<LINE>
+<SPACE 3600>공격할 수 있어！<NEXT>
+
+<CLEAR 0400>
+<WIN 400024001002>
+<DECOR 0008>
+「・・・라는데～<LINE>
+　알겠어～？<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block EC, String: 1320-1376]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「실드 기능에 대해서는<LINE>
+　알고 있을까～<CALL 01ED><037B 0100>
+<END><CLOSE 0000>
+
+
+[Block ED, String: 1376-13CC]
+<NO_CHAR_SFX><0378 0000><WIN 7800A0000702>
+<DECOR 0008>
+<SPACE 0600><SEL 0001FD00>알고 있다<LINE>
+<SPACE 0600><SEL 1101FD00>전혀<LINE>
+<0385 00FFFF00>
+<IF 000000EE><IF 010000EF><END><CLOSE 0000>
+
+
+[Block EE, String: 13CC-1400]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「그럼，괜찮아～<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block EF, String: 1400-15DA]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 340024001203>
+<DECOR 0008>
+「실드는 적에게 받은 대미지를<LINE>
+　줄여주는 편리한 기능이야～<NEXT>
+
+<CLEAR 0400>
+　그래도 라이프 게이지가 빨갛게<LINE>
+　되었을 땐，실드가<LINE>
+　작동하지 않으니까 조심해～<NEXT>
+
+<CLEAR 0400>
+　실드는 조금 시간이 지나면<LINE>
+　자동으로 회복 돼～<NEXT>
+
+<CLEAR 0400>
+　하지만<SPACE 0200>강력한<SPACE 0200>공격을<SPACE 0200>받았을 때나，<LINE>
+　파손돼서 빨갛게 된다면，<LINE>
+　수리하지 않으면 안돼～<NEXT>
+
+<CLEAR 0400>
+<MSG_IF EB01E4FF>
+<MSG_IF 4005E4FF>
+　이게 수리용 아이템이야～<NEXT>
+
+<CLEAR 0400>
+<GET EB01><WIN 4000A0001002>
+<DECOR 0008>
+<037C 8600>
+실드 수리 아이템<LINE>
+<COLOR 0300><ITEM 4000><COLOR 0000><GET 4005>를 얻었다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block F0, String: 15DA-15DC]
+
+
+[Block F1, String: 15DC-15DE]
+
+
+[Block F2, String: 15DE-15E0]
+
+
+[Block F3, String: 15E0-15E2]
+
+
+[Block F4, String: 15E2-15E4]
+
+
+[Block F5, String: 15E4-15E6]
+
+
+[Block F6, String: 15E6-15E8]
+
+
+[Block F7, String: 15E8-15EA]
+
+
+[Block F8, String: 15EA-15EC]
+
+
+[Block F9, String: 15EC-15EE]
+
+
+[Block FA, String: 15EE-1636]
+<NO_CHAR_SFX><0378 0000><WIN 0A00D6001801>
+　　　　　　　　　<COLOR 0500><TRIANGLE><COLOR 0000>버튼：저장 데이터 삭제
+

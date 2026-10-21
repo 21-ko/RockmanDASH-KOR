@@ -1,0 +1,1283 @@
+[Block 00, String: 0000-0074]
+<WIN 4000A2001003>
+<DECOR 0008>
+「보트다・・<NEXT>
+
+<CLEAR 0400>
+<0378 0000><SEL 0001FD00>롤을 불러 호수로 간다<LINE>
+<SEL 1101FD00>역시 그만둔다<LINE>
+<0378 0100><0385 8001FF00>
+<END><CLOSE 0500>
+
+
+[Block 01, String: 0074-0080]
+<GET 0406><END><CLOSE 0000>
+
+
+[Block 02, String: 0080-00CC]
+<WIN 4000A2001003>
+<DECOR 0008>
+롤<LINE>
+「장비를 교체할거라면<LINE>
+　서포트 카로 가자<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 00CC-018A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「와일리 씨한테 이 보트의<LINE>
+　수리를 부탁받았는데<LINE>
+　나로서는 고칠 수 없어<NEXT>
+
+<CLEAR 0400>
+　애초에，와일리 씨가<LINE>
+　고칠 수 없었던 것인데<LINE>
+　나한테 가능할리가 없지<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 018A-027C]
+<MSG_IF 1E0008FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 보트는<LINE>
+　디플렉터가 있다면야<LINE>
+　수리 가능할지도 모르겠지만<NEXT>
+
+<CLEAR 0400>
+　커다란 디플렉터를<LINE>
+　얻을 수 있는 곳이<LINE>
+　잘 없는편이지…<NEXT>
+
+<CLEAR 0400>
+　Ａ급 면허를 받고<LINE>
+　서브게이트라도 찾는다면<LINE>
+　모르지만 말야…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 027C-02E2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「깔끔하게 정비되어 있다<LINE>
+　디플렉터만 있다면，<LINE>
+　수리가 가능할지도 모른다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 02E2-0396]
+<WIN 4000A2001003>
+<DECOR 0008>
+「깔끔하게 정비되어 있다<LINE>
+　디플렉터만 있다면，<LINE>
+　수리가 가능할지도 모른다<NEXT>
+
+<CLEAR 0400>
+<0378 0000><SEL 0001FD00>롤을 불러 봐달라고 한다<LINE>
+<SEL 1101FD00>내버려 둔다<LINE>
+<0378 0100><0385 80090A00>
+<END><CLOSE 0500>
+
+
+[Block 07, String: 0396-03F4]
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭐～～！！<LINE>
+　보，보트를 도둑맞았다고！？<LINE>
+　와，진짜 나쁜녀석이 다 있네～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 03F4-04F0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 배의 고장난 부분은<LINE>
+　디플렉터의 주위야…<NEXT>
+
+<CLEAR 0400>
+　당신이나 갖고있을 법한<LINE>
+　커다란 디플렉터라면<LINE>
+　이 배를 수리할 수 있을지도…<NEXT>
+
+<CLEAR 0400>
+<0378 0000><SEL 0001FD00>롤을 불러 봐달라고 한다<LINE>
+<SEL 1101FD00>내버려 둔다<LINE>
+<0378 0100><0385 8009FF00>
+<END><CLOSE 0500>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 04F0-0504]
+<GET 3100><GET 3200><GET 0606><END><CLOSE 0000>
+
+
+[Block 0A, String: 0504-0588]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저기，들었어？<LINE>
+　이 곳의 보트는 전부<LINE>
+　도둑맞았대…<NEXT>
+
+<CLEAR 0400>
+　남은 거라곤<LINE>
+　고장난 배 뿐이래！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0588-0672]
+<WIN 4000A2001003>
+<DECOR 0008>
+「돌아왔군，대장<NEXT>
+
+<CLEAR 0400>
+　호오・・・그 녀석을<LINE>
+　디그아웃하고 올 줄이야・・<NEXT>
+
+<CLEAR 0400>
+　너희들，<LINE>
+　내 상상 이상의 열정을<LINE>
+　가진 것 같구나・・・<NEXT>
+
+<CLEAR 0400>
+　・・앞으로도，<LINE>
+　보트는 원한다면 언제든<LINE>
+　사용하게나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 0672-06FA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「저런 여자애가<LINE>
+　수리 해낸 것을<LINE>
+　나는 할 수 없었다니・・<NEXT>
+
+<CLEAR 0400>
+　크～！！<LINE>
+　나는 수행이 부족했던 건가～<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 06FA-07A2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신이 가지고 온<LINE>
+　디플렉터 덕분에<LINE>
+　보트는 고칠 수 있었어<NEXT>
+
+<CLEAR 0400>
+　・・근데，당신<LINE>
+　훨씬 더 큰 디플렉터를<LINE>
+　가지고 있잖아！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 07A2-0810]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어라，무슨 일이야？<NEXT>
+
+<CLEAR 0400>
+<0378 0000><SEL 0001FD00>롤에 대해서 물어보기<LINE>
+<SEL 1101FD00>아무것도 아니다<LINE>
+<0378 0100><0385 800F1000>
+<END><CLOSE 0500>
+
+
+[Block 0F, String: 0810-085A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「빨간 모자를 쓴 아이는<LINE>
+　방금 위로 올라갔어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 085A-089A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그렇네・・<NEXT>
+
+<CLEAR 0400>
+　・・아아，좋은 경치・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 089A-09D2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「알고있지？<LINE>
+　보트는 후미의 문으로<LINE>
+　탑승하는거야<NEXT>
+
+<CLEAR 0400>
+<MSG_IF 2105DCFF>
+　하지만，그 장비로 가려고？<LINE>
+　조금 미덥진 않네<NEXT>
+
+<CLEAR 0400>
+　롤에게<LINE>
+　아이템 만들어 달라고 할래～？<NEXT>
+
+<CLEAR 0400>
+<MSG_IF 6C05DCFF>
+　카돈숲의 서브게이트도<LINE>
+　전부 조사해봤어～？<NEXT>
+
+<CLEAR 0400>
+　난，아직도 뭔가 있을거란<LINE>
+　생각이 들지만～<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block 12, String: 09D2-0A88]
+<WIN 4000A2001003>
+<DECOR 0008>
+「레드 디플렉터라구！<LINE>
+　록！<NEXT>
+
+<CLEAR 0400>
+　이거라면，<LINE>
+　플러터 호도 수리할 수 있어！<LINE>
+　빨리 고치러가자！！<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0385 00FF1300>
+<END><CLOSE 0000>
+
+
+[Block 13, String: 0A88-0AF6]
+<WIN 3A00A2001103>
+<DECOR 0008>
+「무슨 이상한 소리를 하는 거야！？<LINE>
+　빨리 가자！<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<SEL 0100FD00>네<SPACE 0C00><SEL 0111FD00>아니오<0385 00FF1300>
+<END><CLOSE 0000>
+
+
+[Block 14, String: 0AF6-0BA2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적 놈들 너무하는군<LINE>
+　보트를 전부 가져가버리다니<NEXT>
+
+<CLEAR 0400>
+　뭐！？<LINE>
+　비공선이 떨어져！？<NEXT>
+
+<CLEAR 0400>
+　그럼 뭐<LINE>
+　너무 나쁘게 말하지는 말까…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 0BA2-0BF2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「으～음，정비 할 보트가<LINE>
+　１척 뿐이라 한가하네…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 0BF2-0C88]
+<WIN 4000A2001003>
+<DECOR 0008>
+「마을 쪽에 서브게이트가<LINE>
+　나타났다면서<NEXT>
+
+<CLEAR 0400>
+　이쪽도 막，샤샥ー！<LINE>
+　하고，해일 같은게 일어나서！<LINE>
+　무서운 생각이 들었어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 0C88-0D08]
+<WIN 4000A2001003>
+<DECOR 0008>
+「또 해일같은게 일어났어<LINE>
+　파바바바박ー！！ 하고！<NEXT>
+
+<CLEAR 0400>
+　어떻게 되는 걸까，<LINE>
+　이 섬은…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 0D08-0DC4]
+<MSG_IF 550022FF>
+<MSG_IF 27000BFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「호오… 공적들이<LINE>
+　내 보트를 훔쳐선…<NEXT>
+
+<CLEAR 0400>
+　그런 거창한 물건을<LINE>
+　만들고 있었던건가…<NEXT>
+
+<CLEAR 0400>
+　녀석들，호수의 유적에서<LINE>
+　뭘 하려고 하는거지…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 0DC4-0E52]
+<MSG_IF 27000CFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「저런 여자애가<LINE>
+　수리 해낸 것을<LINE>
+　나는 할 수 없었다니・・<NEXT>
+
+<CLEAR 0400>
+　크～！！<LINE>
+　나는 수행이 부족했던 건가<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1A, String: 0E52-0ED2]
+<MSG_IF 550023FF>
+<MSG_IF 27000DFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신이 가지고 온<LINE>
+　디플렉터 덕분에<LINE>
+　보트는 고칠 수 있었어<NEXT>
+
+<CLEAR 0400>
+　잘됐네 잘됐어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1B, String: 0ED2-0F2E]
+<MSG_IF 550024FF>
+<MSG_IF 27000EFF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「뭐지？ 호수 쪽이<LINE>
+　소란스러웠던 것 같아・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1C, String: 0F2E-0F30]
+
+
+[Block 1D, String: 0F30-0F32]
+
+
+[Block 1E, String: 0F32-0F60]
+<WIN 4000A2001003>
+<DECOR 0008>
+고장나서 움직이지 않는 것 같다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 0F60-0FA8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「보트 고쳐졌네，<LINE>
+　와일리 씨가 아닌데도…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0FA8-0FFE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「역시<LINE>
+　디플렉터 주위의<LINE>
+　고장이 원인이었나보네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 0FFE-1050]
+<WIN 4000A2001003>
+<DECOR 0008>
+「고친 보트 １척 가지고는，<LINE>
+　별 수 없는건가？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 1050-10EC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「그런가，<LINE>
+　그 디플렉터로<LINE>
+　비공선을 수리했는가…<NEXT>
+
+<CLEAR 0400>
+　이걸로，또<LINE>
+　디그아웃 할 수 있는 곳이<LINE>
+　늘어났다는 뜻이 되는군<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 10EC-117C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신이 가지고 온<LINE>
+　디플렉터 덕분에<LINE>
+　보트를 고쳤어요<NEXT>
+
+<CLEAR 0400>
+　하지만，１척 가지고는<LINE>
+　앞으로도 큰일이겠죠…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 117C-11AC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「・・아아，좋은 경치・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 25, String: 11AC-11AE]
+
+
+[Block 26, String: 11AE-11B0]
+
+
+[Block 27, String: 11B0-11B2]
+
+
+[Block 28, String: 11B2-11B4]
+
+
+[Block 29, String: 11B4-11B6]
+
+
+[Block 2A, String: 11B6-11B8]
+
+
+[Block 2B, String: 11B8-11BA]
+
+
+[Block 2C, String: 11BA-11BC]
+
+
+[Block 2D, String: 11BC-11BE]
+
+
+[Block 2E, String: 11BE-11C0]
+
+
+[Block 2F, String: 11C0-11C2]
+
+
+[Block 30, String: 11C2-11C4]
+
+
+[Block 31, String: 11C4-11C6]
+
+
+[Block 32, String: 11C6-11C8]
+
+
+[Block 33, String: 11C8-11CA]
+
+
+[Block 34, String: 11CA-11CC]
+
+
+[Block 35, String: 11CC-11CE]
+
+
+[Block 36, String: 11CE-11D0]
+
+
+[Block 37, String: 11D0-11D2]
+
+
+[Block 38, String: 11D2-11D4]
+
+
+[Block 39, String: 11D4-11D6]
+
+
+[Block 3A, String: 11D6-11D8]
+
+
+[Block 3B, String: 11D8-11DA]
+
+
+[Block 3C, String: 11DA-11DC]
+
+
+[Block 3D, String: 11DC-11DE]
+
+
+[Block 3E, String: 11DE-11E0]
+
+
+[Block 3F, String: 11E0-11E2]
+
+
+[Block 40, String: 11E2-11E4]
+
+
+[Block 41, String: 11E4-11E6]
+
+
+[Block 42, String: 11E6-11E8]
+
+
+[Block 43, String: 11E8-11EA]
+
+
+[Block 44, String: 11EA-11EC]
+
+
+[Block 45, String: 11EC-11EE]
+
+
+[Block 46, String: 11EE-11F0]
+
+
+[Block 47, String: 11F0-11F2]
+
+
+[Block 48, String: 11F2-11F4]
+
+
+[Block 49, String: 11F4-11F6]
+
+
+[Block 4A, String: 11F6-11F8]
+
+
+[Block 4B, String: 11F8-11FA]
+
+
+[Block 4C, String: 11FA-11FC]
+
+
+[Block 4D, String: 11FC-11FE]
+
+
+[Block 4E, String: 11FE-1200]
+
+
+[Block 4F, String: 1200-1202]
+
+
+[Block 50, String: 1202-1204]
+
+
+[Block 51, String: 1204-1206]
+
+
+[Block 52, String: 1206-1208]
+
+
+[Block 53, String: 1208-120A]
+
+
+[Block 54, String: 120A-120C]
+
+
+[Block 55, String: 120C-120E]
+
+
+[Block 56, String: 120E-1210]
+
+
+[Block 57, String: 1210-1212]
+
+
+[Block 58, String: 1212-1214]
+
+
+[Block 59, String: 1214-1216]
+
+
+[Block 5A, String: 1216-1218]
+
+
+[Block 5B, String: 1218-121A]
+
+
+[Block 5C, String: 121A-121C]
+
+
+[Block 5D, String: 121C-121E]
+
+
+[Block 5E, String: 121E-1220]
+
+
+[Block 5F, String: 1220-1222]
+
+
+[Block 60, String: 1222-1224]
+
+
+[Block 61, String: 1224-1226]
+
+
+[Block 62, String: 1226-1228]
+
+
+[Block 63, String: 1228-122A]
+
+
+[Block 64, String: 122A-122C]
+
+
+[Block 65, String: 122C-122E]
+
+
+[Block 66, String: 122E-1230]
+
+
+[Block 67, String: 1230-1232]
+
+
+[Block 68, String: 1232-1234]
+
+
+[Block 69, String: 1234-1236]
+
+
+[Block 6A, String: 1236-1238]
+
+
+[Block 6B, String: 1238-123A]
+
+
+[Block 6C, String: 123A-123C]
+
+
+[Block 6D, String: 123C-123E]
+
+
+[Block 6E, String: 123E-1240]
+
+
+[Block 6F, String: 1240-1242]
+
+
+[Block 70, String: 1242-1244]
+
+
+[Block 71, String: 1244-1246]
+
+
+[Block 72, String: 1246-1248]
+
+
+[Block 73, String: 1248-124A]
+
+
+[Block 74, String: 124A-124C]
+
+
+[Block 75, String: 124C-124E]
+
+
+[Block 76, String: 124E-1250]
+
+
+[Block 77, String: 1250-1252]
+
+
+[Block 78, String: 1252-1254]
+
+
+[Block 79, String: 1254-1256]
+
+
+[Block 7A, String: 1256-1258]
+
+
+[Block 7B, String: 1258-125A]
+
+
+[Block 7C, String: 125A-125C]
+
+
+[Block 7D, String: 125C-125E]
+
+
+[Block 7E, String: 125E-1260]
+
+
+[Block 7F, String: 1260-1262]
+
+
+[Block 80, String: 1262-1264]
+
+
+[Block 81, String: 1264-1266]
+
+
+[Block 82, String: 1266-1268]
+
+
+[Block 83, String: 1268-126A]
+
+
+[Block 84, String: 126A-126C]
+
+
+[Block 85, String: 126C-126E]
+
+
+[Block 86, String: 126E-1270]
+
+
+[Block 87, String: 1270-1272]
+
+
+[Block 88, String: 1272-1274]
+
+
+[Block 89, String: 1274-1276]
+
+
+[Block 8A, String: 1276-1278]
+
+
+[Block 8B, String: 1278-127A]
+
+
+[Block 8C, String: 127A-127C]
+
+
+[Block 8D, String: 127C-127E]
+
+
+[Block 8E, String: 127E-1280]
+
+
+[Block 8F, String: 1280-1282]
+
+
+[Block 90, String: 1282-1284]
+
+
+[Block 91, String: 1284-1286]
+
+
+[Block 92, String: 1286-1288]
+
+
+[Block 93, String: 1288-128A]
+
+
+[Block 94, String: 128A-128C]
+
+
+[Block 95, String: 128C-128E]
+
+
+[Block 96, String: 128E-1290]
+
+
+[Block 97, String: 1290-1292]
+
+
+[Block 98, String: 1292-1294]
+
+
+[Block 99, String: 1294-1296]
+
+
+[Block 9A, String: 1296-1298]
+
+
+[Block 9B, String: 1298-129A]
+
+
+[Block 9C, String: 129A-129C]
+
+
+[Block 9D, String: 129C-129E]
+
+
+[Block 9E, String: 129E-12A0]
+
+
+[Block 9F, String: 12A0-12A2]
+
+
+[Block A0, String: 12A2-12A4]
+
+
+[Block A1, String: 12A4-12A6]
+
+
+[Block A2, String: 12A6-12A8]
+
+
+[Block A3, String: 12A8-12AA]
+
+
+[Block A4, String: 12AA-12AC]
+
+
+[Block A5, String: 12AC-12AE]
+
+
+[Block A6, String: 12AE-12B0]
+
+
+[Block A7, String: 12B0-12B2]
+
+
+[Block A8, String: 12B2-12B4]
+
+
+[Block A9, String: 12B4-12B6]
+
+
+[Block AA, String: 12B6-12B8]
+
+
+[Block AB, String: 12B8-12BA]
+
+
+[Block AC, String: 12BA-12BC]
+
+
+[Block AD, String: 12BC-12BE]
+
+
+[Block AE, String: 12BE-12C0]
+
+
+[Block AF, String: 12C0-12C2]
+
+
+[Block B0, String: 12C2-12C4]
+
+
+[Block B1, String: 12C4-12C6]
+
+
+[Block B2, String: 12C6-12C8]
+
+
+[Block B3, String: 12C8-12CA]
+
+
+[Block B4, String: 12CA-12CC]
+
+
+[Block B5, String: 12CC-12CE]
+
+
+[Block B6, String: 12CE-12D0]
+
+
+[Block B7, String: 12D0-12D2]
+
+
+[Block B8, String: 12D2-12D4]
+
+
+[Block B9, String: 12D4-12D6]
+
+
+[Block BA, String: 12D6-12D8]
+
+
+[Block BB, String: 12D8-12DA]
+
+
+[Block BC, String: 12DA-12DC]
+
+
+[Block BD, String: 12DC-12DE]
+
+
+[Block BE, String: 12DE-12E0]
+
+
+[Block BF, String: 12E0-12E2]
+
+
+[Block C0, String: 12E2-12E4]
+
+
+[Block C1, String: 12E4-12E6]
+
+
+[Block C2, String: 12E6-12E8]
+
+
+[Block C3, String: 12E8-12EA]
+
+
+[Block C4, String: 12EA-12EC]
+
+
+[Block C5, String: 12EC-12EE]
+
+
+[Block C6, String: 12EE-12F0]
+
+
+[Block C7, String: 12F0-12F2]
+
+
+[Block C8, String: 12F2-12F4]
+
+
+[Block C9, String: 12F4-12F6]
+
+
+[Block CA, String: 12F6-12F8]
+
+
+[Block CB, String: 12F8-12FA]
+
+
+[Block CC, String: 12FA-12FC]
+
+
+[Block CD, String: 12FC-12FE]
+
+
+[Block CE, String: 12FE-1300]
+
+
+[Block CF, String: 1300-1302]
+
+
+[Block D0, String: 1302-1304]
+
+
+[Block D1, String: 1304-1306]
+
+
+[Block D2, String: 1306-1308]
+
+
+[Block D3, String: 1308-130A]
+
+
+[Block D4, String: 130A-130C]
+
+
+[Block D5, String: 130C-130E]
+
+
+[Block D6, String: 130E-1310]
+
+
+[Block D7, String: 1310-1312]
+
+
+[Block D8, String: 1312-1314]
+
+
+[Block D9, String: 1314-1316]
+
+
+[Block DA, String: 1316-1318]
+
+
+[Block DB, String: 1318-131A]
+
+
+[Block DC, String: 131A-1394]
+<NO_CHAR_SFX><0378 0000><CALL 01DD><WIN 5A00A0000C04>
+<DECOR 0008>
+<SEL 0031FD00>에너지 충전<LINE>
+<0391 1102FD00>저장한다<LINE>
+<SEL 2213FD00>정보를 원한다<LINE>
+<SEL 3320FD00>아무것도 아니다<LINE>
+<0399 80DFDEE4FF00><END><CLOSE 0000>
+
+
+[Block DD, String: 1394-13BA]
+<WIN 5A0030000C01>
+<DECOR 0008>
+「어떡할래～？<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block DE, String: 13BA-13D2]
+<EXE_JUMP 0806><EXE_JUMP 0900><EXE_JUMP 0A00><EXE_JUMP 0B00><0378 0100><0383>
+
+[Block DF, String: 13D2-1450]
+<CALL 01E3><03A3 FFE0E1E2>
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<LINE>
+<RESTORE_SP>특수무기 게이지가 가득 찼다<LINE>
+<RESTORE_SHIELD>라이프 실드가 고쳐졌다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E0, String: 1450-149E]
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<LINE>
+<RESTORE_SHIELD>라이프 실드가 고쳐졌다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E1, String: 149E-14F4]
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<LINE>
+<RESTORE_SP>특수무기 게이지가 가득 찼다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E2, String: 14F4-1524]
+<WIN 3C00A0001103>
+<DECOR 0008>
+<RESTORE_HP>라이프가 가득 찼다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00DC>
+
+[Block E3, String: 1524-152A]
+<CLOSE 0000>
+
+
+[Block E4, String: 152A-15B0]
+<NO_CHAR_SFX><0378 0000><CALL 01E5><WIN 5A00A0000C04>
+<DECOR 0008>
+<SEL 0031FD00>지금부터 어떻게 하지？<LINE>
+<SEL 1102FD00>락온에 대해서<LINE>
+<SEL 2213FD00>실드에 대해서<LINE>
+<SEL 3320FD00>아무것도 아니다<LINE>
+<0385 80E6E8EFDC00>
+<END><CLOSE 0000>
+
+
+[Block E5, String: 15B0-15D4]
+<WIN 5A0030000C01>
+<DECOR 0008>
+「뭔데～？<037B 0000>
+<END><CLOSE 0000>
+
+
+[Block E6, String: 15D4-1678]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「여기는 쥬인호라 불리는<LINE>
+　호수야<NEXT>
+
+<CLEAR 0400>
+　이 호수의 한 가운데에<LINE>
+　서브게이트가 있어<NEXT>
+
+<CLEAR 0400>
+　보트라면，서브게이트까지<LINE>
+　갈 수 있겠네<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block E7, String: 1678-167A]
+
+
+[Block E8, String: 167A-16F2]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「적의 공격도 거세지고 있어<NEXT>
+
+<CLEAR 0400>
+　적과 싸울 때，<LINE>
+　락온 기능은 쓰고있어？<CALL 01E9><037B 0100>
+<END><CLOSE 0000>
+
+
+[Block E9, String: 16F2-174A]
+<NO_CHAR_SFX><0378 0000><WIN 7800A0000702>
+<DECOR 0008>
+<SPACE 0600><SEL 0001FD00>쓰고있어<LINE>
+<SPACE 0600><SEL 1101FD00>아니<LINE>
+<0385 00FFFF00>
+<IF 000000EA><IF 010000EB><END><CLOSE 0000>
+
+
+[Block EA, String: 174A-1790]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「역시 록이야～<LINE>
+　나도 안심이야，안심<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block EB, String: 1790-19F2]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「에～～～！！！！<NEXT>
+
+<CLEAR 0400>
+　잘도 여기까지 왔네<LINE>
+　나 놀랐어<NEXT>
+
+<CLEAR 0400>
+　락온 기능이라는 건・・・<NEXT>
+
+<CLEAR 0400>
+<WIN 3A0024001103>
+<DECOR 0008>
+<COLOR 0400><SPACE 4200>～조작설명～<LINE>
+<COLOR 0000><SPACE 0900>Ｌ버튼을 누르며 Ｒ버튼을 누르면<LINE>
+<SPACE 0900>자동적으로 근처의 적을 조준한다<NEXT>
+
+<CLEAR 0400>
+<SPACE 0300>버튼을 계속 누르는 동안 적을 계속<LINE>
+<SPACE 0F00>노릴테니까，Ｌ버튼과 Ｒ버튼을<LINE>
+<SPACE 1200>누르면서 공격하면 편리할거야<NEXT>
+
+<CLEAR 0400>
+<SPACE 2D00>또한，옵션 설정에서<LINE>
+<SPACE 1800>락온을 자동으로 설정하면，<LINE>
+<SPACE 3F00>더더욱 편리！<NEXT>
+
+<CLEAR 0400>
+<SPACE 0C00>Ｌ버튼과 Ｒ버튼을 누르지않아도<LINE>
+<SPACE 0000>자동으로 가장 가까운 적을 겨냥해서<LINE>
+<SPACE 3600>공격할 수 있어！<NEXT>
+
+<CLEAR 0400>
+<WIN 400024001002>
+<DECOR 0008>
+「・・・라는데～<LINE>
+　알겠어～？<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block EC, String: 19F2-1A48]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「실드 기능에 대해서는<LINE>
+　알고 있을까～<CALL 01ED><037B 0100>
+<END><CLOSE 0000>
+
+
+[Block ED, String: 1A48-1A9E]
+<NO_CHAR_SFX><0378 0000><WIN 7800A0000702>
+<DECOR 0008>
+<SPACE 0600><SEL 0001FD00>알고 있다<LINE>
+<SPACE 0600><SEL 1101FD00>전혀<LINE>
+<0385 00FFFF00>
+<IF 000000EE><IF 010000EF><END><CLOSE 0000>
+
+
+[Block EE, String: 1A9E-1AD2]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 400024001002>
+<DECOR 0008>
+「그럼，괜찮아～<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block EF, String: 1AD2-1CAC]
+<CALL 01E3><CHAR_SFX><0378 0100><WIN 340024001203>
+<DECOR 0008>
+「실드는 적에게 받은 대미지를<LINE>
+　줄여주는 편리한 기능이야～<NEXT>
+
+<CLEAR 0400>
+　그래도 라이프 게이지가 빨갛게<LINE>
+　되었을 땐，실드가<LINE>
+　작동하지 않으니까 조심해～<NEXT>
+
+<CLEAR 0400>
+　실드는 조금 시간이 지나면<LINE>
+　자동으로 회복 돼～<NEXT>
+
+<CLEAR 0400>
+　하지만 강력한 공격을 받았을 때나，<LINE>
+　파손돼서 빨갛게 된다면，<LINE>
+　수리하지 않으면 안돼～<NEXT>
+
+<CLEAR 0400>
+<MSG_IF EB01E4FF>
+<MSG_IF 4005E4FF>
+　이게 수리용 아이템이야～<NEXT>
+
+<CLEAR 0400>
+<GET EB01><WIN 4000A0001002>
+<DECOR 0008>
+<037C 8600>
+실드 수리 아이템<LINE>
+<COLOR 0300><ITEM 4000><COLOR 0000><GET 4005>를 얻었다<NEXT>
+
+<CLEAR 0400>
+<JUMP 00E4>
+
+[Block F0, String: 1CAC-1CAE]
+
+
+[Block F1, String: 1CAE-1CB0]
+
+
+[Block F2, String: 1CB0-1CB2]
+
+
+[Block F3, String: 1CB2-1CB4]
+
+
+[Block F4, String: 1CB4-1CB6]
+
+
+[Block F5, String: 1CB6-1CB8]
+
+
+[Block F6, String: 1CB8-1CBA]
+
+
+[Block F7, String: 1CBA-1CBC]
+
+
+[Block F8, String: 1CBC-1CBE]
+
+
+[Block F9, String: 1CBE-1CC0]
+
+
+[Block FA, String: 1CC0-1D08]
+<NO_CHAR_SFX><0378 0000><WIN 0A00D6001801>
+　　　　　　　　　<COLOR 0500><TRIANGLE><COLOR 0000>버튼：저장 데이터 삭제
+

@@ -1,0 +1,1085 @@
+[Block 00, String: 0000-0002]
+
+
+[Block 01, String: 0002-0004]
+
+
+[Block 02, String: 0004-0006]
+
+
+[Block 03, String: 0006-00E8]
+<CAM 01005E010000000074FF>
+<WIN 340030001203>
+<DECOR 0008>
+<GET 0D02>「음，가방을 가진 분이요？<LINE>
+　오셨었는데요・・・<NEXT>
+
+<CLEAR 0400>
+　빵이 목에 걸렸는지，<LINE>
+　괴로운 듯한 얼굴로 나가셨어요<NEXT>
+
+<CLEAR 0400>
+　마실 것이라도<LINE>
+　찾으러 간 게 아닐까요？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 00E8-016C]
+<MSG_IF 0C0203FF>
+<CAM 0100DC000000140060FF>
+<WIN 5A002A000C03>
+<DECOR 0008>
+「여기는 도서관입니다…<NEXT>
+
+<CLEAR 0400>
+　서적을 사랑하는 마음은<LINE>
+　공적 따위로는<LINE>
+　꺾이지 않습니다…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 05, String: 016C-01A4]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「멋대로 들어오지 말라니까<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 01A4-01EE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「대피소에서 읽을<LINE>
+　책을 빌리러 왔어…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 01EE-0268]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기가 공적에게 파괴되면…<NEXT>
+
+<CLEAR 0400>
+　더 이상 책을 안 읽어도<LINE>
+　되겠구나…<NEXT>
+
+<CLEAR 0400>
+　우후후후후후…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 0268-02EA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「공적이 온다고 해서<LINE>
+　공적에 대해 조사하러 왔어…<NEXT>
+
+<CLEAR 0400>
+　알아보니까 공적은<LINE>
+　나쁜 무리 같더라고<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 09, String: 02EA-034C]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 도서관입니다<NEXT>
+
+<CLEAR 0400>
+　공적 소동이 잠잠해져서<LINE>
+　다시 개관했습니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0A, String: 034C-0386]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「그러니까 들어가지 말래도<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0B, String: 0386-0426]
+<WIN 4000A2001003>
+<DECOR 0008>
+「요리책을 보러 왔어<LINE>
+　나，가정적이지？<NEXT>
+
+<CLEAR 0400>
+　・・하지만，실은<LINE>
+　다이어트 책 보러 왔어<NEXT>
+
+<CLEAR 0400>
+　살 빼야돼！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0C, String: 0426-0480]
+<WIN 4000A2001003>
+<DECOR 0008>
+「도서관은 오기만 했을 뿐인데<LINE>
+　이미 공부한 것 같은<LINE>
+　기분이 드는 것 같아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 0480-04D2]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 도서관입니다<NEXT>
+
+<CLEAR 0400>
+　가능한 정숙해주세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 04D2-051A]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「그렇게나 말했는데，<LINE>
+　또 오는건가요・・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0F, String: 051A-0570]
+<WIN 4000A2001003>
+<DECOR 0008>
+「도서관은<LINE>
+　낮잠 자기에 딱 좋지 않나요<NEXT>
+
+<CLEAR 0400>
+　조용하니까・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0570-05CE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「화력의<LINE>
+　집중 사격<NEXT>
+
+<CLEAR 0400>
+　에 대한 책을 찾으러 왔어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 05CE-0628]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 도서관입니다<NEXT>
+
+<CLEAR 0400>
+　책의 대여 기간은<LINE>
+　꼭 지켜주세요！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 0628-0650]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「흐음・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 13, String: 0650-06C6]
+<WIN 4000A2001003>
+<DECOR 0008>
+「어딘가에<LINE>
+　주부의 지혜를 총망라한 책이<LINE>
+　없으려나・・<NEXT>
+
+<CLEAR 0400>
+　최근에 물건을 자주 깜빡해서<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 14, String: 06C6-071A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「만화，만화・・<NEXT>
+
+<CLEAR 0400>
+　치매 예방에는<LINE>
+　만화가 최고라네！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 071A-07C8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 섬에는 역사 책이<LINE>
+　거의 없습니다<NEXT>
+
+<CLEAR 0400>
+　그래서 우리들은<LINE>
+　옛 역사를 전혀<LINE>
+　모릅니다<NEXT>
+
+<CLEAR 0400>
+　・・다만，<LINE>
+　이대로 괜찮을지도 모르죠<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 07C8-083C]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이 섬에는<LINE>
+　여러 가지 기계가 있습니다만<LINE>
+　과연 누가 발명한걸까요？<NEXT>
+
+<CLEAR 0400>
+　뭐，아무래도 상관없나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 083C-08B8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「오，너냐・・<NEXT>
+
+<CLEAR 0400>
+　이 섬에 뭔가 나쁜 일이<LINE>
+　일어날 것만 같은 기분이 들어서<LINE>
+　조사를 하러 왔어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 08B8-091E]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 도서관입니다<NEXT>
+
+<CLEAR 0400>
+　도서는 모두의 것입니다<LINE>
+　소중히 다뤄주세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 19, String: 091E-0946]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「오호호・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1A, String: 0946-09F8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「지금 조사하고 있던 참인데<LINE>
+　이 섬에는…<NEXT>
+
+<CLEAR 0400>
+　서브게이트라고 부르는<LINE>
+　큰 유적 말고도…<NEXT>
+
+<CLEAR 0400>
+　메인게이트라 하는<LINE>
+　더 큰 유적이<LINE>
+　있는 것 같아<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1B, String: 09F8-0A6A]
+<WIN 4000A2001003>
+<DECOR 0008>
+「게임 공략집은<LINE>
+　없는건가・・<NEXT>
+
+<CLEAR 0400>
+　치매 방지에는<LINE>
+　게임도 효과적이라고！！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1C, String: 0A6A-0AFE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「메인게이트는<LINE>
+　무엇을 위해 있는 걸까요？<NEXT>
+
+<CLEAR 0400>
+　조금 조사하러 왔지만<LINE>
+　잘 모르겠네요<NEXT>
+
+<CLEAR 0400>
+　어쩔 수 없나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1D, String: 0AFE-0B00]
+
+
+[Block 1E, String: 0B00-0C10]
+<WIN 4000A2001003>
+<DECOR 0008>
+「도덕책이다<LINE>
+　어디 볼까…<NEXT>
+
+<CLEAR 0400>
+　사람의 품행이란<LINE>
+　모습에서도 드러납니다…<NEXT>
+
+<CLEAR 0400>
+　나쁜 일만 하는 사람은<LINE>
+　그 마음 뿐만 아니라<LINE>
+　모습조차도 빛을 잃고<NEXT>
+
+<CLEAR 0400>
+　차츰 까맣게<LINE>
+　변해갈 것 입니다…<NEXT>
+
+<CLEAR 0400>
+「…라고，적혀있다<LINE>
+　조심해야겠다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 0C10-0D66]
+<WIN 280030001403>
+<DECOR 0008>
+「앗　「디그아우터 입문」이다<LINE>
+　옛날에 읽었었지，어디…<LINE>
+　음…<NEXT>
+
+<CLEAR 0400>
+　무기의 파워업은<LINE>
+　반드시 해두자！<NEXT>
+
+<CLEAR 0400>
+　중요한 포인트는<LINE>
+　공격력，장탄수，사정거리，연사력 중<LINE>
+　어느 것을 강화할 지에 있다…<NEXT>
+
+<CLEAR 0400>
+　또한，특수 무기에 대해서인데<LINE>
+　어떠한 무기부터 강화를 할지<LINE>
+　잘 고려하는 것이 중요하다<NEXT>
+
+<CLEAR 0400>
+「라는군… 그렇단 말이지…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0D66-0EDC]
+<WIN 280030001403>
+<DECOR 0008>
+「캐틀옥스 섬에 대하여（상）<LINE>
+　…인가，어디 보자<NEXT>
+
+<CLEAR 0400>
+　무인도로 알려졌었던 이 섬은<LINE>
+　약 １００년 전에 발견되었습니다．<NEXT>
+
+<CLEAR 0400>
+　발견 당시는，파괴된 건물이<LINE>
+　늘어서 있던 황폐한<LINE>
+　섬이었으나…<NEXT>
+
+<CLEAR 0400>
+　６０년 전，지하에서<LINE>
+　우수한 디플렉터가 발견되어<LINE>
+　유명해졌습니다<NEXT>
+
+<CLEAR 0400>
+<0378 0000><SPACE 1200><SEL 0001FD00>계속 읽는다<LINE>
+<SPACE 1200><SEL 1101FD00>그만둔다<LINE>
+<0378 0100><0385 00313200>
+<END><CLOSE 0000>
+
+
+[Block 21, String: 0EDC-110E]
+<WIN 280030001403>
+<DECOR 0008>
+「캐틀옥스 섬에 대해서（하）<LINE>
+　…인가，어디 보자<NEXT>
+
+<CLEAR 0400>
+　그 후，섬을 조사한<LINE>
+　현 시장 아멜리아 박사에 의해…<NEXT>
+
+<CLEAR 0400>
+　지하에 존재하는 것이<LINE>
+　여러 서로 다른 시대의<LINE>
+　유적임을 확인했다<NEXT>
+
+<CLEAR 0400>
+　즉，이것은 이 섬의 주민들이<LINE>
+　몇 차례나 발전하고 멸망했음을<LINE>
+　가리키고 있으나…<NEXT>
+
+<CLEAR 0400>
+　거대한 재앙과의 연관성은<LINE>
+　현재로서는 불명이다<NEXT>
+
+<CLEAR 0400>
+　그러나，불길한 전설을 두려워하여<LINE>
+　섬을 떠나는 주민도 적지않으며…<NEXT>
+
+<CLEAR 0400>
+　최근에는 인구 유출로<LINE>
+　고민이 깊어지는 추세이다<NEXT>
+
+<CLEAR 0400>
+<0378 0000><SPACE 1200><SEL 0001FD00>계속 읽는다<LINE>
+<SPACE 1200><SEL 1101FD00>그만둔다<LINE>
+<0378 0100><0385 00333400>
+<END><CLOSE 0000>
+
+
+[Block 22, String: 110E-121E]
+<WIN 280030001403>
+<DECOR 0008>
+「앗，이건<LINE>
+　디그아우터 교본（중급）이다！<LINE>
+　어디…<NEXT>
+
+<CLEAR 0400>
+　적의 공격을 받으면<LINE>
+　비틀거리고 말지만…<NEXT>
+
+<CLEAR 0400>
+　이때 <COLOR 0500><CROSS><COLOR 0000>버튼을 누르면<LINE>
+　흘려넘기는 것이 가능합니다<NEXT>
+
+<CLEAR 0400>
+　쓰러질 것 같을 때 사용합시다<NEXT>
+
+<CLEAR 0400>
+「…그렇군<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 23, String: 121E-149E]
+<WIN 280030001403>
+<DECOR 0008>
+「이 책은…<LINE>
+　홀론 기관 동작 매뉴얼인가…<NEXT>
+
+<CLEAR 0400>
+　디플렉터를 원동력으로 삼는 기계를<LINE>
+　홀론 기관이라고 부르며…<NEXT>
+
+<CLEAR 0400>
+　오늘날은 다양하게 이용하고 있으나<LINE>
+　그 원리에 대해서는 현재도 완전히<LINE>
+　해명되지 않았습니다<NEXT>
+
+<CLEAR 0400>
+　디플렉터에서 에너지를<LINE>
+　추출하기 위해서는…<NEXT>
+
+<CLEAR 0400>
+　디플렉터를 회전시킬 때<LINE>
+　발생하는 에너지 필드를<LINE>
+　이용합니다<NEXT>
+
+<CLEAR 0400>
+　이때의 출력은 사용하는<LINE>
+　디플렉터의 크기와 색에 따라<LINE>
+　다르나…<NEXT>
+
+<CLEAR 0400>
+　환상이라고 불리는<LINE>
+　무지개 색의 디플렉터는<LINE>
+　최고 출력을 낼 수 있습니다<NEXT>
+
+<CLEAR 0400>
+「・<PAUSE 0800>・<PAUSE 0800>・음 어려워！<LINE>
+　롤이라면 이해하려나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 24, String: 149E-14CE]
+<WIN 4000A2001003>
+<DECOR 0008>
+「읽은 책은 원래 자리에！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 25, String: 14CE-1530]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 도서관입니다<NEXT>
+
+<CLEAR 0400>
+　책을 찢어서<LINE>
+　반출하면 안됩니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 26, String: 1530-1554]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「쳇…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 27, String: 1554-1594]
+<WIN 4000A2001003>
+<DECOR 0008>
+「햄버거 만드는 방법을<LINE>
+　조사하고 있었어・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 28, String: 1594-15E8]
+<WIN 4000A2001003>
+<DECOR 0008>
+「여러 일이 일어나더라도，<LINE>
+　좋은 책을 읽으면<LINE>
+　용기를 얻을 수 있어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 29, String: 15E8-16AA]
+<WIN 4000A2001003>
+<DECOR 0008>
+「역사 책에 록맨이라고<LINE>
+　부르는게 간간히 나오는데<LINE>
+　대체 뭘까요？<NEXT>
+
+<CLEAR 0400>
+　그러고보니，<LINE>
+　당신도 록… 씨네요<NEXT>
+
+<CLEAR 0400>
+　하지만，관계 없겠지… 아마도<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2A, String: 16AA-1704]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「여기는 도서관입니다<NEXT>
+
+<CLEAR 0400>
+　읽은 책은<LINE>
+　제자리에 돌려놔주세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2B, String: 1704-1736]
+<MSG_IF 0C0203FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「당신한테는 졌다 졌어<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2C, String: 1736-1770]
+<WIN 4000A2001003>
+<DECOR 0008>
+「포테이토 만드는 방법을<LINE>
+　조사하고 있어・・<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2D, String: 1770-17B2]
+<WIN 4000A2001003>
+<DECOR 0008>
+「이럴 때는，<LINE>
+　성서로 기도를 올려야겠네…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2E, String: 17B2-1824]
+<WIN 4000A2001003>
+<DECOR 0008>
+「엄청난 일이<LINE>
+　되어가고 있어요<NEXT>
+
+<CLEAR 0400>
+　여러 많은 자물쇠들이<LINE>
+　하나씩 풀리고 있어요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 2F, String: 1824-18FC]
+<WIN 4000A2001003>
+<DECOR 0008>
+「오오，록인가…<NEXT>
+
+<CLEAR 0400>
+　이 섬의 비보에 대해<LINE>
+　조사하고 있네만<LINE>
+　도무지 알 수가 없다네…<NEXT>
+
+<CLEAR 0400>
+　저기，아틸러리군도<LINE>
+　이 섬을 조사하고 있다더군…<NEXT>
+
+<CLEAR 0400>
+　여러모로 이야기를 좀 나눴다네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 30, String: 18FC-19A0]
+<WIN 4000A2001003>
+<DECOR 0008>
+「배럴 박사님과<LINE>
+　이야기를 나눴는데…<NEXT>
+
+<CLEAR 0400>
+　구시가지에 있는<LINE>
+　메인게이트라는 유적에…<NEXT>
+
+<CLEAR 0400>
+　무언가 중요한 비밀이<LINE>
+　있는 것 같아…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 31, String: 19A0-1B8C]
+<WIN 280030001403>
+<DECOR 0008>
+　디플렉터의 발견과 동시에<LINE>
+　섬의 전역을 덮을 수준의<LINE>
+　지하 유적이 존재함이 밝혀졌지만…<NEXT>
+
+<CLEAR 0400>
+　초기 조사대의 불운한 사고와<LINE>
+　섬에 얽힌 불길한 전설 때문에<LINE>
+　그 많은 유적들은 봉인되고 말았다．<NEXT>
+
+<CLEAR 0400>
+　따라서，현재 이 섬에서<LINE>
+　디그아웃을 허가 받은 것은<LINE>
+　일부 작은 유적들에 한정되어 있다<NEXT>
+
+<CLEAR 0400>
+　또한，이 섬의 전설은<LINE>
+　다음과 같다…<NEXT>
+
+<CLEAR 0400>
+　수백 년마다 지하에 잠들어 있던<LINE>
+　거대한 재앙이 눈을 뜨는 순간<LINE>
+　섬의 모든 인간은 멸망하리라…<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 32, String: 1B8C-1BC4]
+<WIN 4000A2001003>
+<DECOR 0008>
+　꾸벅…<NEXT>
+
+<CLEAR 0400>
+「휴우… 긴 책이네<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 33, String: 1BC4-1D24]
+<WIN 280030001403>
+<DECOR 0008>
+　또한，섬의 시가지를 에리어별로 나누는<LINE>
+　벽과 게이트는 고대 유적의 일부를<LINE>
+　이용한 것이지만…<NEXT>
+
+<CLEAR 0400>
+　현재에 이르러서도 그 기능은<LINE>
+　손상되지 않았다<NEXT>
+
+<CLEAR 0400>
+　이것은 서브게이트와<LINE>
+　메인게이트라 불리는 현존하는<LINE>
+　다른 유적들과 마찬가지인 고대문명이…<NEXT>
+
+<CLEAR 0400>
+　매우 고도로 발전해 있었음을<LINE>
+　현재까지 전달하는 의미도 된다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 34, String: 1D24-1D5C]
+<WIN 4000A2001003>
+<DECOR 0008>
+　탁…<NEXT>
+
+<CLEAR 0400>
+「후우… 긴 책이다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 35, String: 1D5C-1D5E]
+
+
+[Block 36, String: 1D5E-1D60]
+
+
+[Block 37, String: 1D60-1D62]
+
+
+[Block 38, String: 1D62-1D64]
+
+
+[Block 39, String: 1D64-1D66]
+
+
+[Block 3A, String: 1D66-1D68]
+
+
+[Block 3B, String: 1D68-1D6A]
+
+
+[Block 3C, String: 1D6A-1D6C]
+
+
+[Block 3D, String: 1D6C-1D6E]
+
+
+[Block 3E, String: 1D6E-1D70]
+
+
+[Block 3F, String: 1D70-1D72]
+
+
+[Block 40, String: 1D72-1D74]
+
+
+[Block 41, String: 1D74-1D76]
+
+
+[Block 42, String: 1D76-1D78]
+
+
+[Block 43, String: 1D78-1D7A]
+
+
+[Block 44, String: 1D7A-1D7C]
+
+
+[Block 45, String: 1D7C-1D7E]
+
+
+[Block 46, String: 1D7E-1D80]
+
+
+[Block 47, String: 1D80-1D82]
+
+
+[Block 48, String: 1D82-1D84]
+
+
+[Block 49, String: 1D84-1D86]
+
+
+[Block 4A, String: 1D86-1D88]
+
+
+[Block 4B, String: 1D88-1D8A]
+
+
+[Block 4C, String: 1D8A-1D8C]
+
+
+[Block 4D, String: 1D8C-1D8E]
+
+
+[Block 4E, String: 1D8E-1D90]
+
+
+[Block 4F, String: 1D90-1D92]
+
+
+[Block 50, String: 1D92-1D94]
+
+
+[Block 51, String: 1D94-1D96]
+
+
+[Block 52, String: 1D96-1D98]
+
+
+[Block 53, String: 1D98-1D9A]
+
+
+[Block 54, String: 1D9A-1D9C]
+
+
+[Block 55, String: 1D9C-1D9E]
+
+
+[Block 56, String: 1D9E-1DA0]
+
+
+[Block 57, String: 1DA0-1DA2]
+
+
+[Block 58, String: 1DA2-1DA4]
+
+
+[Block 59, String: 1DA4-1DA6]
+
+
+[Block 5A, String: 1DA6-1DA8]
+
+
+[Block 5B, String: 1DA8-1DAA]
+
+
+[Block 5C, String: 1DAA-1DAC]
+
+
+[Block 5D, String: 1DAC-1DAE]
+
+
+[Block 5E, String: 1DAE-1DB0]
+
+
+[Block 5F, String: 1DB0-1DB2]
+
+
+[Block 60, String: 1DB2-1DB4]
+
+
+[Block 61, String: 1DB4-1DB6]
+
+
+[Block 62, String: 1DB6-1DB8]
+
+
+[Block 63, String: 1DB8-1DBA]
+
+
+[Block 64, String: 1DBA-1DBC]
+
+
+[Block 65, String: 1DBC-1DBE]
+
+
+[Block 66, String: 1DBE-1DC0]
+
+
+[Block 67, String: 1DC0-1DC2]
+
+
+[Block 68, String: 1DC2-1DC4]
+
+
+[Block 69, String: 1DC4-1DC6]
+
+
+[Block 6A, String: 1DC6-1DC8]
+
+
+[Block 6B, String: 1DC8-1DCA]
+
+
+[Block 6C, String: 1DCA-1DCC]
+
+
+[Block 6D, String: 1DCC-1DCE]
+
+
+[Block 6E, String: 1DCE-1DD0]
+
+
+[Block 6F, String: 1DD0-1DD2]
+
+
+[Block 70, String: 1DD2-1DD4]
+
+
+[Block 71, String: 1DD4-1DD6]
+
+
+[Block 72, String: 1DD6-1DD8]
+
+
+[Block 73, String: 1DD8-1DDA]
+
+
+[Block 74, String: 1DDA-1DDC]
+
+
+[Block 75, String: 1DDC-1DDE]
+
+
+[Block 76, String: 1DDE-1DE0]
+
+
+[Block 77, String: 1DE0-1DE2]
+
+
+[Block 78, String: 1DE2-1DE4]
+
+
+[Block 79, String: 1DE4-1DE6]
+
+
+[Block 7A, String: 1DE6-1DE8]
+
+
+[Block 7B, String: 1DE8-1DEA]
+
+
+[Block 7C, String: 1DEA-1DEC]
+
+
+[Block 7D, String: 1DEC-1DEE]
+
+
+[Block 7E, String: 1DEE-1DF0]
+
+
+[Block 7F, String: 1DF0-1E42]
+<WIN 400024001003>
+<DECOR 0008>
+「트론 님으로 부터<LINE>
+　신호를 인식，<LINE>
+　개방 금지입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 80, String: 1E42-1E80]
+<WIN 400024001002>
+<DECOR 0008>
+「비상사태로 인해，<LINE>
+　게이트 봉쇄 중 입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 81, String: 1E80-1EBE]
+<WIN 400024001002>
+<DECOR 0008>
+「비상사태로 인해，<LINE>
+　게이트 봉쇄 중 입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 82, String: 1EBE-1EFC]
+<WIN 400024001002>
+<DECOR 0008>
+「비상사태로 인해，<LINE>
+　게이트 봉쇄 중 입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 83, String: 1EFC-1F40]
+<MSG_IF 06007FFF>
+<WIN 400024001002>
+<DECOR 0008>
+「비상사태로 인해，<LINE>
+　게이트 봉쇄 중 입니다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 84, String: 1F40-1F84]
+<MSG_IF 20067FFF>
+<WIN 400024001002>
+<DECOR 0008>
+「본 일가 이외에는<LINE>
+　통과하지 말 것！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 85, String: 1F84-1FAA]
+<WIN 400024001001>
+<DECOR 0008>
+「가로등이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 86, String: 1FAA-1FD4]
+<WIN 400024001001>
+<DECOR 0008>
+「소화전이 있다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 87, String: 1FD4-1FF4]
+<WIN 400024001001>
+<DECOR 0008>
+「벤치다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 88, String: 1FF4-2032]
+<WIN 400024001002>
+<DECOR 0008>
+「버스 정류장이다<LINE>
+　버스도 다니고 있구나<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 89, String: 2032-2052]
+<WIN 400024001001>
+<DECOR 0008>
+「우체통이다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 8A, String: 2052-2054]
+
+
+[Block 8B, String: 2054-2056]
+
+

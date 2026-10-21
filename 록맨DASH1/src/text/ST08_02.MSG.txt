@@ -1,0 +1,880 @@
+[Block 00, String: 0000-0108]
+<CAM 010038010000E8FF90FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+「기다리고 있었습니다<NEXT>
+
+<CLEAR 0400>
+　저희 간판 프로그램인<LINE>
+　「금지된 놀이」<LINE>
+　에 출연하시는 분이시죠<NEXT>
+
+<CLEAR 0400>
+　음，출연하시는 프로는 분명…<NEXT>
+
+<CLEAR 0400>
+<0378 0000><SEL 0001FD00>비스트 헌터<LINE>
+<SEL 1102FD00>벌룬 판타지<LINE>
+<SEL 2212FD00>출연하지 않습니다<LINE>
+<0378 0100><0385 000102FF>
+<END><CLOSE 0000>
+
+
+[Block 01, String: 0108-0144]
+<WIN 4000A2001003>
+<DECOR 0008>
+<GET 0406>그럼 제１스튜디오로<LINE>
+입장하세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 02, String: 0144-0180]
+<WIN 4000A2001003>
+<DECOR 0008>
+<GET 0506>그럼 제７스튜디오로<LINE>
+입장하세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 03, String: 0180-01FA]
+<MSG_IF 070604FF>
+<WIN 4000A2001003>
+<DECOR 0008>
+디렉터<LINE>
+「지금 레이스 프로그램을 하나<LINE>
+　만드려고 생각 중이야<NEXT>
+
+<CLEAR 0400>
+「달리기가 빠른 사람이 있었으면<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 04, String: 01FA-02CA]
+<WIN 4000A2001003>
+<DECOR 0008>
+디렉터<LINE>
+「오，너 달리기가 빠를 것 같네<NEXT>
+
+<CLEAR 0400>
+　우리 프로그램에 출연할<LINE>
+　생각은 없어？<NEXT>
+
+<CLEAR 0400>
+　도시에서 레이스를 하는건데，<LINE>
+　어때？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네　<SEL 0111FD00>아니오<0378 0100><0385 80050600>
+<END><CLOSE 0000>
+
+
+[Block 05, String: 02CA-0314]
+<WIN 4000A2001003>
+<DECOR 0008>
+<GET 0606>디렉터<LINE>
+「좋았어，<LINE>
+　그럼 바로 가자고！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 06, String: 0314-0366]
+<WIN 4000A2001003>
+<DECOR 0008>
+디렉터<LINE>
+「그런가，아쉬운데！<LINE>
+　생각이 바뀌면 다시 와줘！<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 07, String: 0366-03BA]
+<WIN 4000A2001003>
+<DECOR 0008>
+나도 아이돌이 되고 싶다<LINE>
+누군가 나를 스카우트해 주지<LINE>
+않을까？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 08, String: 03BA-03BC]
+
+
+[Block 09, String: 03BC-0422]
+<WIN 4000A2001003>
+<DECOR 0008>
+각 게임의 기록을 볼래？<NEXT>
+
+<CLEAR 0400>
+<WIN 6E00A0000801>
+<DECOR 0008>
+<0378 0000><SEL 0100FD00>네　<SEL 0111FD00>아니오<0385 800AFF00>
+<0378 0100><END><CLOSE 0000>
+
+
+[Block 0A, String: 0422-049C]
+<WIN 5A0074000C04>
+<DECOR 0008>
+<0378 0000><SEL 0001FD00>비스트 헌터<LINE>
+<SEL 1102FD00>벌룬 판타지<LINE>
+<SEL 2213FD00>레이스 게임<LINE>
+<SEL 3323FD00>그만둔다<LINE>
+<0378 0100><0385 800C0D0EFF00>
+<END><CLOSE 0000>
+
+
+[Block 0B, String: 049C-0500]
+<WIN 5A0074000C03>
+<DECOR 0008>
+<0378 0000><SEL 0001FD00>비스트 헌터<LINE>
+<SEL 1102FD00>벌룬 판타지<LINE>
+<SEL 2212FD00>그만둔다<LINE>
+<0378 0100><0385 800C0DFF>
+<END><CLOSE 0000>
+
+
+[Block 0C, String: 0500-05E0]
+<WIN 3A0074001105>
+<DECOR 0008>
+<0378 0000><SPACE 2A00><COLOR 0400>～비스트 헌터ー～<COLOR 0000><LINE>
+<LINE>
+<SPACE 1800>１ｓｔ　<03BB 0209>？：？？：？？ＨＩＴ　<EXE_JUMP 1A09><03BA 0000>　　　<LINE>
+<SPACE 1800>２ｎｄ　<03BB 020A>？：？？：？？ＨＩＴ　<EXE_JUMP 1A0A><03BA 0000>　　　<LINE>
+<SPACE 1800>３ｒｄ　<03BB 020B>？：？？：？？ＨＩＴ　<EXE_JUMP 1A0B><03BA 0000>　　　<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0D, String: 05E0-06B2]
+<WIN 3A0074001105>
+<DECOR 0008>
+<0378 0000><SPACE 1E00><COLOR 0400>～벌룬 판타지～<COLOR 0000><LINE>
+<LINE>
+<SPACE 0C00>１ｓｔ　<03BB 010C>？：？？：？？　<EXE_JUMP 1A0C><03BA 0000>　　　<LINE>
+<SPACE 0C00>２ｎｄ　<03BB 010D>？：？？：？？　<EXE_JUMP 1A0D><03BA 0000>　　　<LINE>
+<SPACE 0C00>３ｒｄ　<03BB 010E>？：？？：？？　<EXE_JUMP 1A0E><03BA 0000>　　　<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 0E, String: 06B2-074A]
+<WIN 5A0074000C05>
+<DECOR 0008>
+<0378 0000>　　　레이스 게임<LINE>
+　<SEL 0001FD00>직선 코스<LINE>
+　<SEL 1102FD00>좌회전 코스<LINE>
+　<SEL 2213FD00>테크니컬 코스<LINE>
+　<SEL 3323FD00>그만둔다<LINE>
+<0378 0100><0385 800F1011FF00>
+<END><CLOSE 0000>
+
+
+[Block 0F, String: 074A-0818]
+<WIN 3A0074001105>
+<DECOR 0008>
+<0378 0000><SPACE 2A00><COLOR 0400>～직선 코스～<COLOR 0000><LINE>
+<LINE>
+<SPACE 0C00>１ｓｔ　<03BB 0100>？：？？：？？　<EXE_JUMP 1A00><03BA 0000>　　　<LINE>
+<SPACE 0C00>２ｎｄ　<03BB 0101>？：？？：？？　<EXE_JUMP 1A01><03BA 0000>　　　<LINE>
+<SPACE 0C00>３ｒｄ　<03BB 0102>？：？？：？？　<EXE_JUMP 1A02><03BA 0000>　　　<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 10, String: 0818-08E8]
+<WIN 3A0074001105>
+<DECOR 0008>
+<0378 0000><SPACE 2400><COLOR 0400>～좌회전 코스～<COLOR 0000><LINE>
+<LINE>
+<SPACE 0C00>１ｓｔ　<03BB 0103>？：？？：？？　<EXE_JUMP 1A03><03BA 0000>　　　<LINE>
+<SPACE 0C00>２ｎｄ　<03BB 0104>？：？？：？？　<EXE_JUMP 1A04><03BA 0000>　　　<LINE>
+<SPACE 0C00>３ｒｄ　<03BB 0105>？：？？：？？　<EXE_JUMP 1A05><03BA 0000>　　　<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 11, String: 08E8-09B6]
+<WIN 3C0074001105>
+<DECOR 0008>
+<0378 0000><SPACE 2A00><COLOR 0400>～테크니컬 코스～<COLOR 0000><LINE>
+<LINE>
+<SPACE 0C00>１ｓｔ　<03BB 0106>？：？？：？？　<EXE_JUMP 1A06><03BA 0000>　　　<LINE>
+<SPACE 0C00>２ｎｄ　<03BB 0107>？：？？：？？　<EXE_JUMP 1A07><03BA 0000>　　　<LINE>
+<SPACE 0C00>３ｒｄ　<03BB 0108>？：？？：？？　<EXE_JUMP 1A08><03BA 0000>　　　<LINE>
+<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 12, String: 09B6-09B8]
+
+
+[Block 13, String: 09B8-09BA]
+
+
+[Block 14, String: 09BA-0A08]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「용건이 있으신 분은<LINE>
+　카운터로 먼저 와주세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 15, String: 0A08-0A56]
+<WIN 4000A2001003>
+<DECOR 0008>
+접수원<LINE>
+「용건이 있으신 분은<LINE>
+　카운터로 먼저 와주세요<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 16, String: 0A56-0A8C]
+<WIN 4000A2001003>
+<DECOR 0008>
+캐틀옥스의 마스코트일려나？<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 17, String: 0A8C-0AE8]
+<WIN 4000A2001003>
+<DECOR 0008>
+１개의 화면 위에<LINE>
+서로 다른 다양한 화면이 보인다<NEXT>
+
+<CLEAR 0400>
+엄청 거대한 모니터다<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 18, String: 0AE8-0AEA]
+
+
+[Block 19, String: 0AEA-0AEC]
+
+
+[Block 1A, String: 0AEC-0AEE]
+
+
+[Block 1B, String: 0AEE-0AF0]
+
+
+[Block 1C, String: 0AF0-0AF2]
+
+
+[Block 1D, String: 0AF2-0AF4]
+
+
+[Block 1E, String: 0AF4-0B38]
+<WIN 180024000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｄ<LINE>
+제한시간<LINE>
+　　３０：００<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 1F, String: 0B38-0B7C]
+<WIN 180024000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｃ<LINE>
+제한시간<LINE>
+　　２５：００<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 20, String: 0B7C-0BC0]
+<WIN 180024000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ｂ<LINE>
+제한시간<LINE>
+　　２０：００<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 21, String: 0BC0-0C04]
+<WIN 180024000703>
+<DECOR 0008>
+<0378 0000><COLOR 0200>랭크Ａ<LINE>
+제한시간<LINE>
+　　１６：００<NEXT>
+
+<END><CLOSE 0400>
+
+
+[Block 22, String: 0C04-0C06]
+
+
+[Block 23, String: 0C06-0C08]
+
+
+[Block 24, String: 0C08-0C0A]
+
+
+[Block 25, String: 0C0A-0C0C]
+
+
+[Block 26, String: 0C0C-0C0E]
+
+
+[Block 27, String: 0C0E-0C10]
+
+
+[Block 28, String: 0C10-0C12]
+
+
+[Block 29, String: 0C12-0C14]
+
+
+[Block 2A, String: 0C14-0C16]
+
+
+[Block 2B, String: 0C16-0C18]
+
+
+[Block 2C, String: 0C18-0C1A]
+
+
+[Block 2D, String: 0C1A-0C1C]
+
+
+[Block 2E, String: 0C1C-0C1E]
+
+
+[Block 2F, String: 0C1E-0C20]
+
+
+[Block 30, String: 0C20-0C22]
+
+
+[Block 31, String: 0C22-0C24]
+
+
+[Block 32, String: 0C24-0C26]
+
+
+[Block 33, String: 0C26-0C28]
+
+
+[Block 34, String: 0C28-0C2A]
+
+
+[Block 35, String: 0C2A-0C2C]
+
+
+[Block 36, String: 0C2C-0C2E]
+
+
+[Block 37, String: 0C2E-0C30]
+
+
+[Block 38, String: 0C30-0C32]
+
+
+[Block 39, String: 0C32-0C34]
+
+
+[Block 3A, String: 0C34-0C36]
+
+
+[Block 3B, String: 0C36-0C38]
+
+
+[Block 3C, String: 0C38-0C3A]
+
+
+[Block 3D, String: 0C3A-0C3C]
+
+
+[Block 3E, String: 0C3C-0C3E]
+
+
+[Block 3F, String: 0C3E-0C40]
+
+
+[Block 40, String: 0C40-0C42]
+
+
+[Block 41, String: 0C42-0C44]
+
+
+[Block 42, String: 0C44-0C46]
+
+
+[Block 43, String: 0C46-0C48]
+
+
+[Block 44, String: 0C48-0C4A]
+
+
+[Block 45, String: 0C4A-0C4C]
+
+
+[Block 46, String: 0C4C-0C4E]
+
+
+[Block 47, String: 0C4E-0C50]
+
+
+[Block 48, String: 0C50-0C52]
+
+
+[Block 49, String: 0C52-0C54]
+
+
+[Block 4A, String: 0C54-0C56]
+
+
+[Block 4B, String: 0C56-0C58]
+
+
+[Block 4C, String: 0C58-0C5A]
+
+
+[Block 4D, String: 0C5A-0C5C]
+
+
+[Block 4E, String: 0C5C-0C5E]
+
+
+[Block 4F, String: 0C5E-0C60]
+
+
+[Block 50, String: 0C60-0C62]
+
+
+[Block 51, String: 0C62-0C64]
+
+
+[Block 52, String: 0C64-0C66]
+
+
+[Block 53, String: 0C66-0C68]
+
+
+[Block 54, String: 0C68-0C6A]
+
+
+[Block 55, String: 0C6A-0C6C]
+
+
+[Block 56, String: 0C6C-0C6E]
+
+
+[Block 57, String: 0C6E-0C70]
+
+
+[Block 58, String: 0C70-0C72]
+
+
+[Block 59, String: 0C72-0C74]
+
+
+[Block 5A, String: 0C74-0C76]
+
+
+[Block 5B, String: 0C76-0C78]
+
+
+[Block 5C, String: 0C78-0C7A]
+
+
+[Block 5D, String: 0C7A-0C7C]
+
+
+[Block 5E, String: 0C7C-0C7E]
+
+
+[Block 5F, String: 0C7E-0C80]
+
+
+[Block 60, String: 0C80-0C82]
+
+
+[Block 61, String: 0C82-0C84]
+
+
+[Block 62, String: 0C84-0C86]
+
+
+[Block 63, String: 0C86-0C88]
+
+
+[Block 64, String: 0C88-0C8A]
+
+
+[Block 65, String: 0C8A-0C8C]
+
+
+[Block 66, String: 0C8C-0C8E]
+
+
+[Block 67, String: 0C8E-0C90]
+
+
+[Block 68, String: 0C90-0C92]
+
+
+[Block 69, String: 0C92-0C94]
+
+
+[Block 6A, String: 0C94-0C96]
+
+
+[Block 6B, String: 0C96-0C98]
+
+
+[Block 6C, String: 0C98-0C9A]
+
+
+[Block 6D, String: 0C9A-0C9C]
+
+
+[Block 6E, String: 0C9C-0C9E]
+
+
+[Block 6F, String: 0C9E-0CA0]
+
+
+[Block 70, String: 0CA0-0CA2]
+
+
+[Block 71, String: 0CA2-0CA4]
+
+
+[Block 72, String: 0CA4-0CA6]
+
+
+[Block 73, String: 0CA6-0CA8]
+
+
+[Block 74, String: 0CA8-0CAA]
+
+
+[Block 75, String: 0CAA-0CAC]
+
+
+[Block 76, String: 0CAC-0CAE]
+
+
+[Block 77, String: 0CAE-0CB0]
+
+
+[Block 78, String: 0CB0-0CB2]
+
+
+[Block 79, String: 0CB2-0CB4]
+
+
+[Block 7A, String: 0CB4-0CB6]
+
+
+[Block 7B, String: 0CB6-0CB8]
+
+
+[Block 7C, String: 0CB8-0CBA]
+
+
+[Block 7D, String: 0CBA-0CBC]
+
+
+[Block 7E, String: 0CBC-0CBE]
+
+
+[Block 7F, String: 0CBE-0CC0]
+
+
+[Block 80, String: 0CC0-0CC2]
+
+
+[Block 81, String: 0CC2-0CC4]
+
+
+[Block 82, String: 0CC4-0CC6]
+
+
+[Block 83, String: 0CC6-0CC8]
+
+
+[Block 84, String: 0CC8-0CCA]
+
+
+[Block 85, String: 0CCA-0CCC]
+
+
+[Block 86, String: 0CCC-0CCE]
+
+
+[Block 87, String: 0CCE-0CD0]
+
+
+[Block 88, String: 0CD0-0CD2]
+
+
+[Block 89, String: 0CD2-0CD4]
+
+
+[Block 8A, String: 0CD4-0CD6]
+
+
+[Block 8B, String: 0CD6-0CD8]
+
+
+[Block 8C, String: 0CD8-0CDA]
+
+
+[Block 8D, String: 0CDA-0CDC]
+
+
+[Block 8E, String: 0CDC-0CDE]
+
+
+[Block 8F, String: 0CDE-0CE0]
+
+
+[Block 90, String: 0CE0-0CE2]
+
+
+[Block 91, String: 0CE2-0CE4]
+
+
+[Block 92, String: 0CE4-0CE6]
+
+
+[Block 93, String: 0CE6-0CE8]
+
+
+[Block 94, String: 0CE8-0CEA]
+
+
+[Block 95, String: 0CEA-0CEC]
+
+
+[Block 96, String: 0CEC-0CEE]
+
+
+[Block 97, String: 0CEE-0CF0]
+
+
+[Block 98, String: 0CF0-0CF2]
+
+
+[Block 99, String: 0CF2-0CF4]
+
+
+[Block 9A, String: 0CF4-0CF6]
+
+
+[Block 9B, String: 0CF6-0CF8]
+
+
+[Block 9C, String: 0CF8-0CFA]
+
+
+[Block 9D, String: 0CFA-0CFC]
+
+
+[Block 9E, String: 0CFC-0CFE]
+
+
+[Block 9F, String: 0CFE-0D00]
+
+
+[Block A0, String: 0D00-0D02]
+
+
+[Block A1, String: 0D02-0D04]
+
+
+[Block A2, String: 0D04-0D06]
+
+
+[Block A3, String: 0D06-0D08]
+
+
+[Block A4, String: 0D08-0D0A]
+
+
+[Block A5, String: 0D0A-0D0C]
+
+
+[Block A6, String: 0D0C-0D0E]
+
+
+[Block A7, String: 0D0E-0D10]
+
+
+[Block A8, String: 0D10-0D12]
+
+
+[Block A9, String: 0D12-0D14]
+
+
+[Block AA, String: 0D14-0D16]
+
+
+[Block AB, String: 0D16-0D18]
+
+
+[Block AC, String: 0D18-0D1A]
+
+
+[Block AD, String: 0D1A-0D1C]
+
+
+[Block AE, String: 0D1C-0D1E]
+
+
+[Block AF, String: 0D1E-0D20]
+
+
+[Block B0, String: 0D20-0D22]
+
+
+[Block B1, String: 0D22-0D24]
+
+
+[Block B2, String: 0D24-0D26]
+
+
+[Block B3, String: 0D26-0D28]
+
+
+[Block B4, String: 0D28-0D2A]
+
+
+[Block B5, String: 0D2A-0D2C]
+
+
+[Block B6, String: 0D2C-0D2E]
+
+
+[Block B7, String: 0D2E-0D30]
+
+
+[Block B8, String: 0D30-0D32]
+
+
+[Block B9, String: 0D32-0D34]
+
+
+[Block BA, String: 0D34-0D36]
+
+
+[Block BB, String: 0D36-0D38]
+
+
+[Block BC, String: 0D38-0D3A]
+
+
+[Block BD, String: 0D3A-0D3C]
+
+
+[Block BE, String: 0D3C-0D3E]
+
+
+[Block BF, String: 0D3E-0D40]
+
+
+[Block C0, String: 0D40-0D42]
+
+
+[Block C1, String: 0D42-0D44]
+
+
+[Block C2, String: 0D44-0D46]
+
+
+[Block C3, String: 0D46-0D48]
+
+
+[Block C4, String: 0D48-0D4A]
+
+
+[Block C5, String: 0D4A-0D4C]
+
+
+[Block C6, String: 0D4C-0D4E]
+
+
+[Block C7, String: 0D4E-0D50]
+
+
+[Block C8, String: 0D50-0D52]
+
+
+[Block C9, String: 0D52-0D54]
+
+
+[Block CA, String: 0D54-0D56]
+
+
+[Block CB, String: 0D56-0D58]
+
+
+[Block CC, String: 0D58-0D5A]
+
+
+[Block CD, String: 0D5A-0D5C]
+
+
+[Block CE, String: 0D5C-0D5E]
+
+
+[Block CF, String: 0D5E-0D60]
+
+
+[Block D0, String: 0D60-0D62]
+
+
+[Block D1, String: 0D62-0D64]
+
+
+[Block D2, String: 0D64-0D66]
+
+
+[Block D3, String: 0D66-0D68]
+
+
+[Block D4, String: 0D68-0D6A]
+
+
+[Block D5, String: 0D6A-0D6C]
+
+
+[Block D6, String: 0D6C-0D6E]
+
+
+[Block D7, String: 0D6E-0D70]
+
+
+[Block D8, String: 0D70-0D72]
+
+
+[Block D9, String: 0D72-0D74]
+
+
+[Block DA, String: 0D74-0D76]
+
+
+[Block DB, String: 0D76-0D78]
+
+

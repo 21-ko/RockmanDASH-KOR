@@ -1,0 +1,675 @@
+[BLOCK: 0000]
+<FUNC 0100>
+<VWAIT 00>
+<POS 005E00B40C11>
+<FB05 0108>
+자물쇠가 걸려있다……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+지상으로 올라갈까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0100>
+<POS 006400AC0B12>
+<FB05 0108>
+１Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0100>
+<POS 006400AC0B12>
+<FB05 0108>
+２Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0100>
+<POS 006400AC0B12>
+<FB05 0108>
+３Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0100>
+<POS 006400AC0B12>
+<FB05 0108>
+４Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0006]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ１Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0007]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ２Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ３Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ４Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ５Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 000B]
+<FUNC 0100>
+<POS 005E00AC0C12>
+<FB05 0108>
+Ｂ６Ｆ로 이동할까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 030FFFFF>
+<END>
+
+[BLOCK: 000C]
+<FUNC 0000>
+<END>
+
+[BLOCK: 000D]
+<FUNC 0000>
+<END>
+
+[BLOCK: 000E]
+<FUNC 0100>
+<VWAIT 00>
+<POS 005E00B40C11>
+<FB05 0108>
+전원이 안 들어왔다……
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0000>
+<FB26 0702>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0200>
+<FB28 004311FF>
+<POS 004000A41113>
+<FB05 0108>
+여기는 시큐리티 시스템 Ａ입니다.<LINE>
+도어록을 해제하시겠습니까？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201020502>
+<FB11 0312FFFF>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0200>
+<POS 004000AC1112>
+<FB05 0108>
+여기는 시큐리티 시스템 Ａ입니다.<LINE>
+도어록은 이미 해제되었습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0300>
+<FB26 0043>
+<FB19 013E>
+<POS 005E00AC0C22>
+<FB05 0108>
+중앙 방 두 곳의<LINE>
+도어록을 해제했습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0100>
+<FB28 004414FF>
+<FB28 004515FF>
+<POS 004600AC1012>
+<FB05 0108>
+이 문은 시큐리티 시스템 Ｂ와<LINE>
+시큐리티 시스템 Ｃ로 잠겨있어.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0100>
+<POS 004C00AC0F12>
+<FB05 0108>
+이 문은 시큐리티 시스템 Ｃ로<LINE>
+잠겨있어.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0015]
+<FUNC 0100>
+<POS 004C00AC0F12>
+<FB05 0108>
+이 문은 시큐리티 시스템 Ｂ로<LINE>
+잠겨있어.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0016]
+<FUNC 0000>
+<FB28 006017FF>
+<POS 005E00A40C03>
+<FB05 0108>
+보안 시스템입니다.<LINE>
+맵 데이터를 받을까요？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201020502>
+<FB11 0318FFFF>
+<END>
+
+[BLOCK: 0017]
+<FUNC 0000>
+<POS 004C00AC0F02>
+<FB05 0108>
+보안 시스템입니다.<LINE>
+맵 데이터는 이미 받았습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0018]
+<FUNC 0200>
+<FB26 0060>
+<FB19 013E>
+<POS 004C00AC0F12>
+<FB05 0108>
+맵 데이터를 받아<LINE>
+이 유적의 전체 맵을 얻었다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0019]
+<FUNC 0100>
+<FB28 06811AFF>
+<POS 005200AC0E12>
+<FB05 0108>
+트론과 협력하시겠습니까？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 031BFFFF>
+<END>
+
+[BLOCK: 001A]
+<FUNC 0100>
+<POS 004C00AC0F12>
+<FB05 0108>
+다시 한번 협력하시겠습니까？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 031BFFFF>
+<END>
+
+[BLOCK: 001B]
+<FUNC 0000>
+<FB26 0681>
+<END>
+
+[BLOCK: 001C]
+<FUNC 0100>
+<POS 005800AC0D12>
+<FB05 0108>
+밖으로 나가시겠습니까？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 031DFFFF>
+<END>
+
+[BLOCK: 001D]
+<FUNC 0000>
+<FB26 0682>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0200>
+<FB28 00441FFF>
+<POS 004000A41113>
+<FB05 0108>
+여기는 시큐리티 시스템 Ｂ입니다.<LINE>
+도어록을 해제하시겠습니까？<LINE>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201020502>
+<FB11 0321FFFF>
+<END>
+
+[BLOCK: 001F]
+<FUNC 0600>
+<FB28 004520FF>
+<POS 002E00A41423>
+<FB05 0108>
+여기는 시큐리티 시스템 Ｂ입니다.<LINE>
+도어록을 해제하려면<LINE>
+시큐리티 시스템 Ｃ를 해제해야 합니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0020]
+<FUNC 0200>
+<POS 004000AC1112>
+<FB05 0108>
+여기는 시큐리티 시스템 Ｂ입니다.<LINE>
+도어록은 이미 해제되었습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0021]
+<FUNC 0700>
+<FB28 004522FF>
+<FB26 0044>
+<FB19 013E>
+<POS 002E00A41433>
+<FB05 0108>
+시큐리티 시스템 Ｂ를 해제했습니다.<LINE>
+도어록을 해제하려면<LINE>
+시큐리티 시스템 Ｃ를 해제해야 합니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0022]
+<FUNC 0300>
+<FB26 0044>
+<FB19 013E>
+<POS 004600AC1022>
+<FB05 0108>
+시큐리티 시스템 Ｂ를 해제하여<LINE>
+도어록을 해제했습니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0023]
+<FUNC 0000>
+<END>
+
+[BLOCK: 0024]
+<FUNC 0700>
+<VOICELOAD 0000800A>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 006400180B33>
+<FB05 0108>
+<VWAIT 03>
+록！ 잠깐만 기다려！<LINE>
+
+<WAIT 0014>
+저 문 이상해
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・<LINE>
+조사해 봐.
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0025]
+<FUNC 0700>
+<VOICELOAD 0000800B>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 004C00180F33>
+<FB05 0108>
+<VWAIT 03>
+어딘가에 있는 문 잠금이<LINE>
+풀렸나 봐
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・<LINE>
+
+<WAIT 001E>
+록, 어디가 열렸는지 알겠어？
+<FB1B>
+<NEXTPAGE 1E0700>
+<VOICELOAD 0000800C>
+맞다. 제어 패널에서 꺼낸<LINE>
+맵을 보면 잠긴 문도<LINE>
+표시되니까 확인해 봐.
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0026]
+<FUNC 0500>
+<FB28 004527FF>
+<VOICELOAD 0000800D>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 004000181123>
+<FB05 0108>
+<VWAIT 03>
+문이 열렸을 때와 비슷한 반응이<LINE>
+있었는데
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・<LINE>
+
+<WAIT 001E>
+아직 완전히 열리지는 않았나 봐.
+<NEXTPAGE 3C0500>
+제어 패널을 하나 더 조작해야<LINE>
+열리나 보네.<LINE>
+
+<WAIT 003C>
+다른 제어 패널을 찾아봐.
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0027]
+<FUNC 0300>
+<VOICELOAD 0000800E>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 004000201122>
+<FB05 0108>
+<VWAIT 03>
+문이 완전히 열렸나 봐！<LINE>
+
+<WAIT 002D>
+록, 어느 문이 열렸는지 알겠어？
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0028]
+<FUNC 0300>
+<VOICELOAD 0000800F>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 004C00180F23>
+<FB05 0108>
+<VWAIT 03>
+던전 안의 온도가<LINE>
+점점 내려가고 있어
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<NEXTPAGE 0A0300>
+특히 그 초거대 리버드가 있는<LINE>
+방 온도가 엄청나게<LINE>
+내려갔네
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<NEXTPAGE 0F0000>
+이건 무슨 의미일까？<LINE>
+
+<WAIT 001E>
+록, 알겠어？
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 0029]
+<FUNC 0300>
+<VOICELOAD 00008015>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 003400181323>
+<FB05 0108>
+<VWAIT 03>
+저쪽에 제어 패널<LINE>
+있지 않을까
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<NEXTPAGE 0A0300>
+저 근처에 제어할 수 있는 제어 패널이<LINE>
+있을 것 같거든
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・<LINE>
+
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 002A]
+<FUNC 0300>
+<VOICELOAD 00008021>
+<FB29 00>
+<FB30 01>
+<FB1D>
+<VWAIT 03>
+<POS 004600181023>
+<FB05 0108>
+<VWAIT 03>
+록！ 조심해.<LINE>
+
+<FB1B>
+<VOICELOAD 00008022>
+센서에 형체가 ２개 있어.<LINE>
+리버드는 아닌 것 같지만
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<WAIT 0008>
+・
+<FB1B>
+<WAIT 001E>
+<END>
+
+[BLOCK: 002B]
+<FUNC 7B00>
+<FB29 00>
+<FB1D>
+<VWAIT 00>
+<POS 001C00481767>
+<FB05 0108>
+<COLOR 02>
+<SPACE 18>
+바위를 떨어뜨려 용암의 흐름을 막아라！<LINE>
+
+<COLOR 00>
+가운데 있는 바위를 공격해 바위를 떨어뜨리자.<LINE>
+리버드로 충격을 주면, 효과적이다！<LINE>
+지금 핵심은 뛰어다니는 리버드를<LINE>
+공격해서 기절시키는 것！<LINE>
+트론과 본도 기절한 리버드를<LINE>
+발견하면, 잡아서 바위에 던질 거야！
+<ENDKEY>
+<FB0C>
+<VOICELOAD 0000FF00>
+<FB1B>
+<END>
+
+[BLOCK: 002C]
+<FUNC 0000>
+<END>
+
+[BLOCK: 002D]
+<FUNC 0100>
+<POS 005200B40E11>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+<ITEM_NAME 03AA>
+<INIT_COLOR>
+를 발견했다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002E]
+<FUNC 0100>
+<POS 003A00AC1212>
+<FB05 0108>
+<FB19 00EF>
+<COLOR 02>
+<ITEM_NAME 042F>
+<INIT_COLOR>
+를 발견했다
+<PAGEKEY>
+<NEXTPAGE 020100>
+그런데, 뭐라고 쓰여 있는 걸까…….<LINE>
+롤 쨩이라면 알아볼까？
+<ENDKEY>
+<FB31>
+<END>
+

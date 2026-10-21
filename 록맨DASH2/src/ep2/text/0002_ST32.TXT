@@ -1,0 +1,1972 @@
+[BLOCK: 0000]
+<FUNC 0100>
+<POS 006A00AA0A11>
+<FB05 0108>
+자물쇠가 걸려있다
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0001]
+<FUNC 0100>
+<POS 007000AC0912>
+<FB05 0108>
+퀴즈 특훈 학원의<LINE>
+상징인가 보다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0002]
+<FUNC 0300>
+<POS 004C00A70F22>
+<FB05 0108>
+유서 깊은 물건인 것 같다.<LINE>
+마음이 정화되는 느낌이 든다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0003]
+<FUNC 0100>
+<POS 005200A70E12>
+<FB05 0108>
+사람들 앞에서 칠판에 글을<LINE>
+쓰면 정말 떨린다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0004]
+<FUNC 0500>
+<POS 005E009F0C23>
+<FB05 0108>
+어려워 보이는 책이다.<LINE>
+평소에도 꾸준히 공부를<LINE>
+열심히 해야겠지.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0005]
+<FUNC 0100>
+<POS 006A00A70A12>
+<FB05 0108>
+다양한 분야의 책이<LINE>
+잔뜩 있다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0006]
+
+
+[BLOCK: 0007]
+<FUNC 0500>
+<POS 005E009F0C23>
+<FB05 0108>
+이것 덕분에 방 안은<LINE>
+상당히 따뜻하다.<LINE>
+얇은 옷만 입어도 된다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0008]
+<FUNC 0000>
+<VWAIT 00>
+<FB30 03>
+<POS 001800160601>
+<FB05 4308>
+문제
+<SPACE 1A>
+개
+<FB2B>
+<END>
+
+[BLOCK: 0009]
+<FUNC 0300>
+<VWAIT 00>
+<FB30 03>
+<POS 001800B41722>
+<FB05 4308>
+　<LINE>
+　
+<FB2B>
+<END>
+
+[BLOCK: 000A]
+<FUNC 0100>
+<FB2C 00>
+<FB15 0100000000000000D0004C>
+<FB2B>
+<FB33 81>
+<FB3F FFFF32>
+<FB28 01170CFF>
+<FB26 0117>
+<FB28 01000BFF>
+<FB28 01010BFF>
+<FB28 01640BFF>
+<POS 0028009F1523>
+<FB05 0108>
+이 마을을 해방해 주신 분이<LINE>
+당신이었군요.
+<PAGEKEY>
+<NEXTPAGE 020200>
+대단히 감사합니다.<LINE>
+꼭 보답하고 싶습니다만…….
+<PAGEKEY>
+<NEXTPAGE 020300>
+하지만, 그 전에 하나만 더<LINE>
+부탁드려도 될까요？
+<PAGEKEY>
+<NEXTPAGE 020300>
+전투 때문에 마을이 상당히 파괴되었네요.<LINE>
+가능하시다면 기부를 부탁할 수 있을까요.
+<PAGEKEY>
+<NEXTPAGE 020600>
+물론 맨입으로 해달라는 말은 아니에요.<LINE>
+보답으로 작은 선물을 드리겠어요.<LINE>
+단, 퀴즈를 풀어내신다면 말이죠.
+<PAGEKEY>
+<NEXTPAGE 020300>
+그럴 마음이 생기면<LINE>
+저희에게 알려주세요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 000B]
+<FUNC 0100>
+<POS 0034009F1323>
+<FB05 0108>
+이 마을을 해방해 주신 분이<LINE>
+당신이었군요.
+<PAGEKEY>
+<NEXTPAGE 020600>
+진심으로 감사드려요.<LINE>
+혹시 제가 내는<LINE>
+퀴즈를 풀어보실 생각은 없으신가요？
+<PAGEKEY>
+<NEXTPAGE 020300>
+참가료는 약간 받겠지만<LINE>
+전부 다 맞히시면 좋은 것을 드릴게요.
+<PAGEKEY>
+<NEXTPAGE 020300>
+그럴 마음이 생기면<LINE>
+저희에게 알려주세요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 000C]
+<FUNC 0300>
+<FB3F FFFF33>
+<FB28 011C23FF>
+<FB28 011B19FF>
+<FB28 011D0EFF>
+<FB28 01000FFF>
+<FB28 01010FFF>
+<FB28 01640FFF>
+<POS 0046009F1023>
+<FB05 0108>
+２００제니를 기부하면<LINE>
+문제 풀이에 도전할 수 있는데,<LINE>
+어떡할래？
+<PAGEKEY>
+<NEXTPAGE 020600>
+혹시 아직 자신이 없다면<LINE>
+여기 있는 내 제자를 상대로<LINE>
+실력을 쌓으면 되지 않을까？
+<PAGEKEY>
+<NEXTPAGE 020300>
+문제마다 난이도가 다르니까<LINE>
+자신의 실력에 맞게<LINE>
+연습해 봐.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 004000A71112>
+<FB05 0108>
+그럼, 바로 나에게 도전해 볼래？<LINE>
+
+<VWAIT 00>
+　　　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0205010A01>
+<FB11 03111212>
+<END>
+
+[BLOCK: 000D]
+<FUNC 0100>
+<POS 004C009F0F13>
+<FB05 0108>
+２００제니 내면 문제 풀이에<LINE>
+도전할 수 있는데 어떡할래？<LINE>
+
+<VWAIT 00>
+　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0203020802>
+<FB11 03111212>
+<END>
+
+[BLOCK: 000E]
+<FUNC 0100>
+<POS 003A009F1213>
+<FB05 0108>
+문제가 조금 어려웠나……？<LINE>
+그래도 힘내.<LINE>
+너라면 클리어 할 수 있어.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB0C>
+<POS 003400A71312>
+<FB05 0108>
+어때？ 한 번 더 도전해 보지 않을래？<LINE>
+
+<VWAIT 00>
+　　　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0205010A01>
+<FB11 03111212>
+<END>
+
+[BLOCK: 000F]
+<FUNC 0100>
+<POS 0040009F1133>
+<FB05 0108>
+너 퀴즈 특훈 받아 보지 않을래？
+<PAGEKEY>
+<NEXTPAGE 020700>
+지금이라면 참가료 １００제니로<LINE>
+특훈 받을 수 있어.<LINE>
+１０문제 맞히면 좋은 거 줄게.
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB0C>
+<POS 005800A70D02>
+<FB05 0108>
+그럼, 바로 도전해 볼래？<LINE>
+
+<VWAIT 00>
+　　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0204010901>
+<FB11 03131414>
+<END>
+
+[BLOCK: 0010]
+<FUNC 0000>
+<POS 0034009F1303>
+<FB05 0108>
+１００제니 내면 도전할 수 있는데<LINE>
+어떡할래？<LINE>
+
+<VWAIT 00>
+　　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0204020902>
+<FB11 03131414>
+<END>
+
+[BLOCK: 0011]
+<FUNC 0000>
+<FB42 00000000C8FF15>
+<FB37 01000000C8>
+<FB37 00FFFFFF38>
+<POS 007600AF0801>
+<FB05 0108>
+우훗, 잘해봐.
+<ENDKEY>
+<FB31>
+<FB26 0680>
+<FB26 0683>
+<FB2B>
+<END>
+
+[BLOCK: 0012]
+<FUNC 0100>
+<POS 004000AF1111>
+<FB05 0108>
+언제든지 기부를 기다리고 있어요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0013]
+<FUNC 0000>
+<FB42 0000000064FF15>
+<FB37 0100000064>
+<FB37 00FFFFFF9C>
+<POS 007600AF0801>
+<FB05 0108>
+우훗, 잘해봐.
+<ENDKEY>
+<FB31>
+<FB26 0680>
+<FB26 0683>
+<FB2B>
+<END>
+
+[BLOCK: 0014]
+<FUNC 0000>
+<POS 006400AF0B01>
+<FB05 0108>
+언제든지 도전해 봐.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0015]
+
+
+[BLOCK: 0016]
+
+
+[BLOCK: 0017]
+
+
+[BLOCK: 0018]
+<FUNC 0200>
+<POS 004600A71012>
+<FB05 0108>
+어머～ 미안해요.<LINE>
+기부액이 조금 부족해 보이네요.
+<PAGEKEY>
+<NEXTPAGE 020100>
+여유가 있으면 또<LINE>
+도전해 보지 않을래요？
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0019]
+<FUNC 0600>
+<FB3F FFFF40>
+<FB28 01181AFF>
+<FB26 0118>
+<POS 0052009F0E23>
+<FB05 0108>
+사실은 말이야～<LINE>
+아까 준 보물보다<LINE>
+더 좋은 물건이 있어.
+<PAGEKEY>
+<NEXTPAGE 020300>
+이 마을에 전해지는 것인데<LINE>
+실은 아무에게도 주고 싶지<LINE>
+않았거든～.
+<PAGEKEY>
+<NEXTPAGE 020400>
+당신이라면<LINE>
+줘도 되지 않을까～<LINE>
+하고 생각했어.
+<PAGEKEY>
+<NEXTPAGE 020200>
+２００００００제니에<LINE>
+팔 수도 있는데～.
+<PAGEKEY>
+<NEXTPAGE 020100>
+특별 문제 １００개를<LINE>
+클리어하면<LINE>
+넘겨줄 수도 있는데～.
+<PAGEKEY>
+<NEXTPAGE 020600>
+<FB0C>
+<POS 005800920D24>
+<FB05 0108>
+어떡할래？<LINE>
+
+<VWAIT 00>
+<SEL 00>
+１００문제에 도전한다<LINE>
+
+<SEL 01>
+돈을 낸다<LINE>
+
+<SEL 02>
+그만둔다
+<FB39 03000100020003>
+<FB11 041B1C1F1F>
+<END>
+
+[BLOCK: 001A]
+<FUNC 0500>
+<POS 003A009F1223>
+<FB05 0108>
+특별 문제 １００개를 클리어하거나<LINE>
+２００００００제니를 내면<LINE>
+마을의 보물을 넘겨줄 수도 있는데
+<PAGEKEY>
+<NEXTPAGE 020600>
+<FB0C>
+<POS 005800920D24>
+<FB05 0108>
+어떡할래？<LINE>
+
+<VWAIT 00>
+<SEL 00>
+１００문제에 도전한다<LINE>
+
+<SEL 01>
+돈을 낸다<LINE>
+
+<SEL 02>
+그만둔다
+<FB39 03000100020003>
+<FB11 041B1C1F1F>
+<END>
+
+[BLOCK: 001B]
+<FUNC 0300>
+<POS 004000A71122>
+<FB05 0108>
+역시 남자라면 그렇게 나와야지～.<LINE>
+퀴즈 １００개 도전할 거지～.
+<PAGEKEY>
+<NEXTPAGE 020100>
+１문제라도 틀리면 꽝이니까～<LINE>
+열심히 해봐～.
+<ENDKEY>
+<FB31>
+<FB26 0680>
+<FB26 0684>
+<FB2B>
+<END>
+
+[BLOCK: 001C]
+<FUNC 0200>
+<FB42 00001E8480FF1D>
+<POS 0034009F1323>
+<FB05 0108>
+정말로～ ２００００００제니나<LINE>
+기부해 줄 거야～？
+<PAGEKEY>
+<NEXTPAGE 020300>
+으음～, 마을에 전해지는 보물일 뿐～<LINE>
+어디에 쓰는 물건인지는 모르는데～.
+<PAGEKEY>
+<NEXTPAGE 020600>
+그래도 괜찮다면<LINE>
+부디 기부해 줘～.<LINE>
+
+<VWAIT 00>
+　　
+<SEL 00>
+기부한다　
+<SEL 01>
+역시 그만둔다
+<FB39 0202020802>
+<FB11 031E1F1F>
+<END>
+
+[BLOCK: 001D]
+<FUNC 0200>
+<POS 0064009F0B23>
+<FB05 0108>
+어머～<LINE>
+돈이 모자라나 봐～.
+<PAGEKEY>
+<NEXTPAGE 020300>
+돈 다 모으면<LINE>
+또 와줄래？<LINE>
+미안해.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 001E]
+<FUNC 0400>
+<FB37 01001E8480>
+<FB37 00FFE17B80>
+<POS 003A009F1223>
+<FB05 0108>
+고마워～.<LINE>
+그럼, 여기～～～.<LINE>
+이 마을에 전해지는 보물～.
+<PAGEKEY>
+<NEXTPAGE 020300>
+먼 옛날, 우리 마을을 구한 용사가<LINE>
+썼다는 무기라고 하더라～.
+<PAGEKEY>
+<NEXTPAGE 020100>
+전혀 그렇게 안 보이지만 말이야～.
+<PAGEKEY>
+<NEXTPAGE 020300>
+기부한 돈은<LINE>
+소중하게 쓸게～.<LINE>
+고마워～～～.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB19 00EF>
+록은 
+<COLOR 02>
+<ITEM_NAME 042B>
+<FB26 042B>
+<INIT_COLOR>
+을<LINE>
+손에 넣었다.
+<ENDKEY>
+<FB31>
+<FB26 011C>
+<FB27 0115>
+<FB27 0116>
+<FB2C 01>
+<END>
+
+[BLOCK: 001F]
+<FUNC 0300>
+<POS 005200A70E22>
+<FB05 0108>
+１００문제 다 풀면<LINE>
+마을의 보물을 그냥 줄게～.
+<PAGEKEY>
+<NEXTPAGE 020000>
+다음에 또<LINE>
+도전해 봐～.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0020]
+
+
+[BLOCK: 0021]
+
+
+[BLOCK: 0022]
+<FUNC 0000>
+<POS 0046009F1013>
+<FB05 0108>
+또 도전할래～？
+<PAGEKEY>
+<NEXTPAGE 020200>
+조금 어렵기는 하겠지만～<LINE>
+포기하지 말고 반복해서 도전해<LINE>
+보도록 해～.
+<PAGEKEY>
+<NEXTPAGE 020200>
+<FB0C>
+<POS 004C00920F14>
+<FB05 0108>
+자～, 어떡할래～？<LINE>
+
+<VWAIT 00>
+<SEL 00>
+문제 풀이에 도전한다<LINE>
+
+<SEL 01>
+２００００００제니를 낸다<LINE>
+
+<SEL 02>
+포기한다
+<FB39 03000100020003>
+<FB11 041B1C1F1F>
+<END>
+
+[BLOCK: 0023]
+<FUNC 0300>
+<POS 005E009F0C23>
+<FB05 0108>
+너 진짜 재능이<LINE>
+있구나～.
+<PAGEKEY>
+<NEXTPAGE 020500>
+이제 줄 것은 없지만～<LINE>
+혹시 관심 있으면<LINE>
+특훈 더 해볼래～？
+<PAGEKEY>
+<NEXTPAGE 020200>
+어떡할래～？<LINE>
+
+<VWAIT 00>
+<SEL 00>
+문제 풀이에 도전한다<LINE>
+
+<SEL 01>
+그만둔다
+<FB39 0200010002>
+<FB11 03242525>
+<END>
+
+[BLOCK: 0024]
+<FUNC 0000>
+<POS 006A00AF0A01>
+<FB05 0108>
+그럼, 시작할게～.
+<ENDKEY>
+<FB31>
+<FB26 0680>
+<FB26 0684>
+<FB2B>
+<END>
+
+[BLOCK: 0025]
+
+
+[BLOCK: 0026]
+
+
+[BLOCK: 0027]
+<FUNC 0300>
+<POS 006A009F0A23>
+<FB05 0108>
+다음에는 꼭<LINE>
+１００문제 퀴즈에<LINE>
+도전해 봐～.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0028]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+５０문제까지 클리어했네～<LINE>
+아직 갈 길이 머니까～ 힘내～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0029]
+<FUNC 0100>
+<POS 001600B41812>
+<FB05 0308>
+대단해～ ８０문제 맞혔어～.
+<PAGEKEY>
+<NEXTPAGE 020100>
+그래도 아직 ２０문제 남았으니까 긴장 풀지 마.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002A]
+<FUNC 0100>
+<POS 001800B41722>
+<FB05 0308>
+드디어 ９０문제 클리어～.
+<PAGEKEY>
+<NEXTPAGE 020300>
+이제 １０문제 남았네～.<LINE>
+신중하게 풀어～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002B]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+９９문제 정답～.
+<PAGEKEY>
+<NEXTPAGE 020000>
+지금 잠시～ 깊～게<LINE>
+숨을 들이마셔 봐～.
+<PAGEKEY>
+<NEXTPAGE 020000>
+진정됐니～.
+<PAGEKEY>
+<NEXTPAGE 020100>
+그럼～ 나머지 １문제～.<LINE>
+힘내～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002C]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+정답～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002D]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+으음～ 유감이야～.<LINE>
+또 도전해 봐～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002E]
+<FUNC 0000>
+<POS 001800B41702>
+<FB05 0308>
+아～～～ 아깝다～～～！
+<PAGEKEY>
+<NEXTPAGE 020000>
+정말～ 아깝네～.
+<PAGEKEY>
+<NEXTPAGE 020000>
+좌절하지 말고～ 또 도전해 봐～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 002F]
+<FUNC 0000>
+<FB28 011C30FF>
+<FB26 011C>
+<FB27 0115>
+<FB27 0116>
+<POS 001800B41722>
+<FB05 0308>
+축하해～～～！！
+<PAGEKEY>
+<NEXTPAGE 020300>
+설마 전부 다 맞히는 사람이 있을 줄이야～.<LINE>
+생각도 못했어～.
+<PAGEKEY>
+<NEXTPAGE 020100>
+그럼～ 마을의 보물～ 
+<COLOR 02>
+<ITEM_NAME 042B>
+<INIT_COLOR>
+을<LINE>
+드려요～.
+<PAGEKEY>
+<NEXTPAGE 020300>
+<FB19 00EF>
+록은 
+<COLOR 02>
+<ITEM_NAME 042B>
+<FB26 042B>
+<INIT_COLOR>
+을<LINE>
+손에 넣었다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0030]
+
+
+[BLOCK: 0031]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+모든 문제 클리어～.
+<PAGEKEY>
+<NEXTPAGE 020000>
+대단하네～.
+<PAGEKEY>
+<NEXTPAGE 020000>
+내가 퀴즈 퀸이라면<LINE>
+너는 퀴즈 킹이겠구나～.
+<PAGEKEY>
+<NEXTPAGE 020200>
+앞으로도 열심히 공부해서<LINE>
+지식을 쌓도록 해～.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 0032]
+<FUNC 0100>
+<FB28 011733FF>
+<POS 0040009F1133>
+<FB05 0108>
+마을을 구해주셔서<LINE>
+정말 고맙습니다.
+<PAGEKEY>
+<NEXTPAGE 020700>
+마을을 구해주신 분이 어떤 분인지<LINE>
+꼭 뵙기를<LINE>
+고대하고 있었습니다만…….
+<PAGEKEY>
+<NEXTPAGE 020300>
+설마 이런 분이셨을 줄이야…….<LINE>
+아쉽습니다.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0033]
+
+
+[BLOCK: 0034]
+
+
+[BLOCK: 0035]
+
+
+[BLOCK: 0036]
+
+
+[BLOCK: 0037]
+
+
+[BLOCK: 0038]
+
+
+[BLOCK: 0039]
+
+
+[BLOCK: 003A]
+
+
+[BLOCK: 003B]
+<FUNC 0100>
+<POS 003400A71322>
+<FB05 0108>
+어머～ 어디서 또 공적이 쳐들어왔나<LINE>
+싶었더니 너였니～.
+<PAGEKEY>
+<NEXTPAGE 020300>
+미안하지만～ 촌장으로서 너 같은<LINE>
+사람을 마을에 들이고 싶지 않거든～.
+<PAGEKEY>
+<NEXTPAGE 020200>
+미안해～.<LINE>
+지금 당장 나가주지 않을래～.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 003C]
+<FUNC 0300>
+<FB2C 00>
+<FB15 0100000000000000D0004C>
+<FB2B>
+<FB33 81>
+<FB28 01173DFF>
+<FB3F FFFF46>
+<POS 004000A71122>
+<FB05 0108>
+먼저 촌장님과 말씀을 나눠주세요.<LINE>
+인사를 하고 싶다고 말씀하시네요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 003D]
+<FUNC 0700>
+<FB3F FFFF47>
+<FB28 011F43FF>
+<FB28 011C41FF>
+<FB28 01163EFF>
+<FB26 0116>
+<POS 002E009F1433>
+<FB05 0108>
+저는 촌장님의 첫 번째 제자입니다.<LINE>
+제 퀴즈 특훈을 견뎌낼 수 있다면<LINE>
+촌장님께 도전해도 되겠죠.
+<PAGEKEY>
+<NEXTPAGE 020100>
+저라도 괜찮으시다면 특훈을<LINE>
+시켜드리겠습니다만, 어떡하시겠습니까？<LINE>
+
+<VWAIT 00>
+　　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0204020902>
+<FB11 033F4040>
+<END>
+
+[BLOCK: 003E]
+<FUNC 0100>
+<POS 002E009F1413>
+<FB05 0108>
+저라도 괜찮으시다면 특훈을<LINE>
+시켜드리겠습니다만, 어떡하시겠습니까？<LINE>
+
+<VWAIT 00>
+　　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0204020902>
+<FB11 033F4040>
+<END>
+
+[BLOCK: 003F]
+<FUNC 0000>
+<POS 005E00AF0C01>
+<FB05 0108>
+그럼, 시작하겠습니다.
+<ENDKEY>
+<FB31>
+<FB26 0680>
+<FB26 0682>
+<FB2B>
+<END>
+
+[BLOCK: 0040]
+<FUNC 0000>
+<POS 004C00A70F02>
+<FB05 0108>
+언제든 준비하고 있겠습니다.<LINE>
+또 방문해 주십시오.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0041]
+<FUNC 0100>
+<FB28 011642FF>
+<FB26 0116>
+<POS 0040009F1133>
+<FB05 0108>
+촌장님의 문제를 전부 다 푸셨다니<LINE>
+정말 대단하시군요！
+<PAGEKEY>
+<NEXTPAGE 020700>
+만약 저라도 괜찮으시다면<LINE>
+퀴즈 특훈 도움을<LINE>
+드릴 수 있는데요…….
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB0C>
+<POS 006A00A70A02>
+<FB05 0108>
+어떠세요？<LINE>
+
+<VWAIT 00>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 033F4040>
+<END>
+
+[BLOCK: 0042]
+<FUNC 0100>
+<POS 004C009F0F13>
+<FB05 0108>
+부디 퀴즈 특훈을 도울 수 있게<LINE>
+해주셨으면 해요.<LINE>
+
+<VWAIT 00>
+　　　　　　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0206020A02>
+<FB11 033F4040>
+<END>
+
+[BLOCK: 0043]
+
+
+[BLOCK: 0044]
+
+
+[BLOCK: 0045]
+<FUNC 0300>
+<POS 0040009F1123>
+<FB05 0108>
+보상은 이제 없지만, 퀴즈 특훈을<LINE>
+도와드려도 될까요？<LINE>
+
+<VWAIT 00>
+　　　　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0206020B02>
+<FB11 033F4040>
+<END>
+
+[BLOCK: 0046]
+<FUNC 0200>
+<POS 006A009F0A13>
+<FB05 0108>
+저기……<LINE>
+이 마을을 구해주신<LINE>
+……분 맞으시죠.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0047]
+
+
+[BLOCK: 0048]
+
+
+[BLOCK: 0049]
+
+
+[BLOCK: 004A]
+
+
+[BLOCK: 004B]
+
+
+[BLOCK: 004C]
+
+
+[BLOCK: 004D]
+
+
+[BLOCK: 004E]
+
+
+[BLOCK: 004F]
+<FUNC 0300>
+<POS 004C00A70F22>
+<FB05 0108>
+잠깐 못 본 사이에……<LINE>
+어딘가 인상이 나빠지셨군요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0050]
+<FUNC 0300>
+<FB2C 00>
+<FB15 0100000000000000D0002C>
+<FB2B>
+<FB33 81>
+<FB3F FFFF5A>
+<FB28 011751FF>
+<POS 004600A71022>
+<FB05 0108>
+마을을 구해 주셔서 감사드려요.<LINE>
+여기는 퀴즈 특훈 학원이에요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0051]
+<FUNC 0300>
+<FB3F FFFF5A>
+<FB28 011E57FF>
+<FB28 011C55FF>
+<FB28 011552FF>
+<FB26 0115>
+<POS 003A00A71222>
+<FB05 0108>
+촌장님께 도전하기 전에<LINE>
+제가 특훈해 드릴게요.
+<PAGEKEY>
+<NEXTPAGE 020100>
+만약 제 특훈을 클리어할 수 있다면<LINE>
+선물을 드릴게요.
+<PAGEKEY>
+<NEXTPAGE 020000>
+도전하실래요？<LINE>
+
+<VWAIT 00>
+　　　　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0206010B01>
+<FB11 03535454>
+<END>
+
+[BLOCK: 0052]
+<FUNC 0100>
+<POS 005E009F0C13>
+<FB05 0108>
+제가 특훈해 드릴게요.<LINE>
+하실래요？<LINE>
+
+<VWAIT 00>
+　　　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0203020702>
+<FB11 03535454>
+<END>
+
+[BLOCK: 0053]
+<FUNC 0000>
+<POS 007000AF0901>
+<FB05 0108>
+문제 드릴게요.
+<ENDKEY>
+<FB31>
+<FB26 0680>
+<FB26 0681>
+<FB2B>
+<END>
+
+[BLOCK: 0054]
+<FUNC 0000>
+<POS 006400AF0B01>
+<FB05 0108>
+언제든지 도전하세요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0055]
+<FUNC 0300>
+<FB28 011556FF>
+<FB26 0115>
+<POS 004C009F0F23>
+<FB05 0108>
+촌장님이 내는 문제를<LINE>
+전부 다 풀다니, 대단하네요！
+<PAGEKEY>
+<NEXTPAGE 020100>
+하지만, 제가 내는 문제도<LINE>
+상당히 어려울 거예요.
+<PAGEKEY>
+<NEXTPAGE 020100>
+만약 제 특훈을<LINE>
+클리어할 수 있다면<LINE>
+선물을 드릴게요.
+<PAGEKEY>
+<NEXTPAGE 020000>
+<FB0C>
+<POS 007000A70902>
+<FB05 0108>
+도전하실래요？<LINE>
+
+<VWAIT 00>
+　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0201010501>
+<FB11 03535454>
+<END>
+
+[BLOCK: 0056]
+<FUNC 0100>
+<POS 004600A71012>
+<FB05 0108>
+인간은 영원히 특훈할 뿐이에요.<LINE>
+
+<VWAIT 00>
+　　　　
+<SEL 00>
+응　　　
+<SEL 01>
+아니
+<FB39 0204010901>
+<FB11 03535454>
+<END>
+
+[BLOCK: 0057]
+
+
+[BLOCK: 0058]
+
+
+[BLOCK: 0059]
+<FUNC 0200>
+<VWAIT 00>
+<POS 005E009F0C13>
+<FB05 0108>
+이제 선물은 없지만<LINE>
+특훈은 받을 수 있어요.<LINE>
+　　　
+<SEL 00>
+응　　
+<SEL 01>
+아니
+<FB39 0203020702>
+<FB11 03535454>
+<END>
+
+[BLOCK: 005A]
+
+
+[BLOCK: 005B]
+
+
+[BLOCK: 005C]
+
+
+[BLOCK: 005D]
+
+
+[BLOCK: 005E]
+
+
+[BLOCK: 005F]
+
+
+[BLOCK: 0060]
+
+
+[BLOCK: 0061]
+
+
+[BLOCK: 0062]
+
+
+[BLOCK: 0063]
+
+
+[BLOCK: 0064]
+
+
+[BLOCK: 0065]
+
+
+[BLOCK: 0066]
+
+
+[BLOCK: 0067]
+
+
+[BLOCK: 0068]
+
+
+[BLOCK: 0069]
+
+
+[BLOCK: 006A]
+
+
+[BLOCK: 006B]
+
+
+[BLOCK: 006C]
+
+
+[BLOCK: 006D]
+
+
+[BLOCK: 006E]
+
+
+[BLOCK: 006F]
+
+
+[BLOCK: 0070]
+
+
+[BLOCK: 0071]
+
+
+[BLOCK: 0072]
+<FUNC 0000>
+<POS 002E00AF1411>
+<FB05 0108>
+……사악한 오라가 느껴지네요.
+<PAGEKEY>
+<NEXTPAGE 020100>
+이런 사람과는 이야기하고 싶지 않아요.
+<ENDKEY>
+<FB31>
+<FB2C 01>
+<END>
+
+[BLOCK: 0073]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0074]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0075]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0076]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0077]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0078]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0079]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 007A]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 007B]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 007C]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 007D]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 007E]
+
+
+[BLOCK: 007F]
+
+
+[BLOCK: 0080]
+
+
+[BLOCK: 0081]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각되는 답을 골라주십시오.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0082]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0083]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0084]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0085]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0086]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0087]
+<FUNC 0100>맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0088]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0089]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 008A]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 008B]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 008C]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 008D]
+
+
+[BLOCK: 008E]
+
+
+[BLOCK: 008F]
+
+
+[BLOCK: 0090]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하시는 답을 골라주세요.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0091]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0092]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0093]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0094]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0095]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0096]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0097]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0098]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 0099]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 009A]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 009B]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 009C]
+
+
+[BLOCK: 009D]
+
+
+[BLOCK: 009E]
+
+
+[BLOCK: 009F]
+<FUNC 0100>
+<VWAIT 01>
+<POS 001800B41712>
+<FB05 0308>
+맞다고 생각하는 답을 골라줘～.
+<ENDKEY>
+<FB31>
+<FB2B>
+<END>
+
+[BLOCK: 00A0]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+마지막 １문제야～！ 힘내.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00A1]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+정답～！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00A2]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+아까워～ 아쉽게 됐네.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00A3]
+<FUNC 0200>
+<POS 001800B41712>
+<FB05 0308>
+아까～압.<LINE>
+딱 １문제 남았는데～.
+<PAGEKEY>
+<NEXTPAGE 020100>
+그래도 다음엔 해낼 거야.<LINE>
+또 도전해.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00A4]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+다 정답이야！
+<PAGEKEY>
+<NEXTPAGE 020000>
+<COLOR 02>
+<ITEM_NAME 0446>
+<INIT_COLOR>
+와 
+<COLOR 02>
+<ITEM_NAME 03AD>
+<INIT_COLOR>
+를<LINE>
+줄게！ 축하해～.
+<PAGEKEY>
+<NEXTPAGE 020200>
+<FB19 00EF>
+록은 
+<COLOR 02>
+<ITEM_NAME 0446>
+<FB26 0446>
+<INIT_COLOR>
+와<LINE>
+
+<COLOR 02>
+<ITEM_NAME 03AD>
+<FB26 03AD>
+<INIT_COLOR>
+를 손에 넣었다！
+<ENDKEY>
+<FB31>
+<FB26 011B>
+<END>
+
+[BLOCK: 00A5]
+
+
+[BLOCK: 00A6]
+
+
+[BLOCK: 00A7]
+
+
+[BLOCK: 00A8]
+
+
+[BLOCK: 00A9]
+<FUNC 0000>
+<END>
+
+[BLOCK: 00AA]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+마지막, １문제에요.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00AB]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+정답이에요！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00AC]
+<FUNC 0000>
+<POS 001800B41702>
+<FB05 0308>
+또 도전해 주세요.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00AD]
+<FUNC 0200>
+<POS 001800B41712>
+<FB05 0308>
+아까워요.<LINE>
+딱 １문제 남았는데…….
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00AE]
+<FUNC 0000>
+<POS 001800B41712>
+<FB05 0308>
+대단하세요.
+<PAGEKEY>
+<NEXTPAGE 020100>
+당신의 두뇌라면<LINE>
+퀴즈 킹도 될 수 있을 거예요.
+<PAGEKEY>
+<NEXTPAGE 020100>
+그러면, 이것은 상품인 
+<COLOR 02>
+<FB3D>
+<INIT_COLOR>
+예요<LINE>
+또 도전해 주세요！
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB19 00EF>
+록은 
+<COLOR 02>
+<FB3D>
+<INIT_COLOR>
+를 손에 넣었다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00AF]
+
+
+[BLOCK: 00B0]
+
+
+[BLOCK: 00B1]
+
+
+[BLOCK: 00B2]
+
+
+[BLOCK: 00B3]
+<FUNC 0000>
+<POS 001800B41702>
+<FB05 0308>
+몇 번이든, 도전해 주시길 바라와요.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00B4]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+이제, １문제 남았답니다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00B5]
+<FUNC 0000>
+<POS 001800B41702>
+<FB05 0308>
+큭, 저, 정답…
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00B6]
+<FUNC 0100>
+<POS 001800B41712>
+<FB05 0308>
+크크크크, 아쉬웠사와요.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00B7]
+<FUNC 0200>
+<POS 001800B41712>
+<FB05 0308>
+푸푸푸푸푸풉<LINE>
+아쉽게도 오답이랍니다！
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00B8]
+<FUNC 0000>
+<POS 001800B41712>
+<FB05 0308>
+으, 으극……<LINE>
+저, 전부, 정답이랍니다.
+<PAGEKEY>
+<NEXTPAGE 020100>
+할 수 없이, 
+<COLOR 02>
+<FB3D>
+<INIT_COLOR>
+을(를)<LINE>
+드리겠어요
+<PAGEKEY>
+<NEXTPAGE 020000>
+다음에도 도전하시길 바라요.<LINE>
+그 때는 지지 않는답니다.
+<PAGEKEY>
+<NEXTPAGE 020100>
+<FB19 00EF>
+록은, 
+<COLOR 02>
+<FB3D>
+<INIT_COLOR>
+을(를) 손에 넣었다.
+<ENDKEY>
+<FB31>
+<END>
+
+[BLOCK: 00B9]
+<FUNC 0000>
+<POS 001800B41702>
+<FB05 0308>
+몇 번이든, 도전해 주시길 바라와요.
+<ENDKEY>
+<FB31>
+<END>
+
